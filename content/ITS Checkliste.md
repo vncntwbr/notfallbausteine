@@ -20,7 +20,7 @@
 - [ ] **Rhythmus:** nfSR?
 - [ ] **MAP:** 65-85 oder Ziel
 - [ ] **Katecholamine** 
-- [ ] **Volumenstatus**
+- [ ] **Volumenstatus/TTE**
 - [ ] **Antikoagulation:** keine/prophylaktisch/therapeutisch
 - [ ] **ECMO:** BF, GF? Drücke? Harlekin? periph. Perfusion?
 
