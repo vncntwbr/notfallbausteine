@@ -1,31 +1,48 @@
-- Name: 
-- Zimmer: 
-- Hauptdiagnose: 
-- Liegetag: 
-- PFK: 
-- Tagesziel: 
+- [ ] Name / Zimmer / LT / PFK
+- [ ] Hauptdiagnose
+- [ ] Tagesziel
+- [ ] PFK gesprochen
+
 ## 🧠 Neuro
-- [ ] Analgesie
-- [ ] Sedierung
-- [ ] RASS -1 bis 0 / SAT
-- [ ] Delir (CAM-ICU)
+- [ ] **Analgesie:** BPS <6
+- [ ] **Sedierung:** RASS -1 bis 0 / SAT
+- [ ] **Delir:** CAM-ICU
 
 ## 🫁 Beatmung
-- [ ] Beatmungstag _ _ → TK?
-- [ ] Modus? Parameter protektiv (VT 6 ml/kg, Pmax <35)
-- [ ] BGA: Oxygenierung? Decarboxylierung?
-- [ ] Radiologie
-- [ ] OK-Hochlagerung
-- [ ] SBT
-- [ ] Weaning
+- [ ] **BGA:** Oxygenierung? Decarboxylierung?
+- [ ] **Modus/Parameter**
+- [ ] **Spontanisierung/Weaning**
+- [ ] **Protektiv:** OK-Hochlagerung, VT 6 ml/kg, Pmax <35
+- [ ] **Beatmungstag:** TK? Bronchoskopie?
+- [ ] **Radiologie**
 
 ## 🫀 Kreislauf
-- [ ] EKG nfSR
-- [ ] MAP 65-85
-- [ ] Katecholamine:
-- [ ] RUSH: 
-- [ ] Antikoagulation
+- [ ] **Rhythmus:** nfSR?
+- [ ] **MAP:** 65-85 oder Ziel
+- [ ] **Katecholamine** 
+- [ ] **Volumenstatus**
+- [ ] **Antikoagulation:** keine/prophylaktisch/therapeutisch
+- [ ] **ECMO:** BF, GF? Drücke? Harlekin? periph. Perfusion?
 
 ## 🫘 Niere
-- [ ] Bilanzziel (_ _ _ _ ) erreicht
-- [ ] AKI? DANI?
+- [ ] **Bilanzziel:** ±? E/A? erreicht?
+- [ ] **AKI:** prä/intra/post? DANI?
+- [ ] **Dialyse:** BF, DF, UF? Clotting? Citratakkumulation?
+
+## 💩 Abdomen
+- [ ] **Ernährung:** kcal-Ziel? erreicht?
+- [ ] **Stuhlgang:** abgeführt? DG?
+
+## 🦠 Infekt
+- [ ] **IFP:** Fieber? CRP/PCT/Leukos?
+- [ ] **Keim:** Mibi? Fokus?
+- [ ] **ABx:** indiziert? Tag? resistenzgerecht?
+- [ ] **Drainagen:** indiziert? <3d?
+- [ ] **Katheter:** indiziert?
+
+## 🧭 Sonstiges
+- [ ] **Labor:** gesichtet, angeordnet
+- [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? Monitoring?
+- [ ] **Mobilisation:** PT, AT
+- [ ] **Soziales:** Patientenwille? Angehörige? Betreuung?
+- [ ] **Doku:** Verlauf, SAPS-II/TISS, SOFA, ICD-10, Brief
