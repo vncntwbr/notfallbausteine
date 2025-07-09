@@ -9,7 +9,7 @@
 - [ ] **Delir:** CAM-ICU
 
 ## 🫁 Beatmung
-- [ ] **BGA:** Oxygenierung? Decarboxylierung?
+- [ ] **[[BGA]]:** Oxygenierung? Decarboxylierung?
 - [ ] **Modus/Parameter**
 - [ ] **Spontanisierung/Weaning**
 - [ ] **Protektiv:** OK-Hochlagerung, VT 6 ml/kg, Pmax <35
