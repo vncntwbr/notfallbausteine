@@ -1,3 +1,8 @@
+---
+tags:
+  - tx
+---
+
 - [ ] Name / Zimmer / LT / PFK
 - [ ] Hauptdiagnose
 - [ ] Tagesziel
