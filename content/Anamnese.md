@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - basics
 ---
 ## Textbaustein
 Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER.

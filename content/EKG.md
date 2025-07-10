@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - basics
 ---
 
 - [[VT]]

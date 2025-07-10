@@ -1,3 +1,8 @@
+---
+tags:
+  - tx
+---
+
 ## Arterie
 Anlage Arterieller Katheter 20G komplikationslos nach unauffälligem Allen-Test in Seldinger-Technik unter Lokalanästhesie via A. radialis links.
 

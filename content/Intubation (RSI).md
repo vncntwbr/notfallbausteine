@@ -1,2 +1,7 @@
+---
+tags:
+  - tx
+---
+
 ## Textbaustein
 RSI: Kontinuierliches Monitoring und sorgfältige Präoxygenierung mit NIV + ApnoeOx. Einleitung mit 200 mg ROCuronium und 100 mg esKETAmin. Komplikationslose, atraumatische endotracheale Intubation bei CL I°, POGO 100% primär mit VL (Mac 3) und Bougie. Verifikation Tubuslage mit Auskultation (sgl. ventiliert) und kont. pos. etCO2. Fixierung bei 22 cm MW, Cuffdruck 30 mbar. SpO2 durchgehend >90%. Zur Vermeidung anästhesiebedingter Hypotonie präemptiv Noradrenalin 0000 μg titriert bzw. bis 0000 μg/kg/min.

@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 ## Textbaustein
 A: Atemweg frei, spricht ohne Stridor.
 B: Eupnoe (AF 0000/min), Atemmechanik unauffällig. Normoxie (SpO2 0000% unter RL). VAG bds. ohne NG.

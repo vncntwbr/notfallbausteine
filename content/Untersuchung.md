@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - basics
 ---
 ## Textbaustein
 ALLG: Guter AZ, normaler EZ (). Wach, freundlich zugewandt. Normotherm (0000 °C).

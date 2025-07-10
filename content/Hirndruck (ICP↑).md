@@ -1,3 +1,8 @@
+---
+tags:
+  - sy
+---
+
 >[!rapid-reference]
 > 1. **Abfluss:** OK-Hoch 30°, kein Stifneck
 > 2. **Milde Hypervent.** AF 20/min, pCO2 ≈30 mmHg

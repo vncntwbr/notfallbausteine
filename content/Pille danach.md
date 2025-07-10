@@ -1,3 +1,8 @@
+---
+tags:
+  - tx
+---
+
 - **Indikation:** Unverhütet Sex vor <5d + Zyklustag <15
 - **KI:** Asthma↑, Leber, CYP3A4-Indukt.
 - **Optionen (rezeptfrei)**
