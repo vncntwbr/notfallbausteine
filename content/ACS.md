@@ -4,7 +4,7 @@ tags:
 ---
 - **EKG**
 	- *Klassischer STEMI:* STE ≥1 mm in ≥2 benachbarten Abltg., außer:
-		- V2-V3 ♂︎ <40 J. ≥2.5 mm, ♂︎ ≥40 J. ≥2 mm, ♀ ≥1.5 mm
+		- V2-V3 M <40 J. ≥2.5 mm, M ≥40 J. ≥2 mm, W ≥1.5 mm
 		- V7-V9 od. V3R-V5R ≥0,5 mm
 	- *Nonsign. STE + reziproke STD*
 	- *Hyperakutes T*
