@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx/halo
+  - halo
 ---
 > [!rapid-reference]
 > 1. **Fremdkörperaspiration?** Esmarch, Thoraxkompressionen, VL + Magill-Zange, FK durch Intubation in einen Hauptbronchus vorschieben, BSK falls sofort verfügbar

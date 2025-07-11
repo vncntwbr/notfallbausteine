@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics
+  - halo
 ---
 
 ## Ten Second Triage

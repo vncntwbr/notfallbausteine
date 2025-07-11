@@ -1,6 +1,8 @@
 ---
 tags:
   - basics
+aliases:
+  - A
 ---
 ## Textbaustein
 Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER.

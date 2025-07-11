@@ -3,17 +3,17 @@ tags:
   - basics
 ---
 
-- [ ] Name / Zimmer / LT / PFK
+- [ ] Name / Alter / Geschlecht / Zimmer / LT
 - [ ] Hauptdiagnose
 - [ ] Tagesziel
 - [ ] PFK gesprochen
 
-## 🧠 Neuro
+## Neuro
 - [ ] **Analgesie:** BPS <6
 - [ ] **Sedierung:** RASS -1 bis 0 / SAT
 - [ ] **Delir:** CAM-ICU
 
-## 🫁 Beatmung
+## Beatmung
 - [ ] **[[BGA]]:** Oxygenierung? Decarboxylierung?
 - [ ] **Modus/Parameter**
 - [ ] **Spontanisierung/Weaning**
@@ -21,7 +21,7 @@ tags:
 - [ ] **Beatmungstag:** TK? Bronchoskopie?
 - [ ] **Radiologie**
 
-## 🫀 Kreislauf
+## Kreislauf
 - [ ] **Rhythmus:** nfSR?
 - [ ] **MAP:** 65-85 oder Ziel
 - [ ] **Katecholamine** 
@@ -29,23 +29,23 @@ tags:
 - [ ] **Antikoagulation:** keine/prophylaktisch/therapeutisch
 - [ ] **ECMO:** BF, GF? Drücke? Harlekin? periph. Perfusion?
 
-## 🫘 Niere
+## Niere
 - [ ] **Bilanzziel:** ±? E/A? erreicht?
 - [ ] **AKI:** prä/intra/post? DANI?
 - [ ] **Dialyse:** BF, DF, UF? Clotting? Citratakkumulation?
 
-## 💩 Abdomen
+## Abdomen
 - [ ] **Ernährung:** kcal-Ziel? erreicht?
 - [ ] **Stuhlgang:** abgeführt? DG?
 
-## 🦠 Infekt
+## Infekt
 - [ ] **IFP:** Fieber? CRP/PCT/Leukos?
 - [ ] **Keim:** Mibi? Fokus?
 - [ ] **ABx:** indiziert? Tag? resistenzgerecht?
 - [ ] **Drainagen:** indiziert? <3d?
 - [ ] **Katheter:** indiziert?
 
-## 🧭 Sonstiges
+## Sonstiges
 - [ ] **Labor:** gesichtet, angeordnet
 - [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? Monitoring?
 - [ ] **Mobilisation:** PT, AT

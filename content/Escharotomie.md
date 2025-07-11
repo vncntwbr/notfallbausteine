@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx/halo
+  - halo
 ---
 > [!rapid-reference]
 > 
