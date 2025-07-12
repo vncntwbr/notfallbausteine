@@ -2,7 +2,7 @@
 tags:
   - halo
 ---
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. **Fremdkörperaspiration?** Esmarch, Thoraxkompressionen, VL + Magill-Zange, FK durch Intubation in einen Hauptbronchus vorschieben, BSK falls sofort verfügbar
 > 2. **Material:** Skalpell, Bougie, 2 Retraktoren, Absaugung, Stirnlampe o.ä., cuffed ET entspr. Größe
 > 3. **Mittellinie** markieren (Nase zu Sternum)

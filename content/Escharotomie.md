@@ -2,7 +2,7 @@
 tags:
   - halo
 ---
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 
 > 1. **Indikation:** A/B unmöglich bei schwerst. zirkulärer Verbrennung Thorax
 > 2. **Vorbereitung:** Tiefe Narkose, sterile Vorbereitung

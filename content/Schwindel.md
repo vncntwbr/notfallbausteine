@@ -8,7 +8,7 @@ tags:
 > - Meningitis
 > - Kleinhirninfarkt
 
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. **Internistische Ursache?** VP, [[EKG]], [[Anamnese|A]]+[[Untersuchung|U]], [[BGA]]
 > 2. **Neurologisches Defizit?** V.a. Stroke
 > 3. **Anhaltend (AVS)?** Akutes Vestibularsyndrom → HINTS zur DD Neuritis vestibularis vs. zentral

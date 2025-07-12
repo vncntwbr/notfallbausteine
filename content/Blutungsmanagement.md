@@ -3,7 +3,7 @@ tags:
   - tx
 ---
 
-> [!rapid-reference] 
+> [!danger] Rapid Reference
 > 1. **Blutungskontrolle**
 > 2. **Basics:** Hilfe, Monitoring, Wärmeerhalt, O2, Zugänge (16G, i.o., Shaldon)
 > 3. **Labor:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]

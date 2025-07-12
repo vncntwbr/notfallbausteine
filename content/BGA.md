@@ -3,7 +3,7 @@ tags:
   - basics
 ---
 
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. **Umrechnen V→A:** pH +0.03, pCO2 –5 mmHg
 > 2. **Azid./Alkal.:** HCO3- 22-26 mmol/l, SBE proport. zu metab. Schwere
 > 3. **Adäquate Kompensation**

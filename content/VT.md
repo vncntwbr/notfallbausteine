@@ -3,7 +3,7 @@ tags:
   - dx
 ---
 
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > - **VT pos** (im Zweifel immer)
 > 	- aVR pos
 > 	- R-to-Peak >50 ms in II

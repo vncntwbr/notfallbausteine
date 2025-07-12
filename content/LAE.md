@@ -2,7 +2,7 @@
 tags:
   - dx
 ---
->[!rapid-reference]
+>[!danger] Rapid Reference
 > 1. **O2** (pulmonale Vasodilatation)
 > 2. **(Nor-)Adrenalin** primär, VEL zurückhalten
 > 3. **Nitroglycerin** 5 mg vernebeln

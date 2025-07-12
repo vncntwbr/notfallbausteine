@@ -12,6 +12,8 @@ Willkommen!
 	- x/kg nur als Reference
 - Ausklappbare Callouts zum Lernen nutzen
 
+
+
 ## Basics 
 ```dataview
 LIST FROM #basics SORT file.name ASC
@@ -32,3 +34,11 @@ LIST FROM #sy SORT file.name ASC
 ```dataview
 LIST FROM #dx SORT file.name ASC
 ```
+
+## Textbausteine
+> [!danger] Rapid Reference
+> 1. **Heading:** Do this
+
+
+> [!note]- Textbaustein
+> Text

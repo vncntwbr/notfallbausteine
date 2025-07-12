@@ -3,7 +3,7 @@ tags:
   - dx
 ---
 
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. **Dynamisch/Kritisches A-Problem?** Nasal-Fiberoptik KOBI in eFONA-Bereitschaft
 > 2. **Unklar od. V.a. Histamin-vermittelt?** wie [[Anaphylaxie]]
 > 3. TXA 1 g i.v.

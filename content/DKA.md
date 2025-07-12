@@ -3,7 +3,7 @@ tags:
   - dx
 ---
 
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. VEL
 > 2. **Maximale Ventilation:** [[NIV]], physiologisch schwieriger AW
 > 3. **Kalium-Substitution** & **Insulin**
