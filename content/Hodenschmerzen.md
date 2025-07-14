@@ -1,0 +1,20 @@
+---
+tags:
+  - sy
+---
+- **[[Anamnese|A]]:** (S) Algurie, Pollakisurie, Strangurie, Ausfluss, Infekt, (M) Immunsupp., (P) erstmalig?, DM, Kryptorchismus, (E) körperliche/sexuelle Aktivität?, (R) Mumps Impfung?, Sexualanamnese, STI RF
+- **[[Untersuchung|U]]:** Inspektion+Palpation, Cremasterreflex, Harnröhrenabstrich bei V.a. [[STI]]
+	- *Prehn-Zeichen:* Hoden anheben, Schmerzabnahme? pos: Epididymitis, neg: Hodentorsion ^516c4b
+- **POCUS:** Perfusion (PPW+, aber kein Ausschluss)? Skrotalabszess? Restharn?
+- **DD**
+	- Hodentorsion
+	- Varikozele (li>re)
+	- Epididymitis
+	- Hyatidentorsion (blue-dot-sign Oberpol)
+	- Orchitis
+	- traumat. Hämatozele
+	- Hodentumor (Schmerz durch Einblutung/Infarkt)
+	- Mumps
+	- Fournier-Gangrän
+	- Distale Urolithiasis
+	- Inkarzerierte Skrotalhernie

@@ -5,7 +5,7 @@ tags:
 
 > [!danger] Rapid Reference
 > 1. **Blutungskontrolle**
-> 2. **Basics:** Hilfe, Monitoring, Wärmeerhalt, O2, Zugänge (16G, i.o., Shaldon)
+> 2. **Basics:** Hilfe, Monitoring, Wärmeerhalt, O2, Zugänge (16G, i.o., Shaldon), Arterie
 > 3. **Labor:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]
 > 4. **Ungekreuzte [[Transfusion]]:** 0 Rh+ (nur W 0 Rh—), Doku numm. Barcodes auf Blanko-A4
 > 5. **Gerinnungsmanagement**

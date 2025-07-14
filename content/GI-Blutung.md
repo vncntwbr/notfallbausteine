@@ -1,0 +1,19 @@
+---
+tags:
+  - dx
+  - sy
+---
+- **[[Anamnese|A]]:** 
+- **[[Untersuchung|U]]:** 
+- **T**
+	- Pantoprazol 40-80 mg i.v.
+	- **T Obere GI-Blutung**
+		- ! [[Blutungsmanagement]]
+		- *Leberzirrhose:* Terlipressin 1-2 mg KI + Ceftriaxon 2 g i.v. (Prophylaxe HE/SBP)
+		- *Endoskopie:* ggf. in [[Intubation (RSI)]], Varizenblutung sofort, Schock <12h, Risiko <24h, Stabil <72h, in RS Erythromycin 250 mg KI
+		- *Bei Urämie:* Prio [[Dialyse]] vor Endo
+		- *Ambulant:* [Glasgow-Blatchford-Score](https://www.mdcalc.com/calc/518/glasgow-blatchford-bleeding-score-gbs) 0-1, kein Alkohol/Antikoagulation (BUN=HST*0.5)
+	- **T Untere GI-Blutung**
+		- *Keine Notfall-Koloskopie* (keine Sicht, Perforationsrisiko)
+		- ggf. CT-A (Blutungsquelle? Radiolog. Interv.?)
+		- *Ambulant:* [Oakland-Score](https://www.mdcalc.com/calc/10042/oakland-score-safe-discharge-lower-gi-bleed) 0-8

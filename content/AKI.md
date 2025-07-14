@@ -1,0 +1,14 @@
+---
+tags:
+  - sy
+---
+- **S (KDIGO)**
+	- *I°:* Krea x1.5-2, Krea +0.3 mg/dl, Oligurie <0.5 ml/kg/h für 6-12h
+	- *II°:* Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h
+	- *III°:* Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
+- **T**
+	- *Meds:* Nephrotox. Med >, [DANI](https://dosing.de)
+	- *K+:* [[Hyperkaliämie]]-Therapie
+	- *P:* Phosphatbindner bei P >6 mg/dl
+	- *pH:* NaBic bei uräm. [[Metabolische Azidose]]
+	- *Cor:* MAP halten!
