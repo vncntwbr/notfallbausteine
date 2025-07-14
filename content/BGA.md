@@ -2,7 +2,6 @@
 tags:
   - basics
 ---
-
 > [!danger] Rapid Reference
 > 1. **Umrechnen V→A:** pH +0.03, pCO2 –5 mmHg
 > 2. **Azid./Alkal.:** HCO3- 22-26 mmol/l, SBE proport. zu metab. Schwere
@@ -16,4 +15,3 @@ tags:
 > 	- **∆∆** = ∆AG + [HCO3-], nw 24±2 mmol/l (sonst zusätzliche met./resp. Störung/Kompensation)
 > 5. **Oxy.:** 100% SpO2 ≈ 150 mmHg art. PaO2 | 95% ≈ 80 | 90% ≈ 60 | 85% ≈ 50
 > 6. **Hb/Hkt** Kontrollen aus EDTA, BGA schwankt stark
-> 

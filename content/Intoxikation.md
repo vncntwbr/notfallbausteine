@@ -1,0 +1,1 @@
+- Flumazenil absolute KI chron. Benzo-Abusus oder Co-Intox mit Prokonvulsiva (z.B. TCA), weil Krampfanfall

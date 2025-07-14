@@ -1,0 +1,14 @@
+---
+title: "Anterior-Lateral Versus Anterior-Posterior Electrode Position for Cardioverting Atrial Fibrillation"
+autoren: "Anders Sjørslev Schmidt, Kasper Glerup Lauridsen, Dorthe Svenstrup Møller, Per Dahl Christensen, Karen Kaae Dodt, Hans Rickers, Bo Løfgren, Andi Eie Albertsen"
+datum: "1640041200000"
+journal: "Circulation"
+doi: "10.1161/CIRCULATIONAHA.121.056301"
+---
+> Schmidt, Anders Sjørslev, Kasper Glerup Lauridsen, Dorthe Svenstrup Møller, Per Dahl Christensen, Karen Kaae Dodt, Hans Rickers, Bo Løfgren, und Andi Eie Albertsen. 2021. „Anterior-Lateral Versus Anterior-Posterior Electrode Position for Cardioverting Atrial Fibrillation“. _Circulation_ 144 (25): 1995–2003. [https://doi.org/10.1161/CIRCULATIONAHA.121.056301](https://doi.org/10.1161/CIRCULATIONAHA.121.056301). [Zotero URI](zotero://select/groups/4917024/items/IP9Q5PPX).
+## Abstract
+BACKGROUND: Smaller randomized studies have reported conflicting results regarding the optimal electrode position for cardioverting atrial fibrillation. However, anterior-posterior electrode positioning is widely used as a standard and believed to be superior to anterior-lateral electrode positioning. Therefore, we aimed to compare anterior-lateral and anterior-posterior electrode positioning for cardioverting atrial fibrillation in a multicenter randomized trial.
+METHODS: In this multicenter, investigator-initiated, open-label trial, we randomly assigned patients with atrial fibrillation scheduled for elective cardioversion to either anterior-lateral or anterior-posterior electrode positioning. The primary outcome was the proportion of patients in sinus rhythm after the first shock. The secondary outcome was the proportion of patients in sinus rhythm after up to 4 shocks escalating to maximum energy. Safety outcomes were any cases of arrhythmia during or after cardioversion, skin redness, and patient-reported periprocedural pain.
+RESULTS: We randomized 468 patients. The primary outcome occurred in 126 patients (54%) assigned to the anterior-lateral electrode position and in 77 patients (33%) assigned to the anterior-posterior electrode position (risk difference, 22 percentage points [95% CI, 13-30]; P<0.001). The number of patients in sinus rhythm after the final cardioversion shock was 216 (93%) assigned to anterior-lateral electrode positioning and 200 (85%) assigned to anterior-posterior electrode positioning (risk difference, 7 percentage points [95% CI, 2-12]). There were no significant differences between groups in any safety outcomes.
+CONCLUSIONS: Anterior-lateral electrode positioning was more effective than anterior-posterior electrode positioning for biphasic cardioversion of atrial fibrillation. There were no significant differences in any safety outcome. Registration: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03817372.
+# Notizen

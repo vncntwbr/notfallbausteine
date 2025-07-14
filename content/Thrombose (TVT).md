@@ -1,0 +1,15 @@
+---
+tags:
+  - dx
+---
+- K **Killer:** Phlegmasia coerulea dolens, [[LAE]]
+- **[[Anamnese|A]]:** (S) Dyspnoe, Husten, Synkope (LAE)? B-Sympt.? (M) Hormone? AK? (P) Krebs? GFR<30? Rez. Aborte (Antiphospholipid)? Gerinnungsdiagnostik? (E) Immobil/Trauma? (R) FA?
+- **[[Untersuchung|U]]:** Meyer (Gastrocnemius), Payr (Pedessohle), Homans (Dorsalextension), SpO2↓, HF↑, [[EKG]] RHB
+- **W**
+	- [Wells-Score](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2, Schwanger, Armvenenthr., klinisch V.a. → direkt 3-Pkt.-KUS, immer Kontroll-Sono TVT in 4-7d
+	- Sonst D-Dimer (alterskorr. >50 J.)
+	- *[[LAE]]* bei klinisch V.a. + TVT-Nachweis gesichert, CTPA nur bei RHB in TTE zur Eva Thrombektomie
+- **T**
+	- *Antikoagulation:* Apixaban 10 mg 1-0-1 für 7d dann 5 mg 1-0-1, bei KI Fraxiparin 0.1 ml/kg 1-0-1 s.c., Dauer 3-6 Mo
+	- Kompressionsverband/-strumpf, keine Immo
+	- *Sonogr. proximal, Becken/VCI:* CT-Venografie + CTPA, Konsil GCh

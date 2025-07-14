@@ -14,5 +14,5 @@ tags:
 > 4. **[[BGA]]-Kontrollen:** AG muss zugehen
 
 ---
-- **Dx:** β-Hydroxybutyrat, Phosphat, Urin-Ketone, IFP
-- **Okkult:** nw pH + nw HCO3- durch Erbrechen met. Alkalose (∆∆-AG), euglykäm (SGLT2i)
+- **W:** β-Hydroxybutyrat, Phosphat, Urin-Ketone (misst nur Acetoacetat), IFP
+	- *Okkult:* nw pH + nw HCO3- durch Erbrechen met. Alkalose (∆∆-AG), euglykäm (SGLT2i)

@@ -4,7 +4,7 @@ tags:
 ---
 
 
-> [!note] Textbaustein
+> [!note]- Textbaustein
 > A: Atemweg frei, spricht ohne Stridor.
 > B: Eupnoe (AF 0000/min), Atemmechanik unauffällig. Normoxie (SpO2 0000% unter RL). VAG bds. ohne NG.
 > C: Hautkolorit rosig, MSH feucht, Recap <2s. Normofrequent (HF XX/min), Normoton (RR XXX/XX mmHg). Halsvenen nicht gestaut, keine Ödeme. Zugänge: 18G re/li Unterarm.

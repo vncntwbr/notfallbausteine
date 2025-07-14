@@ -4,4 +4,6 @@ tags:
 ---
 
 - [[VT]]
-- 
+
+## Literatur
+[[cookAccuracyPhysiciansElectrocardiogram2020]]
