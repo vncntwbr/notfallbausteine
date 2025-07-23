@@ -4,13 +4,15 @@ tags:
 aliases:
   - A
 ---
-> [!note]+ Textbaustein
+> [!note]+ Textbaustein Anamnese
 > Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER.
 > OPQRST + BEGLEITSYMPTOME.
 > 
 > **Vegetativ:** Im Alltag voll belastbar. Keine Dyspnoe, keine AP, keine Palpitationen. Keine Infektsymptome in letzten 2 Wochen. Keine B-Symptomatik. Miktion und Stuhlgang unauffällig.
 > **Noxen:** Nikotin (0000 PY), Alkohol (0000), keine weiteren Substanzen.
 > **Sozial:** Selbstversorgend in häuslicher Gemeinschaft. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
+
+^db877f
 
 
 > [!note]- Zusatz Gyn

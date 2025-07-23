@@ -24,3 +24,9 @@ tags:
 > 	- **Info Blutbank** („MTP“) + **Hilfe** (Anä, Level-One, PFK)
 > 	-  **Startpaket:** 1 TK + 4 EK + 2 FFP + PPSB 25 IE/kg
 > 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 TK + 4 EK + 4 FFP
+
+---
+- PPSB und Andexanet-alfa gleichwertig[^1]
+
+[^1]: Nederpelt, Charlie J. Andexanet Alfa or Prothrombin Complex Concentrate for Factor Xa Inhibitor Reversal in Acute Major Bleeding: A Systematic Review and Meta-Analysis. Critical Care Medicine 49(10):p e1025-e1036, October 2021. DOI: 10.1097/CCM.0000000000005059
+	 

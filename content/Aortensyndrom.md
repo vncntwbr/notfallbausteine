@@ -11,7 +11,24 @@ tags:
 > 6. **Peri-Arrest:** bei Tamponade Perikardiozentese 10-20 ml
 
 - **Def:** Aortendissektion Stanford A (ascend.) / B (nur descend.), penetr. Aortenulcus, intramurales Hämatom, akut sympt./rupt. Aortenaneurysma
-- **[[Anamnese|A]]:** POOP (20% schmerzlos), reißend, wandernd, "+1" (Synkope, FND, Pulsdefizit, Perfusion↓, Diastolikum/AI)
+- **Ä:** 50-70 J., M, aHTN (70%), Bindegewebserkrankung[^1][^2], Vaskulitis
+- **[[Anamnese|A]]** 
+	- *S:* Schmerzen abrupt (LR+ 2.6)[^3], reißend (LR+ 10), wandernd (LR+ 7.6), stärkst (90%), evtl. schmerzlos[^4]
+	- *"+1":* Ischämische Manifestationen (Synkope[^5], Stroke, periph. Paraplegie, Horner-Syndr., [[Mesenterialischämie]], Extremitätenischämie, [[ACS]])
+	- Diastolikum/AI
 - **[[Untersuchung|U]]:** RR-Seitendiff. kein Stellenwert, 1% STE inferior, 25% Troponinämie (Typ A)
 - **W:** [ADD-RS](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs) + D-Dimer
+- **[[POCUS]]**
+	- *TTE:* AI[^6], dilat. Aortenwurzel, Flap, Erguss/Tamponade, bikuspide AK
 
+[^1]: Marfan-Syndrom 5% Risiko A-Diss., von A-Diss. <40 J. haben 50% Marfan
+
+[^2]: inkl. PCKD
+
+[^3]: Schmerzen oft maximal zu Beginn, DD ACS eher Crescendo
+
+[^4]: Brown 2022: Häufiger älter, DM, Aneurysma
+
+[^5]: 20% Typ A, 3% Typ B
+
+[^6]: Typ A 60%

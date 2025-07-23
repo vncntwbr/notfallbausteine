@@ -1,6 +1,12 @@
 ---
 title: Vincent's Quartz
 ---
+![[Untersuchung#^944f17]]
+![[Anamnese#^db877f]]
+![[ekg#^1b04ab]]
+![[pocus#^aa3283]]
+
+---
 Willkommen! 
 
 - Was soll enthalten sein?

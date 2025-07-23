@@ -4,4 +4,4 @@ tags:
 ---
 - K **Killer:** [[VT]], FBI, kardiale Dekompensation, Elektrolytstörung, Intoxikation
 
-![[Kardioversion]]
+![[eKV]]

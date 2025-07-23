@@ -10,7 +10,11 @@ tags:
 - *De-Winter*
 - *Wellens*
 - *Shark-Fin*
-- *Neuer LSB/RSB* od. mod. Sgarbossa-Kriterien pos.
+- *LSB* neu, mit typischer Klinik od. mod. Sgarbossa-Kriterien pos.
+- *RSB mit STE* (normal bewerten)
 - *South African Flag* / hochlateral (STE aVL, I, V2)
 - *Aslanger* (STE III, STD V4-V6, ST in V1 > V2)
 - *Hauptstamm* (STE aVR, STD ≥6 Abltg.)
+
+---
+- [OMI Pocket Guide](https://omiguide.org)

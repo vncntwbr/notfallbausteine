@@ -13,4 +13,4 @@ tags:
 
 - **W**
 	- Bei klinisch V.a. + [[Thrombose (TVT)]] Nachweis Dx gesichert
-	- [[EKG]] [[Rechtsherzbelastung]] (Tachykardie, T-Neg III+V1-V4, SIQIIITIII, RSB)
+	- [[EKG]] [[RHB]] (Tachykardie, T-Neg III+V1-V4, SIQIIITIII, RSB)

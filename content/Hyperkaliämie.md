@@ -2,7 +2,7 @@
 tags:
   - sy
 ---
-> [!rapid-reference]
+> [!danger] Rapid Reference
 > 1. **[[BGA]]**-Kontr. (Pseudo?), **Monitoring**
 > 2. **Calciumgluconat** 10% 30 ml alle 5 min nach EKG
 > 3. **Insulin** 10 IE in G10% 250 ml (25 g)
@@ -11,3 +11,7 @@ tags:
 > 6. **Niere:** Furosemid 80 mg / [[Nephron-Bomb]] bzw. Dialyse
 
 - **Def:** Mild <6.0, Moderat 6.0-6.4, Schwer ≥6.5 od. EKG
+- **T**
+	- VEL vs. NaCl[^1]
+
+[^1]: https://x.com/DrKanaris/status/1267132907367383047

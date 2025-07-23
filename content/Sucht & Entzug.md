@@ -2,8 +2,8 @@
 tags:
   - dx
 ---
-> [!killer]-
-> - "Kalter" Alkohol- oder Benzodiazepin-Entzug (andere Substanzen ausgeprägte Symptomatik, aber ohne vitale Bedrohung)
+
+- K **Killer:** "Kalter" Alkohol- oder Benzodiazepin-Entzug (andere Substanzen ausgeprägte Symptomatik, aber ohne vitale Bedrohung)
 
 > [!info]- Slang-Lexikon
 > - **Affen:** Entzugssymptome

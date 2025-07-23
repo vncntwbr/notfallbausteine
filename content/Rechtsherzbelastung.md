@@ -1,1 +1,0 @@
-[[alerhandWhatEchocardiographicFindings2023]]
