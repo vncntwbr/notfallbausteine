@@ -2,6 +2,6 @@
 tags:
   - sy
 ---
-- K **Killer:** [[VT]], FBI, kardiale Dekompensation, Elektrolytstörung, Intoxikation
+- K **Killer:** [[VT]], FBI, [[Herzinsuffizienz]], Elektrolytstörung, Intoxikation
 
 ![[eKV]]
