@@ -1,0 +1,1 @@
+Carol Mitchell, Guidelines for Performing a Comprehensive Transthoracic Echocardiographic Examination in Adults: Recommendations from the American Society of Echocardiography, Journal of the American Society of Echocardiography, https://doi.org/10.1016/j.echo.2018.06.004.
