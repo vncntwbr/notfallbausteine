@@ -1,0 +1,3 @@
+- **Unkompl. amb.:** Fosfomycin 3g 1x zur Nacht / Pivmecillinam 400 mg 1-1-1 f. 3d (>65 J.)
+- **Kompl.:** Cefpodoxim 200 mg 1-0-1 f. 7d (amb.) / Cefotaxim 2g i.v. alle 8h
+- **Präv.:** Impfung (StroVac®) / lokale Östrogenisierung (♀︎ postmeno/stillend)

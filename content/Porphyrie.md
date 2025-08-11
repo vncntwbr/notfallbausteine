@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx
+  - dx/gastroenterologie
 ---
 - **W**
 	- *Trigger Schub:* Infekt, Stress, OP, Meds, Fasten, Zyklus, Alkohol
@@ -8,5 +8,5 @@ tags:
 - **T**
 	- [Jede Medikamentengabe prüfen](https://www.drugs-porphyria.org)
 	- G10% 500-1000 ml 1-1-1-1
-	- *Symptomatisch:* Schmerzen PCM/Opioide, Übelkeit Ondansetron, Tachy Metoprolol, Hypertonie Clonidin, Obstipation MCP
+	- *Symptomatisch:* Schmerzen PCM/Opioide, Übelkeit Ondansetron, Tachy Metoprolol, [[Hypertonie]] Clonidin, Obstipation MCP
 	- *Neuro/Psy Sympt.:* Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via ZVK

@@ -1,5 +1,10 @@
-- **[[Anamnese|A]]**
-	- *S:* OPQRST+, vegetativ (Ü+E), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
+---
+tags:
+  - sy/kopf-neuro
+---
+
+ - **[[Anamnese|A]]**
+	- *S:* OPQRST+, vegetativ ([[Ü+E]]), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
 	- *M:* Antikoagulation? Bedarfsmed?
 	- *E:* H.a. CO?
 	- *R:* Alkohol, Drogen, Rauchen, FA (Migräne, Aneurysma)
@@ -16,6 +21,6 @@
 	- *Trigeminusneuralgie:* Carbamazepin 200 mg p.o. 1-1-1, überbrückend Lidocain i.n.
 	- *Riesenzellarteriitis:* Prednisolon 60 mg p.o., bei Sehstörung 1000 mg i.v.
 	- *Hemicrania continua:* Indometacin 25 mg 1-1-1
-	- *Ü+E:* MCP 10 mg i.v. (Cave EPMS), alternativ Dimenhydrinat 62 mg i.v.
+	- *[[Ü+E]]:* MCP 10 mg i.v. (Cave EPMS), alternativ Dimenhydrinat 62 mg i.v.
 
 [^1]: Zoi Netou-Kandylidou. Akutneurologie 2025. [Kopfschmerzen – Teil 3: Kopf über Wasser halten](https://akutneurologie.de/2025/kopfschmerzen-teil-3-kopf-ueber-wasser-halten/)

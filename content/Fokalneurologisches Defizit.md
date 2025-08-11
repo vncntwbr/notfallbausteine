@@ -1,6 +1,6 @@
 ---
 tags:
-  - sy
+  - sy/kopf-neuro
 ---
 - K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aortensyndrom]]
 - **[[Anamnese|A]]**

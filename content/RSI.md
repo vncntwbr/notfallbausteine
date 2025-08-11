@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - interventionen
 ---
 
 > [!note]- Textbaustein

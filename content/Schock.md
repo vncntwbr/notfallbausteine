@@ -1,6 +1,6 @@
 ---
 tags:
-  - sy
+  - sy/allgemein
 ---
 - **W Organdysfunktionen**
 	- *Hämodynamik:* Hypotonie, Shock-Index >0.8, Bradykardie

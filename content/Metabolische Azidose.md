@@ -2,7 +2,9 @@
 tags:
   - sy
 ---
-- K **Erhöhte Anionenlücke (AGMA):** Physiologisch schwieriger Atemweg, Kalium falsch-hoch (+0.5 mM je -0.1 pH)
+- K **Erhöhte Anionenlücke (AGMA)**
+	- Physiologisch schwieriger Atemweg
+	- Kalium falsch-hoch (+0.5 mM je -0.1 pH)
 	- *Wichtigste Ursachen (KULT):* Ketoazidose ([[DKA]], [[Alkohol]], katabol), Urämie, [[Lactatazidose]], Toxine
 	- *Weitere:* D-Lactat (Kurzdarmsyndrom, gemessenes Lactat nw), Methanol, Metformin (Lactat), Propylenglykol (Frostschutzmittel, Lorazepam-Zusatz), Pyroglutaminsäure (Kosmetika, akkum. b. Gluthation-Mangel), Eisen, Isoniazid (Tbc), Ethylenglykol (Frostschutzmittel, Missbrauch), Salicylate (ASS, Ibu), Hyperphosphatämie, GHB
 - **Normale Anionenlücke (NAGMA)**

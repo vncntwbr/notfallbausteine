@@ -1,6 +1,6 @@
 ---
 tags:
-  - halo
+  - interventionen/halo
 ---
 - One Snip Approach[^1]
 

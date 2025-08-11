@@ -1,3 +1,4 @@
+- [CYP450 Tabelle](https://drug-interactions.medicine.iu.edu/MainTable.aspx)
 - Rifampicin
 - Flucloxacillin → Tacrolimus↓, Azol-Antimykotika↓[^1]
 - PipTaz → MTX-Elimination↓, Akkumulation insb. high-dose onkolog. Dosen[^2]

@@ -1,8 +1,7 @@
 ---
 tags:
-  - tx
-aliases:
-  - Kardioversion
+  - interventionen
+aliases: []
 ---
 - **T**
 	- *[[VT]]:* Patches AP, Start 120-150 J
@@ -11,8 +10,8 @@ aliases:
 	- Exspiratory hold
 	- Aktive Kompression auf die Pads ist effektiver (96% vs. 84%)[^1]
 
-> [!note]- Textbaustein
-> Kardioversion: Notfallindikation bei INSTABILITÄTSKRITERIEN. Antikoagulation: Bislang KEINE. Mündliche Aufklärung (insb. Risiko HRST bis Arrest). Kontinuierliches Monitoring. Sedierung mit Propofol 0000 mg titriert i.v. komplikationslos. Nach 1 Schock in AP/AL Position mit 0000 Joule Konversion in nfSR.
+> [!note]+ Textbaustein
+> **Elektr. Kardioversion:** Notfallindikation bei INSTABILITÄTSKRITERIEN. Antikoagulation: Bislang KEINE. Mündliche Aufklärung (insb. Risiko HRST bis Arrest). Kont. Monitoring. Sedierung mit Propofol 0000 mg titriert i.v. komplikationslos. Nach 1 Schock in AL Pos. mit 0000 J Konversion in nfSR.
 
 [^1]: Squara, Fabien et al., Active compression versus standard anterior-posterior defibrillation for external cardioversion of atrial fibrillation: A prospective randomized study. Heart Rhythm, Volume 18, Issue 3, 360 - 365. https://doi.org/10.1016/j.hrthm.2020.11.005
 

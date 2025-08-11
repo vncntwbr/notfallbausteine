@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx
+  - dx/neurologie
 ---
 - **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. Antikoagulation letzte Dosis, (E) Vorzustand
 - **T**

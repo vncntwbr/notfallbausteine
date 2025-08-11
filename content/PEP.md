@@ -1,6 +1,7 @@
 ---
 tags:
-  - tx
+  - sy/abdomen-haut-extr
+  - interventionen/meds
 ---
 
 - **Labor:** HIV, HBsAg, Anti-HBs, Anti-HCV, W β-HCG, STI erst >14d Inkubationszeit

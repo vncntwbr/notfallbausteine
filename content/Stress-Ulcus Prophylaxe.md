@@ -1,7 +1,7 @@
 ---
 tags:
-  - tx
   - its
+  - interventionen/meds
 ---
 - **I:** Beatmung + 1 von [[Schock]], [[DIC]], Leber↓, [[Hirndruck (ICP↑)]]
 - **T**

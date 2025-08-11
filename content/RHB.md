@@ -2,7 +2,7 @@
 aliases:
   - Rechtsherzbelastung
 ---
-- **RHB im EKG**
+- **RHB im [[EKG]]**
 	- Sinustachykardie bzw. TAA [[VHF]]
 	- T-Neg III + V1-V4
 	- SIQIIITIII-Typ, ST, RT

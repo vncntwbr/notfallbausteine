@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics
+  - its
 ---
 
 - [ ] Name / Alter / Geschlecht / Zimmer / LT

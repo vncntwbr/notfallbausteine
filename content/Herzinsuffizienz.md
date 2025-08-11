@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx
+  - dx/kardiologie
 aliases:
   - Kardiale Dekompensation
 ---

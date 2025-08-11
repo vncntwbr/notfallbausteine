@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx
+  - dx/infektiologie
 ---
 - **[[Untersuchung|U]]**
 	- *Erythema migrans:* >5 cm Durchmesser, randbetontes Erythem, nicht erhaben, größenprogredient, Zeitverzug 3-30 d

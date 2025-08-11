@@ -1,7 +1,7 @@
 ---
 tags:
-  - dx
-  - sy
+  - sy/abdomen-haut-extr
+  - dx/gastroenterologie
 ---
 - **[[Anamnese|A]]:** 
 - **[[Untersuchung|U]]:** 

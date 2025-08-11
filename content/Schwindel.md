@@ -1,10 +1,10 @@
 ---
 tags:
-  - sy
+  - sy/kopf-neuro
 ---
 > [!killer]-
 > - [[Schock]]
-> - Hypoglykämie, Elektrolytstörung
+> - [[Hypoglykämie]], Elektrolytstörung
 > - Meningitis
 > - Kleinhirninfarkt
 
@@ -21,4 +21,4 @@ tags:
 		- *Test of Skew:* Nachstellbewegung/Deviation (V.a. Stroke)
 		- *Head Impulse:* Muss pathologisch sein (gesichert Neuritis vestibularis, sonst Stroke)
 	- **Dix-Hallpike** (t-EVS)
-- ? **Red Flags:** FND, 4D (Diplopie, Dysarthrie Dysphagie, Dysmetrie), *Vertikaler* oder *Richtungs-wechselnder* Nystagmus, Rumpfataxie, Kopfsz. (ICB?), Nackensz. (Vertebralisdissektion?)
+- ? **Red Flags:** FND, 4D (Diplopie, Dysarthrie Dysphagie, Dysmetrie), *Vertikaler* oder *Richtungs-wechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[Intrakranielle Blutung|ICB]]?), Nackensz. (Vertebralisdissektion?)

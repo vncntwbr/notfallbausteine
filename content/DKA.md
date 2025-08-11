@@ -1,10 +1,10 @@
 ---
 tags:
-  - dx
+  - dx/endokrinologie
 ---
 
 > [!danger] Rapid Reference
-> 1. VEL
+> 1. **VEL**
 > 2. **Maximale Ventilation:** [[NIV]], physiologisch schwieriger AW
 > 3. **Kalium-Substitution** & **Insulin**
 > 	- **4.6-5.5 mmol/L:** 40 mval KCl + 2 g Mg in VEL + oral + Insulin 0.1 IE/kg/h

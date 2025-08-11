@@ -18,7 +18,7 @@ aliases:
 	- PPI (C. diff, Pneumonie, GI-Tumoren, Osteoporose) → <8 Wochen, switch zu H2-Blockern
 	- Rivaroxaban (Blutungsrisiko im Vgl. zu Apixaban Mythos?)
 	- Spasmolytika, z.B. Scopolamin (anticholinerg)
-	- Sulfonylharnstoffe (MACE-Risiko↑, Hypoglykämie, Mortalität)
+	- Sulfonylharnstoffe (MACE-Risiko↑, [[Hypoglykämie]], Mortalität)
 	- Z-Substanzen
 [^1]
 

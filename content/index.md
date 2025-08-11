@@ -18,6 +18,21 @@ Willkommen!
 	- x/kg nur als Reference
 - Ausklappbare Callouts zum Lernen nutzen
 
+## Beispielseite
+> [!danger] Rapid Reference
+> 1. **That:** Do this
+
+- I **Def:** 
+- K **Killer:** 
+- R **Red Flags:** 
+- ! **Wichtig:**
+- **[[Anamnese|A]]**
+- **[[Untersuchung|U]]**
+- **W**
+- **T**
+
+> [!note]- Textbaustein
+
 
 
 ## Basics 

@@ -9,5 +9,7 @@ tags:
 
 - [[Volumenstatus]]
 - [[Kompressionssonografie]]
+- [[TTE]]
+- [[LUS]]
 ## Lernressourcen
 - [5 Minute Sono](https://coreultrasound.com/5ms/)

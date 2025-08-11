@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx
+  - dx/dermatologie
 ---
 - **[[Untersuchung|U]]:** Meningismus? Läsionen hämorrh./nekrot., Satelliten? Aberr. Bläschen? AZ↓ (assoz.: ZNS, Pneumonie, Hepatitis, DIC)? FND?
 	- *Betr. Dermatome:* Multisegmental? Generalisiert?
@@ -12,3 +12,7 @@ tags:
 	- *Antiviral:* Stat. Aciclovir 5-10 mg/kg i.v. q8h DANI, Amb. Brivudin 125 mg p.o. 1-0-0 7d (KI CTx 5-FU)
 	- *Lokal:* Früh Serasept-Umschläge 3x/d, Spät/Verkrustet Chlorhexidin 1% in Basiscreme, Auge z.B. Aciclovir 3% Salbe 5x/d
 	- *Analgesie:* Metamizol 1g 1-1-1-1, ggf. Carbamazepin 300 mg 1-0-1, ggf. Pregabalin Start 50 mg 0-0-1
+---
+- Herpes zoster Impfung verhindert teils Demenz[^1]
+
+[^1]: [Causal evidence that herpes zoster vaccination prevents a proportion of dementia cases](https://www.medrxiv.org/content/10.1101/2023.05.23.23290253v1)

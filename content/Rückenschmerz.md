@@ -1,0 +1,13 @@
+---
+tags:
+  - sy/abdomen-haut-extr
+---
+- K **Killer:** [[Aortensyndrom]], [[ACS]], [[Sepsis]] bei Spondylodiszitis/Spinalabszess
+- R **Red Flags**
+	- *Fx/Mets:* Trauma, Osteoporose, Cortison, KS über WS, Krebs, B-Sympt.
+	- *Radikulopathie:* Ausstrahlend (L4-S1), Reithosen, Extr. Schwäche, Inkontinenz/Harnverhalt
+	- *Infekt:* Fieber/IFP, Immunsupp., i.v.-Drogen, OP, Spritzen
+- **[[Untersuchung|U]]:** Zehengang (S1), Hackengang (L4-5), Lasègue (einschießend bei Flexion Bein >45°)
+- **T Unspez:** Ibuprofen 400 mg bis 6x/d für 7 d, PT, amb. in 2 Wo
+- **T Neuro Ausf:** Stationär, MRT im Verlauf, [Not] bei bds., QS od. Reithosen/Blase/Darm
+- **T Fx/Met:** CT, Stationär, RS NCh/UCh, achsengerecht

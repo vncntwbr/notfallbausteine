@@ -1,4 +1,4 @@
 ---
 tags:
-  - sy
+  - sy/trauma
 ---

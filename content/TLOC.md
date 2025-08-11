@@ -1,0 +1,24 @@
+---
+tags:
+  - sy
+---
+- **DD**
+	- *[[Synkope]]* (vorübergehende HZV-Minderung)
+		- *Kardiogene Synkope*
+			- Arrhythmogen (HRST)
+			- Strukturell (Aortenklappenstenose, HOCM, Myxom u.a.)
+			- Extrakardial (z.B. LAE, Aortensyndrom, pHTN, Sepsis)
+		- *Reflexsynkope*
+			- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
+			- Situativ (z.B. Miktion, Husten, nach Belastung)
+			- Carotissinussyndrom (Atherosklerose + mech. Reizung z.B. durch Kopfdrehung, Krawatte, Rasieren)
+		- *Orthostatische Synkope*
+			- Autonome Dysregulation (z.B. Parkinson, MS, Diabetes)
+			- Hypovolämie (z.B. [[GI-Blutung]], Dehydratation, [[Diarrhoe]])
+			- Medikamenten-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
+	- *[[Krampfanfall]]:* Postiktale Phase (LR+ 3-5), Kloni unmittelbar nach TLOC statt verzögert, Zyanose (LR+ 3-5) statt Blässe (LR+ 3 für Synkope), Myalgien (LR+ 3), >20 Zuckungen, Dauer >30s, ggf. CK↑, Laktat↑, lateraler Zungenbiss (LR+ 7-16)
+	- *[[PNEA]]*
+	- *"Drop Attacks:* Kryptogene Stürze ohne TLOC im höheren Alter, a.e. neurogener Muskeltonusverlust
+	- *Adam-Stokes-Anfall / Arrest* = kardiogene [[Synkope]] bei VT/VF
+	- *[[Stroke]]:* Cerebrale Ischämie vertebrobasilär / Steal-Syndrome / [[Intrakranielle Blutung]]
+	- *SHT*

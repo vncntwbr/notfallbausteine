@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - interventionen/meds
 ---
 > [!danger] Rapid Reference
 > - **Nitroglycerin** 5 mg p.i. q30min

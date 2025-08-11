@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - interventionen/meds
 ---
 
 - **Indikation:** Unverhütet Sex vor <5d + Zyklustag <15

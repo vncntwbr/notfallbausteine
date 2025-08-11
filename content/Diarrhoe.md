@@ -1,6 +1,6 @@
 ---
 tags:
-  - sy
+  - sy/abdomen-haut-extr
 ---
 
 - K **Killer:** GIB, Mesenterialischämie, Sepsis, Perforation, Elektrolytstörung, HUS

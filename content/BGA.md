@@ -15,3 +15,7 @@ tags:
 > 	- **∆∆** = ∆AG + [HCO3-], nw 24±2 mmol/l (sonst zusätzliche met./resp. Störung/Kompensation)
 > 5. **Oxy.:** 100% SpO2 ≈ 150 mmHg art. PaO2 | 95% ≈ 80 | 90% ≈ 60 | 85% ≈ 50
 > 6. **Hb/Hkt** Kontrollen aus EDTA, BGA schwankt stark
+> 7. **[[Elektrolyte]]**
+
+- *BGA bei [[Asthma]]:* PaCO2 >35 mmHg respir. Erschöpfung, >42 Indikation [[RSI]]
+- *BGA bei [[Schwanger]]:* PaCO2 ≈30 mmHg, HCO3- ≈20 mM, pH 7.40-7.45, Aa-Gradient +5-10 mm

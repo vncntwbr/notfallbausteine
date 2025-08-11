@@ -1,6 +1,6 @@
 ---
 tags:
-  - tx
+  - interventionen
 ---
 
 > [!danger] Rapid Reference
@@ -17,13 +17,13 @@ tags:
 > 		- Marcumar® → PPSB 25 IE/kg
 > 		- Dabigatran → Idarucizumab 5 g _oder_ PPSB 25 IE/kg
 > 		- Rivaroxaban, Apixaban, Edoxaban → PPSB 25 IE/kg
-> 		- ASS u.a. TAH → ggf. Desmopressin 0.3-0.4 μg/kg, (ggf. +TK)
+> 		- ASS u.a. TAH → ggf. Desmopressin 0.3-0.4 μg/kg, (ggf. +[[TK]])
 > 		- Heparin → Protamin 1 mg pro 100 IE Heparin
-> 		- Thrombopenie <50/nl (<100/nl bei SHT od. heredit. Thrombopathie) → TK
+> 		- Thrombopenie <50/nl (<100/nl bei SHT od. heredit. Thrombopathie) → [[TK]]
 > 6. **MTP** (ab 5. EK + fortges. Blutverlust)
 > 	- **Info Blutbank** („MTP“) + **Hilfe** (Anä, Level-One, PFK)
-> 	-  **Startpaket:** 1 TK + 4 EK + 2 FFP + PPSB 25 IE/kg
-> 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 TK + 4 EK + 4 FFP
+> 	-  **Startpaket:** 1 [[TK]] + 4 EK + 2 FFP + PPSB 25 IE/kg
+> 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[TK]] + 4 EK + 4 FFP
 
 ---
 - PPSB und Andexanet-alfa gleichwertig[^1]
