@@ -10,11 +10,12 @@ aliases:
 - Primär Asystolie 0.6% gutes neurolog. Outcome[^2] – Vergleich [[Thorakotomie]] 👀
 - Ohne LVOT-Öffnung im TEE kein ROSC[^3]
 - Intra-Arrest Transport erhöht Mortalität[^4]
-- Kleine BVM Bags helfen nicht[^5]
+- Kleine [[BVM]] Bags helfen nicht[^5]
 - Ventilation matters![^6]
 - Herzkatheter-Management AHA Statement[^7]
 - CPR inkl. Defib geht in Bauchlage[^8]
 - TV Medical Dramas machen Laien schlechter in CPR[^9]
+- [[TOR]]
 
 [^1]: Zhao. Resuscitation 2024. [A new method to evaluate carotid blood flow by continuous Doppler monitoring during cardiopulmonary resuscitation in a porcine model of cardiac arrest.](https://doi.org/10.1016/j.resuscitation.2023.110092)
 

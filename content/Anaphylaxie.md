@@ -10,7 +10,7 @@ tags:
 > 5. **AMAX4**
 > 	- **Adrenalin** 50-100 μg i.v.
 > 	- **Muskelrelaxans** Rocuronium 200 mg
-> 	- **Atemwegssicherung** ETI / FONA (BVM/LMA insuff., Pinsp 50-100)
+> 	- **Atemwegssicherung** ETI / FONA ([[BVM]]/LMA insuff., Pinsp 50-100)
 > 	- **Xtreme** Ventilation
 > 	- **Xtra** Bronchodilatatoren
 > 	- **Xtra** Vasopressoren
