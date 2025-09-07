@@ -8,6 +8,8 @@ aliases:
 > 3. **NIV** bei Erschöpfung/Hyperkapnie
 > 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz mit [[Ketamin]] 
 > 5. **[[AMAX4]]** bei Sopor/Apnoe
+
+## Workup
 - **[[Anamnese|A]]:** [S] Infektsymptome? Allerg. Sympt. inkl. GI, Konjunktivitis? OPQRST? Nächtlich? Aktivität eingeschränkt? >2x/Woche tagsüber? [A] Allergisches Asthma? DD [[Anaphylaxie]]? [M] Bedarfsmed >2x/Woche? Adhärenz/Inhalator-Kompetenz? ASS/NSAR Trigger? [P] Amb. Pneumologe? [L] LuFu? PeakFlow Selbstmessung? Anfallsfrequenz? [E] Auslöser? [R] Nikotin? THC? Shisha? ZNA/NST/ITS wegen Asthma?
 - **W**
 	- VP, [[EKG]]
@@ -20,10 +22,10 @@ aliases:
 - **S Chronisch**
 	- *Kontrolle:* [0/4 gut, 1-2 teilweise, 3-4 unkontrolliert] in letzten 4 Wochen >2x/Woche tagsüber Symptome, nächtliches Erwachen, Bedarfsmed >2x/Woche, Einschränkung Alltagsaktivität
 	- *Schweregrad:* [leicht] gute Kontrolle unter Med Stufe 1-2, [mittelschwer] unter Med Stufe 3-4, [schwer] Stufe 5 od. unkontrolliert mit LABA/ICS
-- **T**
-	- *Dauermed:* Ab Stufe 1 Fixkombi LABA/ICS z.B. Beclomethason/Formoterol 100/6 μg (Foster®) Dosieraerosol 1-0-1 + 1-2 Hub b.B. bis 8x/d gesamt[^2], Videoanleitung für [Dosieraerosole](https://www.youtube.com/playlist?list=PLWW9zxQjPLcBE4k4tPES72MX8P0eJrhjx), [Pulverinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcCMxQ1DA2H6LZeo-J8ggYkK), [Feuchtinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcArlGNE-tyhsfzLmuseUJH1)
-	- *Allerg.?* + Antihistaminika, z.B. Desloratadin 5 mg p.o. 1-0-0
-	- *Ambulant:* Pneumolog. Anbindung, häusliche Versorgung, VP unter RL >1h stabil, keine Hyperkapnie, stufengerechte Dauermed, Inhalator-Kompetenz
+## Management
+- *Dauermed:* Ab Stufe 1 Fixkombi LABA/ICS z.B. Beclomethason/Formoterol 100/6 μg (Foster®) Dosieraerosol 1-0-1 + 1-2 Hub b.B. bis 8x/d gesamt[^2], Videoanleitung für [Dosieraerosole](https://www.youtube.com/playlist?list=PLWW9zxQjPLcBE4k4tPES72MX8P0eJrhjx), [Pulverinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcCMxQ1DA2H6LZeo-J8ggYkK), [Feuchtinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcArlGNE-tyhsfzLmuseUJH1)
+- *Allerg.?* + Antihistaminika, z.B. Desloratadin 5 mg p.o. 1-0-0
+- *Ambulant:* Pneumolog. Anbindung, häusliche Versorgung, VP unter RL >1h stabil, keine Hyperkapnie, stufengerechte Dauermed, Inhalator-Kompetenz
 ---
 > [!note]- Textbaustein Ambulant
 > Zusammenfassend a.e. ## leichter/mittelschwerer/schwerer/lebensbedrohlicher Asthma-Anfall bei vorbek. Asthma bronchiale. Klinisch und laborchemisch kein H.a. auf Infektion. Therapie mit Salbutamol + Iptratropium p.i. und Prednisolon + Magnesium i.v., darunter Stabilisierung der VP. Eupnoe AF ###/min und Normoxie SpO2 ###% unter RL, Normokapnie mit venösem pCO2 ## mmHg. Gute pneumologische Anbindung, ambulantes Procedere im Konsens mit Pat. möglich.

@@ -1,2 +1,2 @@
-- I **Def:** Bradykardie + Renale Insuff. + AVB + Schock + Hyperkaliämie
+- I **Def:** [[Bradykardie]] + Renal ([[AKI]]) + AVB + [[Schock]] + [[Hyperkaliämie]]
 - **T:** Primär [[Hyperkaliämie]]-Therapie (Ca2+), VEL, [[Adrenalin]]

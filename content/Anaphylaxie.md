@@ -18,5 +18,5 @@ tags:
 > 6. **Adjunkt.:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
 
 - **Ä:** Kinder Nahrungsmittel, Erwachsene Meds, beide Insekten
-- **T**
-	- *De-Labeling Penicillin-Allergie:* [PEN-FAST](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast) + Symptome unspez. od. >2d nach letzter Dosis + in Kindheit <16 J. und keine systemische Reakt.
+## Management
+- *De-Labeling Penicillin-Allergie:* [PEN-FAST](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast) + Symptome unspez. od. >2d nach letzter Dosis + in Kindheit <16 J. und keine systemische Reakt.

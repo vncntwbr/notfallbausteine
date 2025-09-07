@@ -8,5 +8,5 @@ tags:
 - [[Port]]
 ---
 ![[Arterie IBP#^76aae9]]
-![[ZVK#^62ff8d]]
+![[ZVK#^56fae3]]
 ![[i.o.-Zugang#^dc23ba]]

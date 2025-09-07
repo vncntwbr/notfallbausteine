@@ -15,8 +15,8 @@ tags:
 > - **VT DD**
 > 	- WPW
 > 	- Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
-> 	- Drugs (I-Antiarrhythmika, Trizyklika)
-> 	- Elektrolyte ([[Hyperkaliämie]])
+> 	- Drugs (I-Antiarrhythmika, [[TCA-Intoxikation]])
+> 	- [[Elektrolyte]] ([[Hyperkaliämie]])
 > 	- Raised STE
 > 	
 - **DD:** [[Hyperkaliämie]]? Intoxikation?

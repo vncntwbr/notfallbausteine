@@ -4,7 +4,7 @@ tags:
 ---
 
 - **[[BGA]]**
-- **Elektrolyte**
+- **[[Elektrolyte]]**
 - **Blutbild**
 - **Niere**
 - **Leber**

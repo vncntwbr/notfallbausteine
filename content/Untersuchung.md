@@ -4,8 +4,8 @@ tags:
 aliases:
   - U
 ---
-> [!note]+ Textbaustein Untersuchung
-> **Allg:** AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6). Orientiert zu ZOSP. Normotherm (<37.5 °C aurikulär). Stand+Gang sicher.
+> [!note]- Textbaustein Untersuchung
+> **Allg:** AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Normotherm (<37.5 °C aurikulär). Stand+Gang sicher.
 > **Neuro:** Sprache opB. Mimik sgl., OE+UE bds. KG 5/5. Bulbi konjugiert. Pupillen mw, isokor, prompt konsensuell lichtreagibel. Gesichtsfeld intakt, FFV metrisch. Kein Tremor. Kein Meningismus. 
 > **Kopf/Hals:** MSH feucht, Zunge nicht belegt, Rachenring reizlos. Konjunktiven rosig. SD + cerv. LK nicht vergrößert palpabel.
 > **Pulmo:** Sgl. VAG ohne RG/NG. Eupnoe (AF ca. 12-18/min), Normoxie (SpO2 100% unter RL).

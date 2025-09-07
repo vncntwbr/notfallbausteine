@@ -9,9 +9,9 @@ tags:
 > 4. **E** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt. 
 
 - **W:** [[STEMI-EKG]]
-- **T**
-	- *Analgesie:* PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
-	- *Ohne Dekomp:* Metoprolol 5 mg-weise i.v. bis 15 mg (Präv. VT/VF, Infarktgröße), ggf. Nitro s.l.
+## Management
+- *Analgesie:* PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
+- *Ohne Dekomp:* Metoprolol 5 mg-weise i.v. bis 15 mg (Präv. VT/VF, Infarktgröße), ggf. Nitro s.l.
 
 > [!note] Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"

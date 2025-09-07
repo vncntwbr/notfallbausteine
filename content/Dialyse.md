@@ -1,3 +1,4 @@
+- *Dialysierbare Toxine:* [[Ethylenglykol]], Methanol, Salicylsäure, Lithium, Valproat, Thallium, Theophyllin, Barbiturate, Paracetamol, Carbamazepin
 - **Standardeinstellungen CVVHDF**
 	- Blutfluss 100 ml/min
 	- Dialysatfluss 2.000 ml/h (BF:DF 1:20)
@@ -7,6 +8,7 @@
 - **Probleme**
 	- *Clotting:* Na+↑, HCO3-↑ → DF erhöhen, Filter wechseln
 	- *Citrat-Akkum.:* ALV/PaO2↓, Ca2+/iCa2+ >2.25[^2], [[Metabolische Azidose]]
+
 [^1]
 
 [^1]: Jana Reichardt. Kidney Campus 2021. [Dialyse auf Intensivstation](https://kidney-campus.de/dialyse-auf-intensivstation/)

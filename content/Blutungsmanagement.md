@@ -19,7 +19,7 @@ tags:
 > 		- Rivaroxaban, Apixaban, Edoxaban → PPSB 25 IE/kg
 > 		- ASS u.a. TAH → ggf. Desmopressin 0.3-0.4 μg/kg, (ggf. +[[TK]])
 > 		- Heparin → Protamin 1 mg pro 100 IE Heparin
-> 		- Thrombopenie <50/nl (<100/nl bei SHT od. heredit. Thrombopathie) → [[TK]]
+> 		- Thrombopenie <50/nl (<100/nl bei [[SHT]] od. heredit. Thrombopathie) → [[TK]]
 > 6. **MTP** (ab 5. EK + fortges. Blutverlust)
 > 	- **Info Blutbank** („MTP“) + **Hilfe** (Anä, Level-One, PFK)
 > 	-  **Startpaket:** 1 [[TK]] + 4 EK + 2 FFP + PPSB 25 IE/kg

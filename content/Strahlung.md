@@ -1,0 +1,7 @@
+- **Risikorechner** ([XRayRisk.com](https://www.xrayrisk.com/))
+	- *Baseline Krebsrisiko:* W 37.5%, M 44.9%, Tod an Krebs 25%
+	- *CTPA (15 mSv):* 18W +0.3%, 18M +0.2%, 40W/M +0.1%
+	- *cCT (2 mSv)*
+	- *RöTx 2E (0.1 mSv)*
+- **Strahlung in der Schwangerschaft**
+	- *Fetale Dosis:* <50 mSv grundsätzlich sicher, natürliche Hintergrundstrahlung 0.5 mSv in 9 Mo, Rö Tx <0.001 mSv, CTPA 0.2 mSv, CT Abd. 4 mSv, CT Abd.+Becken 25 mSv, CTA Aorta 34 mSv

@@ -21,4 +21,4 @@ tags:
 	- *"Drop Attacks:* Kryptogene Stürze ohne TLOC im höheren Alter, a.e. neurogener Muskeltonusverlust
 	- *Adam-Stokes-Anfall / Arrest* = kardiogene [[Synkope]] bei VT/VF
 	- *[[Stroke]]:* Cerebrale Ischämie vertebrobasilär / Steal-Syndrome / [[Intrakranielle Blutung]]
-	- *SHT*
+	- *[[SHT]]*

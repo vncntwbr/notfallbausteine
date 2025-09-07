@@ -12,6 +12,7 @@ tags:
 > 6. **Peri-Arrest:** bei Tamponade Perikardiozentese 10-20 ml
 
 - **Def:** Aortendissektion Stanford A (ascend.) / B (nur descend.), penetr. Aortenulcus, intramurales Hämatom, akut sympt./rupt. Aortenaneurysma
+## Workup
 - **Ä:** 50-70 J., M, [[Hypertonie]] (70%), Bindegewebserkrankung[^1][^2], Vaskulitis
 - **[[Anamnese|A]]:** [S] abrupt (LR+ 2.6)[^3], reißend (LR+ 10), wandernd (LR+ 7.6), stärkst (90%), evtl. schmerzlos[^4], "+1"/ischäm ([[Synkope]][^5], Stroke, periph. Paraplegie, Horner-Syndr., [[Mesenterialischämie]], Extremitätenischämie, [[ACS]])
 - **[[Untersuchung|U]]:** RR-Seitendiff. kein Stellenwert, 1% STE inferior, 25% Troponinämie (Typ A), Diastolikum/AI

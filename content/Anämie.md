@@ -4,6 +4,7 @@ tags:
 ---
 - ! Hämorrhagischer Schock → [[Blutungsmanagement]]
 - I **Def:** W Hb <12 g/dl / M Hb <13.5 g/dl, mikro/hypo MCV↓ MCH↓, makro/hyper MCV↑ MCH↑
+## Workup
 - R *Anämische Hypoxie?* Unter Euvolämie: Tachypnoe, Schockindex, Ischämiezeichen [[EKG]] od. Laktat
 - **[[Anamnese|A]]:** [S] Dyspnoe? AP? [[Synkope]]? Stuhl? Urin? Epistaxis? Hämoptysen? Vaginal? B-Sympt? [A] Transfusionsreaktion/AK? [M] AK/TAH? NSAR? Cortison? CTX? [P] CKD? Onko? GI? Herzklappen? OP? [L] Menstruation? Schwanger? Stuhlgang? [E] Trauma? Infekt? [R] Alkohol? Reisen (Malaria, Babesiose etc.)? FA (Hb-pathien, G6PD)?
 - **[[Untersuchung|U]]:** Konjunktiven? Ikterus? Petechien? DRU? Splenomegalie?
@@ -12,12 +13,12 @@ tags:
 	- *Urin:* Hämoglobinurie? β-HCG
 	- *[[Labor]]:* Standard, [[BGA]] + 2x EDTA + BSG, [?] Blutgruppe, Hämolyse (fHb, LDH, dir. Coombs), Mangel (Serum Folsäure, Holo-TC, Ferritin), V.a. TTP/HUS (Fragmentocyten-Ausstrich)
 	- *[[POCUS]]:* fF? Splenomegalie? [[Volumenstatus]]?
-- **DD**
-	- *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
-	- *Myelosuppression:* stat./amb. Häma
-	- *Eisenmangel:* DD okkult [[GI-Blutung]]
-	- *Folsäuremangel:* Immer Ausschluss B12↓ vor Subst. 4 mg p.o. 1-0-0
-	- *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
+## DD
+- *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
+- *Myelosuppression:* stat./amb. Häma
+- *Eisenmangel:* DD okkult [[GI-Blutung]]
+- *Folsäuremangel:* Immer Ausschluss B12↓ vor Subst. 4 mg p.o. 1-0-0
+- *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
 
 > [!note]- Textbaustein Anämie allgemein
 > Laborchemisch HYPO/HYPERchrome MIKRO/MAKROcytäre Anämie mit Hb ### g/dl. Retikulozyten nw. Restliche Zellreihen nw. Kein H.a. Hämolyse. BSG nw. Urinstatus unauffällig. Bei klinisch kein H.a. anämische Hypoxie und Hb >7.0 g/dl keine Transfusionsindikation. Ursächlich vermuten wir a.e. ###.

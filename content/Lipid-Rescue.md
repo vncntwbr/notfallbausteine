@@ -2,9 +2,7 @@
 tags:
   - interventionen/meds
 ---
-- **Dos:** 20% Lipidlösung i.v. 1 ml/kg Initialbolus bis 3x + Laufrate 15 ml/kg bis max. 12.5 ml/kg kum., via eigenem/großen Zugang
-- **UAW**
-	- Umöglichkeit [[ECLS]]+[[Dialyse]]
-	- Fettembolie
-	- [[Anaphylaxie]]
-	- Laborfehler (insb. BZ, Mg2+, Krea, Lipase, [[BGA]])
+> [!danger] Lipid Rescue
+> - **Indikation:** Fulminante Intoxikation mit [[Lokalanästhetika]] (meiste Evidenz), [[Calciumantagonisten-Intoxikation]], [[TCA-Intoxikation]], Quetiapin
+> - **Dosis:** 20% Lipidlösung  50-100 ml bis 3x dann 15 ml/kg/h, max. 12.5 ml/kg, via eigenem Zugang >18G
+> - **UAW:** Unmöglichkeit [[ECMO]]+[[Dialyse]], Fettembolie, [[Anaphylaxie]], Laborfehler (insb. BZ, Mg2+, Krea, Lipase, Blutgase)

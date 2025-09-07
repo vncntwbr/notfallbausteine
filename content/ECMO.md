@@ -1,4 +1,4 @@
-> [!danger] Rapid Reference
+> [!danger] ECMO Troubleshooting
 > - **Low Flow:** Vorlast low? Membran defekt? Nachlast exzessiv? inadäquate RPM?
 > - **No Flow:** Clamp? Pumpversagen? Clot? Katheterfehllage/Dissektion? Arterieller Luft-Alarm?
 > 	- **Pumpversagen:** 

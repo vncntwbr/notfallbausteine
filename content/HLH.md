@@ -1,0 +1,1 @@
+- *3-F-Trias:* Fieber + Ferritin↑↑ + fallende Zellreihen

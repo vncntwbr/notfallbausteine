@@ -4,7 +4,7 @@ tags:
 aliases:
   - A
 ---
-> [!note]+ Textbaustein Anamnese
+> [!note]- Textbaustein Anamnese
 > Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER.
 > OPQRST + BEGLEITSYMPTOME.
 > 

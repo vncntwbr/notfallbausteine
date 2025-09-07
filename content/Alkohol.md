@@ -14,6 +14,7 @@ tags:
 > - **Schädlicher Alkoholkonsum (F10.1)** bei eingetretenem Schaden (gesundh./soz.)
 > - **Alkohol-Abhängigkeit (F10.2)** ≥3 von anhaltender Konsum trotz Schaden, Craving, Kontrollverlust, Toleranzentwicklung, körperl. Entzugssymptome, Vernachlässigung anderer Lebensbereiche
 
+## Workup
 - **[[Anamnese|A]]:** CAGE (≥2 von: cut down, annoyed, guilty, eye-opener), Suizidalität
 - **[[Untersuchung|U]]**
 ## Hilfsangebote

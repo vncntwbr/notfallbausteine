@@ -18,7 +18,61 @@ Willkommen!
 	- x/kg nur als Reference
 - Ausklappbare Callouts zum Lernen nutzen
 
-## Beispielseite
+## Beispielseite Leitsymptom
+
+> [!danger]+ Rapid Reference
+> 1. **Bla:** Bla
+
+> [!dd]- DD
+> - **Killer:** 
+> - **Häufig:**
+> - **Selten:** 
+
+> [!workup]-
+> - **[[Anamnese|A]]:** 
+> - **[[Untersuchung|U]]:**
+> - **[[EKG]]:**
+> - **[[POCUS]]:**
+> - **[[Labor]]:** 
+
+> [!management]-
+> - **Disposition:** 
+
+> [!note]- Textbaustein
+> Blabla
+
+## Beispielseite Erkrankung
+
+> [!danger]+ Rapid Reference
+> 1. **Bla:** Bla
+
+> [!dd]- DD
+> - DD 
+
+> [!workup]-
+> - **[[Anamnese|A]]:** 
+> - **[[Untersuchung|U]]:**
+> - **[[EKG]]:**
+> - **[[POCUS]]:**
+> - **[[Labor]]:** 
+
+> [!management]-
+> - **Disposition:** 
+
+> [!note]- Textbaustein
+> Blabla
+
+
+
+
+
+---
+
+
+
+
+
+
 > [!danger] Rapid Reference
 > 1. **That:** Do this
 
@@ -30,9 +84,6 @@ Willkommen!
 - **[[Untersuchung|U]]**
 - **W**
 - **T**
-
-> [!note]- Textbaustein
-
 
 
 ## Basics 

@@ -16,9 +16,12 @@ tags:
 > 5. **Spontan episodisch (sEVS)?** Anamnese zur DD Migräne, Menière, TIA
 
 - **[[Anamnese|A]]:** (S) OPQRST+, Diplopie, Dysphagie, Präsynkope, (M) Antikoagulation, Schwindel als UAW, (E) BPLS, Trauma, HWS-Manipulation, Intox, (R) CVRF
-- **[[Untersuchung|U]]:** Neurostatus, Gang+Stand
+- **W**
+	- **[[Untersuchung|U]]:** Neurostatus, Gang+Stand
 	- **HINTS** (nur bei AVS + Spontannystagmus)
 		- *Test of Skew:* Nachstellbewegung/Deviation (V.a. Stroke)
 		- *Head Impulse:* Muss pathologisch sein (gesichert Neuritis vestibularis, sonst Stroke)
-	- **Dix-Hallpike** (t-EVS)
-- ? **Red Flags:** FND, 4D (Diplopie, Dysarthrie Dysphagie, Dysmetrie), *Vertikaler* oder *Richtungs-wechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[Intrakranielle Blutung|ICB]]?), Nackensz. (Vertebralisdissektion?)
+	- **Lagerungsmanöver** (tEVS)
+		- *Dix-Hallpike + Epley*
+		- *Head-Roll + Gufoni*
+	- R **Red Flags:** FND, 4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[Intrakranielle Blutung|ICB]]?), Nackensz. (Vertebralisdissektion?)

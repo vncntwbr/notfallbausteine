@@ -7,4 +7,4 @@ tags:
 	- *Glykolyse↑:* β2-Agonisten, Hyperventilation, Sympathikus
 	- *Atmungskette↓:* Intox, Metformin, Linezolid, HIV-Therapeutika, Nitroprussid, Valproat, Topiramat, Thiaminmangel
 	- *Laktatmetabolismus↓:* Alkoholintox, Leberversagen, Sepsis
-	- *Falsch-hoch:* Ethylenglykol
+	- *Falsch-hoch:* [[Ethylenglykol]]

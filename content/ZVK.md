@@ -3,7 +3,9 @@ tags:
   - interventionen
 ---
 > [!note]- Textbaustein ZVK
-> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei 0000 cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend mittels [[EKG]] / Rö Tx.
+> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei 0000 cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend via AlphaCard / Rö Tx.
+
+^56fae3
 
 ^62ff8d
 - **Katheter**
