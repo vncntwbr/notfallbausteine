@@ -2,6 +2,7 @@
 tags:
   - sy/abdomen-haut-extr
   - dx/gastroenterologie
+  - status/started
 ---
 - **[[Anamnese|A]]:** 
 - **[[Untersuchung|U]]:** 

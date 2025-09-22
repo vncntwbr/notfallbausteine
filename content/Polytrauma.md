@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/trauma
+  - status/started
 ---
 - R **Red Flags:** 1./2. Rippe#, Clavicula#, Sternum#, Beckenring#, Makrohämaturie
 - **W**

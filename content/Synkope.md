@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/allgemein
+  - status/started
 ---
 
 - I **Def:** [[TLOC]] mit unmittelbare+vollständige Erholung

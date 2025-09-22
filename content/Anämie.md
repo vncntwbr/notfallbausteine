@@ -6,7 +6,7 @@ tags:
 - I **Def:** W Hb <12 g/dl / M Hb <13.5 g/dl, mikro/hypo MCV↓ MCH↓, makro/hyper MCV↑ MCH↑
 ## Workup
 - R *Anämische Hypoxie?* Unter Euvolämie: Tachypnoe, Schockindex, Ischämiezeichen [[EKG]] od. Laktat
-- **[[Anamnese|A]]:** [S] Dyspnoe? AP? [[Synkope]]? Stuhl? Urin? Epistaxis? Hämoptysen? Vaginal? B-Sympt? [A] Transfusionsreaktion/AK? [M] AK/TAH? NSAR? Cortison? CTX? [P] CKD? Onko? GI? Herzklappen? OP? [L] Menstruation? Schwanger? Stuhlgang? [E] Trauma? Infekt? [R] Alkohol? Reisen (Malaria, Babesiose etc.)? FA (Hb-pathien, G6PD)?
+- **[[Anamnese|A]]:** [S] Dyspnoe? AP? [[Synkope]]? Stuhl? Urin? Epistaxis? Hämoptysen? Vaginal? B-Sympt? [A] Transfusionsreaktion/AK? [M] AK/TAH? NSAR? Cortison? CTX? [P] CKD? Onko? GI? Herzklappen? OP? [L] Menstruation? [[Schwanger]]? Stuhlgang? [E] Trauma? Infekt? [R] Alkohol? Reisen (Malaria, Babesiose etc.)? FA (Hb-pathien, G6PD)?
 - **[[Untersuchung|U]]:** Konjunktiven? Ikterus? Petechien? DRU? Splenomegalie?
 - **W**
 	- *[[EKG]]:* Ischämie? HRST?

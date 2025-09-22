@@ -2,7 +2,7 @@
 tags:
   - dx/neurologie
 ---
-- **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. Antikoagulation letzte Dosis, (E) Vorzustand
+- **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. [[Antikoagulation]] letzte Dosis, (E) Vorzustand
 - **T**
 	- *[[Blutungsmanagement]]:* Antagonisierung, Thrombos >100/nl
 	- *RRsys:* Ziel 130-150, bei initial >220 Ziel 140-180

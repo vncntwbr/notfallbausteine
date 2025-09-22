@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/allgemein
+  - status/started
 ---
 > [!danger] Rapid Reference
 > 1. **Exposition stoppen**

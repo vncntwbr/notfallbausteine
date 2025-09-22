@@ -2,8 +2,8 @@
 tags:
   - basics
 ---
-> [!note]- Textbaustein EKG
-> nfSR. PQ nw. QRS schmal, Achse IT/ST, regelrechte R-Progression mit R/S-Umschlag in V3/V4. ST isoelektrisch. T konkordant. QTc visuell nw.
+> [!note]+ Textbaustein EKG
+> nfSR. PQ nw. QRS schmal. Achse IT/ST. R/S in V3/V4. ST isoelektrisch. T konkordant. QTc visuell nw.
 
 ^1b04ab
 

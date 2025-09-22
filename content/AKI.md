@@ -1,13 +1,14 @@
 ---
 tags:
   - sy
+  - checkliste
 ---
-> [!danger] Rapid Reference
+> [!danger] Checkliste
 > 1. **MAP** halten
-> 2. **[[BGA]]:** [[Hyperkaliämie]]? ggf. NaBic bei urämischer [[Metabolische Azidose]]
-> 3. **Dx:** [[POCUS]] postrenal? DK bei Harnverhalt
+> 2. **[[BGA]]:** [[Hyperkaliämie]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
+> 3. **Dx:** [[POCUS]] postrenal (DK)? U-Status intrarenal? [[POCUS]] [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
-> 5. **P:** Phosphatbindner ab >6 mg/dl
+> 5. **P:** Phosphatbindner ab P >6 mg/dl
 
 > [!workup]
 > - **[[Anamnese|A]]:** Vorwerte?

@@ -2,9 +2,32 @@
 tags:
   - basics
   - sy/allgemein
+  - status/started
+  - druck
 aliases:
   - Reanimation
 ---
+> [!danger] Erstmaßnahmen
+> 1. **KOLLAPS** Zeit? Beobachtet? CPR? AED? No-Flow?
+> 2. **PatientenWILLE?**
+> 3. **ECPR?** <65 J., nicht frail, beobachtet, VT/VF, Ursache
+> 4. **SCHOCKS:** Vector Change? DSED?
+> 5. **MEDS:** *Lidocain* #3: 100 mg, #5: 50 mg
+>    *Adrenalin-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
+
+> [!workup] Reversible Ursachen
+> - **AB:** Hypoxie? Pneumothorax? | **C:** Tamponade? Hypovolämie?
+> - **[[LAE]]?** rt-PA 50 mg 200 ml/h | **OMI?** → [[ECMO]]?
+> - **[[Hyperkaliämie]]?** Calciumgluconat 10% 30 ml + Insulin 10 IE + 20g Glucose + NaBic 8.4% 50-100 ml (spülen) | **[[Hypokaliämie]]?** KCl 40 mmol + MgSO4 2g / 8 mmol KI
+> - **BGA:** Blutzucker? [[Intoxikation]]?
+> - **[[Hyperthermie]]?** Kühlen!, bis 3x NaCl 3% 100 ml | **[[Hypothermie]]?** <30°C kein Epi, 30-35° alle 8 min
+
+> [!management] CPR-Quali optimieren!
+> - **Ziel** etCO2 >20, DBP >35 mmHg, Puls unter CPR
+> - Druckpunkt? Ermüdung? ggf. Magensonde, Arterie li.
+> - **CPRIC:** esKETAmin 0.5 mg/kg
+
+
 - Carotid Continuous Doppler[^1]
 - [[CPRIC]]
 - Primär Asystolie 0.6% gutes neurolog. Outcome[^2] – Vergleich [[Thorakotomie]] 👀

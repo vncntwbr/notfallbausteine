@@ -1,6 +1,9 @@
 ---
 tags:
   - interventionen/meds
+aliases:
+  - Digitoxin
+  - Herzglykoside
 ---
 - **KI:** Bradykardie, [[VT]], avisierte Rhythmuskontrolle/[[Kardioversion (eKV)]], [[AKI]], [[Hypokaliämie]], [[HypoMg2+]], [[Hypercalcämie]], Thyreotoxikose
 - **I:** HF-Senkung bei chron. persist. VHF, ideal HFrEF (pos. Inotropie) + [[Tachykardie]] mild-moderat + GFR opB

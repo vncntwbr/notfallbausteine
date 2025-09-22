@@ -4,9 +4,9 @@ tags:
 ---
 - [[Arterie IBP]]
 - [[ZVK]]
-- [[i.o.-Zugang]]
+- [[i.o.]]
 - [[Port]]
 ---
 ![[Arterie IBP#^76aae9]]
 ![[ZVK#^56fae3]]
-![[i.o.-Zugang#^dc23ba]]
+![[i.o.#^dc23ba]]

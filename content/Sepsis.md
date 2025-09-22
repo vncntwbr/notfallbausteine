@@ -3,6 +3,7 @@ tags:
   - dx
   - sy/allgemein
   - dx/infektiologie
+  - status/started
 ---
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges

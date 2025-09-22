@@ -10,7 +10,7 @@ tags:
 - **T**
 	- [[Kardioversion (eKV)]]
 	- Mg2+ 2 g empirisch
-	- *Antikoagulation:* DOAK min. 4 Wochen, länger wenn CHADS-65 pos.
+	- *[[Antikoagulation]]:* DOAK min. 4 Wochen, länger wenn CHADS-65 pos.
 
 [^1]: Stiell, I.G., de Wit, K., Scheuermeyer, F.X. _et al._ 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practices Checklist. _Can J Emerg Med_ **23**, 604–610 (2021). https://doi.org/10.1007/s43678-021-00167-y
 

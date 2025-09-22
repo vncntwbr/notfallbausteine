@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/trauma
+  - status/started
 aliases:
   - Schädel-Hirn-Trauma
 ---

@@ -5,6 +5,7 @@ title: Vincent's Quartz
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
 ![[POCUS#^aa3283]]
+![[TTE#^88177b]]
 
 ---
 Willkommen! 

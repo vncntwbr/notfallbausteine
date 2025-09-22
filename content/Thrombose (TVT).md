@@ -4,10 +4,10 @@ tags:
 ---
 
 - K **Killer:** Phlegmasia coerulea dolens, [[LAE]]
-- **[[Anamnese|A]]:** [S] Dyspnoe, Husten, [[Synkope]] (LAE)? B-Sympt.? [M] Hormone? AK? [P] Krebs? GFR<30? Rez. Aborte (Antiphospholipid)? Gerinnungsdx? [E] Immobil/Trauma? [R] FA? Schwanger?
+- **[[Anamnese|A]]:** [S] Dyspnoe, [[Husten]], [[Synkope]] (LAE)? B-Sympt.? [M] Hormone? AK? [P] Krebs? GFR<30? Rez. Aborte (Antiphospholipid)? Gerinnungsdx? [E] Immobil/Trauma? [R] FA? [[Schwanger]]?
 - **[[Untersuchung|U]]:** Meyer (Gastrocnemius), Payr (Plantar), Homans (Dorsalextension hoch), [VP] SpO2↓, HF↑, [[EKG]] RHB
 - **W**[^2]
-	1. (1 von:)  [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2 / Klinik+ / Armvenen / Schwanger / [[D-Dimer]]↑[^1]
+	1. (1 von:)  [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2 / Klinik+ / Armvenen / [[Schwanger]] / [[D-Dimer]]↑[^1]
 	2. [[Kompressionssonografie]], wenn neg.: Kontroll-Sono amb. 4-7d
 	3. *Proximal VFC/Becken/VCI:* CT-/MR-Venogr (+CTPA), K GCh
 	4. *[[LAE]]?* gesichert bei Klinik + TVT, CTPA nur bei RHB ?Thrombektomie
@@ -16,7 +16,7 @@ tags:
 		- *Isoliert Mm. gastrocnemius/soleus:* 1 Wo NMH, [RF] 4 Wo NMH/DOAK
 		- *Oberfl. Thrombophlebitis:* [<5 cm] Kühlung, NSAR, Octenisept-Umschläge, ggf. Heparinsalbe, keine AK, [>5 cm] Fondaparinux 2.5 mg s.c. 1x/d für 45d, bei <3 cm Abstand saphenofemorale Mündung wie TVT, [nicht Saphena magna/parva, nicht PVK-assoz.] DD Vaskulitiden/Autoimmun
 	- Kompressionsverband, Kompressionsstrumpf ambulant, keine Immobilisation
-	- *I Stationär:* Ausdehnung Becken, ven. Stauung↑, Blutung, [[LAE]], [[CKD]]/CLV (relativ), Schwanger (relativ), Progress/Rezidiv unter AK
+	- *I Stationär:* Ausdehnung Becken, ven. Stauung↑, Blutung, [[LAE]], [[CKD]]/CLV (relativ), [[Schwanger]] (relativ), Progress/Rezidiv unter AK
 ---
 > [!note]- Textbaustein Thromboseausschluss
 > Vorstellung/EW bei V.a. TVT # links/rechts. Hohe Vortest-Wahrscheinlichkeit (Wells-TVT ≥2 Pkt.) # ODER Geringe Vortest-Wahrscheinlichkeit (Wells-TVT ≤1 Pkt.) jedoch pos. D-Dimer. POCUS 3-Pkt-Kompressionssonografie der Beinvenen ohne H.a. TVT. 

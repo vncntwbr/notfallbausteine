@@ -10,8 +10,11 @@ tags:
 > 5. **Azidose:** Isotones NaBic 1 L (NaBic 8.4% 150 ml + G5% 850 ml)
 > 6. **Niere:** Furosemid 80 mg / [[Nephron-Bomb]] bzw. Dialyse
 
-- **Def:** Mild <6.0, Moderat 6.0-6.4, Schwer ≥6.5 od. [[EKG]]
-- **T**
-	- VEL vs. NaCl[^1]
+> [!workup]
+> - **Def:** Mild <6.0, Moderat 6.0-6.4, Schwer ≥6.5 od. [[EKG]]
+
+
+> [!management]
+> - VEL vs. NaCl[^1]
 
 [^1]: https://x.com/DrKanaris/status/1267132907367383047

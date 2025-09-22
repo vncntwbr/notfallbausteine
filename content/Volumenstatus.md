@@ -1,7 +1,12 @@
 ---
 tags:
   - basics
+  - druck
 ---
+![[VExUS]]
+
+---
+
 - Passive Leg Raise
 - Fluid Responsiveness (Benefit?) → LVOT VTI
 - Fluid Tolerance (Harm?) → [[VExUS]]

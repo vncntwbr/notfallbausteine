@@ -10,7 +10,7 @@ tags:
 			- Extrakardial (z.B. LAE, Aortensyndrom, pHTN, Sepsis)
 		- *Reflexsynkope*
 			- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
-			- Situativ (z.B. Miktion, Husten, nach Belastung)
+			- Situativ (z.B. Miktion, [[Husten]], nach Belastung)
 			- Carotissinussyndrom (Atherosklerose + mech. Reizung z.B. durch Kopfdrehung, Krawatte, Rasieren)
 		- *Orthostatische Synkope*
 			- Autonome Dysregulation (z.B. Parkinson, MS, Diabetes)

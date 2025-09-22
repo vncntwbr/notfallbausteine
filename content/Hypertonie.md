@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/allgemein
+  - status/started
 ---
 - K **Killer:** [[Aortensyndrom]], [[ACS]], [[Lungenödem]], PRES, [[ICB]], [[(Prä-)Eklampsie]]
 - **T Langzeit**[^3]
@@ -19,7 +20,7 @@ tags:
 		- [[ACS]]
 		- [[Aortensyndrom]]
 		- [[Herzinsuffizienz]]
-		- Präeklampsie bei Schwanger
+		- Präeklampsie bei [[Schwanger]]
 		- [[Intrakranielle Blutung|ICB]]/[[Intrakranielle Blutung|SAB]]
 		- PRES
 		- Maligne Hypertonie (Visusminderung + AKI + RRsys >200)

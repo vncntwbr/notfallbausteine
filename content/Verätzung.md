@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/trauma
+  - status/started
 ---
 > [!danger] Rapid Reference
 > 1. **Spülen** mit Wasser

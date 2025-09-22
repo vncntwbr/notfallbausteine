@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/trauma
+  - status/started
 ---
 - R **Red Flags**
 	- *Risikogruppen:* Kinder, Frauen, Pflegebedürftige, Behinderte

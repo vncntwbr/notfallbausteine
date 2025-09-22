@@ -1,14 +1,15 @@
 ---
 tags:
   - sy/kopf-neuro
+  - status/started
 ---
 
  - **[[Anamnese|A]]**
 	- *S:* OPQRST+, vegetativ ([[Ü+E]]), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
-	- *M:* Antikoagulation? Bedarfsmed?
+	- *M:* [[Antikoagulation]]? Bedarfsmed?
 	- *E:* H.a. CO?
 	- *R:* Alkohol, Drogen, Rauchen, FA (Migräne, Aneurysma)
-- R **Red Flags:** Alter >50 J., Tumor/Immunsupp., Schwanger, plötzlich, Fieber, Meningismus, Sehstörung, refraktär, Schmerz anders als bekannt[^1]
+- R **Red Flags:** Alter >50 J., Tumor/Immunsupp., [[Schwanger]], plötzlich, Fieber, Meningismus, Sehstörung, refraktär, Schmerz anders als bekannt[^1]
 - **DD**
 	- *Vernichtungs-:* [[SAB]], RCVS, PRES, Sinusvenenthrombose
 	- *Plötzl. Halbseiten-:* Carotis-/Vertebralisdissektion, Trigeminusneuralgie, Riesenzellarteriitis

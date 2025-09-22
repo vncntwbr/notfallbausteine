@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/pocus
+---
+
 > [!danger] FATE Protocol
 > 1. **S4C** 
 > 2. **IVC**
@@ -5,6 +10,13 @@
 > 4. **PLAX:** [[EPSS]], LVOT Ø 
 > 5. **PSAX** 
 > 6. **Pleura bds.**
+
+> [!note]+ Textbaustein POCUS TTE
+> **Fokussiertes TTE/POCUS (Weber):** Kein Perikarderguss, kein H.a. RHB, kein H.a. regionale WBS, EF orientierend normodynam. EPSS ### mm (entspricht geschätzter EF ca. ##%), TAPSE ### mm. IVC ca. 1.5-2.0 cm, <50% atemmoduliert.
+
+^88177b
+
+- https://www.pocus101.com/pocket-cards/ #Todo 
 
 ### Complete 2D Imaging Protocol[^1]
 1. **PLAX:** increased depth, LV, zoomed AV, zoomed MV, RVOT, RV inflow

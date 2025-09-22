@@ -1,5 +1,5 @@
 - Retentionsmagen ohne [[Ileus]] / GI-Obstruktion
-- **Ä:** DM (häufig), post-OP, GI-Ulcus, GERD, [[Pankreatitis]], Schwanger, Neuro
+- **Ä:** DM (häufig), post-OP, GI-Ulcus, GERD, [[Pankreatitis]], [[Schwanger]], Neuro
 - **T**
 	- Magensonde
 	- Haloperidol 2.5-5.0 mg i.m.

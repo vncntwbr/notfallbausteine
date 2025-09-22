@@ -4,13 +4,14 @@ tags:
 aliases:
   - A
 ---
-> [!note]- Textbaustein Anamnese
+> [!note]+ Textbaustein Anamnese
 > Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER.
 > OPQRST + BEGLEITSYMPTOME.
 > 
 > **Vegetativ:** Im Alltag voll belastbar. Keine Dyspnoe, keine AP, keine Palpitationen. Keine Infektsymptome. Keine B-Symptomatik. Miktion + Stuhlgang unauffällig.
+> **Medikation:** Adhärenz glaubhaft, keine neuen Medikamente, keine OTC-Präparate.
 > **Noxen:** Nikotin (0000 PY), Alkohol (0000), keine weiteren Substanzen.
-> **Sozial:** Selbstversorgend in häuslicher Gemeinschaft. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
+> **Sozial:** Selbstversorgend in häuslicher Gemeinschaft. Beruf: ###, berentet. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
 
 ^db877f
 

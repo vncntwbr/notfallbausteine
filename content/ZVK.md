@@ -2,8 +2,14 @@
 tags:
   - interventionen
 ---
+- **Insertionstiefe** (160-180 cm)
+	- *VJI re:* Größe / 10 [cm] = 16-18 cm
+	- *VJI li:* (Größe / 10) + 4 [cm] = 20-22 cm
+	- *VSC li:* (Größe / 10) + 2 [cm] = 18-20 cm
+	- *VSC re:* (Größe / 10) – 2 [cm] = 14-16 cm
+
 > [!note]- Textbaustein ZVK
-> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei 0000 cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend via AlphaCard / Rö Tx.
+> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei ### cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend via AlphaCard / Rö Tx. Katheter kann sofort bestückt werden. Bitte tägliche Kontrolle von Einstichstelle und weiter bestehender Indikation.
 
 ^56fae3
 

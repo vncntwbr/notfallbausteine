@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/abdomen-haut-extr
+  - status/empty
 aliases:
 ---
 > [!danger]+ Rapid Reference

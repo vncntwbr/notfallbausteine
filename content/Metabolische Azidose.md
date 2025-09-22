@@ -1,6 +1,10 @@
 ---
 tags:
   - sy
+  - status/done
+aliases:
+  - Anionenlücke
+  - Met Azi
 ---
 > [!dd] Erhöhte Anionenlücke (AGMA)
 > - **Cave:** 

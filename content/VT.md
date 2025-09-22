@@ -3,7 +3,7 @@ tags:
   - dx/kardiologie
 ---
 
-> [!danger] Rapid Reference
+> [!workup] 
 > - **VT pos** (70% aller Breitkomplextachykardien)
 > 	- aVR pos / QRS-Achse Nordwest (90% spez.)
 > 	- R-to-Peak >50 ms in II
@@ -12,11 +12,10 @@ tags:
 > 	- VE (KHK), Alter
 > 	- Ugly looking
 > 	- Rabbits Ear li > re
-> - **VT DD**
-> 	- WPW
-> 	- Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
-> 	- Drugs (I-Antiarrhythmika, [[TCA-Intoxikation]])
-> 	- [[Elektrolyte]] ([[Hyperkaliämie]])
-> 	- Raised STE
-> 	
-- **DD:** [[Hyperkaliämie]]? Intoxikation?
+
+> [!dd] DD (WIDER)
+> - WPW
+> - Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
+> - Drugs (I-Antiarrhythmika, ==[[TCA-Intoxikation]]==)
+> - [[Elektrolyte]] (==[[Hyperkaliämie]]==)
+> - Raised STE
