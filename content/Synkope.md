@@ -20,7 +20,7 @@ tags:
 
 ---
 > [!note]- Textbaustein Low-Risk ambulant
-> Vorstellung nach Synkope. Monitoring, [[EKG]] und Labor ohne relevante Pathologien oder H.a. rhythmogene/strukturelle Ursache. Körperliche Untersuchung ohne H.a. Sturzfolgen, Vitien oder Infektion. Anamnestisch bei ### a.e. als low-risk Synkope einzuordnen. Zusammenfassend kein H.a. abwendbar gefährlichen Verlauf, Pat. beschwerdefrei, ambulantes Management.
+> Vorstellung nach Synkope. Monitoring, EKG und Labor ohne relevante Pathologien oder H.a. rhythmogene/strukturelle Ursache. Körperliche Untersuchung ohne H.a. Sturzfolgen, Vitien oder Infektion. Anamnestisch bei ### a.e. als low-risk Synkope einzuordnen. Zusammenfassend kein H.a. abwendbar gefährlichen Verlauf, Pat. beschwerdefrei, ambulantes Management.
 > 
 > **Empfehlungen:**
 > - Auf ausreichende Trinkmenge (min. 1,5 Liter/Tag, bei Hitze min. 2 Liter/Tag) achten. Lagewechsel (z.B. Aufstehen) langsam und vorsichtig durchführen
@@ -29,12 +29,12 @@ tags:
 > - Stellen Sie sich bei Auftreten von Brustschmerzen oder Luftnot umgehend wieder in unserer Klinik für Notfallmedizin vor bzw. verständigen Sie den Rettungsdienst (Tel. 112).
 
 > [!note]- Zusatz Rezidivierende Synkope und Fahrtauglichkeit
-> Bei rezidivierenden Synkopen empfehlen wir weitergehende ambulante Ursachenabklärung (z.B. Langzeit-[[EKG]], FKDS der Halsgefäße, kardiologische Vorstellung).
+> Bei rezidivierenden Synkopen empfehlen wir weitergehende ambulante Ursachenabklärung (z.B. Langzeit-EKG, FKDS der Halsgefäße, kardiologische Vorstellung).
 > 
 > Bei häufigen, unprovoziert und/oder ohne Prodromi auftretenden Synkopen bzw. Hochrisikotätigkeit (schwere Maschinen, Berufskraftfahrer, Piloten etc.) ist aus medizinischer Sicht für min. 6 Monate die Fahrtauglichkeit NICHT gegeben. Eingehend mit Pat. besprochen. Empfehlen ambulante Reevaluation.
 
 > [!note]- Textbaustein High-/Intermediate-Risk stationär
-> Vorstellung nach Synkope. In Monitoring, [[EKG]], Labor und POCUS keine relevanten Pathologien. Bei ### Indikation zur stationären Diagnostik.
+> Vorstellung nach Synkope. In Monitoring, EKG, Labor und POCUS keine relevanten Pathologien. Bei ### Indikation zur stationären Diagnostik.
 
 ---
 - Carotissinusmassage ist sinnlos in Differenzierung und gefährlich[^1]

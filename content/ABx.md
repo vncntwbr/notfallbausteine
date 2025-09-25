@@ -38,7 +38,7 @@ tags:
 	- *Meningitis:* Dexamethason 10 mg q6h vorab + Ceftriaxon 2g q12h + Ampicillin 2g q4h + Aciclovir 10 mg/kg q8h
 	- *Endokarditis nativ:* Ampicillin 3g q6h + Flucloxacillin 3g q6h + Gentamicin 3 mg/kg/d
 	- *Sepsis ohne Fokus:* Pip/Taz 4.5g q6h ± Ciprofloxacin 400 mg q8h
-	- *Sepsis bei Neutropenie:* Meropenem 2g q8h + Ciprofloxacin 400 mg q8h + Voriconazol 6 mg/kg q12h
+	- *Sepsis bei [[Neutropenie]]:* Meropenem 2g q8h + Ciprofloxacin 400 mg q8h + Voriconazol 6 mg/kg q12h
 ---
 - Fluorchinolone wahrscheinlich nicht relevant mehr Aortendissektionen, Benefit>Risk[^1]
 - PCT-Guided ABx Dauer ist sicher in Sepsis[^2]

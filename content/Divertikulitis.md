@@ -24,7 +24,7 @@ tags:
 > - **[[Labor]]:** 
 
 > [!management]+
-> - **1a:** Ambulant (Analgesie? Versorgung? p.o.-Aufnahme? Komorb.? amb. FU?), ggf. Mesalazin (OLU!) 800 mg 1-0-1
+> - **1a:** Ambulant ([[Analgesie]]? Versorgung? p.o.-Aufnahme? Komorb.? amb. FU?), ggf. Mesalazin (OLU!) 800 mg 1-0-1
 > - **1b:** u.U. ambulant (Kriterien s. 1a), bei IFP↓ SDM bzgl. ABx
 > 	- *ABx:* [Ampicillin/Sulbactam 3 g q8h i.v.] oder [Ceftriaxon 2 g/d i.v. + Metronidazol 500 mg q8h i.v.] oder [Amoxiclav 875 mg 1-1-1 p.o. für 5d]
 > - **2:** Stationär, Nü, BK, ABx [Ceftriaxon 2 g/d i.v. + Metronidazol 500 mg q8h i.v.] oder [Piperacillin/Tazobactam 4.5 g i.v.]

@@ -45,7 +45,7 @@ tags:
 
 ---
 - aHTN >140 mmHg intrahospital tolerieren[^1]
-- Epistaxis ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. Analgesie (insb. bei Nasentamponade)
+- Epistaxis ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. [[Analgesie]] (insb. bei Nasentamponade)
 
 [^1]: Canales MT, Yang S, Westanmo A, et al. As-Needed Blood Pressure Medication and Adverse Outcomes in VA Hospitals. _JAMA Intern Med._ 2025;185(1):52–60. doi:10.1001/jamainternmed.2024.6213
 [^2]: Einziger [[Betablocker]] mit Evidenz für Hypertonie

@@ -1,3 +1,11 @@
+> [!danger] Indikation EK
+> - **Hb >8 g/dl** keine Transfusion außer Schock/[[Blutungsmanagement]]
+> - **Hb 7-8 g/dl** bei eingeschränkter Kompensation (KHK, HFrEF, Stroke etc.) oder [[Anämie|Anämische Hypoxie]]
+> - **Hb <7 g/dl** grundsätzlich, außer chronische Anämie / Hämatolog. (z.B. [[Sichelzellkrise]] bis <5 g/dl toleriert)
+
+^05ff50
+
+
 - Restriktiver Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
 - [[TK]]
 

@@ -4,6 +4,10 @@ tags:
 aliases:
   - Kardiale Dekompensation
 ---
+> [!note]- Diagnose
+> **Aktuell:** Akute rechts-/links-/bi-ventrikuläre Kardiale Dekompensation NYHA ###
+> - Ätiologie: ###
+
 - 50% euvoläm
 - **T**
 	- *Therapieprinzipien:* Preload↓, Afterload↓, ggf. LVEF↑ (Amal Mattu)[^2]

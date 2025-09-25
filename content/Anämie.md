@@ -1,24 +1,40 @@
 ---
 tags:
   - sy
+aliases:
 ---
-- ! Hämorrhagischer Schock → [[Blutungsmanagement]]
-- I **Def:** W Hb <12 g/dl / M Hb <13.5 g/dl, mikro/hypo MCV↓ MCH↓, makro/hyper MCV↑ MCH↑
-## Workup
-- R *Anämische Hypoxie?* Unter Euvolämie: Tachypnoe, Schockindex, Ischämiezeichen [[EKG]] od. Laktat
-- **[[Anamnese|A]]:** [S] Dyspnoe? AP? [[Synkope]]? Stuhl? Urin? Epistaxis? Hämoptysen? Vaginal? B-Sympt? [A] Transfusionsreaktion/AK? [M] AK/TAH? NSAR? Cortison? CTX? [P] CKD? Onko? GI? Herzklappen? OP? [L] Menstruation? [[Schwanger]]? Stuhlgang? [E] Trauma? Infekt? [R] Alkohol? Reisen (Malaria, Babesiose etc.)? FA (Hb-pathien, G6PD)?
-- **[[Untersuchung|U]]:** Konjunktiven? Ikterus? Petechien? DRU? Splenomegalie?
-- **W**
-	- *[[EKG]]:* Ischämie? HRST?
-	- *Urin:* Hämoglobinurie? β-HCG
-	- *[[Labor]]:* Standard, [[BGA]] + 2x EDTA + BSG, [?] Blutgruppe, Hämolyse (fHb, LDH, dir. Coombs), Mangel (Serum Folsäure, Holo-TC, Ferritin), V.a. TTP/HUS (Fragmentocyten-Ausstrich)
-	- *[[POCUS]]:* fF? Splenomegalie? [[Volumenstatus]]?
-## DD
-- *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
-- *Myelosuppression:* stat./amb. Häma
-- *Eisenmangel:* DD okkult [[GI-Blutung]]
-- *Folsäuremangel:* Immer Ausschluss B12↓ vor Subst. 4 mg p.o. 1-0-0
-- *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
+
+> [!danger]+ Rapid Reference
+> -  **Hämorrhagischer Schock?** → [[Blutungsmanagement]]
+> - **Def:** [W] Hb <12 g/dl ≈ <7.5 mM, [M] Hb <13 g/dl ≈ <8.0 mM
+> - **Klassifikation:** mikro/hypo MCV↓ MCH↓ ↔︎ makro/hyper MCV↑ MCH↑
+
+> [!dd] DD
+> - *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
+> - *Myelosuppression:* stat./amb. Häma
+> - *Eisenmangel:* DD okkult [[GI-Blutung]]
+> - *Folsäuremangel:* Immer Ausschluss B12↓ vor Subst. 4 mg p.o. 1-0-0
+> - *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
+
+> [!workup]+
+> - **[[Anamnese|A]]:** [S] Dyspnoe? AP? Synkope? Urin? Stuhl? Hämoptysen? Epistaxis? Menorrhoe? B-Sympt.? [A] Transfusion? [M] AK/TAH? NSAR? Cortison? CTX? Myelotox.? [P] CKD? Onko? GI? Herzklappen? Aorta? Z.n. OP? [L] Menstruation? Stuhl? [E] Trauma? Infekt? [R] Alkohol? Reisen? Familie?
+> - **[[Untersuchung|U]]:** Ikterus? Blutungsstigmata? Konjunktiven? DRU? Splenomegalie?
+> 	- *Anämische Hypoxie?* Euvolämie + AF↑, HF↑, RR↓, EKG Ischämie, Laktat
+> - **[[EKG]]:** Ischämie? HRST?
+> - **[[POCUS]]:** [[Volumenstatus]], [[eFAST]], Splenomegalie?
+> - **Urin:** Hämoglobinurie? [W] β-HCG?
+> - **[[Labor]]:** 2x EDTA, BSG, Profil "Bauchschmerz", Blutgruppe, ggf. Kreuzblut
+> 	- *Hämolyse?* fHb, LDH, Haptoglobin, direkter Coombs-Test
+> 	- *V.a. Mangel:* Holo-TC, Folsäure, Ferritin (Routine)
+> 	- *V.a. TTP/HUS:* Fragmentozyten Blutausstrich
+
+> [!management]+
+> - **Akute Blutung / Hämorrhagischer Schock?** [[Blutungsmanagement]]
+> - **O2-Gabe** bei Hb <8 g/dl
+> - **[[Transfusion]]** indiziert?
+> - **Disposition:** 
+
+![[Transfusion#^05ff50]]
 
 > [!note]- Textbaustein Anämie allgemein
 > Laborchemisch HYPO/HYPERchrome MIKRO/MAKROcytäre Anämie mit Hb ### g/dl. Retikulozyten nw. Restliche Zellreihen nw. Kein H.a. Hämolyse. BSG nw. Urinstatus unauffällig. Bei klinisch kein H.a. anämische Hypoxie und Hb >7.0 g/dl keine Transfusionsindikation. Ursächlich vermuten wir a.e. ###.
@@ -32,7 +48,6 @@ tags:
 > - Wahrnehmung der regelmäßigen Darmkrebs-Vorsorgen 
 > - Bei Auftreten von Kreislaufbeschwerden, Ohnmacht, Brustschmerzen, Schwindel insb. beim Aufstehen, deutlicher Blässe, Luftnot, blutigem oder schwarz verfärbten Stuhlgang umgehende Wiedervorstellung über eine Klinik für Notfallmedizin.
 
-
 > [!note]- Textbaustein Makrozytär ambulant
 > Bei makrozytärer Anämie und erniedrigter # Folsäure / Holo-TC diagnostizierten wir einen # Folsäure-/Vitamin-B12-Mangel. Ursächlich vermuten wir a.e. [Alkohol?]. Bei klinisch kein H.a. anämische Hypoxie und Hb >7.0 g/dl keine Indikation zur Transfusion oder stationärer Aufnahme.
 > 
@@ -43,3 +58,7 @@ tags:
 > - Ausgleich des Folsäuremangels: Folsäure-Tabletten 4 mg p.o. 1-0-0 bis auf weiteres, Anpassung der Medikation ambulant [Nur nach Ausschluss okkulter B12-Mangel via Holo-TC!] 
 > - Wahrnehmung der regelmäßigen Darmkrebs-Vorsorgen 
 > - Bei Auftreten von Kreislaufbeschwerden, Ohnmacht, Brustschmerzen, Schwindel insb. beim Aufstehen, deutlicher Blässe, Luftnot, blutigem oder schwarz verfärbten Stuhlgang umgehende Wiedervorstellung über eine Klinik für Notfallmedizin.
+
+[^1]
+
+[^1]: - [Querschnitts-Leitlinien zur Therapie mit Blutkomponenten der Bundesärztekammer 2020](https://www.bundesaerztekammer.de/fileadmin/user_upload/_old-files/downloads/pdf-Ordner/MuE/Querschnitts-Leitlinien_BAEK_zur_Therapie_mit_Blutkomponenten_und_Plasmaderivaten-Gesamtnovelle_2020.pdf)

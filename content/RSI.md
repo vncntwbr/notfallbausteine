@@ -34,7 +34,7 @@ tags:
 > - [ ] Parameter am **BEATMUNGSGERÄT**
 > - [ ] Magensonde?
 > - [ ] **MEDIKAMENTE** zur Aufrechterhaltung 
->       Sedierung + Analgesie
+>       Sedierung + [[Analgesie]]
 > - [ ] **CUFFDRUCK**
 
 > [!note]- Textbaustein

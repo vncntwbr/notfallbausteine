@@ -12,7 +12,7 @@ tags:
 	- *Labor:* [[BGA]], Bauchschmerz, PCT, LDH, freies Hb, HbS, Blutgruppe
 - **T**
 	- O2 nur bis SpO2 >95%, Hypervolämie meiden (RF ATS), Hypoventilation meiden durch Atemtherapie (RF ATS)
-	- *Analgesie:* PCM, Metamizol, Opioide, Esketamin, PCIA
+	- *[[Analgesie]]:* PCM, Metamizol, Opioide, Esketamin, PCIA
 	- *Fieber/Infekt:* Stationär (OPSI), wichtigste Keime Pneumokokken, HiB, Salmonellen
 	- *Transfusion:* Indikation sehr streng, nie bei Hb >5.5 g/dl und gutem AZ, möglichst erweiterte Blutgruppenbestimmung
 	- *Hb >10 g/dl:* ggf. Aderlass 5-10 ml/kg

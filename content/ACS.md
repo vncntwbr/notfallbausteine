@@ -18,12 +18,14 @@ tags:
 > 4. **E** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt. 
 
 > [!Management]
-> - **Analgesie:** PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
+> - **[[Analgesie]]:** PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
 > - **Ohne Dekomp.:** Metoprolol 5 mg-weise i.v. bis 15 mg (Präv. VT/VF, Infarktgröße), ggf. Nitro s.l.
 
 > [!note] Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"
 
+> [!note]- Textbaustein STEMI/OMI
+> Zusammenfassend Akutes Koronarsyndrom (ACS) mit STEMI-EKG (sign. STE in ###) / NSTE-EKG mit very-high-risk Features / STEMI-Äquivalent (###). Umgehende Herzkather-Aktivierung. 250 mg ASS und 5000 IE Heparin i.v. verabreicht. Analgesie mit ###. Nach Ausschluss von KI ### mg Metoprolol titriert i.v. Verlegung zur PCI in Arztbegleitung.
 ---
 - STEMI(–)OMI(+) haben Delays bis HKU[^2]
 [^1]

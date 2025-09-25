@@ -20,7 +20,7 @@ tags:
 > - **[[Labor]]:** [[BGA]], Bauchschmerz ±PCT
 
 > [!Management]+
-> - Analgesie, Flüssigkeit
+> - [[Analgesie]], Flüssigkeit
 > - *Antiemese:* MCP (Peristaltik↑, KI mech. Ileus/Diarrhoe), Dimenhydrinat (anticholinerg, KI geriatr.), Ondansetron (UAW Obstipation, WW serotonerg)
 
 > [!note]- Unklarer Bauchschmerz

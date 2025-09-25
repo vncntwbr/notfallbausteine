@@ -5,7 +5,7 @@ tags:
 - **Ä:** Idiopath./viral, TBC, autoimmun, Urämie, Med/Drogen, Tumor, Trauma
 - **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave STE, PR-Depr., [[POCUS]]
 	- *Myokarditis-Beteiligung:* Troponin, EF↓
-- **T:** Analgesie, Antiinflammation, Rezidiv↓
+- **T:** [[Analgesie]], Antiinflammation, Rezidiv↓
 	- ASS 1g 1-1-1 p.o.
 	- *Perikarditis:* Colchicin 0.5-1.0 mg/d
 	- *Myokarditis:* Stationär, ggf. Monitoring (HRST)
