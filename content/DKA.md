@@ -13,6 +13,17 @@ tags:
 > 
 > 4. **[[BGA]]-Kontrollen:** AG muss zugehen
 
+> [!workup]
+> 1. **Nachweis Ketoazidose:** [[Metabolische Azidose]] mit Anionenlücke, Ketonurie
+> 2. **Ätiologie?** Infekt? ED Diabetes? Incompliance/Fehlfunktion Insulin? Meds? Drogen?
+> - **Urin:** Ketone? HWI?
+> - **Labor:** [[BGA]] (Anionenlücke?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes)
+
+> [!stadien]
+> - **Leicht:** pH 7.2-7.3, HCO3- >15 mM
+> - **Mittel:** pH 7.1-7.2, HCO3- 10-15 mM
+> - **Schwer:** pH <7.1, HCO3- <5 mM
+
 ---
 - **W:** β-Hydroxybutyrat, Phosphat, Urin-Ketone (misst nur Acetoacetat), IFP
 	- *Okkult:* nw pH + nw HCO3- durch Erbrechen met. Alkalose (∆∆-AG), euglykäm (SGLT2i)
