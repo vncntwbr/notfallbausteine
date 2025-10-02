@@ -28,23 +28,23 @@ tags:
 <div style="page-break-after: always;"></div>
 
 > [!danger] Blutungskontrolle spezifisch
-> - 🐼 **Kopf/Hals**
+> - **Kopf/Hals**
 > 	- *Skalpierung:* Tacker, Naht, Lidocain+Adrenalin, Druckverband
 > 	- *[[Epistaxis]]:*
 > 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+Adrenalin, TXA p.i.
-> - 🔪 **Trauma**
+> - **Trauma**
 > 	- *Penetr. Junktional:* DK blocken+klemmen, Naht
 > 	- *Becken/Extremitäten Fx:* Beckenschlinge, Traction Splint
 > 	- *Arteriell Extremitäten:* Druck, hoch, TQ
 > 	- *MaxFax Fx:* Reponieren, [[RSI]] [[SALAD]], Epistats, Bite Blocks, Collar
-> - 🩺 **Medizinisch**
+> - **Medizinisch**
 > 	- *[[Hämoptysen]]:* TXA 1 g p.i., [[Bronchoskopie (BSK)]], [[RSI]] zurückhaltend
 > 	- *[[GI-Blutung]]:* Terlipressin 1-2 mg i.v., ÖGD, alternativ Ballontamponade
 > 	- *[[Intrakranielle Blutung]]:* RRsys <140 ([[SAB]]), <160 ([[ICB]])
-> - 🦩 **Gyn/Geburt**
+> - **Gyn/Geburt**
 > 	- *1. Trimester* = [[EUG]] → 
 > 	- TODO
-> - 👶 **Päd**
+> - **Päd**
 > 	- EK, FFP, TK, Cryo je 10-20 ml/kg
 > 	- TXA 15 mg/kg
 > 	- Calciumgluconat 10% 0.3 ml/kg
