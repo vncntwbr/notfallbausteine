@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/herz-thorax
+---
+
 > [!danger] Rapid Reference
 > - [ ] **LMA entfernen**, erwäge Guedel/Wendl
 > - [ ] **Esmarch** + **CPAP** 30 cmH2O ohne Pinsp

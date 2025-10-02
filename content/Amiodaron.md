@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/meds
+---
+
 - **KI**
 	- LQT, verlängert QT → Kardioversion oder Mg2+
 	- VHF mit unbekanntem Onset, Thromboembolie

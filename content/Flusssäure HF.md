@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/toxikologie
+---
+
  - I Rasche Resorption, Eindringen in Tiefe, [[Pain out of Proportion (POOP)]], lange Latenz (<20% 24h, <50% 1-8h, >50% sofort), systemisch HRST durch [[Hypocalcämie]]
  - **T**
 	 - *Systemisch:* Bei jeder Exposition Calciumgluconat 10% 10-20 ml i.v., dann nach [[BGA]] q1h

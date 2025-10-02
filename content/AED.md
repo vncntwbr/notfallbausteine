@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - Diagramme ungenau[^1]
 - AED + Ersthelferaktivierung erhöht Survival[^2]
 

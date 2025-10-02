@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/allgemein
+---
+
 > [!note]+ Textbaustein Fieber in Neutropenie Ambulant
 > ```
 > Zusammenfassend Fieber (### °C) bei Neutropenie (###) unter Chemotherapie mit ###. Entzündungsparameter ###. Asservation von BK und UK sowie PCR. Fokus a.e. ###/unklar. Initiierung einer antiinfektiven Therapie mit Amoxicillin/Clavulansäure + Ciprofloxacin.

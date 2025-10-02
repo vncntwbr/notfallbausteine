@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - **Kalium**
 	- [[Hyperkaliämie]]
 	- [[Hypokaliämie]]

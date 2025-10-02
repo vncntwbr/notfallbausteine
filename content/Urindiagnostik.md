@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 ![[U-Stix]]
 - **Bakteriurie:** nw >10^5/ml, asympt. nur relevant bei [[Schwanger]], Uro-OP
 - **Glucosurie:** Diabetes, Nierenerkrankung tubulär, [[Schwanger]]

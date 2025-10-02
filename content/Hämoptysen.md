@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/herz-thorax
+---
+
 > [!danger] Rapid Reference ("A vor C!")
 > - **Inhalation** TXA 1 g + Adrenalin 5 mg p.i. 
 > - **Lagerung** auf vermutl. blutende Seite

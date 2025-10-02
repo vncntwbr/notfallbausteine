@@ -1,6 +1,8 @@
 ---
 aliases:
   - Asthma bronchiale
+tags:
+  - dx/pulmologie
 ---
 > [!danger] Rapid Reference
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg

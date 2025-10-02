@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - *Dialysierbare Toxine:* [[Ethylenglykol]], Methanol, Salicylsäure, Lithium, Valproat, Thallium, Theophyllin, Barbiturate, Paracetamol, Carbamazepin
 - **Standardeinstellungen CVVHDF**
 	- Blutfluss 100 ml/min

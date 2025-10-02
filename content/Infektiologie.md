@@ -1,4 +1,9 @@
-  
+---
+tags:
+  - basics
+---
+
+
 - Characteristic infections associated with different animals[^1]
 	- Fledermaus = Rabies 
 	- Hase = Tularemia 

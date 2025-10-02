@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 ## Grundzeichen
 
 | Zeichen                                                                                                                                                                           | Bedeutung           |

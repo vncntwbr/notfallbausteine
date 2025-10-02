@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/pocus
+---
+
 - *Durchfürung:* In [[PLAX]] M-Mode cursor durch Mitralsegel, Messung von E-Point bis Septum (s. Bild)
 - *Interpretation:* EPSS >7 mm = EF↓[^1]
 - *Cave:* Falsch-hoch bei Mitralklappenstenose und Aortenklappeninsuffizienz, Beat-to-beat Variation bei [[VHF]]

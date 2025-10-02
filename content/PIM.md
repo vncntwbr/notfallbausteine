@@ -1,6 +1,8 @@
 ---
 aliases:
   - Polypharmazie, Potenziell inadäquate Medikation
+tags:
+  - basics
 ---
 - **Avoid**
 	- Amiodaron

@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - **Risikorechner** ([XRayRisk.com](https://www.xrayrisk.com/))
 	- *Baseline Krebsrisiko:* W 37.5%, M 44.9%, Tod an Krebs 25%
 	- *CTPA (15 mSv):* 18W +0.3%, 18M +0.2%, 40W/M +0.1%

@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/pocus
+---
+
 - *Background:* RV kontrahiert longitudinal (in A4C vertikal), nicht konzentrisch wie LV
 - *Durchführung:* In [[A4C]] M-Mode durch posterioren Trikuspidalklappen-Anulus legen
 - *Interpretation:* TAPSE >16 mm[^1]

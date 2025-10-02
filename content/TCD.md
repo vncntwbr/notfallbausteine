@@ -1,6 +1,8 @@
 ---
 aliases:
   - Transkranieller Doppler
+tags:
+  - interventionen/pocus
 ---
 - **Q**
 	- Vasospasmus (post [[Intrakranielle Blutung|SAB]])?

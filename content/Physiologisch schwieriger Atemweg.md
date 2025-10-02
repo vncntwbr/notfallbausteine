@@ -1,5 +1,6 @@
 ---
 tags:
+  - dx/anästhesiologie
 ---
 > [!danger] 4P
 > - **Pressure**

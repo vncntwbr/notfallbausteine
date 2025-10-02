@@ -1,3 +1,9 @@
+---
+tags:
+  - basics
+  - interventionen/meds
+---
+
 - **KM-Nephropathie:** not a thing[^1][^2][^3]
 
 > [!note]+ Textbaustein KM-Nephropathie

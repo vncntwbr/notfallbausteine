@@ -1,2 +1,7 @@
+---
+tags:
+  - dx/nephrologie
+---
+
 - I **Def:** [[Bradykardie]] + Renal ([[AKI]]) + AVB + [[Schock]] + [[Hyperkaliämie]]
 - **T:** Primär [[Hyperkaliämie]]-Therapie (Ca2+), VEL, [[Adrenalin]]

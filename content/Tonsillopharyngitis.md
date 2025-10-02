@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/hno
+---
+
 - **E:** Häufigste Ursache in ZNA, 90% viral
 - **W:** Klinik rules, kein Strep-A, kein E+R, bei STI-Risiko DD Gonokokken-Abstrich
 	- *E+R:* Persistenz nach Therapie, H.a. Agranulozytose

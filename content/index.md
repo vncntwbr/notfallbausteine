@@ -1,6 +1,8 @@
 ---
 title: Notfallmedizin QRH
 ---
+**Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Stix]]
+**Interventionen** [[Arterie IBP]] [[HALO]] [[Kardioversion]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 ## Textbausteine
 ![[Untersuchung#^944f17]]
 ![[Anamnese#^db877f]]
@@ -79,54 +81,8 @@ Willkommen!
 > Blabla
 
 
-
-
-
----
-
-
-
-
-
-
-> [!danger] Rapid Reference
-> 1. **That:** Do this
-
-- I **Def:** 
-- K **Killer:** 
-- R **Red Flags:** 
-- ! **Wichtig:**
-- **[[Anamnese|A]]**
-- **[[Untersuchung|U]]**
-- **W**
-- **T**
-
-
-## Basics 
 ```dataview
-LIST FROM #basics SORT file.name ASC
-```
-## Interventionen
-```dataview
-LIST FROM #tx SORT file.name ASC
-```
-## HALO
-```dataview
-LIST FROM #halo SORT file.name ASC
-```
-## Probleme
-```dataview
-LIST FROM #sy SORT file.name ASC
-```
-## Diagnosen
-```dataview
-LIST FROM #dx SORT file.name ASC
+list where length(file.tags) = 0
 ```
 
-## Textbausteine
-> [!danger] Rapid Reference
-> 1. **Heading:** Do this
-
-
-> [!note]- Textbaustein
-> Text
+[[How To QRH]]

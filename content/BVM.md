@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - Thenar Eminence (TE) > CE Technik[^2], wenn alleine "chicken wing" oder einfach LMA[^1]
 
 [^1]: [Reuben Strayer: Emergency Ventilation in 11 Minutes (Vimeo)](https://vimeo.com/34883844)

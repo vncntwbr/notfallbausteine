@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 > [!danger] Indikation EK
 > - **Hb >8 g/dl** keine Transfusion außer Schock/[[Blutungsmanagement]]
 > - **Hb 7-8 g/dl** bei eingeschränkter Kompensation (KHK, HFrEF, Stroke etc.) oder [[Anämie|Anämische Hypoxie]]

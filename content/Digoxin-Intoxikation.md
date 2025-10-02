@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/toxikologie
+---
+
 - **S:** [[Ü+E]] (fast immer), Verwirrung/Lethargie, HRST (oft VES, AVB, VT), Sehstörungen selten aber spezifisch (Halo, gelb/grün)
 ## Management
 - *Supp.:* Atropin, VEL

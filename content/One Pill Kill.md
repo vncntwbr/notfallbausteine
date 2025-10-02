@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - dx/toxikologie
 ---
 - **In geringer Dos gefährliche Substanzen**
 	- *⍺2-Agonisten (Clonidin):* Hypotonie/Bradykardie, [[Vigilanzminderung]]

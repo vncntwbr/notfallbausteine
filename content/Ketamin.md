@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/meds
+---
+
 - **[[Analgesie]]**
 	- *I:* 2x Morphin ineffektiv oder Sorge vor Opioid
 	- Esketamin 10 mg i.v. KI (alt.: 2mg-weise Boli langsam) + Infusion 10 mg/h

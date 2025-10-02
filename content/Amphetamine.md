@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/toxikologie
+---
+
 - **Substanzen**
 	- *Amphetamine/Speed:* sympathomimetisch oral, HWZ 10h
 	- *Meth:* sympathomimetisch, inhalativ, i.v., oral, WD >24h

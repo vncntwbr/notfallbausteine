@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 ### **Multimedia Learning Principles**[^1]
 
 - Multimedia: Pictures + Words > Words Alone

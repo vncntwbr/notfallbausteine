@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/toxikologie
+---
+
 > [!danger] Rapid Reference
 > - **Atropin** 3 mg i.v., alle 5 min verdoppeln 3→6→12→24 mg i.v. 
 

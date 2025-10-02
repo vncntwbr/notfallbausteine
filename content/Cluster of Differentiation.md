@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - CD34+ = Blast
 - CD3+ = T-cell 
 - CD19+ = B-cell 

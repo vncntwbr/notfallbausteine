@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/allgemein
+---
+
 - **DD**
 	- Orbital Cellulitis
 	- Maligne Otitis externa

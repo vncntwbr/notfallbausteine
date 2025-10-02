@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - Alle BK zeitgleich aus 1 Punktionsstelle, senkt Kontaminationsgefahr
 - Sequentielle Abnahme, mehrere Punktionen oder Abnahme im Temperaturanstieg erhöht nicht die Nachweisrate[^1]
 

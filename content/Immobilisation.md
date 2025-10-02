@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - Keine gute Evidenz für irgendeinen Outcome-Benefit der präklinischen WS-Immobilisation (nicht ausreichend HWS, keine Reduktion Neurologie, erschwert [[Atemwegsmanagement]], verursacht Druckulcera, erhöht [[Hirndruck (ICP↑)]])[^1]
 - Selbstextraktion macht weniger HWS-Bewegung als klassische technische Rettung[^2]
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - **Hämaturie:** Infekt, Trauma, Urolithiasis, Tumor, Nephritis, ggf. Hämolyse, Transfusionsreaktion, [[Sichelzellkrise]], Eklampsie, Menstruation
 	-  Erys/Hb/Myoglobin nicht differenziert
 - **Leukozyturie:** Entzündungsreaktion/Infekt Harnwege

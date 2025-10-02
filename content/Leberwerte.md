@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 > [!workup]
 > - **Hepatitisch (AST/ALT↑):** [[Anamnese|A]] (Alkohol, Medikamente, Pilze, EBV, Hep-Risiko), [[POCUS]] Abdomen (Stauung? Zirrhose? Aszites? RF?), [[Hepatitis]]-Serologie
 > - **Cholestatisch (gGT/AP↑):** [[POCUS]] Abdomen (Gallenblase, DHC)

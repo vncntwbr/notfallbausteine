@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - V.a. akute respiratorische Infektion immer [[CT]][^1]
 ![[Pasted image 20250812111332.png]]
 

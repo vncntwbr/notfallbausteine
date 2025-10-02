@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 ![[RASS]]
 > [!danger] Behavioural Pain Scale (Ziel BPS <6)
 > - **Gesichtsausdruck:** [1] Entspannt, [2] tlw. angespannt, [3] stark angespannt, [4] Grimassieren 

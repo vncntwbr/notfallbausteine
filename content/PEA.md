@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/allgemein
+---
+
 - **Simplifizierter Algorithmus**[^1]
 	- **QRS schmal = mechanisch / RV Problem:** [[POCUS]] LV hyperdynam, Pseudo-PEA (Tamponade, Spannungspneumothorax, [[LAE]], OMI)
 	- **QRS breit = metabolisch / LV Problem:** [[POCUS]] LV akinetisch, "echte" PEA (Hyperkaliämie, Natriumkanalblocker, OMI)

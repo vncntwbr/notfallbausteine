@@ -2,6 +2,8 @@
 aliases:
   - Antiphospholipid-Syndrom
   - APS
+tags:
+  - dx/hämatologie
 ---
 
 - Diagnostische Kriterien für Catastrophic-APS[^1]

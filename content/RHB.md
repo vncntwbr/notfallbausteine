@@ -1,6 +1,9 @@
 ---
 aliases:
   - Rechtsherzbelastung
+tags:
+  - basics
+  - interventionen/pocus
 ---
 - **RHB im [[EKG]]**
 	- Sinustachykardie bzw. TAA [[VHF]]

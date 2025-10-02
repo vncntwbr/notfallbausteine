@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - iGEL > King LT (Mortalität)[^1]
 - [[Atemwegstaxonomie]]
 - [Sydney HEMS Airway Registry Video Database](https://sydneyhems.com/airway-registry/cmac-videos/) (PW: AiRblogVideos)

@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - RR ungenau[^1], insb. in kritisch Kranken[^2][^3]
 
 [^1]: Picone, D, Schultz, M, Otahal, P. et al. Accuracy of Cuff-Measured Blood Pressure: Systematic Reviews and Meta-Analyses. JACC. 2017 Aug, 70 (5) 572–586. https://doi.org/10.1016/j.jacc.2017.05.064

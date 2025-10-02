@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/nephrologie
+---
+
 - I **Def:** CK >1000 U/L, Myoglobinurie, Myalgien, red. AZ, [[AKI]]
 - **W**
 	- *[[Labor]]:* CK Peak 24-72h (<5000 geringes Risiko, >15000 Monitoring), Myoglobin

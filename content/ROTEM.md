@@ -1,3 +1,9 @@
+---
+tags:
+  - basics
+  - interventionen
+---
+
 - *Durchführung:* Citratblut
 - *Verfahren*
 	- **EXTEM (extrinsische Gerinnung):** Zugabe Tissuefactor

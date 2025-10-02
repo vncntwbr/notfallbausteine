@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/kopf-neuro
+---
+
 > [!danger] Atemnot, Stridor, Speicheln? → A-Problem
 > 1. Ruhe (AF↓)
 > 2. **Adrenalin** 5 mg pur p.i. mit O2

@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - Gesundes-Herz-Gesetz völlig gaga[^1]
 - [Gesundheitspolitiker Legislaturperiode 2025](https://www.aerztezeitung.de/Politik/Das-sind-die-xxx-gewaehlten-Abgeordneten-aus-dem-Gesundheitsbereich-456353.html)
 

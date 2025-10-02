@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen
+---
+
 - Täglicher Aufwachversuch[^2]
 - Sedierungsfreie Intensivmedizin macht kürzere ITS-Aufenthalte, Beatmung, Hospitalisierung, aber mehr hyperaktives Delir(?)[^1]
 

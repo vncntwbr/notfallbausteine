@@ -1,3 +1,8 @@
+---
+tags:
+  - dx/gastroenterologie
+---
+
 - Retentionsmagen ohne [[Ileus]] / GI-Obstruktion
 - **Ä:** DM (häufig), post-OP, GI-Ulcus, GERD, [[Pankreatitis]], [[Schwanger]], Neuro
 - **T**

@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/halo
+---
+
 - Annähen ist sinnvoll[^1]
 - 4-5 ICR VAL hat geringste failure rate, Thoraxwanddicke 28-40 mm[^2]
 

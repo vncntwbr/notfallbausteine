@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/allgemein
+---
+
 > [!danger]+ Rapid Reference
 > - Hypoxämie = PaO2↓ / Hypoxie = O2↓ im Gewebe
 

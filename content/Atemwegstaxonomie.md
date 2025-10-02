@@ -1,3 +1,8 @@
+---
+tags:
+  - basics
+---
+
 - Critical airways, critical language[^2]
 
 ![[Pasted image 20250722190319.png]][^1]

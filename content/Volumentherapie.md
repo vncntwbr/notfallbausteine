@@ -1,3 +1,8 @@
+---
+tags:
+  - interventionen/meds
+---
+
 - VEL > NaCl in Delayed Graft Function bei NTX[^1]
 - Mit Edding drauf schreiben ist wahrscheinlich safe[^2]
 

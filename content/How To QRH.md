@@ -1,3 +1,8 @@
+---
+tags:
+  - basics/meta
+---
+
 ## Bausteine
 Bitte folgende Bausteine/Callouts nutzen. Auch durch Einfügen der [[Vorlage Leitsymptom]] möglich.
 

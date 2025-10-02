@@ -1,3 +1,8 @@
+---
+tags:
+  - sy/allgemein
+---
+
 > [!danger] Hypercalcäme Krise gCa2+ >3.5 mM / iCa2+ >2 mM
 > 1. **Monitoring**
 > 2. **[[Volumenstatus]] optimieren:** VEL / Schleifendiuretika
