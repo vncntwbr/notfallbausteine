@@ -1,11 +1,26 @@
 ---
 title: Vincent's Quartz
 ---
+## Textbausteine
 ![[Untersuchung#^944f17]]
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
 ![[POCUS#^aa3283]]
 ![[TTE#^88177b]]
+
+## Inhalt
+### Leitsymptome
+### Interventionen/Basics
+- [[ABCDE]]
+- [[Anamnese]]
+- [[EKG]]
+- [[Gefäßzugänge]]
+- [[POCUS]]
+- [[Untersuchung]] 
+### Diagnosen
+
+
+
 
 ---
 Willkommen! 
