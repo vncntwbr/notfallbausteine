@@ -6,13 +6,6 @@ aliases:
 > [!danger]+ Rapid Reference
 > 1. **Bla:** Bla
 
-> [!dd]+ DD
-> - **Killer:** 
-> - **Häufig:**
-> - **Selten:** 
-
-> [!red-flags]
-
 > [!workup]+
 > - **[[Anamnese|A]]:** 
 > - **[[Untersuchung|U]]:**
@@ -20,6 +13,8 @@ aliases:
 > - **[[POCUS]]:**
 > - **[[Labor]]:** 
 > - **Red Flags:**
+
+> [!stadien]
 
 > [!management]+
 > - **Disposition:** 
