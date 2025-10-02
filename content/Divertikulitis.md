@@ -33,7 +33,8 @@ tags:
 > 	- *2c:* ACh OP N2
 > - Keine akute Coloskopie, Perforationsgefahr
 
-> [!note]- Textbaustein ambulant
+> [!note]+ Textbaustein Divertikulitis Ambulant
+> ```
 > In Zusammenschau von Klinik (Druckschmerz linker Unterbauch), Laborchemie (Entzündungsparamter) und CT-Bildgebung diagnostizierten wir eine akute Divertikulitis CDD-Stadium ## 1a / 1b. In Abwesenheit von Risikofaktoren, bei gesicherter häuslicher Versorgung, suffizienter Analgesie und im Konsens mit Pat. ambulantes Management.
 > 
 > Bei ### Stadium 1b antiinfektive Therapie mit Ampicillin/Sulbactam ##ODER## Ceftriaxon + Metronidazol initiiert, oralisiert zur Entlassung auf Amoxicillin/Clavulansäure.
@@ -47,5 +48,6 @@ tags:
 > 	- z.B. mit Ibuprofen 200-400 mg als Tabletten bei Bedarf (rezeptfrei in der Apotheke erhältlich). Einzeldosen >400 mg wirken nicht stärker gegen Schmerzen als 400 mg, es empfiehlt sich die maximale Tagesdosis auf mehrere Einnahmen bis 400 mg zu verteilen anstatt mehr als 400 mg auf einmal einzunehmen. Eine maximale Dosis von 1600 mg (4x 400 mg) pro 24h sollte keinesfalls überschritten werden, sonst drohen schwere, ggf. irreversible Nierenschäden. Einnahme von Ibuprofen möglichst nicht auf nüchternen Magen und für höchstens 7 Tage, bei Risikofaktoren (häufiges Sodbrennen, Blutverdünnung, Neigung zu Magenschleimhautentzündung oder Magengeschwüren, Einnahme länger als 7 Tage) sollte zusätzlich ein Magenschutz (z.B. Pantoprazol 20 mg 1-0-0, rezeptfrei in der Apotheke erhältlich) eingenommen werden.
 > - Insbesondere bei Divertikelkrankheit und Divertikulitis ist eine ballaststoffreiche Ernährung zu empfehlen
 > - Bei weiterer Verschlechterung des Allgemeinzustands, insbesondere bei Fieber/Schüttelfrost oder starken Schmerzen umgehende ärztliche Wiedervorstellung, ggf. über eine Notaufnahme.
+> ```
 
 [^1]: Barton. Am J Emerg Med 2025. [POCUS-first in acute diverticulitis: Quantifying cost savings, length-of-stay reduction, and radiation risk mitigation in the ED](https://pubmed.ncbi.nlm.nih.gov/39765051/)

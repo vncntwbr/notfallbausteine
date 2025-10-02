@@ -17,7 +17,10 @@ Bitte folgende Bausteine/Callouts nutzen. Auch durch Einfügen der [[Vorlage Lei
 
 > [!disposition]+
 
-> [!note]- Textbaustein
+> [!note]+ Textbaustein
+> ```
+> Inhalt
+> ```
 
 > [!info]+ Definition
 

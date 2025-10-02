@@ -30,18 +30,20 @@ tags:
 	- Beruhigen, 30 min entspannen lassen, keine wdh. RR-Messung, Aufklärung
 	- Extra Dosis antihypertensive Hausmedikation p.o.
 ---
-> [!note]- Textbaustein Hypertensive Entgleisung
+> [!note]+ Textbaustein Hypertensive Entgleisung
+> ```
 > Vorstellung bei isoliert hypertensiven RR-Werten, abseits von BEGLEITSYMPTOME asymptomatisch. Kein H.a. akute Endorganschädigung. Somit keine Indikation zur Akuttherapie nach ESC-Leitlinie. Ausführliche Beratung zum Umgang mit RR-Entgleisungen. Es besteht der V.a. arterielle Hypertonie, zur Diagnose müssen jedoch ambulante Bestätigungsmessungen erfolgen. 
 > 
-> **Erklärung für Patient:innen:**
+> Erklärung für Patient:innen:
 > Blutdruck-Entgleisungen mit milden Beschwerden sind üblicherweise selbstlimitierend; eine notfallmäßige Diagnostik/Therapie durch Rettungsdienst oder Notaufnahme ist nicht notwendig. Eine (zu) schnelle Blutdruck-Senkung kann in diesen Fällen sogar nachgewiesen schädlich sein. Ein zu hoher Blutdruck muss aufgrund von Folgeschäden an den Gefäßen (Herzinfarkt- und Schlaganfall-Risiko) über Wochen bis Monate gut eingestellt werden, jedoch nicht akut über Stunden bis Tage.
 > 
-> **Empfehlungen:**
+> Empfehlungen:
 > - Besprechen Sie die erhöhten Blutdruck-Werte innerhalb der nächsten Tage mit ihrem/r Hausärzt:in.
 > - Beachten Sie sofern zutreffend allgemeine Empfehlungen zur Lebensstilanpassung: Reduktion des Alkoholkonsums, Rauchentwöhnung, körperliche Aktivität und ausgewogene Ernährung.
 > - Messen Sie regelmäßig (zu Beginn morgens und abends, später auch seltener) Ihren Blutdruck und dokumentieren sie die Werte in einem Blutdrucktagebuch; dies erleichtert die Therapie gemeinsam mit ihrem/r Hausärzt:in.
 > - Bei erhöhten Blutdruck-Werten mit lediglich milden Beschwerden (z.B. innere Unruhe, Herzklopfen, Hitzegefühl, Ohrensausen, Kopfdruck) ist keine Notfalltherapie erforderlich, da sie keinen Vorteil bringt, jedoch das Risiko von Komplikationen birgt. Eine erneute Messung sollte frühestens nach einigen Stunden erfolgen. In der Zwischenzeit sind angenehme, entspannende oder ablenkende Beschäftigungen empfohlen (z.B. Lesen, Tee trinken, Alltagstätigkeiten, ...).
 > - Bei Auftreten von Brustschmerzen, starken Rückenschmerzen, Luftnot, Sehstörungen oder Lähmungserscheinungen wählen Sie stets umgehend den Notruf 112.
+> ```
 
 ---
 - aHTN >140 mmHg intrahospital tolerieren[^1]

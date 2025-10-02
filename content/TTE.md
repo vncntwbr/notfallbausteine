@@ -12,7 +12,12 @@ tags:
 > 6. **Pleura bds.**
 
 > [!note]+ Textbaustein POCUS TTE
-> **Fokussiertes TTE/POCUS (Weber):** Kein Perikarderguss, kein H.a. RHB, kein H.a. regionale WBS, EF orientierend normodynam. EPSS ### mm (entspricht geschätzter EF ca. ##%), TAPSE ### mm. IVC ca. 1.5-2.0 cm, <50% atemmoduliert.
+> ```
+> Fokussiertes TTE/POCUS (Weber):
+> - LV: Keine Hypertrophie. EF orientierend normodynam (EPSS ### mm, entspricht geschätzter LVEF ##%). Keine höhergradigen regionalen WBS. Ak trikuspid, kein Vitium. Mk leichtgradige MI. 
+> - RV/RA: Nicht dilatiert. Kein H.a. RHB, gute Funktion (TAPSE ## mm). Tk leichtgradige TI. Pk physiologische PI. Abgeschätzter sPAP ## mmHg.
+> - Kein Perikarderguss. IVC ca. ## mm, <50% atemmoduliert. Aorta ascendens <35 mm.
+> ```
 
 ^88177b
 

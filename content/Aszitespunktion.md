@@ -16,8 +16,10 @@ tags:
 - *Serum-Aszites-Albumin-Gradient* <1.1 g/dl = Exsudat (z.B. Pankreatitis, Tbc, Malignität, Myödem), sonst Transsudat (Leber, Herz, Hypalbuminämie)
 - *Protein* <1.5 g/dl erhöhtes SBP-Risiko, ggf. prophyl. [[ABx]] (Norfloxacin 400 mg/d p.o.)
 
-> [!note]- Textbaustein Aszitespunktion
+> [!note]+ Textbaustein Aszitespunktion
+> ```
 > Bei Notfallindikation ### / zum Ausschluss SBP erfolgte die komplikationslose sonografiegesteuerte diagnostische Aszitespunktion ##rechter/linker## Unterbauch. Insgesamt ## ml makroskopisch ##klarer## Aszites drainiert, BK, Zellzahl, klinische Chemie und ##ad Pathologie## verschickt, Bedside-Stix Leukozyten neg. 
+> ```
 
 [^1]: "Eingriff in instabiles Kartenhaus der Leberzirrhose"
 

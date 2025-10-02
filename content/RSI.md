@@ -37,5 +37,7 @@ tags:
 >       Sedierung + [[Analgesie]]
 > - [ ] **CUFFDRUCK**
 
-> [!note]- Textbaustein
+> [!note]+ Textbaustein
+> ```
 > RSI: Kontinuierliches Monitoring und sorgfältige PräOx mit NIV + ApnoeOx. Einleitung mit 200 mg ROCuronium und 100 mg esKETAmin. Komplikationslose, atraumatische endotracheale Intubation bei CL I°, POGO 100% primär mit VL (Mac 3) und Bougie. Verifikation Tubuslage mit Auskultation (sgl. ventiliert) und kont. pos. etCO2. Fixierung bei 22 cm MW, Zahnstatus idem, Cuffdruck 30 mbar. SpO2 durchgehend >90%. Zur Vermeidung anästhesiebedingter Hypotonie präemptiv Noradrenalin ### μg titriert bzw. bis ### μg/kg/min.
+> ```

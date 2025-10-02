@@ -24,8 +24,10 @@ tags:
 > [!note] Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"
 
-> [!note]- Textbaustein STEMI/OMI
+> [!note]+ Textbaustein STEMI/OMI
+> ```
 > Zusammenfassend Akutes Koronarsyndrom (ACS) mit STEMI-EKG (sign. STE in ###) / NSTE-EKG mit very-high-risk Features / STEMI-Äquivalent (###). Umgehende Herzkather-Aktivierung. 250 mg ASS und 5000 IE Heparin i.v. verabreicht. Analgesie mit ###. Nach Ausschluss von KI ### mg Metoprolol titriert i.v. Verlegung zur PCI in Arztbegleitung.
+> ```
 ---
 - STEMI(–)OMI(+) haben Delays bis HKU[^2]
 [^1]

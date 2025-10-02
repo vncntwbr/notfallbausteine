@@ -1,5 +1,7 @@
-> [!note]- Textbaustein Arterie
+> [!note]+ Textbaustein Arterie
+> ```
 > Anlage Arterieller Katheter 20G komplikationslos nach unauffälligem Allen-Test in Seldinger-Technik sonografiegestützt unter Lokalanästhesie via A. radialis links.
+> ```
 
 ^76aae9
 

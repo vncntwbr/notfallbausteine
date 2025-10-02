@@ -24,7 +24,8 @@ tags:
 > - Uhrglasverband, Augensalbe, Tränenersatz
 > - [Patientenmerkblatt mit Facialisübungen](https://www.ukr.de/fileadmin/UKR/2-medizin-pflege/kliniken__institute_abteilungen/hals-nasen-ohren-heilkunde/Facialisparese.pdf)
 
-> [!note]- Textbaustein
+> [!note]+ Textbaustein
+> ```
 > Klinisches Bild einer peripheren Facialisparese ##links/rechts## ohne weitere neurologische Auffälligkeiten oder Effloreszenzen. Nach Aufklärung und Ausschluss von KI erfolgte komplikationslose LP mit normwertiger Zellzahl und unauffälligem Liquorstatus, somit kein H.a. entzündliche Genese und a.e. idiopathisch. 
 > 
 > Therapieeinleitung mit Prednisolon-Schema über 10 Tage nach DGN-Leitlinie unter Magenschutz mit Pantoprazol. Bei Beschwerdepersistenz >10d, Symptomverschlechterung oder Auftreten weiterer neurologischer Ausfälle (Sprachstörungen, Sehstörungen, Lähmungserscheinungen, Gefühlsstörungen) umgehende neurologische Vorstellung bzw. Wiedervorstellung über eine Notaufnahme zur weiterführenden Diagnostik empfohlen.
@@ -45,13 +46,15 @@ tags:
 > - Sollte der Lidschluss nicht mehr vollständig sein: Nächtliches Tragen eines Uhrglasverbands (Entlassbedarf mitgegeben, Weiterverordnung über Hausärzt:in) bis zum vollständigen Lidschluss. 
 > - Regelmäßige Durchführung der Facialisübungen (z.B. dreimal täglich 10 Minuten, Merkblatt ausgehändigt)
 > - Sofortige Wiedervorstellung bei Zunahme der Beschwerden oder bei nach 10 Tagen weiterhin anhaltender Gesichtslähmung. 
+> ```
 
-> [!note]- Rezeptvorlage
-> Rezeptvorlage: 
+> [!note]+ Rezeptvorlage
+> ```
 > 1. [Option A] Prednisolon 20 mg Tabletten N1 (20 Stk.), >>dj<<[^1]
 > 2. ##ODER [Option B] Prednisolon 50 mg Tabletten N1 (10 Stk.), 0.5-0-0.5 p.o.
 > 3. Pantoprazol 40 mg Tabletten N1 (30 Stk.) 1-0-0 p.o. 
 > 4. 1x Dexpanthenol Augensalbe, z.B. Corneregel Augensalbe, zur Nacht ins betroffene Auge 
 > 5. 1x Artelac Augentropfen 10 ml, 3-5x täglich 1 Tropfen nach Bedarf ins betroffene Auge
+> ```
 
 [^1]: dj = Dosierungsanweisung erhalten: ja

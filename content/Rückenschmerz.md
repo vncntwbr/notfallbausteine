@@ -32,7 +32,8 @@ aliases:
 > - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, AKI) ggf. CT Pariser Schema
 > - **V.a. (osteoporotische) WK#:** Rö stehend bzw. bettlägerig CT bei RF (geriatrisch, Osteoporose, Cortison, signifikantes Trauma oder mildes Trauma + Osteoporose-RF)
 
-> [!note]- Textbaustein
+> [!note]+ Textbaustein Unspezifische Rückenschmerzen Ambulant
+> ```
 > Zusammenfassend unspezifische, a.e. muskuloskelettal bedinge Rückenschmerzen ohne H.a. strukturelle Ursache in A+U. Leitliniengerecht keine Indikation zur Bildgebung ###ODER### Im Röntgen ebenfalls kein H.a. Fraktur oder andere Pathologien. Lokale Injektionen/Infiltrationen ("Spritzen") führen wir aufgrund fehlender wissenschaftlichen Wirksamkeitsnachweise jedoch hohem Infektionsrisiko grundsätzlich nicht durch und raten davon ab. Unter lokaler Wärmeanwendung und Analgesie mit NSAR kann voraussichtlich eine suffiziente Analgesie erreicht werden. Keine Hinweise für einen abwendbar gefährlichen Verlauf.
 > 
 > Empfehlungen:
@@ -40,9 +41,10 @@ aliases:
 > - [PRÜFE KONTRAINDIKATIONEN!] Zur Muskelentspannung kann zusätzlich Tizanidin (Sirdalud) 2 mg 1x täglich vor dem Schlafengehen eingenommen werden, danach dürfen keine aktive Teilnahme am Straßenverkehr, kein Bedienen von gefährlichen Maschinen/Geräten und kein Konsum von Alkohol oder anderen berauschenden/beruhigenden Substanzen erfolgen. Unter Einnahme vom Tizanidin besteht ein erhöhtes Sturzrisiko!
 > - Eine lokale Wärmeanwendung (Badewanne, warm duschen, Körnerkissen, Wärmflasche, Wärmepflaster) kann häufig Schmerzlinderung verschaffen.
 > - Auf wirbelsäulengerechtes Verhalten (achsengerechte Mobilisation, kein Heben schwerer Gegenstände) achten, ggf. Physiotherapie bzw. "Rückenschule". Viele gesetzliche Krankenkassen übernehmen und fördern Kursprogramme zur Förderung und zum Erhalt der Rückengesundheit, Informationen erhalten Sie bei Ihrer Krankenkasse.
-> - Hausärztliche Vorstellung zur Verlaufskontrolle, wenn die Beschwerden mehr als 3 Tage anhalten. Bei immer wiederkehrenden oder lang anhaltenden Beschwerden ambulante orthopädische Vorstellung.
+> - ###NEU Hausärztliche Vorstellung zur Verlaufskontrolle, wenn die Beschwerden mehr als 3 Tage anhalten. Bei immer wiederkehrenden oder lang anhaltenden Beschwerden ambulante orthopädische Vorstellung.
 > - Bei anhaltenden Beschwerden ist nach eine Vorstellung in unserer Wirbelsäulensprechstunde möglich, Informationen hierzu finden Sie online unter www.zentralklinik.de.
 > - Bei Fieber, Lähmungserscheinungen, anhaltender Schmerzzunahme oder neu aufgetretenen Blasen-/Mastdarmfunktionsstörungen (Unfähigkeit Urin zu lassen, Einnässen bzw. neue Harninkontinenz, Sensibilitätsstörungen im Genitalbereich, neu aufgetretene Stuhlinkontinenz) sofortige Wiedervorstellung über ein Notfallzentrum oder den Rettungsdienst (Tel. 112).
+> ```
 
 [^1][^2]
 

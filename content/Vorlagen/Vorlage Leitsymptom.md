@@ -31,6 +31,8 @@ aliases:
 > [!disposition]+
 
 > [!note]- Textbaustein
+> ```
 > Blabla
+> ```
 
 > [!info]+ Definition

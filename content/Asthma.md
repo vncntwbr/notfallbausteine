@@ -27,7 +27,8 @@ aliases:
 - *Allerg.?* + Antihistaminika, z.B. Desloratadin 5 mg p.o. 1-0-0
 - *Ambulant:* Pneumolog. Anbindung, häusliche Versorgung, VP unter RL >1h stabil, keine Hyperkapnie, stufengerechte Dauermed, Inhalator-Kompetenz
 ---
-> [!note]- Textbaustein Ambulant
+> [!note]+ Textbaustein Ambulant
+> ```
 > Zusammenfassend a.e. ## leichter/mittelschwerer/schwerer/lebensbedrohlicher Asthma-Anfall bei vorbek. Asthma bronchiale. Klinisch und laborchemisch kein H.a. auf Infektion. Therapie mit Salbutamol + Iptratropium p.i. und Prednisolon + Magnesium i.v., darunter Stabilisierung der VP. Eupnoe AF ###/min und Normoxie SpO2 ###% unter RL, Normokapnie mit venösem pCO2 ## mmHg. Gute pneumologische Anbindung, ambulantes Procedere im Konsens mit Pat. möglich.
 > 
 > ##Dauermed## Bei bisher SABA-Monotherapie angesichts Anfallsfrequenz >2x/Woche leitliniengerechte Umstellung auf Stufe-1-Therapie mit Fixkombination Formoterol/ICS, rezeptiert und videogestützt über korrekte Anwendung aufgeklärt. Zeitnahe haus- bzw. lungenfachärztliche Vorstellung zur weiteren Diagnostik und Anpassung der Therapie empfohlen.
@@ -37,8 +38,10 @@ aliases:
 > - Wenden Sie das Asthma-Spray (##Foster) morgens und abends und nach Bedarf wie folgt an: Vollständig ausatmen, mit dem Sprühstoß so tief wie möglich einatmen, Luft 5 Sekunden anhalten, langsam ausatmen. Nach der Anwendung Mund ausspülen / etwas trinken um Pilzinfektionen im Mund/Rachenraum vorzubeugen. Wenn sie das Spray mehr als 2x am Tag bei Bedarf benutzen müssen besprechen Sie dies zeitnah mit ihrer Haus- oder Lungenfachärztin! Das Spray sollte nicht häufiger als insgesamt 8x/Tag angewendet werden.
 > - Stellen Sie sich innerhalb von 2 Tagen Haus- oder Lungenfachärztlich vor.
 > - Falls sich Ihre Beschwerden verschlechtern (insbesondere bei Auftreten von Atemnot trotz Einnahme des Asthma-Sprays) oder neue Beschwerden (z.B. Schmerzen, Fieber, Schüttelfrost) hinzukommen, stellen sie sich jederzeit wieder in einer Klinik für Notfallmedizin vor.
+> ```
 
 > [!note]- Zusatz Allerg./Pollen
+> ```
 > Bei allergischem Asthma und bekannter Allergie gegen ##Pollen## empfehlen wir zusätzlich:
 > - Einnahme rezeptfreier Allergietabletten, z.B. Desloratadin 5 mg 1-0-0 oder Bilastin 20 mg 1-0-0 während der Pollensaison.
 > - Lüften Sie Ihre Wohnung immer dann, wenn weniger Pollen in der Luft sind - in der Stadt in der Regel morgens lüften, auf dem Land eher abends lüften
@@ -50,6 +53,7 @@ aliases:
 > - Waschen Sie sich abends die Haare und nehmen die draußen getragene Kleidung nicht mit ins Schlafzimmer
 > - Schlafen Sie bei geschlossenem Fenster
 > - Lassen Sie sich von ihrer Hausärztin oder Lungenärztin bezüglich einer Desensibilisierungsbehandlung beraten.
+> ```
 
 ---
 - ![[Pasted image 20250819190040.png]][^3]

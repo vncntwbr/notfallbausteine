@@ -23,5 +23,7 @@ aliases:
 > - **Disposition:** 
 
 > [!note]- Textbaustein
+> ```
 > Blabla
+> ```
 

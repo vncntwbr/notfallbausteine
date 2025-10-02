@@ -18,12 +18,15 @@ tags:
 	- Kompressionsverband, Kompressionsstrumpf ambulant, keine Immobilisation
 	- *I Stationär:* Ausdehnung Becken, ven. Stauung↑, Blutung, [[LAE]], [[CKD]]/CLV (relativ), [[Schwanger]] (relativ), Progress/Rezidiv unter AK
 ---
-> [!note]- Textbaustein Thromboseausschluss
+> [!note]+ Textbaustein Thromboseausschluss
+> ```
 > Vorstellung/EW bei V.a. TVT # links/rechts. Hohe Vortest-Wahrscheinlichkeit (Wells-TVT ≥2 Pkt.) # ODER Geringe Vortest-Wahrscheinlichkeit (Wells-TVT ≤1 Pkt.) jedoch pos. D-Dimer. POCUS 3-Pkt-Kompressionssonografie der Beinvenen ohne H.a. TVT. 
 > 
 > Gemäß S2k-LL zunächst keine Antikoagulation und ambulante Kontrollsonografie (z.B. über radiolog./angiolog. Praxen) in 4-7 d. Bei Auftreten von Brustschmerzen, Luftnot, Ohnmacht oder zunehmenden Beschwerden jederzeit Wiedervorstellung in unserer Klinik für Notfallmedizin.
+> ```
 
-> [!note]- Textbaustein Thrombose ambulant
+> [!note]+ Textbaustein Thrombose ambulant
+> ```
 > Vorstellung/EW bei V.a. TVT # links/rechts. Hohe Vortest-Wahrscheinlichkeit (Wells-TVT ≥2 Pkt.) # ODER Geringe Vortest-Wahrscheinlichkeit (Wells-TVT ≤1 Pkt.) jedoch pos. D-Dimer. POCUS 3-Pkt-Kompressionssonografie der Beinvenen mit Thrombusnachweis in # GEFÄSS. 
 > 
 > Bei fehlenden KI Initiierung von OAK mit Apixaban. Aufklärung über Adhärenz und Verhaltenshinweise (notfallmedizinische Vorstellung bei Sturz mit Kopfanprall, Bauchtrauma, Teerstuhl). Anlage Kompressionsverband.
@@ -33,6 +36,7 @@ tags:
 > - Eine Vorstellung beim Hausarzt ist am nächsten Werktag zur Fortführung der blutverdünnenden Therapie (Folgerezepte) zwingend erforderlich, zusätzlich sollte im Verlauf ein Kompressionsstrumpf verordnet werden.
 > - Bei Auftreten von Brustschmerzen, Luftnot, Ohnmacht oder zunehmenden Beschwerden jederzeit Wiedervorstellung in unserer Klinik für Notfallmedizin. 
 > - Bei Stürzen oder anderen Verletzungen mit starkem Kopfanprall, Gewalteinwirkung gegen den Bauch oder Auftreten von “Teerstuhl” (schwarz verfärbter Stuhlgang) unter Einnahme von Blutverdünnern muss immer umgehend eine ärztliche Vorstellung erfolgen.
+> ```
 ---
 
 ![[Kompressionssonografie]]

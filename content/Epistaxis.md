@@ -28,7 +28,8 @@ tags:
 > - HTN ≠ wirkliche Ursache, nicht wild senken[^3]
 > - **Disposition:** 
 
-> [!note]- Textbaustein ambulant
+> [!note]+ Textbaustein Epistaxis Ambulant
+> ```
 > Vordere Epistaxis ## unter AK? ## ohne hämodynamisch relevanten Blutverlust. Sistieren der Epistaxis nach Lokaltherapie mit Xylometazolin unter manueller Kompression und Kühlung. Entlassung.
 > 
 > Empfehlungen:
@@ -36,6 +37,7 @@ tags:
 > - Intensive Nasenpflege mit Bepanthen-Nasensalbe min. 3x/Tag über mehrere Wochen.
 > - Regelmäßige Selbstmessung des Blutdrucks (morgens und abends), Werte aufschreiben. Bei gehäuft Messwerten >140/90 mmHg hausärztliche Vorstellung zur Blutdruckeinstellung. So lange keine Beschwerden (z.B. Brustschmerzen, Atemnot, Sehstörungen oder andere neurologische Ausfälle) bestehen, bedürfen erhöhte Blutdruck-Messwerte keiner notfallmäßigen ärztlichen Vorstellung.
 > - Im Falle einer erneuten Blutung: Ruhe bewahren, Kopf nach vorn beugen, Nacken kühlen und die Nasenflügel kräftig und ohne Unterbrechung(!) für 10-15 Minuten (ggf. gemessen mit Stoppuhr) zusammenpressen. Wiedervorstellung in der Notaufnahme, wenn das Nasenbluten dennoch nicht binnen 30 min aufhört.
+> ```
 
 - TXA i.n. + Kompression ist so effektiv wie Nasentamponade[^1]
 
