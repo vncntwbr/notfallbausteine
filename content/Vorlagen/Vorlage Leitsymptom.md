@@ -6,15 +6,15 @@ aliases:
 > [!danger]+ Rapid Reference
 > 1. **Bla:** Bla
 
-> [!info] Definition
-> 
-
 > [!dd]+ DD
 > - **Killer:** 
 > - **Häufig:**
 > - **Selten:** 
 
-> [!red-flags]
+> [!red-flags]+
+
+> [!anamnese]+
+> 
 
 > [!workup]+
 > - **[[Anamnese|A]]:** 
@@ -24,9 +24,13 @@ aliases:
 > - **[[Labor]]:** 
 > - **Red Flags:**
 
+> [!stadien]+
+
 > [!management]+
-> - **Disposition:** 
+
+> [!disposition]+
 
 > [!note]- Textbaustein
 > Blabla
 
+> [!info]+ Definition

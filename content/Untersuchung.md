@@ -12,6 +12,9 @@ aliases:
 > - **Cor:** HT r/r, nf (###/min). Recap prompt (<2s). Pulse radial kräftig. Normoton (RR ### mmHg). VJI nicht gestaut. Keine Ödeme.
 > - **Abd:** Weich, keine Resistenz, keine Druckdolenz. Murphy neg, McBurney+Lanz+Blumberg neg. Peristaltik regelrecht. Kein KS über WS + Nierenlagern.
 > - **Haut/Extr:** Warm. Kolorit rosig. Kein Ikterus. Keine Effloreszenzen. Keine Wunden. Keine Thrombosezeichen (Meyer+Payr+Homans neg).
+> ```
+> Test
+> ```
 
 ^944f17
 
