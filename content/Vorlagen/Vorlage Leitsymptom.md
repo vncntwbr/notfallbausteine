@@ -6,6 +6,9 @@ aliases:
 > [!danger]+ Rapid Reference
 > 1. **Bla:** Bla
 
+> [!info] Definition
+> 
+
 > [!dd]+ DD
 > - **Killer:** 
 > - **Häufig:**

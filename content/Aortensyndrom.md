@@ -11,7 +11,12 @@ tags:
 > 5. **[[Gefäßzugänge]]:** 2x PVK, Arterie radialis rechts (kein ZVK, keine A. femoralis)
 > 6. **Peri-Arrest:** bei Tamponade Perikardiozentese 10-20 ml
 
-- **Def:** Aortendissektion Stanford A (ascend.) / B (nur descend.), penetr. Aortenulcus, intramurales Hämatom, akut sympt./rupt. Aortenaneurysma
+> [!info] Definition
+> - **Aortendissektion Stanford A:** Aorta ascendens (mit-)betroffen
+> - **Aortendissektion Stanford B:** ausschließlich Aorta descendens (distal A. subclavia links)
+> - **Penetrierendes Aortenulcus**
+> - **Intramurales Hämatom**
+> - **Rupturiertes / akut symptomatisches Aortenaneurysma**
 ## Workup
 - **Ä:** 50-70 J., M, [[Hypertonie]] (70%), Bindegewebserkrankung[^1][^2], Vaskulitis
 - **[[Anamnese|A]]:** [S] abrupt (LR+ 2.6)[^3], reißend (LR+ 10), wandernd (LR+ 7.6), stärkst (90%), evtl. schmerzlos[^4], "+1"/ischäm ([[Synkope]][^5], Stroke, periph. Paraplegie, Horner-Syndr., [[Mesenterialischämie]], Extremitätenischämie, [[ACS]])
