@@ -15,7 +15,7 @@ tags:
 > 	- **Xtreme** Ventilation
 > 	- **Xtra** Bronchodilatatoren
 > 	- **Xtra** Vasopressoren
-> 	- **PneumothoraX** ausschließen
+> 	- **[[PneumothoraX]]** ausschließen
 > 6. **Adjunkt.:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
 
 - **Ä:** Kinder Nahrungsmittel, Erwachsene Meds, beide Insekten

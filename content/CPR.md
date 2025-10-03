@@ -16,7 +16,7 @@ aliases:
 >    *Adrenalin-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
 
 > [!workup] Reversible Ursachen
-> - **AB:** Hypoxie? Pneumothorax? | **C:** Tamponade? Hypovolämie?
+> - **AB:** Hypoxie? [[Pneumothorax]]? | **C:** Tamponade? Hypovolämie?
 > - **[[LAE]]?** rt-PA 50 mg 200 ml/h | **OMI?** → [[ECMO]]?
 > - **[[Hyperkaliämie]]?** Calciumgluconat 10% 30 ml + Insulin 10 IE + 20g Glucose + NaBic 8.4% 50-100 ml (spülen) | **[[Hypokaliämie]]?** KCl 40 mmol + MgSO4 2g / 8 mmol KI
 > - **BGA:** Blutzucker? [[Intoxikation]]?
