@@ -84,10 +84,10 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
+  //font-weight: $semiBoldWeight;
+  text-decoration: underline;
   transition: color 0.2s ease;
-  color: var(--secondary);
+  //color: var(--secondary);
 
   &:hover {
     color: var(--tertiary);
