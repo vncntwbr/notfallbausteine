@@ -14,8 +14,18 @@ aliases:
 > - Abd: Weich, keine Resistenz, keine Druckdolenz. Murphy neg, McBurney+Lanz+Blumberg neg. Peristaltik regelrecht. Kein KS über WS + Nierenlagern.
 > - Haut/Extr: Warm. Kolorit rosig. Kein Ikterus. Keine Effloreszenzen. Keine Wunden. Keine Thrombosezeichen (Meyer+Payr+Homans neg).
 > ```
-
 ^944f17
+
+> [!note]+ Zusatz Neurologischer Status
+> ```
+> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Meningismus. Keine Nervendehnungszeichen.
+> - Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
+> - HN: Visus bds. erhalten, GF fingerperimetrisch intakt. Pupillen isokor, rund, prompt konsensuell lichtreagibel. FFV metrisch ohne Diplopie, kein Spontannystagmus. Gesichtssensibilität intakt, keine Facialisparese. Gehör orientierend seitengleich. Gaumensegel und Zungenmotorik symmetrisch. 
+> - Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5. Kein Absinken in AHV und BHV. 
+> - Sensibilität: Ästhesie und Algesie intakt.
+> - Reflexe: MER seitengleich +/+, Babinski bds. neg. 
+> - Koordination: Zeigeversuche bds. metrisch. Eudiadochokinese. Stand und Gang sicher, Romberg opB.
+> ```
 
 > [!note]- Textbaustein Gelenkstatus Schulter
 > ```

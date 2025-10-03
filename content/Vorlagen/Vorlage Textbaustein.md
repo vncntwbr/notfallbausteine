@@ -1,0 +1,4 @@
+> [!note]+ Textbaustein
+> ```
+> Hi
+> ```

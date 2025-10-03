@@ -1,6 +1,8 @@
 ---
 tags:
   - dx/kardiologie
+aliases:
+  - Thrombose
 ---
 
 - K **Killer:** Phlegmasia coerulea dolens, [[LAE]]

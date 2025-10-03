@@ -11,6 +11,9 @@ tags:
 ^05ff50
 
 
+> [!note]+ Sicherungsaufklärung
+> Ausführliche Transfusionsaufklärung in Notfallsituation nicht gewährleistet; nachträgliche Sicherungsaufklärung im stationären Verlauf erbeten.
+
 - Restriktiver Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
 - [[TK]]
 

@@ -25,6 +25,7 @@ tags:
 > 7. **MTP** (ab 5. EK + fortges. Blutverlust) → Info Blutbank + Hilfe holen
 > 	-  **Startpaket:** 1 [[TK]] + 4 EK + 2 FFP + PPSB 25 IE/kg
 > 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[TK]] + 4 EK + 4 FFP
+> 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
 <div style="page-break-after: always;"></div>
 
 > [!danger] Blutungskontrolle spezifisch

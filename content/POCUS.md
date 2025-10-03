@@ -19,5 +19,6 @@ tags:
 - [[TTE]]
 - [[LUS]]
 - [[TCD]]
+- [[Abdomensonografie]]
 ## Lernressourcen
 - [5 Minute Sono](https://coreultrasound.com/5ms/)

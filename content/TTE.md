@@ -13,7 +13,7 @@ tags:
 
 > [!note]+ Textbaustein POCUS TTE
 > ```
-> Fokussiertes TTE/POCUS (Weber):
+> Fokussierte TTE/POCUS (Weber):
 > - LV: Keine Hypertrophie. EF orientierend normodynam (EPSS ### mm, entspricht geschätzter LVEF ##%). Keine höhergradigen regionalen WBS. Ak trikuspid, kein Vitium. Mk leichtgradige MI. 
 > - RV/RA: Nicht dilatiert. Kein H.a. RHB, gute Funktion (TAPSE ## mm). Tk leichtgradige TI. Pk physiologische PI. Abgeschätzter sPAP ## mmHg.
 > - Kein Perikarderguss. IVC ca. ## mm, <50% atemmoduliert. Aorta ascendens <35 mm.

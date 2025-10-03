@@ -11,6 +11,22 @@ tags:
 > 	- ###ASS: Das ASS ("Aspirin") aus der Dauermedikation muss mindestens 30 min vor den Schmerzmitteln eingenommen werden, ansonsten wirkt es nicht.
 > ```
 
+> [!management]+
+> - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
+> 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
+> 	- *Neuropath. (einschießend, kribbelnd etc.):* [[Ketamin]], Antikonvulsiva, ggf. Schmerzdienst
+> - **Grundsätzlich:**
+> 	- *WHO-Stufenschema:* Stufe I ± Stufe II oder Stufe III
+> 	- *Physikalische Maßnahmen* ausreizen (Kühlung/Wärme, Schienung etc.)
+> 	- *[[Regionalanästhesie]]* erwägen
+> - **Opioide:**[^2]
+> 	- *Nicht-sensibel:* z.B. [[Kopfschmerz]]
+> 	- *Obstipationsprophylaxe:* Immer (z.B. Movicol, Lactulose)
+> 	- *Schema:* Basistherapie retardiert 1-0-1 + Bedarfsmedikation 4-6x/d mit 1/6 der Tagesdosis
+
+## Analgetika-Optionen
+
+
 > [!management] Nicht-Opioid-Analgetika
 > - **ASS:** Cave Salicylatintoxikation ([[Metabolische Azidose]]), GI-Ulcera
 > - **Paracetamol:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit Esketamin/Opioide
@@ -40,3 +56,5 @@ tags:
 > 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]
 
 [^1]: Metamizol Aktivierung durch Hydrolyse im Darmepithel, p.o. Wirkung > i.v.
+
+[^2]: [LONTS Leitlinie](https://register.awmf.org/assets/guidelines/145-003k_S3_LONTS_2024-03.pdf)

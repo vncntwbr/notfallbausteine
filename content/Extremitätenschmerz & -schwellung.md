@@ -9,7 +9,7 @@ aliases:
 
 > [!dd]+ DD
 > - **Killer:** Arterieller Verschluss, [[LAE]], [[Sepsis]] z.B. bei septischer Arthritis, [[Nekrotisierende Fasziitis]], Kompartmentsyndrom
-> - **Häufig:** [[Thrombose (TVT)]]
+> - **Häufig:** [[TVT]]
 > - **Selten:** 
 > - *Arm/Schulter:* [[ACS]]
 
@@ -32,4 +32,4 @@ aliases:
 
 - K **Killer:** 
 - **DD**
-	- [[Thrombose (TVT)]]
+	- [[TVT]]
