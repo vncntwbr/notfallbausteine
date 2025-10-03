@@ -16,7 +16,7 @@ tags:
 > [!workup]
 > 1. **Nachweis Ketoazidose:** [[Metabolische Azidose]] mit Anionenlücke, Ketonurie
 > 2. **Ätiologie?** Infekt? ED Diabetes? Incompliance/Fehlfunktion Insulin? Meds? Drogen?
-> - **Urin:** Ketone? HWI?
+> - **[[Urin]]:** Ketone? HWI?
 > - **Labor:** [[BGA]] (Anionenlücke?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes)
 
 > [!stadien]

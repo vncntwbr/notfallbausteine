@@ -19,7 +19,7 @@ tags:
 
 > [!management]+
 > - **Infektion:**
-> 	1. *Großzügig Dx:* BK/UK, CMV/EBV/Multiplex-PCR, Meds-Spiegel, CT, ggf. LP
+> 	1. *Großzügig Dx:* BK/UK, CMV/EBV/Multiplex-PCR, Meds-Spiegel, CT, ggf. [[LP]]
 > 	2. *ABx:* In RS Pip/Taz 4.5 g i.v. (Cave: Interaktion Immunsuppressiva z.B. Makrolide/Azole)
 > 	3. *Immunsuppressiva:* In RS anpassen
 > - **Abstoßung:** 

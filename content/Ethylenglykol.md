@@ -13,7 +13,7 @@ tags:
 	- [[Osmolalitätslücke]] >10 mOsm/kg
 	- [[Lactatazidose]] mit Diff. [[BGA]] | Zentrallabor
 	- AKI
-	- Oxalatkristalle im Urin (ab 4-8h, nur in 33%, falsch-pos. u.a. Spinat)
+	- Oxalatkristalle im [[Urin]] (ab 4-8h, nur in 33%, falsch-pos. u.a. Spinat)
 	- Ethylenglykol, Glykolat im Serum ≥20 mg/dl
 - **T**
 	- *Antidot* 

@@ -11,7 +11,7 @@ aliases:
 > 	- *Zoster ophtalmicus (V1):* Stirn, Nasenspitze/Hutchinson → Konsil Auge
 > 	- *Zoster oticus (VII/VIII):* [[Facialisparese]], Hören/Gleichgewicht → Konsil HNO
 > - **Labor:** <50 J. HIV, W β-HCG, ggf. Abstrich VZV-PCR
-> - bei FND (außer HN VII/VIII) cMRT + LP mit VZV-PCR
+> - bei FND (außer HN VII/VIII) cMRT + [[LP]] mit VZV-PCR
 
 > [!management]
 > - **Stationär:** >50 J., Kopf/Hals, Neuro, schwerer Hautbefund, Immunsupp., atopische Dermatitis

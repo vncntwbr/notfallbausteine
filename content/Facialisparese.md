@@ -9,11 +9,11 @@ tags:
 > [!workup]+
 > - Siehe [[Fokalneurologisches Defizit]]
 > - **[[Untersuchung|U]]:** Grinsen, Augen schließen, Backen aufpusten, Stirn runzeln (bei zentraler Facialisparese noch bds. möglich)
-> - **W:** IFP, LP bei V.a. [[Neuroborreliose]] oder [[Zoster]]
-> - LP immer anbieten (10% "V.a. idiopathisch" doch andere Genese)
+> - **W:** IFP, [[LP]] bei V.a. [[Neuroborreliose]] oder [[Zoster]]
+> - [[LP]] immer anbieten (10% "V.a. idiopathisch" doch andere Genese)
 
 > [!management]+
-> - **Nicht-idiopathisch (LP Pleozytose):** Stationär
+> - **Nicht-idiopathisch ([[LP]] Pleozytose):** Stationär
 > 	- *V.a. [[Zoster]]:* Prednisolon s.u., Aciclovir i.v.
 > 	- *V.a. Neuroborreliose:* Ceftriaxon 2 g i.v., kein(!) Prednisolon
 > - **Prednisolon-Stoß p.o. 10 d**

@@ -22,7 +22,7 @@ aliases:
 > 	- *Anämische Hypoxie?* Euvolämie + AF↑, HF↑, RR↓, EKG Ischämie, Laktat
 > - **[[EKG]]:** Ischämie? HRST?
 > - **[[POCUS]]:** [[Volumenstatus]], [[eFAST]], Splenomegalie?
-> - **Urin:** Hämoglobinurie? [W] β-HCG?
+> - **[[Urin]]:** Hämoglobinurie? [W] β-HCG?
 > - **[[Labor]]:** 2x EDTA, BSG, Profil "Bauchschmerz", Blutgruppe, ggf. Kreuzblut
 > 	- *Hämolyse?* fHb, LDH, Haptoglobin, direkter Coombs-Test
 > 	- *V.a. Mangel:* Holo-TC, Folsäure, Ferritin (Routine)

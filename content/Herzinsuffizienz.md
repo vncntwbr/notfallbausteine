@@ -12,7 +12,7 @@ aliases:
 - **T**
 	- *Therapieprinzipien:* Preload↓, Afterload↓, ggf. LVEF↑ (Amal Mattu)[^2]
 	- Nitrate first-line
-	- NIV early(!)
+	- [[NIV]] early(!)
 	- ACEi + high dose Nitrates scnd-line
 	- Morphin erhöht Mortalität (OR 5!)[^4]
 	- Furosemid erst nach 1-2 h, leert nur Körper-Bucket, aber nicht direkt Lunge-Bucket, kommt bei Vasokonstriktion nicht an Niere an

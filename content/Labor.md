@@ -15,4 +15,4 @@ tags:
 - **Gerinnung**
 - **Entzündungszeichen**
 - **Rhabdomyolyse**
-- **[[Urindiagnostik]]**
+- **[[Urin]]**

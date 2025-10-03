@@ -12,7 +12,7 @@ tags:
 
 - K **Killer:** [[Synkope]] / Adam-Stokes bei [[CPR]], [[Hypoglykämie]], Status epilepticus, [[Intrakranielle Blutung]], [[Meningitis]]
 - **[[Anamnese|A]]:** [S] Semiologie, Infekt, Kopfschmerz, Palpitationen, AP, Enuresis/Enkopresis, [M] Antiepileptika + Adhärenz, [P] Epilepsie, Sucht, Tumor, [[Schwanger]], [L] Anfallsfrequenz, [E] Trauma, Schlafentzug, Provokation, [R] [[Alkohol]], Drogen, Entzug
-- **[[Untersuchung|U]]:** Neuro-Screen, Infekt, Zungenbiss, U-Stix, β-HCG, W wie [[Synkope]]
+- **[[Untersuchung|U]]:** Neuro-Screen, Infekt, Zungenbiss, [[U-Status]], β-HCG, W wie [[Synkope]]
 - **W Z.n. Krampfanfall**
 	- *Erstmalig:* cCT nativ ±CTA, EEG <24h, cMRT im Verlauf
 	- ggf. Spiegelbestimmung Antiepileptika

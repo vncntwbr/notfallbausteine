@@ -10,6 +10,6 @@ tags:
 	- *[[Betablocker-Intoxikation]]:* insb. Propanolol u.a. lipophile BB
 	- *[[Calciumantagonisten-Intoxikation]]:* <4 J.
 	- *[[Ethylenglykol]] (Kühlpacks, Frostschutzmittel)*
-	- *Chloroquin:* ≥20 mg/kg, ZNS-Sympt., Hypokaliämie
+	- *Chloroquin:* ≥20 mg/kg, ZNS-Sympt., [[Hypokaliämie]]
 	- *Kampfer (Tiger Balsam):* ≥30 mg/kg, Krampfanfall, [[Vigilanzminderung]]
 	- 

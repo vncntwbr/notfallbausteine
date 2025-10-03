@@ -15,7 +15,7 @@ tags:
 > - Vitamin-D-Intoxikation (25-OH-VitD↑)
 > - Sarkoidose (1,25-OH-VitD↑)
 > - Hyperthyreose (TSH↓)
-> - Familiäre hypocalcurische Hypercalcämie (Ca2+↓ im Urin)
+> - Familiäre hypocalcurische Hypercalcämie (Ca2+↓ im [[Urin]])
 
 > [!workup]
 > - **[[Labor]]:** [[BGA]], Niere, Phosphat, Mg2+, PTH, Elektrophorese, VitD, TSH

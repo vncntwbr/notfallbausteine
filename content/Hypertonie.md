@@ -15,7 +15,7 @@ tags:
 		1. *Dreifachkombination* (ACEi/AT1RB + Thiazid + Calciumantagonist)
 		2. *+* Aldosteronantagonist (Spironolacton 25 mg/d)
 		3. *Alternativen:*
-- **W/Ä Akut:** VP, [[EKG]], W β-HCG, ggf. U-Stix (AKI?), Ophthalmoskopie (bei Sehstörung), [[POCUS]] (Harnverhalt?)
+- **W/Ä Akut:** VP, [[EKG]], W β-HCG, ggf. [[U-Status]] (AKI?), Ophthalmoskopie (bei Sehstörung), [[POCUS]] (Harnverhalt?)
 	- R *Endorganschäden?* 
 		- [[ACS]]
 		- [[Aortensyndrom]]

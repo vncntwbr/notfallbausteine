@@ -2,16 +2,27 @@
 tags:
   - interventionen
 ---
-> [!danger] Rapid Reference
-> - **Visuell:** trüb/eitrig (V.a. [[SBP]]), blutig (Malignität, Trauma, iatrogen durch Punktion)
-> - **Labor:** [SBP?] Zellzahl+Diff, BK, [Ä?] Protein, Albumin, Cholesterin, LDH, Glucose, ggf. Lipase
+> [!danger] Indikation
+> - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, ACLV, AKI oder HE)
+> - **Therapeutisch** (Schmerzen, Spannung, Dyspnoe, hepatorenales Syndrom)
+
+> [!management] Durchführung
+> - **Punktion** mit 18G grünem PVK
 > - **Albumin** 6-8 g/L ab 5 L
+
+> [!workup] Aszitespunktat
+> - **Visuell:** trüb/eitrig (V.a. [[SBP]]), blutig (Malignität, Trauma, iatrogen durch Punktion)
+> - **Bedside:** [[U-Status]] auf Leukozyten
+> - **Labordiagnostik:** Zellzahl+Diff, Albumin, Protein, LDH, Glucose, Cholesterin
+> - **MiBi:** Punktatkulturen
+> - **V.a. ED Malignom:** 20-50 ml Spritze für Zytopathologie
+
 
 - **I**
 	- *Diagnostisch:* Aszites neu, V.a. [[SBP]], Z.n. Trauma (blutig? → ExLap)
 	- *Therapeutisch:* Symptomlast (Cave: hepatorenales Syndrom durch Volumenentzug)[^1]
 ## Workup
-- **Labor-Anforderung:** Leukozyten, Albumin, Protein, LDH, Glucose, Cholesterin, 2x BK, ggf. 20 ml Zyto-Patho, Bedside U-Stix auf Leukos
+- **Labor-Anforderung:** Leukozyten, Albumin, Protein, LDH, Glucose, Cholesterin, 2x BK, ggf. 20 ml Zyto-Patho, Bedside [[U-Status]] auf Leukos
 - *SBP:* >500 Leukos, >250 segmentk. Granulozyten/μl[^2]), BK, LDH↑, Glucose <50 mg/dl
 - *Serum-Aszites-Albumin-Gradient* <1.1 g/dl = Exsudat (z.B. Pankreatitis, Tbc, Malignität, Myödem), sonst Transsudat (Leber, Herz, Hypalbuminämie)
 - *Protein* <1.5 g/dl erhöhtes SBP-Risiko, ggf. prophyl. [[ABx]] (Norfloxacin 400 mg/d p.o.)

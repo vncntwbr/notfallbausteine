@@ -3,7 +3,22 @@ tags:
   - sy/allgemein
   - status/started
 ---
+> [!management] Symptomkontrolle
+> - **[[Dyspnoe]]:** Opioidnaiv Morphin 5-10 mg i.v.
+> - **Schmerzexazerbation**
+> - **Angst, Unruhe, [[Delir]]:** Lorazepam 1 mg s.l., alternativ Midazolam 1-2 mg-weise i.v. oder 2-5 mg s.c., psychotisch Haloperidol 5 mg s.c.
+> - **"Todesrasseln":** physiologisch, Angehörige aufklären, ggf. Butylscopolamin 20 mg s.c. q4h "Kosmetik"
+> - **[[Ü+E]]**
+> 	- *Chemo/Opioide/Meds:* Ondansetron 4-8 mg i.v./s.l.
+> 	- *Gastrostase:* MCP 10 mg i.v./s.c./p.o. (Cave:) kein Dimenhydrinat)
+> 	- *ZNS:* Dimenhydrinat i.v./s.c./p.o. + Dexamethason 4 mg i.v. / 10 mg p.o. (Cave: kein MCP)
+> 	- *GI-Obstruktion:* Dimenhydrinat
+> - **Durst/Mundtrockenheit:** Mundpflege, OraCare Xylimelts 1-0-1
+> - **Terminalphase:** Morphin-Bolus s.o. + [[Perfusor]] 1 mg/kg/h ±0.5 nach Effekt
 
+> [!disposition]
+
+---
 - P-CaRES Implementation[^1] und Content Validation[^3]
 - "I told Mark that we could work toward more time or more sunshine, depending on what he cherished most."[^2]
 - *Definition Palliativversorgung (WHO):* Ansatz zur Verbesserung der Lebensqualität von Patienten und ihren Familien, die mit Problemen konfrontiert sind, welche mit einer lebensbedrohlichen Erkrankung einhergehen. Dies geschieht durch Vorbeugen und Lindern von Leiden durch frühzeitige Erkennung, sorgfältige Einschätzung und Behandlung von Schmerzen sowie anderen Problemen auf körperlicher, psychosozialer und spiritueller Ebene.[^4]

@@ -14,7 +14,7 @@ tags:
 > - [ ] RR >185/110 (→Urapidil)
 > - [ ] Schwere [[GI-Blutung]] oder urogenitale Blutung <3 Wo
 > - [ ] Schweres Trauma oder OP <30d
-> - [ ] LP oder nicht-komprimierbare arterielle Punktion <1 Wo
+> - [ ] [[LP]] oder nicht-komprimierbare arterielle Punktion <1 Wo
 > - [ ] DOAK-Einnahme <24h (ggf. bei nw Thrombos+PPT oder Dabigatran Antagonisierung)
 > - [ ] Kein relevantes Defizit oder Symptome regredient (Cave ≠ NIHSS 0)
 > - [ ] [[Krampfanfall]] zu Beginn, V.a. Todd'sche Parese (ggf. cMRT)
