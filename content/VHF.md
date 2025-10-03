@@ -1,13 +1,16 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 ---
-> [!note]- Diagnose
-> **Aktuell:** Intermittierendes/Persistierendes/Permanentes, bradykardes/normofrequentes/tachykardes Vorhofflimmern (VHF), ED ###
+> [!note]+ Diagnose
+> ```
+> Aktuell: Intermittierendes/Persistierendes/Permanentes, bradykardes/normofrequentes/tachykardes Vorhofflimmern (VHF), ED ###
 > - ##.##.####: CHA2DS2-VASc: ###
 > - ##.##.####: eKV
 > - ##.##.####: Ablation
 > - OAK mit 
+> ```
 
 
 - **W**[^1]
@@ -17,7 +20,7 @@ tags:
 	- 
 - **T**
 	- [[Kardioversion]]
-	- Mg2+ 2 g empirisch
+	- [[MgSO4]] 2 g empirisch
 	- *[[Antikoagulation]]:* DOAK min. 4 Wochen, länger wenn CHADS-65 pos.
 
 [^1]: Stiell, I.G., de Wit, K., Scheuermeyer, F.X. _et al._ 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practices Checklist. _Can J Emerg Med_ **23**, 604–610 (2021). https://doi.org/10.1007/s43678-021-00167-y

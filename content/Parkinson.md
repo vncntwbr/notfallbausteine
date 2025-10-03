@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/neurologie
+  - fach/neurologie
+  - status/started
+  - dx
 ---
 
 > [!danger] Rapid Reference: Akinetische Krise

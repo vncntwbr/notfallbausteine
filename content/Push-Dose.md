@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/meds
+  - status/done
 aliases:
   - Push-Dose-Pressors
 ---

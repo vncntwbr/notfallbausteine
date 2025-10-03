@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/meds
+  - fach/anästhesiologie
+  - status/started
 ---
 
 - Ibuprofen 400 mg gleich effektiv wie 600-800[^1]

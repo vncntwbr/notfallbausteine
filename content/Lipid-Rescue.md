@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/meds
+  - fach/anästhesiologie
+  - status/done
 ---
 > [!danger] Lipid Rescue
 > - **Indikation:** Fulminante Intoxikation mit [[Lokalanästhetika]] (meiste Evidenz), [[Calciumantagonisten-Intoxikation]], [[TCA-Intoxikation]], Quetiapin

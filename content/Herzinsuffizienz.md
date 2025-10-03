@@ -1,12 +1,15 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 aliases:
   - Kardiale Dekompensation
 ---
-> [!note]- Diagnose
-> **Aktuell:** Akute rechts-/links-/bi-ventrikuläre Kardiale Dekompensation NYHA ###
+> [!note]+ Textbaustein Diagnose
+> ```
+> Aktuell: Akute rechts-/links-/bi-ventrikuläre Kardiale Dekompensation NYHA ###
 > - Ätiologie: ###
+> ```
 
 - 50% euvoläm
 - **T**

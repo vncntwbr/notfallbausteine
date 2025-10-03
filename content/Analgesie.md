@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/done
 ---
 > [!note]+ Textbaustein Entlassung Analgesie
 > ```
@@ -14,7 +15,7 @@ tags:
 > [!management]+
 > - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
-> 	- *Neuropath. (einschießend, kribbelnd etc.):* [[Ketamin]], Antikonvulsiva, ggf. Schmerzdienst
+> 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], Antikonvulsiva, ggf. Schmerzdienst
 > - **Grundsätzlich:**
 > 	- *WHO-Stufenschema:* Stufe I ± Stufe II oder Stufe III
 > 	- *Physikalische Maßnahmen* ausreizen (Kühlung/Wärme, Schienung etc.)
@@ -32,7 +33,7 @@ tags:
 > - **Paracetamol:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit Esketamin/Opioide
 > - **Ibuprofen:** Ceiling-Effekt 400 mg p.o. Einzeldosis, Cave Nephrotox. (KI bei AKI/CKD), Kardiotox. (KI bei HFrEF, kann Dekomp. triggern), GI-Ulcera
 > - **Metamizol:** 500-1000 mg p.o. > i.v.[^1], = 20-40 Tropfen, Ceiling-Effekt 1g, Cave [[Anaphylaxie]], [[Neutropenie]]/Agranulozytose
-> - **[[Ketamin]]**
+> - **[[esKETAmin]]**
 
 > [!management] Opioide
 > - **Tramadol (Tramal®):** Nein, Cave [[Serotonin-Syndrom]], UAW Übelkeit

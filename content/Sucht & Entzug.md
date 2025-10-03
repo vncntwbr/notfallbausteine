@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/psychiatrie
+  - fach/psychiatrie
+  - status/started
 ---
 
 - K **Killer:** "Kalter" Alkohol- oder Benzodiazepin-Entzug (andere Substanzen ausgeprägte Symptomatik, aber ohne vitale Bedrohung)

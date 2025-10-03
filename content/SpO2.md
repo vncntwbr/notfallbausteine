@@ -1,7 +1,7 @@
 ---
 tags:
   - basics
-  - diagnostik
+  - status/started
 ---
 - *Kurvenform:* Vasokonstriktion breit+niedrig, Vasodilatation schmal+hoch
 - Dunkle Hautfarbe SpO2 niedrigere Präzision und Bias +2% (unterdiagnostiziert Hypoxämie)[^1]

@@ -3,6 +3,8 @@ aliases:
   - Resp Azi
 tags:
   - sy
+  - fach/labor
+  - status/done
 ---
 > [!dd]+ DD
 > - **Neurologisch:** 

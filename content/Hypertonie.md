@@ -4,17 +4,6 @@ tags:
   - status/started
 ---
 - K **Killer:** [[Aortensyndrom]], [[ACS]], [[Lungenödem]], PRES, [[ICB]], [[(Prä-)Eklampsie]]
-- **T Langzeit**[^3]
-	- *Ziel-RR:* <140/90 in 3 Mo, LZ <130/80
-	- *Lifestyle:* Alkohol↓, Rauchen↓, NaCl↓, Ernährung, Aktivität, [[NSAR]] >
-	- *Med Initial*
-		- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)
-		- *+* Thiazid (Chlortalidon 12.5-25 mg/d) oder Calciumantagonist (Amlodipin 5-10 mg/d)
-		- [[Betablocker]] (Bisoprolol[^2] 2.5-5 mg 1-0-1) nur bei KHK/[[Herzinsuffizienz]]/[[VHF]]
-	- *Med Eskalation:* Sekundäre Hypertonie?
-		1. *Dreifachkombination* (ACEi/AT1RB + Thiazid + Calciumantagonist)
-		2. *+* Aldosteronantagonist (Spironolacton 25 mg/d)
-		3. *Alternativen:*
 - **W/Ä Akut:** VP, [[EKG]], W β-HCG, ggf. [[U-Status]] (AKI?), Ophthalmoskopie (bei Sehstörung), [[POCUS]] (Harnverhalt?)
 	- R *Endorganschäden?* 
 		- [[ACS]]
@@ -25,11 +14,26 @@ tags:
 		- PRES
 		- Maligne Hypertonie (Visusminderung + AKI + RRsys >200)
 	- *Weitere Ursachen:* Schmerzen, Stress/"Weißkittel", Fehlmessung, Intox (Amphetamine, Kokain), [[Alkohol]]-Entzug, hyperaktives [[Delir]], [[Harnverhalt]], [[AKI]] (z.B. Glomerulonephritis, nephrotisches Syndrom), Hyperaldosteronismus
-- **T Akut**
-	- Schmerzen? Stress/Angst? Harnverhalt? etc. adressieren
-	- Beruhigen, 30 min entspannen lassen, keine wdh. RR-Messung, Aufklärung
-	- Extra Dosis antihypertensive Hausmedikation p.o.
+
+> [!management]
+> - **Akut**
+> 	- Schmerzen? Stress/Angst? Harnverhalt? etc. adressieren
+> 	- Beruhigen, 30 min entspannen lassen, keine wdh. RR-Messung, Aufklärung
+> 	- Extra Dosis antihypertensive Hausmedikation p.o.
+> - **Langzeit** Ziel-RR <140/90 in 3 Mo, LZ <130/80[^3]
+> 	- Alkohol↓, Rauchen↓, Salz↓, Ernährung, Aktivität, [[NSAR]]>
+> 	- *Med Initial*
+> 		- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)
+> 		- *+* Thiazid (Chlortalidon 12.5-25 mg/d) oder Calciumantagonist (Amlodipin 5-10 mg/d)
+> 		- [[Betablocker]] (Bisoprolol[^2] 2.5-5 mg 1-0-1) nur bei KHK/[[Herzinsuffizienz]]/[[VHF]]
+> 	- *Med Eskalation* (Cave: Sekundäre Hypertonie?)
+> 		1. 3er-Komibination (ACEi/AT1RB + Thiazid + Calciumantagonist)
+> 		2. +Aldosteronantagonist (Spironolacton 25 mg/d)
+> 		3. Alternativen:
+
 ---
+
+
 > [!note]+ Textbaustein Hypertensive Entgleisung
 > ```
 > Vorstellung bei isoliert hypertensiven RR-Werten, abseits von BEGLEITSYMPTOME asymptomatisch. Kein H.a. akute Endorganschädigung. Somit keine Indikation zur Akuttherapie nach ESC-Leitlinie. Ausführliche Beratung zum Umgang mit RR-Entgleisungen. Es besteht der V.a. arterielle Hypertonie, zur Diagnose müssen jedoch ambulante Bestätigungsmessungen erfolgen. 

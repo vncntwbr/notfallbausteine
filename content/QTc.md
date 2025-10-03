@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - Friderica & Framingham Formeln sind besser als Bazett zur Frequenzkorrektur, korrelieren am besten mit 30d- und 1-Jahres-Mortalität[^1]

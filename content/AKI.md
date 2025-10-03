@@ -2,6 +2,7 @@
 tags:
   - sy
   - checkliste
+  - status/started
 ---
 > [!danger] Checkliste
 > 1. **MAP** halten

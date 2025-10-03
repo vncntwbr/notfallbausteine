@@ -2,6 +2,7 @@
 tags:
   - sy/allgemein
   - basics
+  - status/started
 ---
 
 > [!danger]+ Rapid Reference

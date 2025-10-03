@@ -1,6 +1,10 @@
 ---
 tags:
   - interventionen/meds
+  - fach/anästhesiologie
+  - fach/kardiologie
+  - fach/intensiv
+  - status/started
 ---
 - **Zugang:** Alles außer Vasopressin via PVK safe[^1], am sichersten Epinephrin od. Phenylephrin
 - 

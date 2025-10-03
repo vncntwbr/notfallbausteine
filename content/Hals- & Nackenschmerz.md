@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/kopf-neuro
+  - status/started
 ---
 
 > [!danger] Atemnot, Stridor, Speicheln? → A-Problem

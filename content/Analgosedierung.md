@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen
+  - status/started
 ---
 > [!management] "Ketofol" (Eingriffe, Pacing)
 > - **esKETAmin** 10 mg-weise i.v. +

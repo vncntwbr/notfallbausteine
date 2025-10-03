@@ -1,7 +1,8 @@
 ---
 tags:
-  - its
   - interventionen/meds
+  - status/started
+  - fach/intensiv
 ---
 - **I:** Beatmung + 1 von [[Schock]], [[DIC]], Leber↓, [[Hirndruck (ICP↑)]]
 - **T**

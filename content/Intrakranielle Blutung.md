@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/neurologie
+  - fach/neurologie
+  - status/started
 aliases:
   - SAB
   - ICB

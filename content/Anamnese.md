@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/done
 aliases:
   - A
 ---

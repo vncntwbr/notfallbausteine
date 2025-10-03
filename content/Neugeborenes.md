@@ -2,6 +2,9 @@
 tags:
   - druck
   - interventionen/halo
+  - fach/pädiatrie
+  - fach/gynäkologie
+  - status/done
 ---
 
 > [!danger] Erste Minute

@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - RTW Dezeleration erhöht [[Hirndruck (ICP↑)]][^1]

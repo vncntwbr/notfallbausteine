@@ -2,13 +2,15 @@
 aliases:
   - Asthma bronchiale
 tags:
-  - dx/pulmologie
+  - fach/pulmologie
+  - dx
+  - status/started
 ---
 > [!danger] Rapid Reference
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 2. **Med:** Prednisolon 50-100 mg i.v., ggf. MgSO4 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie
-> 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz mit [[Ketamin]] 
+> 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz mit [[esKETAmin]] 
 > 5. **[[AMAX4]]** bei Sopor/Apnoe
 
 ## Workup
@@ -31,6 +33,8 @@ tags:
 ---
 > [!note]+ Textbaustein Ambulant
 > ```
+> Aktuell: leichter/mittelschwerer/schwerer/lebensbedrohlicher Asthma-Anfall bei vorbek. Asthma bronchiale
+> 
 > Zusammenfassend a.e. ## leichter/mittelschwerer/schwerer/lebensbedrohlicher Asthma-Anfall bei vorbek. Asthma bronchiale. Klinisch und laborchemisch kein H.a. auf Infektion. Therapie mit Salbutamol + Iptratropium p.i. und Prednisolon + Magnesium i.v., darunter Stabilisierung der VP. Eupnoe AF ###/min und Normoxie SpO2 ###% unter RL, Normokapnie mit venösem pCO2 ## mmHg. Gute pneumologische Anbindung, ambulantes Procedere im Konsens mit Pat. möglich.
 > 
 > ##Dauermed## Bei bisher SABA-Monotherapie angesichts Anfallsfrequenz >2x/Woche leitliniengerechte Umstellung auf Stufe-1-Therapie mit Fixkombination Formoterol/ICS, rezeptiert und videogestützt über korrekte Anwendung aufgeklärt. Zeitnahe haus- bzw. lungenfachärztliche Vorstellung zur weiteren Diagnostik und Anpassung der Therapie empfohlen.

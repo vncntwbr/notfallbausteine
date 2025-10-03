@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/halo
+  - status/started
 ---
 
 - Sim Setup mit Intubationspuppe, Ösophagus mit abgeschnittenem 9.0 ETT intubieren, Blasenspülungsset mit 2x 3L-Beuteln anschließen und auf 300 mmHg Druck[^1]

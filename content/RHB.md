@@ -4,6 +4,7 @@ aliases:
 tags:
   - basics
   - interventionen/pocus
+  - status/started
 ---
 - **RHB im [[EKG]]**
 	- Sinustachykardie bzw. TAA [[VHF]]

@@ -1,4 +1,13 @@
-> [!note]+ Textbaustein
+---
+tags:
+  - fach/hno
+  - dx
+  - status/started
+aliases:
+  - PTA
+---
+
+ > [!note]+ Textbaustein
 > ```
 > Zusammenfassend Tonsillitis seit ###, nun stark progrediente Beschwerden mit Schluck- und Sprechstörung sowie Kieferklemme (Mundöffnung ca. ### cm). Inspektorisch gerötete Tonsillen und vorderer Gaumenbogen RECHTS/LINKS vorgewölbt und druckdolent. Sonografisch Nachweis Peritonsillarabszess von ca. ### x ### cm, laborchemisch ###. 
 > 

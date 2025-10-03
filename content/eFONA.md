@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/halo
+  - status/done
 ---
 >[!danger] Koniotomie
 > 1. **ApnoeOx**

@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 ### **Multimedia Learning Principles**[^1]

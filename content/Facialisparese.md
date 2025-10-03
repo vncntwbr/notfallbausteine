@@ -1,6 +1,8 @@
 ---
 tags:
   - sy
+  - fach/neurologie
+  - status/done
 ---
 > [!danger]+ Rapid Reference
 > - **Periphere Facialisparese** = Stirn mitbetroffen

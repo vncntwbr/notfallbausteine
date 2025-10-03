@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/pocus
+  - fach/kardiologie
+  - status/started
 ---
 
 - *Durchfürung:* In [[PLAX]] M-Mode cursor durch Mitralsegel, Messung von E-Point bis Septum (s. Bild)

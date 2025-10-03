@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - Verzögerung stationäre Aufnahme >5h hat NNH=82 für 30d-Mortalität[^1]

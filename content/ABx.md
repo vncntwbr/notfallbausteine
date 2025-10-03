@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
 ---
 > [!danger] Kalkulierte ABx
 > - **aeCOPD:** [Indikation: Sputum, ITS o. PCT] Ampi/Sulb o. Ceftriaxon, [1 davon vor <3 Mo gegeben] Moxi, [Pseudomonas-Risiko] Pip/Taz

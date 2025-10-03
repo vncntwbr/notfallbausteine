@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 ---
 
 - Nitro beneficial, Morphin+Furosemid kein Benefit, n=57[^1]

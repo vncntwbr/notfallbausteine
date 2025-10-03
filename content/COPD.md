@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/pulmologie
+  - fach/pulmologie
+  - status/started
 ---
 - **Ä (Dekomp. Ursachen):** Infekt, [[Herzinsuffizienz]], [[Pneumothorax]], [[LAE]]
 ## Management

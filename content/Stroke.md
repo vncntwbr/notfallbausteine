@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/neurologie
+  - fach/neurologie
+  - status/started
 ---
 
 - **[[Anamnese|A]]:** [S] Exakt Onset? Schmerzen? Infekt? [A] Gentamicin (in Metalyse)? [M] [[Antikoagulation]]/TAH? Letzte Einnahme? [P] Bek. Defizit? [[SHT]]/OP <3 Mo? VHF? Tumor? [L] Last seen well? [E] Trauma? Funktioneller Vorzustand? [R] CVRF

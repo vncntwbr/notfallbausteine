@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - Alle BK zeitgleich aus 1 Punktionsstelle, senkt Kontaminationsgefahr

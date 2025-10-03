@@ -1,6 +1,7 @@
 ---
 tags:
   - checkliste
+  - status/done
 ---
 >[!danger] Crashing RV
 > 1. **FiO2 100%** (pulmonale Vasodilatation), a.e. HFNC, minimal PEEP

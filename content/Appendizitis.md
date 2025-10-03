@@ -1,6 +1,9 @@
 ---
 tags:
-  - dx/chirurgie
+  - fach/chirurgie
+  - fach/gastroenterologie
+  - dx
+  - status/started
 ---
 - [[POCUS]] conclusive in 60%, PPW 88%, NPW 95%, bei inconclusive immer follow-up oder [[CT]][^1]
 

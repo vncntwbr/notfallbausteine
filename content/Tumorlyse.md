@@ -1,6 +1,6 @@
 ---
 tags:
-  - dx/hämatologie
+  - fach/hämatologie
   - status/done
 ---
 > [!danger] Rapid Reference

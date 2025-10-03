@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen
+  - status/started
 ---
 
 - **I Thrombektomie bei [[Stroke]]**

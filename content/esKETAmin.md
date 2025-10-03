@@ -1,6 +1,9 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
+aliases:
+  - Ketamin
 ---
 
 - **[[Analgesie]]**

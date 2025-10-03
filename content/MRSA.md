@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/infektiologie
+  - fach/infektiologie
+  - status/started
 ---
 
 - Isolation quatsch? Kein unterschied in nosokomialen/MRSA Infektionen prä/post[^1]

@@ -1,5 +1,6 @@
 ---
 tags:
-  - diagnostik
+  - status/started
+  - basics
 ---
 ![[Stridor]]

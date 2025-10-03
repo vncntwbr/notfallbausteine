@@ -1,8 +1,9 @@
 ---
 tags:
-  - dx/infektiologie
-  - dx/nephrologie
-  - dx/urologie
+  - fach/infektiologie
+  - fach/nephrologie
+  - fach/urologie
+  - status/started
 ---
 
 - **Unkompl. amb.:** Fosfomycin 3g 1x zur Nacht / Pivmecillinam 400 mg 1-1-1 f. 3d (>65 J.)
@@ -11,6 +12,8 @@ tags:
 
 > [!note]+ Textbaustein HWI Unkompliziert Ambulant
 > ```
+> Aktuell: Unkomplizierte Harnwegsinfektion
+> 
 > Zusammenfassend unkomplizierte Harnwegsinfektion. Im Urinstatus ###. Wir verabreichten/rezeptierten 3g Fosfomycin p.o. als Einmal-Dosis. Entlassung in gutem Allgemeinzustand.
 > 
 > Empfehlungen:

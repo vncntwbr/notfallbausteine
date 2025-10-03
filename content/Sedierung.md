@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen
+  - status/started
 ---
 
 - Täglicher Aufwachversuch[^2]

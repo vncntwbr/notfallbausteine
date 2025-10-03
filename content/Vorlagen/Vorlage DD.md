@@ -1,5 +1,6 @@
 ---
 tags:
+  - status/started
 aliases:
 ---
 > [!dd]+ DD

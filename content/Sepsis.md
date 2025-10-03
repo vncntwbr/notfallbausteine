@@ -1,8 +1,8 @@
 ---
 tags:
-  - dx
+  - fach
   - sy/allgemein
-  - dx/infektiologie
+  - fach/infektiologie
   - status/started
 ---
 - **W**

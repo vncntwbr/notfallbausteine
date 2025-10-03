@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen
+  - fach/kardiologie
+  - status/done
 aliases:
   - eKV
 ---

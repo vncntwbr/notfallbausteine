@@ -2,6 +2,7 @@
 tags:
   - basics
   - textbaustein
+  - status/done
 ---
 > [!note]+ Textbaustein
 > ```

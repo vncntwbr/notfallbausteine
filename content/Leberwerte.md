@@ -1,6 +1,9 @@
 ---
 tags:
   - basics
+  - fach/gastroenterologie
+  - fach/labor
+  - status/started
 ---
 
 > [!workup]

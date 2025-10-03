@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
+  - fach/kardiologie
 aliases:
   - Digitoxin
   - Herzglykoside

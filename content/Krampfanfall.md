@@ -7,7 +7,7 @@ tags:
 > 1. **ABCDE:** Abpolstern, O2 15L, , BZ/[[BGA]], Anamnese
 > 2. **Stufen:** Midazolam 10 mg i.v./i.m.[^1][^2] 2x → Levetiracetam 4.5 g i.v. → [[RSI]]
 > 3. **Dx?** 
-> 	- *Eklampsie[^3]:* Mg2+ 20 mmol / 5 g[^5] i.v. KI auch wenn durchbrochen
+> 	- *Eklampsie[^3]:* [[MgSO4]] 20 mmol / 5 g[^5] i.v. KI auch wenn durchbrochen
 > 	- *Alkohol:* Thiamin 100 mg i.v.
 
 - K **Killer:** [[Synkope]] / Adam-Stokes bei [[CPR]], [[Hypoglykämie]], Status epilepticus, [[Intrakranielle Blutung]], [[Meningitis]]

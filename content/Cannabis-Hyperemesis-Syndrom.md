@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/neurologie
+  - fach/neurologie
+  - dx
+  - status/started
 ---
 
 - **[[Anamnese|A]]:** Zyklisch [[Ü+E]] <7d/Mo, Besserung durch heiß Duschen/Baden, oft diffus [[Bauchschmerz]], Cannabis-Konsum, sistieren 2-4d nach Cannabis>, kaum Besserung auf Antiemetika

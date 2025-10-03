@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/toxikologie
+  - fach/toxikologie
+  - dx
+  - status/started
 ---
 
 - I In Frostschutzmittel (Scheiben- bis 25%, Kühler- bis 99%), älteren Kühlpacks, schmeckt unvergällt süßlich, max. Spiegel nach 3-4h, HWZ 3-8h, mit Antidot HWZ um 20h

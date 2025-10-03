@@ -1,8 +1,8 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
   - checkliste
-  - textbaustein
+  - status/done
 aliases:
 ---
 ![[Crashing RV#^957508]]
@@ -14,7 +14,7 @@ aliases:
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?
 > - **[[Labor]]:** BGA ([[Respiratorische Alkalose]]), Basis-Labor ± D-Dimer, [W] β-HCG
 
-> [!stadien] Stadien & Management
+> [!stadien] 
 > - **High-Risk:** Schock
 > - **Intermediate-High-Risk:** sPESI ≥1, RHB+, Troponin+
 > - **Intermediate-Low-Risk:** sPESI ≥1, RHB–, Troponin–
@@ -28,16 +28,22 @@ aliases:
 
 > [!note]+ Textbaustein LAE ITS
 > ```
+> Aktuell: Lungenarterienembolie, high-risk
+> 
 > Bei klinisch und sonografisch obstruktivem Schock V.a. LAE. Therapie mit Hochdosis-O2 zur Senkung des pulmonalarteriellen Widerstands und therapeutischer AK mit UFH. Bestätigt durch CTPA-Nachweis in # GEFÄSSEN. High-Risk Kategorie (nach ESC-LL 2019, PESI ####). Mechanische Thrombektomie ###REASONING. Nach Ausschluss von KI durch uns Initiierung systemische Thrombolyse mit Alteplase (Actilyse, Gesamtdosis ### mg). Supportiv Katecholamintherapie mit Noradrenalin bis ### μg/kg/min. ITS-Aufnahme.
 > ```
 
 > [!note]+ Textbaustein LAE Normalstation
 > ```
+> Aktuell: Lungenarterienembolie, low / intermediate Risk
+> 
 > Bei ### V.a. LAE, die sich in CTPA in # GEFÄSSEN bestätigte. Low/Intermediate Risk Kategorie (PESI #). Initiierung therapeutische Antikoagulation mit NMH / Apixaban. Normalstationäre Aufnahme.
 > ```
 
 > [!note]+ Textbaustein LAE Ambulant
 > ```
+> Aktuell: Lungenarterienembolie, low-risk
+> 
 > Bei ### V.a. LAE, die sich in CTPA in # GEFÄSSEN bestätigte. Low-Risk Kategorie (PESI #), guter AZ, stabile VP und vollständig erfüllte HESTIA-Kriterien, somit im Einklang mit Patientenwunsch ambulantes Management vertretbar. 
 > 
 > Bei fehlenden KI Initiierung von OAK mit Apixaban. Aufklärung über Adhärenz und Verhaltenshinweise (notfallmedizinische Vorstellung bei Sturz mit Kopfanprall, Bauchtrauma, Teerstuhl). Anlage Kompressionsverband.

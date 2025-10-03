@@ -1,6 +1,8 @@
 ---
 tags:
   - sy
+  - status/started
+  - fach/psychiatrie
 ---
 - ! Entzugswunsch Opioide unangenehm, aber nie vital bedrohlich, immer *rein elektiv* → Suchtberatungsstellen
 - **[[Untersuchung|U]]:** [COWS](https://www.mdcalc.com/calc/1985/cows-score-opiate-withdrawal)

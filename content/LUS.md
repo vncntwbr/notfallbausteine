@@ -1,6 +1,12 @@
 ---
 tags:
   - interventionen/pocus
+  - status/started
+  - fach/pulmologie
+  - fach/kardiologie
+aliases:
+  - Lungenultraschall
+  - Lungensonografie
 ---
 
 - **DD B-Lines**

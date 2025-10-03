@@ -3,6 +3,8 @@ aliases:
   - Resp Alk
 tags:
   - sy
+  - fach/labor
+  - status/done
 ---
 > [!dd]+ DD
 > - **Hypoxie-getriggert:** 

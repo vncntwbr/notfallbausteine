@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/orthopädie
+  - fach/orthopädie
+  - status/started
 aliases:
 ---
 > [!dd]+ DD
@@ -18,6 +19,8 @@ aliases:
 > - **Reposition**
 > - **Proc:** MRT im Verlauf insb. bei jungen Pat. (schon 1. Luxation = Präarthrose)
 
-> [!note]- Textbaustein
-> Blabla
+> [!note]+ Textbaustein
+> ```
+> Aktuell: Anteriore Schultergelenkluxation, Reposition n. ###
+> ```
 

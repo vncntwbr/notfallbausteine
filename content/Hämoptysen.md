@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/herz-thorax
+  - status/started
 ---
 
 > [!danger] Rapid Reference ("A vor C!")

@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/hno
+  - fach/hno
+  - dx
+  - status/started
 ---
 
 - **E:** Häufigste Ursache in ZNA, 90% viral

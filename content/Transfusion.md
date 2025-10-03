@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen
+  - status/done
 ---
 
 > [!danger] Indikation EK

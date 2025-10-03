@@ -1,6 +1,8 @@
 ---
 tags:
-  - diagnostik
+  - fach/neurologie
+  - interventionen/pocus
+  - status/started
 ---
 - **Ä:** [[Hirndruck (ICP↑)]] → Schwellung Subarachnoidalraum → Durchmesser↑ Opticus-Scheide
 - **D:** 3 mm hinterm Auge messen, 2 Messungen in 2 Achsen pro Auge

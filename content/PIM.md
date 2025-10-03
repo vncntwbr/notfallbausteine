@@ -3,6 +3,8 @@ aliases:
   - Polypharmazie, Potenziell inadäquate Medikation
 tags:
   - basics
+  - interventionen/meds
+  - status/started
 ---
 - **Avoid**
 	- Amiodaron

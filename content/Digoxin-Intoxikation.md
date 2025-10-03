@@ -1,6 +1,9 @@
 ---
 tags:
-  - dx/toxikologie
+  - fach/toxikologie
+  - dx
+  - fach/kardiologie
+  - status/started
 ---
 
 - **S:** [[Ü+E]] (fast immer), Verwirrung/Lethargie, HRST (oft VES, AVB, VT), Sehstörungen selten aber spezifisch (Halo, gelb/grün)

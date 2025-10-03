@@ -1,6 +1,7 @@
 ---
 tags:
   - sy
+  - status/started
 ---
 - [[EKG]] nach 10 min[^1]
 - Generell HKU nach ROSC ohne STE hatte keinen Benefit[^2]

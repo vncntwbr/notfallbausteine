@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/meds
+  - sy
+  - status/started
 ---
 - **Indikation:** Unverhütet Sex vor <5d + Zyklustag <15
 - **KI:** Asthma↑, Leber, CYP3A4-Indukt.

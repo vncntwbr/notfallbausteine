@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/nephrologie
+  - fach/nephrologie
+  - status/started
 ---
 
 - I **Def:** CK >1000 U/L, Myoglobinurie, Myalgien, red. AZ, [[AKI]]

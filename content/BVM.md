@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen
+  - status/started
 ---
 
 - Thenar Eminence (TE) > CE Technik[^2], wenn alleine "chicken wing" oder einfach LMA[^1]

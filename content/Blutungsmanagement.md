@@ -3,6 +3,7 @@ tags:
   - interventionen
   - druck
   - checkliste
+  - status/done
 ---
 
 > [!danger] Blutungsmanagement allgemein

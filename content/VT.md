@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 ---
 
 > [!workup] 

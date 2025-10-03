@@ -1,6 +1,7 @@
 ---
 tags:
   - sy
+  - status/started
 ---
 - **DD**
 	- Kritisch Kranke

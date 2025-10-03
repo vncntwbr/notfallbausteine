@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - V.a. akute respiratorische Infektion immer [[CT]][^1]

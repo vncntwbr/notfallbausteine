@@ -3,6 +3,7 @@ aliases:
   - Met Alk
 tags:
   - sy
+  - status/done
 ---
 > [!dd]+ DD
 > - **H+ Shift n. intrazellulär:** 

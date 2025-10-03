@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/gastroenterologie
+  - fach/gastroenterologie
+  - status/started
 ---
 
 - Retentionsmagen ohne [[Ileus]] / GI-Obstruktion

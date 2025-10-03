@@ -1,7 +1,9 @@
 ---
 tags:
-  - dx/gastroenterologie
-  - dx/chirurgie
+  - fach/gastroenterologie
+  - fach/chirurgie
+  - dx
+  - status/started
 ---
 > [!stadien]+ Stadien n. CDD
 > - **1°:** akut unkompliziert
@@ -12,7 +14,7 @@ tags:
 > 	- **2b:** gedeckt perforiert, Makroabszess
 > 	- **2c:** frei perforiert, Peritonitis (→OP)
 
-> [!workup]-
+> [!workup]+
 > - 🚩 Immunsuppression, AZ↓, IFP
 > - 
 > - **E:** Prävalenz Divertikulose 60% Ü70
@@ -35,6 +37,8 @@ tags:
 
 > [!note]+ Textbaustein Divertikulitis Ambulant
 > ```
+> Aktuell: Akute Divertikulitis CDD-Stadium ### 1a / 1b
+> 
 > In Zusammenschau von Klinik (Druckschmerz linker Unterbauch), Laborchemie (Entzündungsparamter) und CT-Bildgebung diagnostizierten wir eine akute Divertikulitis CDD-Stadium ## 1a / 1b. In Abwesenheit von Risikofaktoren, bei gesicherter häuslicher Versorgung, suffizienter Analgesie und im Konsens mit Pat. ambulantes Management.
 > 
 > Bei ### Stadium 1b antiinfektive Therapie mit Ampicillin/Sulbactam ##ODER## Ceftriaxon + Metronidazol initiiert, oralisiert zur Entlassung auf Amoxicillin/Clavulansäure.

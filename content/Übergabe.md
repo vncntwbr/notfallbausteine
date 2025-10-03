@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/done
 ---
 > [!danger] Team-interne Übergabe
 > - **S:** Wer? Wie? Woher? Mit was? Wo?

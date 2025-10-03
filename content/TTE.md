@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/pocus
+  - status/started
 ---
 
 > [!danger] FATE Protocol

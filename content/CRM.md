@@ -1,6 +1,7 @@
 ---
 tags:
   - druck
+  - status/done
 ---
 
 > [!danger] CRM-Leitsätze (nach Rall & Gaba)

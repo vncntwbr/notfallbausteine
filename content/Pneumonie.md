@@ -1,7 +1,9 @@
 ---
 tags:
-  - dx/pulmologie
-  - dx/infektiologie
+  - fach/pulmologie
+  - fach/infektiologie
+  - dx
+  - status/started
 ---
 
 - Steroide bei schwerer CAP ([[NIV]]/ITN/ITS, exkl. Influenza, Aspiration)[^1][^2]

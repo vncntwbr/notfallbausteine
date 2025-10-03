@@ -1,6 +1,8 @@
 ---
 tags:
   - sy/allgemein
+  - fach/hämatologie
+  - status/started
 ---
 
 > [!note]+ Textbaustein Fieber in Neutropenie Ambulant

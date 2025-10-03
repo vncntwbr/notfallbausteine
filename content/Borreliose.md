@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/infektiologie
+  - fach/infektiologie
+  - status/started
+  - dx
 aliases:
   - Erythema migrans
   - Lyme

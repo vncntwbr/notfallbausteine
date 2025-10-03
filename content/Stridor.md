@@ -1,6 +1,8 @@
 ---
 tags:
   - sy/kopf-neuro
+  - fach/hno
+  - status/started
 ---
 > [!danger] Rapid Reference
 > 1. **Adrenalin p.i.** 5 mg pur

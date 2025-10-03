@@ -1,6 +1,8 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
+  - fach/kardiologie
 ---
 > [!danger] Rapid Reference
 > - **Nitroglycerin** 5 mg p.i. q30min

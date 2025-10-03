@@ -1,13 +1,14 @@
 ---
 tags:
-  - dx/toxikologie
+  - fach/toxikologie
+  - status/started
 ---
 
 > [!danger] Rapid Reference
 > - Supportiv (Volumen, Kühlung, DK bei Harnverhalt)
 > - **Delir:** Physostigmin 0.5-2.0 mg langsam i.v. ggf. q30 min
 
-> [!dd]- DD
+> [!dd]+ DD
 > - **Primäre Anticholinergika**
 > 	- Atropin
 > 	- Glycopyrronium

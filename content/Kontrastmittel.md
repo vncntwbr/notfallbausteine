@@ -2,6 +2,10 @@
 tags:
   - basics
   - interventionen/meds
+  - fach/radiologie
+  - fach/nephrologie
+  - fach/endokrinologie
+  - status/started
 ---
 
 - **KM-Nephropathie:** not a thing[^1][^2][^3]

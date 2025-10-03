@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/nephrologie
+  - fach/nephrologie
+  - dx
+  - status/started
 ---
 
 - I **Def:** [[Bradykardie]] + Renal ([[AKI]]) + AVB + [[Schock]] + [[Hyperkaliämie]]

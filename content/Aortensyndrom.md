@@ -1,7 +1,9 @@
 ---
 tags:
-  - dx/chirurgie
-  - dx/kardiologie
+  - fach/chirurgie
+  - fach/kardiologie
+  - status/started
+  - dx
 ---
 > [!danger] Rapid Reference
 > 1. **Kontakt GCh / HCh:** DHZC Tel. 030-4593-2007, [Anfahrtskizze](https://www.dhzc.charite.de/fileadmin/user-upload/pdf/notfall/dhzc-aortentelefon-anfahrt.pdf)

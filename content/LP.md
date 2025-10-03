@@ -1,7 +1,8 @@
 ---
 tags:
   - interventionen
-  - diagnostik
+  - fach/neurologie
+  - status/done
 aliases:
   - Lumbalpunktion
   - Liquorpunktion

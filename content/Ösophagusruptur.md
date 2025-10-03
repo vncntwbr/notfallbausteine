@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/chirurgie
+  - fach/chirurgie
+  - status/started
 ---
 - **Ä:** Boerhaave (spontan [[Ü+E]]), iatrogen → Ruptur oft distales ⅓ links dorsolateral
 - **W:** CT-Tx oral KM, [[POCUS]] [[Pneumothorax]]?

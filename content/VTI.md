@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/pocus
+  - status/started
 ---
 
 - Es reicht einfach nur VTI ohne LVOT Diameter

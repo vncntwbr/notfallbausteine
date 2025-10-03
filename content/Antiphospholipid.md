@@ -3,7 +3,8 @@ aliases:
   - Antiphospholipid-Syndrom
   - APS
 tags:
-  - dx/hämatologie
+  - fach/hämatologie
+  - status/started
 ---
 
 - Diagnostische Kriterien für Catastrophic-APS[^1]

@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/urologie
+  - fach/urologie
+  - status/started
 ---
 > [!dd] DD
 > - **Ä:** Häufig sekundär bei HWI, seltener [[STI]], Amiodaron, Mumps, RF LUTS

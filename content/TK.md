@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
 ---
 
 - **TK:** Pseudothrombopenie? (Thrombexakt), Blutgruppen-unabhängig

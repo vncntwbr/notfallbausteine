@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
 ---
 
 - **D:** 0.5-1.0 g/kg, gut suspendieren (UAW Ileus)

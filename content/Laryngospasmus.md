@@ -1,6 +1,9 @@
 ---
 tags:
   - sy/herz-thorax
+  - fach/anästhesiologie
+  - fach/hno
+  - status/started
 ---
 
 > [!danger] Rapid Reference

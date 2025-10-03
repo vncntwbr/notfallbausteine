@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/pulmologie
+  - fach/pulmologie
+  - status/started
 aliases:
   - Pneu
 ---
@@ -32,8 +33,10 @@ aliases:
 > [!management]+
 > - **Disposition:** 
 
-> [!note]- Textbaustein Spontanpneu Ambulant
+> [!note]+ Textbaustein Spontanpneu Ambulant
 > ```
+> Aktuell: Primärer Spontanpneumothorax
+> 
 > Zusammenfassend primär Spontanpneumothorax RECHTS/LINKS (ca. ### cm Dehiszenz). Überwachung über 4 Stunden mit unauffälligem Verlauf, abschließend in Röntgen-Kontrolle Größenprogress ausgeschlossen.
 > 
 > Bei tolerablem Schmerzniveau, unter Raumluft stabilem Gasaustausch, problemloser Mobilisation ohne schwere Dyspnoe, gesicherter häuslicher Versorgung und im Einklang mit dem Patientenwunsch konservatives Procedere. Entlassung in gutem AZ bei stabilen VP nach ausführlicher Aufklärung.

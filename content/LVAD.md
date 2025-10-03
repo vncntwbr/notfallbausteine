@@ -1,6 +1,7 @@
 ---
 tags:
   - sy
+  - status/started
 ---
 > [!danger] Rapid Reference
 > 1. **Auskultation:** Pumpengeräusch?

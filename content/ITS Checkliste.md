@@ -1,6 +1,7 @@
 ---
 tags:
-  - its
+  - fach/intensiv
+  - status/done
 ---
 
 - [ ] Name / Alter / Geschlecht / Zimmer / LT

@@ -1,6 +1,8 @@
 ---
 tags:
   - sy
+  - status/started
+  - fach/urologie
 ---
 > [!dd]- DD
 > - Hodentorsion

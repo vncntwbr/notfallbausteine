@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/endokrinologie
+  - fach/endokrinologie
+  - status/started
 ---
 - **Ä**
 	- *Insulin-Überdos:* Suizidal? Inadhärenz? Langwirksam stationär, kurzwirksam Ü 6h

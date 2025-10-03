@@ -1,9 +1,12 @@
 ---
 tags:
-  - dx/infektiologie
+  - fach/infektiologie
+  - status/started
 ---
 > [!note]+ Textbaustein
 > ```
+> Aktuell: COVID-19-Erkrankung ohne H.a. gefährlichen Verlauf
+> 
 > Zusammenfassend in PCR Nachweis von SARS-CoV-2 ("Corona positiv"). Hygiene- und Isoliermaßnahmen eingeleitet. Aktuell bei stabilen Vitalparametern und gesicherter häuslicher Versorgung keine Indikation für weitergehende Diagnostik oder stationäre Aufnahme, insb. kein H.a. auf bakterielle Superinfektion oder respiratorische Insuffizienz. Entlassung.
 > 
 > Empfehlungen:

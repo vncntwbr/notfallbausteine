@@ -1,10 +1,12 @@
 ---
 tags:
-  - dx/gastroenterologie
+  - fach/gastroenterologie
   - status/done
 ---
 > [!note]+ Textbaustein Gastritis
 > ```
+> Aktuell: V.a. Gastritis
+> 
 > Zusammenfassend a.e. Gastritis (Magenschleimhautentzündung). ## Reasoning bzgl. DD wie ACS, andere abd. Schmerzursachen ##
 > 
 > Empfehlungen:

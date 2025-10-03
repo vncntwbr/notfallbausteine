@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 ---
 
 
@@ -26,6 +27,8 @@ tags:
 
 > [!note]+ Textbaustein STEMI/OMI
 > ```
+> Aktuell: Akuter Myokardinfarkt mit ST-Hebungen im EKG
+> 
 > Zusammenfassend Akutes Koronarsyndrom (ACS) mit STEMI-EKG (sign. STE in ###) / NSTE-EKG mit very-high-risk Features / STEMI-Äquivalent (###). Umgehende Herzkather-Aktivierung. 250 mg ASS und 5000 IE Heparin i.v. verabreicht. Analgesie mit ###. Nach Ausschluss von KI ### mg Metoprolol titriert i.v. Verlegung zur PCI in Arztbegleitung.
 > ```
 ---

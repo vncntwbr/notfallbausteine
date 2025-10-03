@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/kardiologie
+  - fach/kardiologie
+  - status/started
 aliases:
   - Thrombose
 ---
@@ -29,6 +30,8 @@ aliases:
 
 > [!note]+ Textbaustein Thrombose ambulant
 > ```
+> Aktuell: Tiefe Beinvenenthrombose ###GEFÄSS links/rechts
+> 
 > Vorstellung/EW bei V.a. TVT # links/rechts. Hohe Vortest-Wahrscheinlichkeit (Wells-TVT ≥2 Pkt.) # ODER Geringe Vortest-Wahrscheinlichkeit (Wells-TVT ≤1 Pkt.) jedoch pos. D-Dimer. POCUS 3-Pkt-Kompressionssonografie der Beinvenen mit Thrombusnachweis in # GEFÄSS. 
 > 
 > Bei fehlenden KI Initiierung von OAK mit Apixaban. Aufklärung über Adhärenz und Verhaltenshinweise (notfallmedizinische Vorstellung bei Sturz mit Kopfanprall, Bauchtrauma, Teerstuhl). Anlage Kompressionsverband.

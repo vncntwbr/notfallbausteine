@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
 ---
 
 - Clozapin induzierte Obstipation/GI-Hypomotilität in 60% und hohe Mortalität[^1]

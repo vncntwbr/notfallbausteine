@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/endokrinologie
+  - fach/endokrinologie
+  - status/started
+  - dx
 ---
 
 > [!danger] Rapid Reference

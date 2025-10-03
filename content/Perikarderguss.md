@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx
+  - fach/kardiologie
+  - status/started
 aliases:
   - Perikardtamponade
 ---

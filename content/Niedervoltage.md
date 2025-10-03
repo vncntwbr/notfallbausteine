@@ -1,6 +1,8 @@
 ---
 tags:
   - sy
+  - fach/kardiologie
+  - status/started
 ---
 - **Def:** QRS <5mm in allen Extremitätenabltg. od. <10 mm in allen Brustwandabltg.[^1]
 - **DD**

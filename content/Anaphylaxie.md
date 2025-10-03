@@ -8,14 +8,7 @@ tags:
 > 2. **Adrenalin** 0.5 mg i.m. (Wdh. alle 5 min), Päd 0.01 mg/kg
 > 3. **Adrenalin** 5 mg p.i. + **O2**
 > 4. **i.v.:** Zugang + VEL, ggf. Adrenalin
-> 5. **AMAX4**
-> 	- **Adrenalin** 50-100 μg i.v.
-> 	- **Muskelrelaxans** Rocuronium 200 mg
-> 	- **Atemwegssicherung** ETI / FONA ([[BVM]]/LMA insuff., Pinsp 50-100)
-> 	- **Xtreme** Ventilation
-> 	- **Xtra** Bronchodilatatoren
-> 	- **Xtra** Vasopressoren
-> 	- **[[PneumothoraX]]** ausschließen
+> 5. **[[AMAX4]]** bei Sopor/Apnoe
 > 6. **Adjunkt.:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
 
 - **Ä:** Kinder Nahrungsmittel, Erwachsene Meds, beide Insekten

@@ -1,6 +1,8 @@
 ---
 tags:
-  - dx/orthopädie
+  - fach/orthopädie
+  - dx
+  - status/started
 ---
 
 - RCT kein Benefit von Arthroskopischer OP vs. Physio/Med[^1]

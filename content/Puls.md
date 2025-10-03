@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - Manueller Pulscheck ungenau, Studien unter HLM bei Bypass 15-75% von Fachpersonal[^1][^2], 10s oft überschritten initial und bei pulse checks

@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - **Hämaturie:** Infekt, Trauma, Urolithiasis, Tumor, Nephritis, ggf. Hämolyse, Transfusionsreaktion, [[Sichelzellkrise]], Eklampsie, Menstruation

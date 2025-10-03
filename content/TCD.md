@@ -3,6 +3,7 @@ aliases:
   - Transkranieller Doppler
 tags:
   - interventionen/pocus
+  - status/started
 ---
 - **Q**
 	- Vasospasmus (post [[Intrakranielle Blutung|SAB]])?

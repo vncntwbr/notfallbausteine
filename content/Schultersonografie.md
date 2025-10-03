@@ -1,6 +1,7 @@
 ---
 tags:
   - interventionen/pocus
+  - status/started
 ---
 
 > [!note]- Textbaustein Schultersonografie

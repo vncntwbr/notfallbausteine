@@ -1,9 +1,17 @@
-### Telefonlisten
-- [Telefonliste DienstärztInnen und Funktionsbereiche CBF](https://intranet.charite.de/notfallmedizin_cbf/startseite/)
-- [Telefonliste CCM / CVK](https://intranet.charite.de/fileadmin/user_upload/microsites/cc10/notfallmedizin/Anleitungen/Telefonliste_CCM_18062024.pdf)
-- [Telefonliste Kinderklinik CVK](https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Telefonlisten/Telefonliste_Kinderklinik_Stand_20230720.pdf)
-- [Externe Krankenhäuser Notaufnahmen, Innere Medizin und Intensivstationen](https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Krankenhausliste_CBF.pdf)
-- [Externe Krankenhäuser Pädiatrie und Kinder-Notaufnahmen](https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Verlegungen/Kliniken_Berlin_und_Umgebung.pdf)
+---
+tags:
+  - status/done
+---
+
+> [!danger] Telefonlisten CBF
+> - [Telefonliste DienstärztInnen und Funktionsbereiche CBF](https://intranet.charite.de/notfallmedizin_cbf/startseite/)
+> - [Telefonliste CCM / CVK](https://intranet.charite.de/fileadmin/user_upload/microsites/cc10/notfallmedizin/Anleitungen/Telefonliste_CCM_18062024.pdf)
+> - [Telefonliste Kinderklinik CVK](https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Telefonlisten/Telefonliste_Kinderklinik_Stand_20230720.pdf)
+> - [Externe Krankenhäuser Notaufnahmen, Innere Medizin und Intensivstationen](https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Krankenhausliste_CBF.pdf)
+> - [Externe Krankenhäuser Pädiatrie und Kinder-Notaufnahmen](https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Verlegungen/Kliniken_Berlin_und_Umgebung.pdf)
+
+^122a9e
+
 ### Stationsübersicht
 
 | **Station**   | **Fach**                                                  | **Tel. Pflege**                   | **Wo?**                        | **SAP**    |

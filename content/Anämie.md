@@ -1,6 +1,7 @@
 ---
 tags:
   - sy
+  - status/done
 aliases:
 ---
 

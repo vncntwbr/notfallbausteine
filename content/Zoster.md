@@ -1,6 +1,7 @@
 ---
 tags:
-  - dx/dermatologie
+  - fach/dermatologie
+  - status/done
 aliases:
   - Gürtelrose
   - Herpes zoster

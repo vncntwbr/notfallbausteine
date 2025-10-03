@@ -1,10 +1,11 @@
 ---
 tags:
   - interventionen/meds
+  - status/started
 ---
 
 - **KI**
-	- LQT, verlängert QT → Kardioversion oder Mg2+
+	- LQT, verlängert QT → Kardioversion oder [[MgSO4]]
 	- VHF mit unbekanntem Onset, Thromboembolie
 	- VHF + WPW / FBI, macht VF → Kardioversion
 	- Digitoxintoxizität, verringert Elimination → Lidocain

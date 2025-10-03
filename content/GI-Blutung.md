@@ -1,7 +1,7 @@
 ---
 tags:
   - sy/abdomen-haut-extr
-  - dx/gastroenterologie
+  - fach/gastroenterologie
   - status/started
 ---
 > [!danger] OBERE GI-Blutung

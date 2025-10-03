@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - **Risikorechner** ([XRayRisk.com](https://www.xrayrisk.com/))

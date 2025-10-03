@@ -1,6 +1,7 @@
 ---
 tags:
   - basics
+  - status/started
 ---
 
 - I **Def:** Lücke = Berechnete Osmolalität - Gemessene Osmolalität

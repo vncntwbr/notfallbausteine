@@ -1,6 +1,9 @@
 ---
 tags:
   - interventionen/meds
+  - fach/neurologie
+  - fach/kardiologie
+  - status/started
 ---
 > [!danger] Rapid Reference Lyse bei [[Stroke]]
 > 1. **Ausschluss KI** s.u.

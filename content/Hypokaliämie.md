@@ -1,6 +1,7 @@
 ---
 tags:
   - sy/allgemein
+  - status/started
 ---
 > [!danger] Reanimation / Peri-Arrest
 > 1. **Kaliumchlorid** 20 mmol (20 ml 7.45%) als KI über 10 min i.v. unter Monitoring

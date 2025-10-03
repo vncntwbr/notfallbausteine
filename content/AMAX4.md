@@ -2,6 +2,7 @@
 tags:
   - checkliste
   - interventionen/halo
+  - status/done
 ---
 
 > [!danger] Lebensbedrohliches [[Asthma]] / [[Anaphylaxie]] (Sopor oder Apnoe)[^2]
