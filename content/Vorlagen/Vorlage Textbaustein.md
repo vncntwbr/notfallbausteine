@@ -3,7 +3,7 @@ tags:
   - status/started
 ---
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein
 > ```
 > Hi
 > ```

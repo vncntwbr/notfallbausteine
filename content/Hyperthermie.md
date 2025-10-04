@@ -4,7 +4,7 @@ tags:
   - status/started
 title: Fieber & Hyperthermie
 ---
-> [!danger] Rapid Reference
+> [!danger] Resuscitation
 > 1. **Kritische DD:**
 > 	- *Infektion/[[Sepsis]]* inkl. [[Neutropenie]], OPSI, [[Meningitis]]
 > 	- *[[Hitzschlag]]*

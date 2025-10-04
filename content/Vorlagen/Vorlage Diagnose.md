@@ -2,29 +2,40 @@
 tags:
   - status/started
 aliases:
+title:
 ---
 
-> [!danger]+ Rapid Reference
+> [!danger]+ Resuscitation
 > 1. **Bla:** Bla
 
-> [!info] Definition
-> 
+> [!dd]+ DD
+
+> [!anamnese]+ Anamnese
+> - **S:** 
+> - **A:** 
+> - **M:** 
+> - **P:** 
+> - **L:** 
+> - **E:** 
+> - **R:** 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** 
-> - **[[Untersuchung|U]]:**
-> - **[[EKG]]:**
-> - **[[POCUS]]:**
+> - **[[Untersuchung|U]]:** 
+> - **[[EKG]]:** 
+> - **[[POCUS]]:** 
 > - **[[Labor]]:** 
-> - **Red Flags:**
+> - **[[Urin]]:** 
 
-> [!stadien]
+> [!stadien]+
+> - ...
 
 > [!management]+
-> - **Disposition:** 
+> - ...
+
+> [!disposition]+ 
+> - ...
 
 > [!note]- Textbaustein
 > ```
 > Blabla
 > ```
-

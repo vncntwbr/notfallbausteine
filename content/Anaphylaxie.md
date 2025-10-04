@@ -3,7 +3,7 @@ tags:
   - sy/allgemein
   - status/started
 ---
-> [!danger] Rapid Reference
+> [!danger] Resuscitation
 > 1. **Exposition stoppen**
 > 2. **Adrenalin** 0.5 mg i.m. (Wdh. alle 5 min), Päd 0.01 mg/kg
 > 3. **Adrenalin** 5 mg p.i. + **O2**

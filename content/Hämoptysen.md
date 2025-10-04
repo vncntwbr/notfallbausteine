@@ -4,7 +4,7 @@ tags:
   - status/started
 ---
 
-> [!danger] Rapid Reference ("A vor C!")
+> [!danger] Resuscitation ("A vor C!")
 > - **Inhalation** TXA 1 g + Adrenalin 5 mg p.i. 
 > - **Lagerung** auf vermutl. blutende Seite
 > - **[[Blutungsmanagement]]**, ggf. permissive Hypotension[^1]

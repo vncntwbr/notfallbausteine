@@ -4,7 +4,7 @@ tags:
   - status/started
 ---
 
-> [!danger] Rapid Reference
+> [!danger] Resuscitation
 > - **Atropin** 3 mg i.v., alle 5 min verdoppeln 3→6→12→24 mg i.v. 
 
 > [!DD] Typische Auslöser

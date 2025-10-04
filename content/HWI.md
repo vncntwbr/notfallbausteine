@@ -13,7 +13,7 @@ title: Harnwegsinfektion (HWI)
 > - **Komplizierter HWI**
 > - [[Harnverhalt]]
 > - [[Hämaturie]]
-> - ==[[STI]]==, Prostatitis, Urethritis, Epididymitis/Orchitis, Balanitis, Skrotalabszess, Fournier-Gangrän
+> - ==[[STI]]==, Prostatitis, Urethritis, Epididymitis/Orchitis, [[Balanitis]], Skrotalabszess, Fournier-Gangrän
 
 > [!anamnese]
 > - **S:** Algurie? Pollakisurie? Sonst. Dysurie? Urinmenge, -farbe, -geruch? Ausfluss? Juckreiz? Schmerzen? Fieber, Schüttelfrost?

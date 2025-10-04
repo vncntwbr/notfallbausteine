@@ -13,4 +13,4 @@ title: |-
 > [!management] Reine Sedierung (CT, eKV, TEE, ÖGD)
 > - **Propofol** 0.5 mg/kg i.v., dann 0.25 mg/kg titriert nachgeben
 
-Agitation siehe [[Psychiatrischer Notfall]]
+> [!dd] Agitation siehe [[Psychiatrischer Notfall]]

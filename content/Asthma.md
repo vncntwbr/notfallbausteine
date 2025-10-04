@@ -7,7 +7,7 @@ tags:
   - status/started
 title: Asthma bronchiale
 ---
-> [!danger] Rapid Reference
+> [!danger] Resuscitation
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 2. **Med:** Prednisolon 50-100 mg i.v., ggf. MgSO4 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie

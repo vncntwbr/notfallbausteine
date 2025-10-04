@@ -4,7 +4,7 @@ tags:
   - status/started
 ---
 
-> [!danger]+ Rapid Reference
+> [!danger]+ Resuscitation
 > 1. **PSA:** ggf. Schutzbrille
 > 2. **Lagerung:** OK-Hoch, Kopf vor, SicSac zum Ausspucken, Kühlpack in Nacken
 > 3. **Lokal:** Schnäuzen lassen, Xylometazolin Tropfen bds. ± TXA 1-2 ml i.n. MAD bds.
