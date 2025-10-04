@@ -4,7 +4,7 @@ title: Home
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
 - **Interventionen** [[Arterie IBP]] [[Blutungsmanagement]] [[HALO]] [[eKV]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**
-	- #sy/allgemein [[CPR]] [[Schock]] [[Sepsis]] [[Synkope]] [[Delir]] [[Hypertonie]] [[Fieber & Hyperthermie]] [[Intoxikation]] [[Anaphylaxie]] [[Palliativsituation]] [[Seltene Erkrankungen]] [[Kindernotfall]]
+	- #sy/allgemein [[CPR]] [[Schock]] [[Sepsis]] [[Synkope]] [[Delir]] [[Hypertonie]] [[Hyperthermie]] [[Intoxikation]] [[Anaphylaxie]] [[Palliativsituation]] [[Seltene Erkrankungen]] [[Kindernotfall]]
 	- #sy/labor [[Hyperkaliämie]] [[Hypokaliämie]] [[Hyponatriämie]] [[Hyperglykämie]] [[Hyponatriämie]] [[Neutropenie]]
 	- #sy/kopf-neuro [[Vigilanzminderung]] [[FND]] [[Kopfschmerz]] [[Schwindel]] [[Krampfanfall]] [[Psychiatrischer Notfall]] [[Epistaxis]] [[HNO-Notfälle]] [[Halsschmerz]] [[Augen-Notfälle]] [[Kiefer- & Zahnschmerz]]
 	- #sy/herz-thorax [[Dyspnoe]] [[Brustschmerz]] [[Tachykardie]] [[Bradykardie]] [[Husten]] [[Schrittmacher-Dysfunktion]]

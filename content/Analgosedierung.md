@@ -2,7 +2,9 @@
 tags:
   - interventionen
   - status/started
-title: Analgosedierung & <br>Prozedurale Sedierung
+title: |-
+  Analgosedierung &
+  Prozedurale Sedierung
 ---
 > [!management] "Ketofol" (Eingriffe, Pacing)
 > - **esKETAmin** 10 mg-weise i.v. +

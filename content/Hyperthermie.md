@@ -2,6 +2,7 @@
 tags:
   - sy/allgemein
   - status/started
+title: Fieber & Hyperthermie
 ---
 > [!danger] Rapid Reference
 > 1. **Kritische DD:**

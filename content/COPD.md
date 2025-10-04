@@ -2,7 +2,9 @@
 tags:
   - fach/pulmologie
   - status/started
-title: Chronisch-obstruktive Lungenerkrankung (COPD) <br>& akute Exazerbation (aeCOPD)
+title: |-
+  Chronisch-obstruktive Lungenerkrankung (COPD)
+  & akute Exazerbation (aeCOPD)
 ---
 - **Ä (Dekomp. Ursachen):** Infekt, [[Herzinsuffizienz]], [[Pneu]], [[LAE]]
 ## Management
