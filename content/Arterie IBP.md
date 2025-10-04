@@ -3,7 +3,7 @@ tags:
   - interventionen
   - fach/anästhesiologie
   - status/started
-title: Arterieller Katheter & Invasive Blutdruckmessung
+title: Arterieller Katheter & <br>Invasive Blutdruckmessung
 ---
 
 > [!note]+ Textbaustein Arterie

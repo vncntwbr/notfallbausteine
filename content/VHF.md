@@ -2,7 +2,7 @@
 tags:
   - fach/kardiologie
   - status/started
-title: Vorhofflimmern (VHF) & Vorhofflattern (VHFla)
+title: Vorhofflimmern (VHF) &<br>Vorhofflattern (VHFla)
 ---
 > [!note]+ Diagnose
 > ```
