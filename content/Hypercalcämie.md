@@ -1,7 +1,7 @@
 ---
 tags:
-  - sy/allgemein
   - status/done
+  - sy/labor
 ---
 
 > [!danger] Hypercalcäme Krise gCa2+ >3.5 mM / iCa2+ >2 mM

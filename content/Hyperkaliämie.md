@@ -1,7 +1,7 @@
 ---
 tags:
-  - sy
   - status/started
+  - sy/labor
 ---
 > [!danger] Rapid Reference
 > 1. **[[BGA]]-Kontrolle** (Pseudo?), Monitoring

@@ -31,7 +31,7 @@ tags:
 1. **Punktionsort auswählen**
 	- **Primär:** A. radialis, R. dorsalis A. radialis in der Tabatière, A. brachialis
 		- _Beachte: Bei ggf. anstehender Koronarangiografie rechte Radialis schonen, bei Aortendissektion Typ A primär rechte Radialis kanülieren!_
-	- **Schwerer Schock / Reanimation:** Primär A. femoralis (ggf. “Doppelstich” mit ZVK/Shaldon) oder A. brachialis
+	- **Schwerer Schock / Reanimation:** Primär A. femoralis (ggf. “Doppelstich” mit [[ZVK]]/Shaldon) oder A. brachialis
 2. **A) Seldinger Technik**
 	- 20G Standard-Set (Foto) für A. radialis (inkl. [R. dorsalis](https://dasfoam.org/2021/03/06/arterie-legen-wie-in-die-radialis-nur-besser/)), brachialis, dorsalis pedis
 	- bei Punktion A. femoralis: zusätzlich **längeren 18G Katheter** (einzeln verpackt)

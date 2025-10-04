@@ -36,7 +36,7 @@ tags:
 > 	- *Hypertonie:* Nitroglycerin, Clonidin 
 > 	- *Obstipation:* MCP
 > 4. **Echte [[Hyponatriämie]]** mit NaCl 3% Boli therapieren
-> 5. **Neuropsychiatrische Sympt:** In RS OA Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via ZVK
+> 5. **Neuropsychiatrische Sympt:** In RS OA Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via [[ZVK]]
 
 > [!note]+ Textbaustein
 > ```

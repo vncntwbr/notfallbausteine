@@ -1,8 +1,8 @@
 ---
 tags:
-  - sy
   - status/done
   - fach/nephrologie
+  - sy/labor
 ---
 
 > [!danger]+ Nachweislich akut oder schwere Symptome ([[Krampfanfall]], [[Vigilanzminderung]])
