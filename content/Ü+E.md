@@ -4,6 +4,7 @@ tags:
   - status/empty
 aliases:
   - Übelkeit & Erbrechen
+title: Übelkeit & Erbrechen
 ---
 - K [[Ketoazidose]], [[Ileus]], Bolus, [[GI-Blutung]], [[Urämie]], [[Stroke]], [[ACS]], [[Ösophagusruptur]]
 - **[[Anamnese|A]]:** [R] [[Schwanger]]?

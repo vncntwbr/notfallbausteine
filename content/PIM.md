@@ -1,10 +1,10 @@
 ---
 aliases:
-  - Polypharmazie, Potenziell inadäquate Medikation
 tags:
   - basics
   - interventionen/meds
   - status/started
+title: Potenziell inadäquate Medikation im Alter (PIM)
 ---
 - **Avoid**
 	- Amiodaron

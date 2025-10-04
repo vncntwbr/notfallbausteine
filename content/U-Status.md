@@ -2,6 +2,7 @@
 tags:
   - basics
   - status/started
+title: Urin-Status
 ---
 
 - **Hämaturie:** Infekt, Trauma, Urolithiasis, Tumor, Nephritis, ggf. Hämolyse, Transfusionsreaktion, [[Sichelzellkrise]], Eklampsie, Menstruation

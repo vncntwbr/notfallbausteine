@@ -2,6 +2,7 @@
 tags:
   - fach/hämatologie
   - status/started
+title: Sichelzellanämie & Sichelzellkrise
 ---
 > [!danger] Rapid Reference
 > 1. **Akutes Thoraxsyndrom (ATS)?** [[Brustschmerz]] (oft bds.), Tachypnoe, Hypoxie, [[Husten]], Fieber + Konsolidierung basal od. Pleuraergüsse (RöTx/POCUS) → vitale Bedrohung

@@ -3,6 +3,7 @@ tags:
   - fach/orthopädie
   - status/started
 aliases:
+title: Schultergelenkluxation
 ---
 > [!dd]+ DD
 > - **Anterior:** 95%, bei Außenrotation/Abduktion

@@ -7,7 +7,7 @@ tags:
 > [!dd] DD
 > - **Killer:** [[LAE]], [[Tbc]], massive [[Hämoptysen]]
 > - **Häufig:** Infekt obere AW, Bronchitis, [[Pneumonie]], [[Asthma]], postinfektiös, UAW ([[ACE-Hemmer]]), chronischer Husten
-> - **Seltener:** Aspiration, GERD, Tbc, Tumor, [[Pneumothorax]]
+> - **Seltener:** Aspiration, GERD, Tbc, Tumor, [[Pneu]]
 
 > [!workup]
 > - **[[Anamnese|A]]:** [S] Auswurf? [M] ACEi? [P] Allergie? [E] Aspiration/plötzlich?

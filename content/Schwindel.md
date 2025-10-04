@@ -7,7 +7,7 @@ tags:
 > 1. **Internistische Ursache?** VP, [[EKG]], [[Anamnese|A]]+[[Untersuchung|U]], [[BGA]]
 > 2. **Neurologisches Defizit?** V.a. Stroke
 > 3. **Anhaltend (AVS)?** Akutes Vestibularsyndrom → HINTS zur DD Neuritis vestibularis vs. zentral
-> 4. **Triggerbar episodisch (tEVS)?** Dix-Hallpike zur DD BPLS vs. zentral
+> 4. **Triggerbar episodisch (tEVS)?** Dix-Hallpike zur DD [[BPLS]] vs. zentral
 > 5. **Spontan episodisch (sEVS)?** Anamnese zur DD Migräne, Menière, TIA
 
 > [!dd]+ DD

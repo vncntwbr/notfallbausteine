@@ -4,6 +4,7 @@ tags:
   - status/done
 aliases:
   - U
+title: Körperliche Untersuchung
 ---
 > [!note]+ Textbaustein Untersuchung
 > ```

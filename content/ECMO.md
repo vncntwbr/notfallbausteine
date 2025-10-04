@@ -2,6 +2,7 @@
 tags:
   - interventionen/halo
   - status/started
+title: Extrakorporale Membranoxygenierung (ECMO)
 ---
 
 > [!danger] ECMO Troubleshooting

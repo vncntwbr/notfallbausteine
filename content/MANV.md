@@ -4,6 +4,7 @@ tags:
   - sy/allgemein
   - status/started
   - druck
+title: Massenanfall an Verletzten/Erkrankten (MANV/MANE)
 ---
 > [!danger] Erstmaßnahmen
 > 1. **KOMMUNIKATION:** Funkgruppe einstellen, "Ich übernehme Führung"

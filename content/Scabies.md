@@ -3,6 +3,7 @@ tags:
   - fach/infektiologie
   - dx
   - status/done
+title: Scabies / Krätze
 ---
 > [!workup]
 > Blickdiagnose bei passender Anamnese (Brennen/Juckreiz, insbesondere nachts) und typischem ekzemartigen Hautbefund mit Milbengängen (insbesondere in Hautfalten, interdigital, Handgelenke, um die Brustwarzen, Genitalbereich). Im Zweifel → Derma-Konsil.

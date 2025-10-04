@@ -2,6 +2,7 @@
 tags:
   - sy/kopf-neuro
   - status/empty
+title: Fokalneurologisches Defizit (FND)
 ---
 - K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aortensyndrom]]
 - **[[Anamnese|A]]**

@@ -3,6 +3,7 @@ tags:
   - sy/abdomen-haut-extr
   - interventionen/meds
   - status/done
+title: Postexpositionsprophylaxe (PEP)
 ---
 
 - **Labor:** HIV, HBsAg, Anti-HBs, Anti-HCV, W β-HCG, STI erst >14d Inkubationszeit

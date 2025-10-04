@@ -3,6 +3,7 @@ tags:
   - sy
   - checkliste
   - status/started
+title: "Akute Nierenschädigung (AKI), alt: Akutes Nierenversagen"
 ---
 > [!danger] Checkliste
 > 1. **MAP** halten

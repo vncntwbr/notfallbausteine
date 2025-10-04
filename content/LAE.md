@@ -4,6 +4,7 @@ tags:
   - checkliste
   - status/done
 aliases:
+title: Lungenarterienembolie (LAE)
 ---
 ![[Crashing RV#^957508]]
 

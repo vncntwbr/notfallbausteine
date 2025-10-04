@@ -2,6 +2,7 @@
 tags:
   - sy/allgemein
   - status/started
+title: Pulslose elektrische Aktivität (PEA)
 ---
 
 - **Simplifizierter Algorithmus**[^1]

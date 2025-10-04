@@ -2,6 +2,7 @@
 tags:
   - interventionen/halo
   - status/started
+title: Clamshell-Thorakotomie
 ---
 
 [^1]

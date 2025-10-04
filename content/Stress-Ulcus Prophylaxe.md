@@ -4,7 +4,7 @@ tags:
   - status/started
   - fach/intensiv
 ---
-- **I:** Beatmung + 1 von [[Schock]], [[DIC]], Leber↓, [[Hirndruck (ICP↑)]]
+- **I:** Beatmung + 1 von [[Schock]], [[DIC]], Leber↓, [[Hirndruck]]
 - **T**
 	- PPI:[^2] Pantoprazol[^3] 40 mg/d i.v./p.o.
 	- Frühe enterale Ernährung[^1]

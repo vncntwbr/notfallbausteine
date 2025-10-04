@@ -2,6 +2,7 @@
 tags:
   - sy
   - status/started
+title: CPR-induziertes Bewusstsein (CPRIC)
 ---
 
 - To Read[^1]

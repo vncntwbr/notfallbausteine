@@ -3,6 +3,7 @@ tags:
   - basics
   - druck
   - status/done
+title: Blutgasanalyse (BGA)
 ---
 > [!danger] BGA
 > 1. **Umrechnen V→A:** pH +0.03, pCO2 –5 mmHg

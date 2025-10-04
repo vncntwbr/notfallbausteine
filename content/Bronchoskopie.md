@@ -2,6 +2,7 @@
 tags:
   - interventionen
   - status/started
+title: Bronchoskopie (BSK)
 ---
 > [!note]+ Textbaustein
 > ```

@@ -3,6 +3,7 @@ tags:
   - fach/endokrinologie
   - status/started
   - dx
+title: Diabetische Ketoazidose (DKA)
 ---
 
 > [!danger] Rapid Reference

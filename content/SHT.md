@@ -4,9 +4,10 @@ tags:
   - status/started
 aliases:
   - Schädel-Hirn-Trauma
+title: Schädel-Hirn-Trauma (SHT)
 ---
 > [!danger]+ Rapid Reference
-> [[Hirndruck (ICP↑)]]
+> [[Hirndruck]]
 
 > [!dd]+ DD
 > - **Killer:** 

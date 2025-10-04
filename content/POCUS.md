@@ -2,6 +2,7 @@
 tags:
   - basics
   - status/started
+title: Point-of-Care Ultraschall / Sonografie (POCUS)
 ---
 > [!note]+ Textbaustein POCUS RUSH
 > ```

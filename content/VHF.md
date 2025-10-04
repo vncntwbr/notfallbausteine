@@ -2,6 +2,7 @@
 tags:
   - fach/kardiologie
   - status/started
+title: Vorhofflimmern (VHF) & Vorhofflattern (VHFla)
 ---
 > [!note]+ Diagnose
 > ```
@@ -15,11 +16,11 @@ tags:
 
 - **W**[^1]
 	- *VHF Ursache für Instabilität?* HF >>150[^4], new-onset, atrial kick dependent (PHT, MS/AS, HFpEF), WPW
-	- *[[Kardioversion]] bei Stabil?* AK >3 Wochen[^3] od. Onset <12 h od. Onset <48 h + CHADS-65[^2] ≤2 od. TEE neg., bei oligosympt. Älteren eher nur Frequenzkontrolle
+	- *[[eKV]] bei Stabil?* AK >3 Wochen[^3] od. Onset <12 h od. Onset <48 h + CHADS-65[^2] ≤2 od. TEE neg., bei oligosympt. Älteren eher nur Frequenzkontrolle
 	- *Labor:* HypoK+, HypoMg2+, TSH, [[LAE]]?, Medikation
 	- 
 - **T**
-	- [[Kardioversion]]
+	- [[eKV]]
 	- [[MgSO4]] 2 g empirisch
 	- *[[Antikoagulation]]:* DOAK min. 4 Wochen, länger wenn CHADS-65 pos.
 

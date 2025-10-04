@@ -2,6 +2,7 @@
 tags:
   - druck
   - status/done
+title: Crew-Resource-Management (CRM)
 ---
 
 > [!danger] CRM-Leitsätze (nach Rall & Gaba)

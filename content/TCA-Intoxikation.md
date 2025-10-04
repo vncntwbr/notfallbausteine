@@ -2,6 +2,7 @@
 tags:
   - fach/toxikologie
   - status/started
+title: Intoxikation mit Trizyklischen Antidepressiva (TCA)
 ---
 
 > [!Workup]+

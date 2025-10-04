@@ -2,6 +2,7 @@
 tags:
   - interventionen/meds
   - status/started
+title: Magnesiumsulfat (MGSO4)
 ---
 
 - *Dosierung:* 8 mmol Mg2+ = 1 g MgSO4 = 2 g MgSO4×7H2O (in Guidelines falsch)[^1]

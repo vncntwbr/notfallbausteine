@@ -3,6 +3,7 @@ tags:
   - sy/abdomen-haut-extr
   - fach/gastroenterologie
   - status/started
+title: GI-Blutung (GIB)
 ---
 > [!danger] OBERE GI-Blutung
 > 1. **[[Blutungsmanagement]]** allgemein

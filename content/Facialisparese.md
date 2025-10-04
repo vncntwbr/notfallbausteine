@@ -3,13 +3,14 @@ tags:
   - sy
   - fach/neurologie
   - status/done
+title: Periphere Facialisparese
 ---
 > [!danger]+ Rapid Reference
 > - **Periphere Facialisparese** = Stirn mitbetroffen
 > - **Ä:** 75% idiopathisch, ansonsten Borreliose, [[Zoster]] (Ramsay-Hunt-Syndrom), HIV
 
 > [!workup]+
-> - Siehe [[Fokalneurologisches Defizit]]
+> - Siehe [[FND]]
 > - **[[Untersuchung|U]]:** Grinsen, Augen schließen, Backen aufpusten, Stirn runzeln (bei zentraler Facialisparese noch bds. möglich)
 > - **W:** IFP, [[LP]] bei V.a. [[Neuroborreliose]] oder [[Zoster]]
 > - [[LP]] immer anbieten (10% "V.a. idiopathisch" doch andere Genese)

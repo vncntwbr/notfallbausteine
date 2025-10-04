@@ -4,6 +4,7 @@ aliases:
 tags:
   - interventionen/pocus
   - status/started
+title: Transkranieller Doppler (TCD)
 ---
 - **Q**
 	- Vasospasmus (post [[Intrakranielle Blutung|SAB]])?

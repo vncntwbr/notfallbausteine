@@ -2,6 +2,7 @@
 tags:
   - fach/kardiologie
   - status/started
+title: Akutes Koronarsyndrom (ACS)
 ---
 > [!dd] DD/Subtypen
 > - **[[Brustschmerz]]-Workup!**

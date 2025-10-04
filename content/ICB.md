@@ -3,6 +3,7 @@ tags:
   - fach/neurologie
   - status/started
   - dx
+title: Intracerebrale Blutung (ICB)
 ---
 - **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. [[Antikoagulation]] letzte Dosis, (E) Vorzustand
 - **T**

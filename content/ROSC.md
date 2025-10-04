@@ -2,6 +2,7 @@
 tags:
   - sy
   - status/started
+title: Return of Spontaneous Circulation (ROSC)
 ---
 - [[EKG]] nach 10 min[^1]
 - Generell HKU nach ROSC ohne STE hatte keinen Benefit[^2]

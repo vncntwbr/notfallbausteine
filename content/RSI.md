@@ -4,6 +4,7 @@ tags:
   - druck
   - checkliste
   - status/done
+title: Rapid Sequence Induction / Intubation (RSI)
 ---
 > [!management] Vor Intubation
 > - [ ] **INDIKATION**, erwartete **PROBLEME**

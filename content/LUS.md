@@ -7,6 +7,7 @@ tags:
 aliases:
   - Lungenultraschall
   - Lungensonografie
+title: Lungenultraschall / Lungensonografie (LUS)
 ---
 
 - **DD B-Lines**

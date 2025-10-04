@@ -2,6 +2,7 @@
 tags:
   - sy
   - status/started
+title: Transient Loss of Consciousness (TLOC)
 ---
 - **DD**
 	- *[[Synkope]]* (vorübergehende HZV-Minderung)

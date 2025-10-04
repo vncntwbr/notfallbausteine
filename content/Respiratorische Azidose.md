@@ -18,4 +18,4 @@ tags:
 > 	- *Untere AW:* z.B. [[Asthma]], [[COPD]]
 > 	- *Alveolen:* z.B. [[Pneumonie]], [[Lungenödem]]
 > 	- *Vaskulär:* [[LAE]]
-> 	- *Pleura:* [[Pneumothorax]], Pleuraerguss
+> 	- *Pleura:* [[Pneu]], Pleuraerguss

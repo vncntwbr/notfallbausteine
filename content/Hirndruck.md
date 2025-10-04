@@ -3,6 +3,7 @@ tags:
   - sy
   - status/started
   - fach/neurologie
+title: Hirndruck, IPC-Erhöhung & Einklemmung
 ---
 
 >[!danger] Rapid Reference

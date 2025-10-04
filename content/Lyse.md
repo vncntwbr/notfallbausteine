@@ -4,6 +4,7 @@ tags:
   - fach/neurologie
   - fach/kardiologie
   - status/started
+title: Medikamentöse Thrombolyse
 ---
 > [!danger] Rapid Reference Lyse bei [[Stroke]]
 > 1. **Ausschluss KI** s.u.

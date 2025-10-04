@@ -2,6 +2,7 @@
 tags:
   - interventionen
   - status/started
+title: Maskenbeatmung (BVM)
 ---
 
 - Thenar Eminence (TE) > CE Technik[^2], wenn alleine "chicken wing" oder einfach LMA[^1]

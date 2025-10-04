@@ -2,6 +2,7 @@
 tags:
   - interventionen/pocus
   - status/started
+title: Transthorakale Echokardiografie (TTE)
 ---
 
 > [!danger] FATE Protocol

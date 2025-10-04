@@ -2,6 +2,7 @@
 tags:
   - sy/kopf-neuro
   - status/started
+title: Halsschmerz & Nackenschmerz
 ---
 
 > [!danger] Atemnot, Stridor, Speicheln? → A-Problem

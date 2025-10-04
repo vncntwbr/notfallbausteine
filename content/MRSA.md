@@ -2,6 +2,7 @@
 tags:
   - fach/infektiologie
   - status/started
+title: Methicillin-resistenter Staph. aureus (MRSA)
 ---
 
 - Isolation quatsch? Kein unterschied in nosokomialen/MRSA Infektionen prä/post[^1]

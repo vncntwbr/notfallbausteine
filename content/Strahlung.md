@@ -2,6 +2,7 @@
 tags:
   - basics
   - status/started
+title: Röntgenstrahlung
 ---
 
 - **Risikorechner** ([XRayRisk.com](https://www.xrayrisk.com/))

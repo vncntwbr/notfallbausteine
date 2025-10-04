@@ -3,6 +3,7 @@ tags:
   - interventionen/pocus
   - fach/kardiologie
   - status/started
+title: E-Point Septal Separation (EPSS)
 ---
 
 - *Durchfürung:* In [[PLAX]] M-Mode cursor durch Mitralsegel, Messung von E-Point bis Septum (s. Bild)

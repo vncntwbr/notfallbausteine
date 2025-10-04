@@ -3,6 +3,7 @@ tags:
   - sy/abdomen-haut-extr
   - status/empty
 aliases:
+title: Schwangerschaft
 ---
 > [!dd]+ DD
 > - **Killer:** [[HELLP & Eklampsie]], [[PPH]]

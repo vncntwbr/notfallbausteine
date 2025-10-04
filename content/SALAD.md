@@ -2,6 +2,7 @@
 tags:
   - interventionen/halo
   - status/started
+title: Suction-assisted Laryngoscopic Airway Decontamination
 ---
 
 - Sim Setup mit Intubationspuppe, Ösophagus mit abgeschnittenem 9.0 ETT intubieren, Blasenspülungsset mit 2x 3L-Beuteln anschließen und auf 300 mmHg Druck[^1]

@@ -3,6 +3,7 @@ tags:
   - interventionen/pocus
   - fach/kardiologie
   - status/done
+title: Cardiac Output (CO)
 ---
 
 

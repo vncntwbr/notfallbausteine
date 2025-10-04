@@ -7,7 +7,7 @@ tags:
 - **W**
 	- 
 ---
-- Stumpfes Trauma postmortem-CT letale Verletzung: 40% [[SHT]], 25% lange Röhrenknochen, 23% Hämatoperitoneum, 19% [[Pneumothorax]], 5% ösophageale Fehlintubation[^1]
+- Stumpfes Trauma postmortem-CT letale Verletzung: 40% [[SHT]], 25% lange Röhrenknochen, 23% Hämatoperitoneum, 19% [[Pneu]], 5% ösophageale Fehlintubation[^1]
 - Kopf+Bauch Trauma GCS >8 erst Laparotomie dann cCT reasonable[^2]
 
 [^1]: Levin. J Trauma and Acute Care Surgery 2022. [Characterization of fatal blunt injuries using postmortem computed tomography](https://journals.lww.com/jtrauma/Abstract/2023/08000/Characterization_of_fatal_blunt_injuries_using.4.aspx)

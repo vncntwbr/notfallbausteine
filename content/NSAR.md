@@ -3,6 +3,7 @@ tags:
   - interventionen/meds
   - fach/anästhesiologie
   - status/started
+title: Nicht-steroidale Antirheumatika (NSAR)
 ---
 
 - Ibuprofen 400 mg gleich effektiv wie 600-800[^1]

@@ -5,6 +5,7 @@ tags:
 aliases:
   - Gürtelrose
   - Herpes zoster
+title: Herpes zoster / Gürtelrose
 ---
 > [!workup]
 > - **[[Untersuchung|U]]:** Meningismus? Läsionen hämorrh./nekrot., Satelliten? Aberr. Bläschen? AZ↓ (assoz.: ZNS, Pneumonie, Hepatitis, DIC)? FND?

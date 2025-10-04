@@ -2,6 +2,7 @@
 tags:
   - interventionen/halo
   - status/started
+title: Thoraxdrainage (TDx)
 ---
 
 - Annähen ist sinnvoll[^1]

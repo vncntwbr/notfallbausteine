@@ -5,6 +5,7 @@ tags:
   - fach/pulmologie
   - dx
   - status/started
+title: Asthma bronchiale
 ---
 > [!danger] Rapid Reference
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
@@ -19,7 +20,7 @@ tags:
 	- VP, [[EKG]]
 	- *[[Untersuchung|U]]:* Sprechdyspnoe? Silent Lung? VT visuell? Atemhilfsmuskulatur?
 	- ! *[[BGA]]:* pCO2 sollte niedrig-normal sein, Hyperkapnie = Erschöpfung
-	- *[[POCUS]]:* DD Asthma cardiale, [[Pneumothorax]]
+	- *[[POCUS]]:* DD Asthma cardiale, [[Pneu]]
 	- *Labor:* inkl. Diff-BB Eosinophilie?
 - **S Anfall**
 	- [Leicht/mittelschwer] Sprechen normal, AF <25, HF <110, PEF ≥50% persönlicher Bestwert [schwer] ≥1 von o.g. nicht

@@ -2,6 +2,7 @@
 tags:
   - interventionen/halo
   - status/done
+title: Emergency Front of Neck Access (eFONA) & Koniotomie
 ---
 >[!danger] Koniotomie
 > 1. **ApnoeOx**

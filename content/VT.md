@@ -2,6 +2,7 @@
 tags:
   - fach/kardiologie
   - status/started
+title: Ventrikuläre Tachykardie (VT)
 ---
 
 > [!workup] 

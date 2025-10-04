@@ -4,6 +4,7 @@ aliases:
 tags:
   - sy
   - status/done
+title: Metabolische Alkalose
 ---
 > [!dd]+ DD
 > - **H+ Shift n. intrazellulär:** 

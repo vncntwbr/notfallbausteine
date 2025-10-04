@@ -2,6 +2,7 @@
 tags:
   - interventionen
   - status/started
+title: Intraossärer Zugang (i.o.)
 ---
 
 > [!note]+ Textbaustein i.o.-Zugang

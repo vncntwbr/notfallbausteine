@@ -16,7 +16,7 @@ tags:
 > 	- *Z.n. NTX:* HWI, Nierenthrombose ven./art. (CT-A), Ureter-Obstrukt., Hämatom/Lymphozele
 > 	- *Z.n. LTX:* Thrombose V. portae / A. hepatica, [[Gallenerkrankungen]]
 > 	- *Z.n. HTX:* KHK/OMI schmerzlos, HRST (Cave: Denervation, Atropin+Valsalva wirkungslos)
-> 	- *Z.n. LuTX:* Obstruktiv, [[LAE]], Hämato-/[[Pneumothorax]], N. phrenicus Läsion
+> 	- *Z.n. LuTX:* Obstruktiv, [[LAE]], Hämato-/[[Pneu]], N. phrenicus Läsion
 
 > [!management]+
 > - **Infektion:**

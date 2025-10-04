@@ -2,6 +2,7 @@
 tags:
   - basics
   - status/started
+title: Elektrokardiogramm (EKG)
 ---
 > [!note]+ Textbaustein EKG
 > ```

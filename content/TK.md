@@ -2,6 +2,7 @@
 tags:
   - interventionen/meds
   - status/started
+title: Thrombozytenkonzentrat (TK)
 ---
 
 - **TK:** Pseudothrombopenie? (Thrombexakt), Blutgruppen-unabhängig

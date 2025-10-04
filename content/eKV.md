@@ -5,6 +5,7 @@ tags:
   - status/done
 aliases:
   - eKV
+title: Elektrische Kardioversion (eKV)
 ---
 > [!danger] Notfall-Kardioversion
 > 1. **Indikation:** Instabilitäskriterien ([[Schock]], [[Vigilanzminderung]], Akute [[Herzinsuffizienz]], Myokardiale Ischämie = [[ACS]]-Sympt. oder [[EKG]])

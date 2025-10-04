@@ -5,6 +5,7 @@ tags:
   - basics
   - interventionen/pocus
   - status/started
+title: Rechtsherzbelastung (RHB)
 ---
 - **RHB im [[EKG]]**
 	- Sinustachykardie bzw. TAA [[VHF]]

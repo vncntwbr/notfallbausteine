@@ -4,6 +4,7 @@ tags:
   - status/started
 aliases:
   - Thrombose
+title: Venöse Thrombose (TVT)
 ---
 
 - K **Killer:** Phlegmasia coerulea dolens, [[LAE]]

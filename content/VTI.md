@@ -2,6 +2,7 @@
 tags:
   - interventionen/pocus
   - status/started
+title: Velocity Time Integral (VTI)
 ---
 
 - Es reicht einfach nur VTI ohne LVOT Diameter

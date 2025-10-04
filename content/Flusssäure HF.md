@@ -3,6 +3,7 @@ tags:
   - fach/toxikologie
   - dx
   - status/started
+title:
 ---
 
  - I Rasche Resorption, Eindringen in Tiefe, [[Pain out of Proportion (POOP)]], lange Latenz (<20% 24h, <50% 1-8h, >50% sofort), systemisch HRST durch [[Hypocalcämie]]

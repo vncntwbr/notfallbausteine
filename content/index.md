@@ -2,11 +2,11 @@
 title: Home
 ---
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
-- **Interventionen** [[Arterie IBP]] [[Blutungsmanagement]] [[HALO]] [[Kardioversion]] [[Perfusor]] [[Punktionen]] [[ZVK]]
+- **Interventionen** [[Arterie IBP]] [[Blutungsmanagement]] [[HALO]] [[eKV]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**
 	- #sy/allgemein [[CPR]] [[Schock]] [[Sepsis]] [[Synkope]] [[Delir]] [[Hypertonie]] [[Fieber & Hyperthermie]] [[Intoxikation]] [[Anaphylaxie]] [[Palliativsituation]] [[Seltene Erkrankungen]] [[Kindernotfall]]
 	- #sy/labor [[Hyperkaliämie]] [[Hypokaliämie]] [[Hyponatriämie]] [[Hyperglykämie]] [[Hyponatriämie]] [[Neutropenie]]
-	- #sy/kopf-neuro [[Vigilanzminderung]] [[Fokalneurologisches Defizit]] [[Kopfschmerz]] [[Schwindel]] [[Krampfanfall]] [[Psychiatrischer Notfall]] [[Epistaxis]] [[HNO-Notfälle]] [[Halsschmerz]] [[Augen-Notfälle]] [[Kiefer- & Zahnschmerz]]
+	- #sy/kopf-neuro [[Vigilanzminderung]] [[FND]] [[Kopfschmerz]] [[Schwindel]] [[Krampfanfall]] [[Psychiatrischer Notfall]] [[Epistaxis]] [[HNO-Notfälle]] [[Halsschmerz]] [[Augen-Notfälle]] [[Kiefer- & Zahnschmerz]]
 	- #sy/herz-thorax [[Dyspnoe]] [[Brustschmerz]] [[Tachykardie]] [[Bradykardie]] [[Husten]] [[Schrittmacher-Dysfunktion]]
 	- #sy/abdomen-haut-extr [[Bauchschmerz]] [[GI-Blutung]] [[Ü+E]] [[Diarrhoe]] [[Rückenschmerz]] [[Flankenschmerz]] [[Extremitätenschmerz]] [[Lokale Entzündung]] [[Hautveränderungen]] [[Urogenitale Notfälle]] [[STI]] [[Fremdkörper]]
 	- #sy/trauma [[Polytrauma]] [[Frakturen]] [[SHT]]

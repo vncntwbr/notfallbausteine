@@ -2,6 +2,7 @@
 tags:
   - basics
   - status/started
+title: Urindiagnostik
 ---
 
 ![[U-Status]]

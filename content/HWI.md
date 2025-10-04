@@ -6,6 +6,7 @@ tags:
   - status/started
 aliases:
   - Harnwegsinfektion
+title: Harnwegsinfektion (HWI)
 ---
 > [!dd] DD
 > - **Unkompliziert:** Frauen + kein Risikofaktor (Diabetes, Anatomie, Restharn, DK, rezidivierende HWI) + Nierenfunktion ok + kein Fieber

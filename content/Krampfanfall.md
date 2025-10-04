@@ -2,6 +2,7 @@
 tags:
   - sy/kopf-neuro
   - status/started
+title: Krampfanfall / Epileptischer Anfall
 ---
 > [!danger] Status epilepticus (≥5 min, fokal ≥10 min)
 > 1. **ABCDE:** Abpolstern, O2 15L, , BZ/[[BGA]], Anamnese

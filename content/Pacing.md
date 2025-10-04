@@ -3,6 +3,7 @@ tags:
   - interventionen
   - status/started
   - fach/kardiologie
+title: Schrittmacher-Therapie (Pacing)
 ---
 
 - Percussion Pacing, Transcutanes Pacing und Transvenöses Pacing erzielen identischen [[Cardiac Output]][^1]

@@ -2,6 +2,7 @@
 tags:
   - sy
   - status/started
+title: Left Ventricular Assist Device (LVAD)
 ---
 > [!danger] Rapid Reference
 > 1. **Auskultation:** Pumpengeräusch?

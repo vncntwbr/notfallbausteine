@@ -4,12 +4,13 @@ tags:
   - status/started
 aliases:
   - Thoraxschmerz
+title: Brustschmerz / Thoraxschmerz
 ---
 > [!dd] DD
 > - [[ACS]]
 > - [[LAE]]
 > - [[Aortensyndrom]]
-> - [[Pneumothorax]]
+> - [[Pneu]]
 > - [[Ösophagusruptur]]
 > - [[Perimyokarditis]]
 > - Peripartale Kardiomyopathie

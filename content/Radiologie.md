@@ -14,7 +14,7 @@ tags:
 > 	- Ältere Pat. / Unfähigkeit, zum Röntgen zu stehen
 > 	- V.a. Aspiration
 > - **Niedrigschwellig [[LUS]]**
-> 	- [[Pneumothorax]]?
+> 	- [[Pneu]]?
 > 	- Regional vermehrte B-Lines?
 > 	- Shred-Sign?
 > 	- Hepatisierung?

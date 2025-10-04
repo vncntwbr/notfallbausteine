@@ -2,6 +2,7 @@
 tags:
   - interventionen/pocus
   - status/started
+title: Tricuspid Anular Plane Systolic Excursion (TAPSE)
 ---
 
 - *Background:* RV kontrahiert longitudinal (in A4C vertikal), nicht konzentrisch wie LV

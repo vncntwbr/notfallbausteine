@@ -2,6 +2,7 @@
 tags:
   - fach/hämatologie
   - status/done
+title: Tumorlyse-Syndrom (TLS)
 ---
 > [!danger] Rapid Reference
 > 1. **VEL** (Cave [[Volumenstatus]]), Ziel-Diurese 200 ml/h, ggf. + Furosemid, Blasenkatheter

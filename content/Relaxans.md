@@ -2,6 +2,7 @@
 tags:
   - interventionen/meds
   - status/started
+title: Muskelrelaxans
 ---
 
 - Quotes von Anesthesiologists Volunteers mit Wach-Relaxierung[^1]
