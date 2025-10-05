@@ -17,6 +17,9 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
+        <p>
+          Lizensiert unter <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC</a>: Nutzung für nicht-kommerzielle Zwecke unter Nennung der Originalquelle
+        </p>
       </footer>
     )
   }
