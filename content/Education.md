@@ -3,7 +3,7 @@ tags:
   - basics
   - status/started
 ---
-
+- EPA = trash[^3]
 ### **Multimedia Learning Principles**[^1]
 
 - Multimedia: Pictures + Words > Words Alone
@@ -73,3 +73,5 @@ tags:
 [^1]: Ferguson I et al. Continuing medical education speakers with high evaluation scores use more image-based slides. West J Emerg Med 2017; 18(1): 152-8. [PMID: 28116029](http://www.ncbi.nlm.nih.gov/pubmed/28116029)
 
 [^2]: https://rebelem.com/rebel-cast-ep-45-how-to-build-a-great-presentation/
+
+[^3]: [How well do workplace-based assessments support summative entrustment decisions? A multi-institutional generalisability study](https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.15291)

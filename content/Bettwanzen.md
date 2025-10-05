@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 > [!management]+
-> - Patienteninformation [Deutsch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Deutsch.pdf), [Englisch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Englisch.pdf), [Arabisch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Arabisch.pdf), [Farsi/Dari](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Farsi.pdf)
+> - [[Patienteninformation]] [Deutsch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Deutsch.pdf), [Englisch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Englisch.pdf), [Arabisch](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Arabisch.pdf), [Farsi/Dari](https://setzer-verlag.com/WebRoot/Store14/Shops/79584208/MediaGallery/Bettwanzen/tipdoc_Bettwanzen_Farsi.pdf)
 
 > [!note]+ Textbaustein
 > ```

@@ -10,7 +10,7 @@ tags:
 		- [[Aortensyndrom]]
 		- [[Herzinsuffizienz]]
 		- Präeklampsie bei [[Schwanger]]
-		- [[Intrakranielle Blutung|ICB]]/[[Intrakranielle Blutung|SAB]]
+		- [[ICB]]/[[SAB]]
 		- PRES
 		- Maligne Hypertonie (Visusminderung + AKI + RRsys >200)
 	- *Weitere Ursachen:* Schmerzen, Stress/"Weißkittel", Fehlmessung, Intox (Amphetamine, Kokain), [[Alkohol]]-Entzug, hyperaktives [[Delir]], [[Harnverhalt]], [[AKI]] (z.B. Glomerulonephritis, nephrotisches Syndrom), Hyperaldosteronismus

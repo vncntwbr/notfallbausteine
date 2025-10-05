@@ -75,5 +75,9 @@ title: Elektrokardiogramm (EKG)
 	- [[Elektrolyte]] ([[Hyperkaliämie]])
 	- Raised STE
 
+[^2]
+
 
 [^1]: Cook DA, Oh S, Pusic MV. Accuracy of Physicians’ Electrocardiogram Interpretations: A Systematic Review and Meta-analysis. _JAMA Intern Med._ 2020;180(11):1461–1471. doi:10.1001/jamainternmed.2020.3989
+
+[^2]: [Stefan Pieper, 2019. dasFOAM. Notfall EKG Checkliste](https://dasfoam.de/2019/03/02/notfall-ekg-checkliste/)

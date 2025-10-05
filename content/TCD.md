@@ -7,7 +7,7 @@ tags:
 title: Transkranieller Doppler (TCD)
 ---
 - **Q**
-	- Vasospasmus (post [[Intrakranielle Blutung|SAB]])?
+	- Vasospasmus (post [[SAB]])?
 	- Cerebraler Zirkulationsstillstand ([[Hirntod]])?
 - **D**
 	1. Echo-Schallkopf, [TCD preset] Marker frontal, [Echo preset] Marker occipital

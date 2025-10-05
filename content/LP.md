@@ -9,7 +9,7 @@ aliases:
 title: Lumbalpunktion / Liquorpunktion (LP)
 ---
 > [!danger] Indikation
-> - **Akut:** V.a. ZNS-Infektion ([[Meningitis]], Encephalitis), V.a. [[Intrakranielle Blutung|SAB]] (kontrovers)
+> - **Akut:** V.a. ZNS-Infektion ([[Meningitis]], Encephalitis), V.a. [[SAB]] (kontrovers)
 > - **Im Verlauf:** V.a. GBS, V.a. MS etc.
 
 > [!red-flags] KI/UAW
@@ -27,5 +27,5 @@ title: Lumbalpunktion / Liquorpunktion (LP)
 > 5. **Röhrchen abnehmen** je 20 Tropfen = 2ml → #1 verwerfen, 1x Liquorstatus, 1x Kultur, bei V.a. Meningitis/SAB 1x 5 ml für Zelldiff./Zytopatho
 
 > [!workup] Liquordiagnostik
-> - **Visuell:** Trüb/eitrig ([[Meningitis]]), Xanthochrom/blutig nach 3 Gläsern ([[Intrakranielle Blutung|SAB]])
+> - **Visuell:** Trüb/eitrig ([[Meningitis]]), Xanthochrom/blutig nach 3 Gläsern ([[SAB]])
 > - **Labor:** Zellzahl+diff., Protein, Glucose, Lactat, [V.a. [[Meningitis]]] + Kultur, Gramfärbung, PCR/Antigen

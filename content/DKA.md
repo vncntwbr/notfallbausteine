@@ -1,8 +1,8 @@
 ---
 tags:
   - fach/endokrinologie
-  - status/started
   - dx
+  - status/done
 title: Diabetische Ketoazidose (DKA)
 ---
 

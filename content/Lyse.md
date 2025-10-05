@@ -14,7 +14,7 @@ title: Medikamentöse Thrombolyse
 
 > [!workup] Checkliste KI vor Lyse bei [[Stroke]] (alles "nein")
 > - [ ] Onset sicher >4.5h (ggf. bis 9h indiv. Heilversuch bei Mismatch)
-> - [ ] [[Intrakranielle Blutung]] in Bildgebung oder klinisch V.a. [[Intrakranielle Blutung|SAB]] bei unauffälligem CT
+> - [ ] [[Intrakranielle Blutung]] in Bildgebung oder klinisch V.a. [[SAB]] bei unauffälligem CT
 > - [ ] RR >185/110 (→Urapidil)
 > - [ ] Schwere [[GI-Blutung]] oder urogenitale Blutung <3 Wo
 > - [ ] Schweres Trauma oder OP <30d

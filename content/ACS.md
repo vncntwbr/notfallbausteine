@@ -13,7 +13,7 @@ title: Akutes Koronarsyndrom (ACS)
 
 > [!workup]
 > - **[[Untersuchung|U]]:** VP, Auskultation (Vitien? Stauung? RG?), Abd (Oberbauch?), Beine (Ödeme? TVT?), Habitus (<45 J.: Marfanoid?)
-> - **[[EKG]]:** min. 0+1h, siehe [[STEMI-EKG]]
+> - **[[EKG]]:** min. 0+1h, siehe [[Ischämie-EKG]]
 > - **Troponin**[^3]
 > - **[[TTE]]**
 > - **Koronar-CT:**

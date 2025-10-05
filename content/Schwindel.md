@@ -22,4 +22,4 @@ tags:
 > 	- **Lagerungsmanöver** (tEVS)
 > 		- *Dix-Hallpike + Epley*
 > 		- *Head-Roll + Gufoni*
-> - **Red Flags:** FND, 4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[Intrakranielle Blutung|ICB]]?), Nackensz. (Vertebralisdissektion?)
+> - **Red Flags:** FND, 4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[ICB]]?), Nackensz. (Vertebralisdissektion?)

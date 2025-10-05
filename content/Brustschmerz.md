@@ -1,27 +1,69 @@
 ---
 tags:
   - sy/herz-thorax
-  - status/started
+  - status/done
 aliases:
   - Thoraxschmerz
 title: Brustschmerz / Thoraxschmerz
 ---
-> [!dd] DD
-> - [[ACS]]
-> - [[LAE]]
-> - [[Aortensyndrom]]
-> - [[Pneu]]
-> - [[Ösophagusruptur]]
-> - [[Perimyokarditis]]
-> - Peripartale Kardiomyopathie
+> [!danger]+ Killer-DD bei Kritisch Kranken mit Brustschmerz
+> - **[[ACS]]** ([[Ischämie-EKG]], [[TTE]] WBS)
+> - **[[LAE]]** ([[POCUS]] [[RHB]], TVT)
+> - **[[Aortensyndrom]]** ([[POCUS]] [[Perikarderguss]], Aorta >5cm, Diss.-Membran)
+> - **[[Pneu]]** ([[LUS]] Pleuragleiten)
+> - **[[Ösophagusruptur]]** ([[Anamnese|A]]: Erbrechen)
+
+> [!dd]+ DD
+> - **Kardiovaskulär:**
+> 	- [[ACS]]
+> 	- [[LAE]]
+> 	- [[Aortensyndrom]]
+> 	- [[Aortenklappenstenose]]
+> 	- [[Perikarderguss]]/-tamponade
+> 	- [[Perimyokarditis]]
+> 	- [[VHF]] mit TAA
+> - **Pulmonal:**
+> 	- [[Pneumonie]]
+> 	- [[Pneu]]
+> 	- Pleuritis (sicca)
+> - **Gastrointestinal:**
+> 	- GERD, [[Gastritis]], GI-Ulcus
+> 	- [[Pankreatitis]]
+> 	- [[Ösophagusruptur]]
+> 	- [[Gallenerkrankungen]]
+> - **Sonstige:**
+> 	- [[Anämie]] (Typ-II-Infarkt)
+> 	- [[Zoster]]
+> 	- Muskuloskelettal
+> 	- Funktionelle Beschwerden
 
 
-> [!workup]
-> 1. **[[Anamnese|A]]:** [S] OPQRST+[^2], Infekt, Dyspnoe, Hämoptysen, Erbrechen, [A] Analgetika-Asthma, [M] ASS, DAPT, AK, [P/R] CVRF, TVT (Ca, [[Schwanger]]), Aorta (OP, Marfan, Aneursyma), [L] HKU, [E] Ruhe/Belastung? Immob?, [R] FA, Rauchen, Drogen[^1]
-> 2. **[[EKG]]** #1 <10 min, #2 <60 min
-> 3. **[[POCUS]]:** RUSH/FATE
-> 4. **[[Labor]]:** Trop, CK, D-Dimer, CRP, [[BGA]], #2 Trop 1h / 3h (>14/nl od. Onset <2h)
-> 5. **Radio:** Rö Tx / CTPA nach D-Dimer
+> [!anamnese]+ Anamnese
+> - **S:** ==OPQRST+==[^2] (reißend, wandernd, stärkst → Aorta)? [[Dyspnoe]]? [[Husten]], [[Hämoptysen]]? [[Ü+E]]? Fieber?
+> - **A:** Analgetika-Asthma?
+> - **M:** ASS/DAPT? [[Antikoagulation]]?
+> - **P:** CVRF ([[Hypertonie]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
+> - **L:** TTE? HKU?
+> - **E:** Auftreten in Ruhe/Belastung? Immobilisation ([[LAE]])?
+> - **R:** CVRF? Familienanamnese (MI, Aorta)? Drogen (Kokain u.ä. → ACS; THC → [[Pneu]])?
+
+
+> [!workup]+
+> 1. **[[Untersuchung|U]]:** 
+> 	- VP (insb. AF, HF)? 
+> 	- Herzgeräusch? Stauung? 
+> 	- Auskultation (Pneumonie, Pneu, Pleuritis)? 
+> 	- Abdomen (Oberbauch)? 
+> 	- Beine (Ödeme, [[TVT]])? 
+> 	- Haut (Perfusion)? U45: Marfanoider Habitus?
+> 2. **[[EKG]]** #1 <10 min, #2 <60 min (V.a. [[ACS]]: +V7-V9, +V1R-V3R)
+> 	- [[Ischämie-EKG]]?
+> 	- [[RHB]]?
+> 3. **[[POCUS]]:** RUSH/[[TTE]]
+> 4. **[[Labor]]:** Profil "Brustschmerz" (inkl. CRP, Trop, CK), [[BGA]]
+> 	- [[D-Dimer]] nur gezielt, siehe [[LAE]]
+> 	- #2 Trop 1h/2h siehe [[ACS]]
+> 5. **[[Radiologie]]:** Rö Tx oder CTPA je nach [[LAE]]-Risiko/[[D-Dimer]]
 
 > [!note]- Textbaustein Unklarer Brustschmerz Ambulant
 > ```
@@ -38,7 +80,5 @@ title: Brustschmerz / Thoraxschmerz
 
 ^e34c74
 
-[^1]: THC RF Spontanpneumothorax, Kokain und Derivate [[ACS]]
 
-[^2]: - *[[ACS]]+:* Ausstrahlung Arme bds. > re > li, kaltschweißig, [[Ü+E]], belastungsabh.
-	- *[[ACS]]–:* Pleuritisch, lageabh., stechend, druckdolent
+[^2]: *[[ACS]]+:* Ausstrahlung Arme bds. > re > li, kaltschweißig, [[Ü+E]], belastungsabh.; *[[ACS]]–:* Pleuritisch, lageabh., stechend, druckdolent

@@ -24,7 +24,7 @@ aliases:
 > - **V.a. Candida-Balanitis:** (flächiges Erythem, brennend, juckend, [[Anamnese|A]] Partnerin) zzgl. Clotrimazol 1% Salbe 3x/d, Partnerin mitbehandeln
 > - **Therapierefraktär:** Konsil Urologie (PECA Penis, Ausschluss Malignom)
 > - **Phimose:** ggf. Gentamicin-Salbe lokal (z.B. Infectogenta AS 3mg/g 6x/d unter Vorhaut)
-> - [Patienteninformation](https://www.gesundheitsinformation.de/eichelentzuendung-balanitis.html)
+> - [[Patienteninformation]] [gesundheitsinformation.de](https://www.gesundheitsinformation.de/eichelentzuendung-balanitis.html)
 
 > [!note]+ Textbaustein
 > ```
