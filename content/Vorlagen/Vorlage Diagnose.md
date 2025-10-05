@@ -25,6 +25,7 @@ title:
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 
 > - **[[Urin]]:** 
+> - **[[Radiologie]]:** 
 
 > [!stadien]+
 > - ...
@@ -32,7 +33,7 @@ title:
 > [!management]+
 > - ...
 
-> [!disposition]+ 
+> [!disposition]+
 > - ...
 
 > [!note]- Textbaustein

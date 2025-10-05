@@ -1,8 +1,8 @@
 ---
 tags:
   - fach/pulmologie
-  - status/started
   - dx
+  - status/done
 title: |-
   Chronisch-obstruktive Lungenerkrankung (COPD)
   & akute Exazerbation (aeCOPD)
@@ -11,7 +11,7 @@ aliases:
 ---
 
 > [!danger]+ Resuscitation
-> 1. **[[O2]]-Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
+> 1. **[[O2]]+Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
 > 2. **Inhalation:** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 3. **Prednisolon** 50 mg i.v. (Fortführung 50 mg 1-0-0 p.o. für 5d)
 > 4. **[[MgSO4]]** 2g als KI i.v.
@@ -38,7 +38,7 @@ aliases:
 > - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
-> - **[[Labor]]:** ==[[BGA]]== (chronische Kompensation vs. akute [[Respiratorische Azidose]]), Profil "Pneumonie" ±PCT ±[[D-Dimer]], ==Blutkulturen==
+> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "Pneumonie" ±PCT ±[[D-Dimer]], Blutkulturen
 > - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID-19]], [[Influenza]], ±RSV)
 > - **[[Urin]]:** Legionellen-/Pneumokokken-Ag
 > - **[[Radiologie]]:** CT-Thorax lowdose (atypisch? ±[[LAE]]?)[^1]
@@ -119,9 +119,9 @@ aliases:
 
 [^3]: [S3-Leitlinie Nationale VersorgungsLeitlinie COPD 2021](https://register.awmf.org/de/leitlinien/detail/nvl-003)
 
-[^4]: [Oxygen-induced hypercapnia in COPD: myths and facts, Abdo 2012](https://ccforum.biomedcentral.com/articles/10.1186/cc11475
+[^4]: [Oxygen-induced hypercapnia in COPD: myths and facts, Abdo 2012](https://ccforum.biomedcentral.com/articles/10.1186/cc11475)
 
-[^5]: - [S3-Leitlinie Nichtinvasive Beatmung als Therapie der chronischen respiratorischen Insuffizienz 2024](https://register.awmf.org/de/leitlinien/detail/020-008)
+[^5]: [S3-Leitlinie Nichtinvasive Beatmung als Therapie der chronischen respiratorischen Insuffizienz 2024](https://register.awmf.org/de/leitlinien/detail/020-008)
 
 [^6]: [S2k-Leitlinie Langzeit-Sauerstofftherapie 2020 (in Überarbeitung)](https://register.awmf.org/de/leitlinien/detail/020-002)
 

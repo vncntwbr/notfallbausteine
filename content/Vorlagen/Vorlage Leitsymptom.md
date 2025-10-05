@@ -24,11 +24,12 @@ aliases:
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 
 > - **[[Urin]]:** 
+> - **[[Radiologie]]:** 
 
 > [!management]+
 > - ...
 
-> [!disposition]+ 
+> [!disposition]+
 > - ...
 
 > [!note]- Textbaustein

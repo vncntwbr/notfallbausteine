@@ -6,7 +6,7 @@ title: Sichelzellanämie & Sichelzellkrise
 ---
 > [!danger] Rapid Reference
 > 1. **Akutes Thoraxsyndrom (ATS)?** [[Brustschmerz]] (oft bds.), Tachypnoe, Hypoxie, [[Husten]], Fieber + Konsolidierung basal od. Pleuraergüsse (RöTx/POCUS) → vitale Bedrohung
-> 2. **Erhöhtes Risiko** für OPSI (funktionelle Asplenie), Stroke jung, Hämolyse, vasookklusive Schmerzkrisen, paralyt. Ileus, aplastische Krise bei Virusinfekt, Priapismus, Thromboembolien (D-Dimer nw 1.0 mg/l), Cholestase
+> 2. **Erhöhtes Risiko** für OPSI (funktionelle Asplenie), Stroke jung, Hämolyse, vasookklusive Schmerzkrisen, paralyt. Ileus, aplastische Krise bei Virusinfekt, [[Priapismus]], Thromboembolien (D-Dimer nw 1.0 mg/l), Cholestase
 > 3. **Therapie-Pitfalls:** Keine Überwässerung, viel Atemtherapie, keine Transfusion bei Hb >5.5 g/dl
 
 - **[[Anamnese|A]]:** (A) Transfusionsreaktionen?, (P) Genotyp? Krisen/Komplikationen?, (L) Urinfarbe?

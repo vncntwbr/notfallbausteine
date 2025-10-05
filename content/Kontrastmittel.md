@@ -15,19 +15,28 @@ tags:
 > Bei zeitkritischer Notfallindikation KM-Gabe unabhängig von Nierenfunktion indiziert (vgl. McDonald 2014).
 > ```
 ---
-- **KM bei Hyperthyreose**
-	- *Latent (TSH <0.25 mU/L, fT3/fT4 nw):* strenge Indikation, Prophylaxe Natriumperchlorat 800 mg (40° Irenat®) >30-120 min vor KM + nachher, Fortführung 200 mg p.o.
-	- *Manifest (TSH <0.25 mU/L, fT3↑/fT4↑):* nur absolut vitale Indikation ohne Alternative (z.B. PCI, [[Aortensyndrom]] – nicht [[LAE]])
+
+> [!management]+ Hyperthyreose-Prophylaxe bei Kontrastmittelexposition
+> - **Latente Hyperthyreose:** Strenge Indikation; 800 mg Na-Perchlorat (40° Irenat®) frühestmöglich, >30 min ideal >2h vor KM Gabe + nach KM + Fortführung 200 mg p.o. 1-1-1 für 7d
+> - **Manifeste Hyperthyreose:** KM nur bei vitaler Indikation (z.B. PCI, Aorta – nicht LAE-Ausschluss); 40 mg Thiamazol vor KM + 1200 mg Na-Perchlorat (60° Irenat®) vor+nach KM + Fortführung Na-Perchlorat 400 mg 1-1-1 für 7-14d, endokrinologische Kontrolle
+
+^49a4bd
+
 
 > [!note]+ Textbaustein KM bei latenter Hyperthyreose
 > ```
 > Bei latenter Hypertyhreose, jedoch Notfallindikation zur KM-Gabe bei ###, prophylaktisch Natriumperchlorat 800 mg p.o. (40° Irenat®) >30-120 min vor + nach KM-Gabe. Empfehlung zur Fortführung mit Natriumperchlorat 200 mg p.o. 1-1-1 für 7 d unter endokrinologischer Kontrolle.
 > ```
 
+^4c30b5
+
 > [!note]+ Textbaustein KM bei manifester Hyperthyreose
 > ```
 > Bei manifester Hypertyhreose, jedoch vitaler Indikation zur KM-Gabe bei ###, prophylaktisch Thiamazol 40 mg i.v. vor KM-Gabe sowie Natriumperchlorat 1200 mg p.o. (60° Irenat®) vor + nach KM-Gabe. Empfehlung zur Fortführung mit Natriumperchlorat 400 mg p.o. 1-1-1 für 7-14 d unter endokrinologischer Kontrolle.
 > ```
+
+^64283a
+
 ---
 - **KM bei Allergie / Jodallergie**
 	- *Delabeling?* [[Ü+E]], [[Schwindel]], Wärmegefühl allein ≠ Allergie

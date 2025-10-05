@@ -7,18 +7,18 @@ title: Benigner Paroxysmaler Lagerungsschwindel (BPLS)
 ---
 > [!dd] Beachte DD/Workup [[Schwindel]]
 
-> [!workup] Welcher Bogengang?
-> 1. **Posteriorer Bogengang (80%)?** Dix-Hallpike positiv (kurze Latenz, Fading <30s, rotatorischer upbeat Nystagmus, einseitig) = unten liegendes Ohr
-> 2. **Horizontaler Bogengang (20%)?** Head-/Supine-Roll positiv (kurze Latenz, Fading <30s, horizontaler Nystagmus, "zeigt" auf stärker symptomatischen Seite zum betroffenen Ohr, i.d.R. beidseits)
-> 3. **Anteriorer Bogengang (selten)?** Dix-Hallpike semi-positiv (vertikaler downbeat Nystagmus, oft beidseitig) = bei stärker symptomatischer Seite oben liegendes Ohr
+> [!workup]- Welcher Bogengang?
+> 1. **Posteriorer Bogengang (80%)?** [Dix-Hallpike](https://www.youtube.com/watch?v=kvVnEsGVLUY) positiv (kurze Latenz, Fading <30s, rotatorischer upbeat Nystagmus, einseitig) = unten liegendes Ohr
+> 2. **Horizontaler Bogengang (20%)?** [Head-/Supine-Roll](https://www.youtube.com/watch?v=VRjRTnIw9YE) positiv (kurze Latenz, Fading <30s, horizontaler Nystagmus, "zeigt" auf stärker symptomatischen Seite zum betroffenen Ohr, i.d.R. beidseits)
+> 3. **Anteriorer Bogengang (selten)?** [Dix-Hallpike semi-positiv](https://www.youtube.com/watch?v=2TAYDp3vVTU) (vertikaler downbeat Nystagmus, oft beidseitig) = bei stärker symptomatischer Seite oben liegendes Ohr
 > 4. **Cave:** DD zentrale Ursache für horizontalen oder vertikalen Nystagmus
 
-> [!management]
-> 1. **Posteriorer Bogengang:** Epley-Manöver
-> 2. **Horizontaler Bogengang:** Gufoni-, Barbecue-Roll-, Head-Shake-Manöver
-> 3. **Anteriorer Bogengang:** Dead-Head-Hanging-Manöver
+> [!management]-
+> 1. **Posteriorer Bogengang:** [Epley-Manöver](https://www.youtube.com/watch?v=kvVnEsGVLUY)
+> 2. **Horizontaler Bogengang:** [Gufoni-, Barbecue-Roll-, Head-Shake-Manöver](https://www.youtube.com/watch?v=VRjRTnIw9YE)
+> 3. **Anteriorer Bogengang:** [Dead-Head-Hanging-Manöver](https://www.youtube.com/watch?v=2TAYDp3vVTU)
 
-> [!note]+ Textbaustein Posteriorer Bogengang
+> [!note]- Textbaustein Posteriorer Bogengang
 > ```
 > Zusammenfassend klinisch und anamnestisch V.a. Benignen Paroxysmalen Lagerungsschwindel (BPLS). Kein Defizite bzw. H.a. zentrale Schwindelgenese in der neurologischen Untersuchung. Im Dix-Hallpike bestätigte sich bei typischem Befund (Exazerbation des Schwindels mit kurzer Latenz, Fading binnen 30s, rotatorischer upbeat-Nystagmus) ein BPLS des RECHTEN/LINKEN posterioren Bogenganges. Nach Epley-Manöver deutliche Besserung der Symptomatik. Aufklärung, Anleitung zur Selbstlagerung, Patientenmerkblatt ausgehändigt. Entlassung in gebessertem AZ.
 > 

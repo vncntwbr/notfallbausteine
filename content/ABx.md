@@ -7,7 +7,7 @@ title: Antibiotika (ABx)
 > [!danger] Kalkulierte ABx
 > - **aeCOPD:** [Indikation: Sputum, ITS o. PCT] Ampi/Sulb o. Ceftriaxon, [1 davon vor <3 Mo gegeben] Moxi, [Pseudomonas-Risiko] Pip/Taz
 > - **COVID-19:** [Frühphase + RF] Paxlovid® (CYP3A4), [O2-Bedarf] Dexamethason 6 mg/d
-> - **Influenza A/B:** [Stat. o. RF] Oseltamivir 75 mg 1-0-1
+> - **[[Influenza]] A/B:** [Stat. o. RF] Oseltamivir 75 mg 1-0-1
 > - **CAP:** [Amb.] Amoxi, RF +Clav, atyp. +Azithro, [Stat] Ampi/Sulb + Azithro, [ITS/Sepsis] Pip/Taz + Azithro
 > - **HAP:** [Leicht] Ampi/Sulb o. Moxi, [Mittel] Pip/Taz, [Schwer] Pip/Taz + Cipro
 
