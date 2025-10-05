@@ -13,7 +13,7 @@ tags:
 > - Fasten, Zyklus, Alkohol
 
 > [!anamnese]
-> - **S:** Schmerzen/OPQRST+? Übelkeit? Obstipation? Infektsymptome? Schwäche? Idem zu früheren Schüben oder anders? Neuropsychiatrische Symptome (Psychose, Delir, Vigilanzminderung, Krampfanfall, Paresen, Sensibilitätsstörungen, …)?
+> - **S:** Schmerzen/OPQRST+? Übelkeit? Obstipation? Infektsymptome? Schwäche? Idem zu früheren Schüben oder anders? Neuropsychiatrische Symptome (Psychose, [[Delir]], Vigilanzminderung, Krampfanfall, Paresen, Sensibilitätsstörungen, …)?
 > - **M:** [Trigger-Medikamente](http://www.drugs-porphyria.org)? Spezifische Therapie (Givosiran)? Neue Hormone/Pille?
 > - **P:** Welche Porphyrieform? Anbindung? Bisherige Schübe? Hämarginat-Therapie (Normosang) in der Vergangenheit? 
 > - **L:** Schub? Mahlzeit (Fasten)? Stuhlgang (paralyt. Ileus)? Menstruation (zyklusabhängig)?
@@ -21,7 +21,7 @@ tags:
 > - **R:** Infekt? Alkohol? [W] Zyklus/LR? Zwischenblutung? 
 
 > [!workup]
-> - **[[Labor]]:** Profil "Bauchschmerz", [[BGA]] ([[Hyponatriämie]] durch SIADH)
+> - **[[Labor]]:** Profil "Bauchschmerz", [[BGA]] ([[HypoNa+]] durch SIADH)
 > - **[[Urin]]:** β-HCG, [[U-Status]], Porphyrine PGB/ALA (lichtgeschütztes Röhrchen)
 > - **[[POCUS]]:** DD (insb. wenn Beschwerden nicht genau wie sonst → [[Bauchschmerz]])
 
@@ -35,7 +35,7 @@ tags:
 > 	- *Tachykardie:* Metoprolol 
 > 	- *Hypertonie:* Nitroglycerin, Clonidin 
 > 	- *Obstipation:* MCP
-> 4. **Echte [[Hyponatriämie]]** mit NaCl 3% Boli therapieren
+> 4. **Echte [[HypoNa+]]** mit NaCl 3% Boli therapieren
 > 5. **Neuropsychiatrische Sympt:** In RS OA Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via [[ZVK]]
 
 > [!note]+ Textbaustein

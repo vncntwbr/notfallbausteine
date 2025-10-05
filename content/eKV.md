@@ -14,7 +14,7 @@ title: Elektrische Kardioversion (eKV)
 > 4. **[[Analgosedierung]]**
 > 5. **SYNC**, R-Marker abwarten
 > 6. **Schock:** [[VT]] 120-150 J, [[VHF]] 200 J, [[SVT]] 120 J
-> 7. **Failure:** Elektrodenposition? [[Hyperkaliämie]]? [[Intoxikation]]? ggf. Antiarrhythmika
+> 7. **Failure:** Elektrodenposition? [[HyperK+]]? [[Intox]]? ggf. Antiarrhythmika
 
 
 > [!note]+ Textbaustein

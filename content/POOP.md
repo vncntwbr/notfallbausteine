@@ -2,13 +2,16 @@
 tags:
   - sy/allgemein
   - status/started
+title: Pain out of Proportion (POOP)
+aliases:
+  - Pain out of Proportion
 ---
 
 - **DD**
 	- Orbital Cellulitis
 	- Maligne Otitis externa
 	- Ludwig‘s Angina
-	- Aortensyndrom
+	- [[Aorta]]
 	- Mesenterialischämie
 	- Kompartmentsyndrom
 	- Nekrotisierende Fasziitis

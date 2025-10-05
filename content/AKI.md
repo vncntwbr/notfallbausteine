@@ -1,15 +1,16 @@
 ---
 tags:
-  - sy
   - checkliste
   - status/started
+  - sy/labor
+  - fach/nephrologie
 title: |-
   Akute Nierenschädigung (AKI),
   alt: Akutes Nierenversagen
 ---
 > [!danger] Checkliste
 > 1. **MAP** halten
-> 2. **[[BGA]]:** [[Hyperkaliämie]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
+> 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
 > 3. **Dx:** [[POCUS]] postrenal (DK)? U-Status intrarenal? [[POCUS]] [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 > 5. **P:** Phosphatbindner ab P >6 mg/dl
@@ -18,7 +19,7 @@ title: |-
 > - **[[Anamnese|A]]:** Vorwerte?
 > - **[[Untersuchung|U]]:** H.a. Infekt?
 > - **[[POCUS]]:** [[Volumenstatus]]? Harnstau (obligat)?
-> - **Labor:** [[BGA]] ([[Hyperkaliämie]]? pH?)
+> - **Labor:** [[BGA]] ([[HyperK+]]? pH?)
 > - **Stadieneinteilung (KDIGO)**
 > 	- *I°:* Krea x1.5-2, Krea +0.3 mg/dl, Oligurie <0.5 ml/kg/h für 6-12h
 > 	- *II°:* Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h

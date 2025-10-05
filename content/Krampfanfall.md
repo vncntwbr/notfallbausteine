@@ -1,44 +1,60 @@
 ---
 tags:
   - sy/kopf-neuro
-  - status/started
+  - status/done
+  - fach/neurologie
 title: Krampfanfall / Epileptischer Anfall
 aliases:
   - Epileptischer Anfall
 ---
 > [!danger]+ Resuscitation –  Status epilepticus (≥5 min, fokal ≥10 min oder Anfallsserie)
-> 1. **ABC:** Kopf abpolstern, O2 15L, , BZ/[[BGA]], kurze [[Anamnese]]
+> 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[Anamnese]]
 > 2. **Stufentherapie ab 5 min:** 
-> 	1. Midazolam 10 mg i.m. oder 0.2 mg/kg i.v. (max. )
-> 	2. [^2] 2x → Levetiracetam 4.5 g i.v. → [[RSI]]
-> 3. **Dx?** 
-> 	- *Eklampsie[^3]:* [[MgSO4]] 20 mmol / 5 g[^5] i.v. KI auch wenn durchbrochen
-> 	- *Alkohol:* Thiamin 100 mg i.v.
+> 	1. ==**Midazolam** 10 mg i.m.== (1x wiederholen)
+> 	   oder Midazolam 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
+> 	   oder Lorazepam (Tavor®) 2-4 mg i.v. (max. 2x4 mg = ∑8 mg)
+> 	2. **Levetiracetam** 4.5 g i.v. als KI (<15 min)
+> 	3. **[[RSI]]** mit Propofol 100-200 mg ± [[esKETAmin]] 100-200 mg (<60 min)
+> 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
+> 4. **[[Alkohol]]?** Thiamin 100 mg i.v.
 
-> [!dd]+ DD
+> [!dd]+ DD zum Epileptischen Anfall bei Epilepsie
+> - **Konvulsive [[Synkope]]** / Adam-Stokes, [[VT]], [[CPR]]
+> - **[[Hypoglykämie]], [[HypoNa+]]**
+> - **Eklampsie** ([[Schwanger]] >20. SSW / Wochenbett)
+> - **[[Intrakranielle Blutung]]**
+> - **[[Meningitis]]**
+> - **[[Tumorlyse]]** (unter onkologischer Therapie)
+> - **PNEA/PNES** (Dissoziativer/Psychogener nicht-epileptischer Anfall)
 
 > [!anamnese]+ Anamnese
-> - **S:** 
-> - **A:** 
-> - **M:** 
-> - **P:** 
-> - **L:** 
-> - **E:** 
-> - **R:** 
+> - **S:** Semiologie (falls beobachtet)? Infekt? Fieber? [[Kopfschmerz]]? Palpitationen? AP? [[FND]]? TLOC? Enuresis/Enkopresis? Schmerzen?
+> 	- *Semiologie:* Tonische Haltung? Myoklonien der Extremitäten? Fokal eingeleitet? Augen offen/zu? Blickwendung? Zyanose? Dauer? Postiktale Desorientiertheit?
+> - **M:** Antikonvulsiva? Adhärenz? Änderungen?
+> - **P:** Epilepsie? Strukt. ZNS-Erkrankung? Sucht? [[Schwanger]]/Wochenbett? Tumor?
+> - **L:** Anfall? Frequenz?
+> - **E:** Trauma? Schlafentzug? Reizüberflutung? Stress?
+> - **R:** Alkohol? Drogen? Entzug?
 
 > [!workup]+
 > - **[[Untersuchung|U]]:** 
-> - **[[EKG]]:** 
-> - **[[POCUS]]:** 
-> - **[[Labor]]:** 
-> - **[[Urin]]:** 
-> - **[[Radiologie]]:** 
+> 	- VP (insb. Temp.)? 
+> 	- Zungenbiss? Enuresis/Enkopresis? Sturzfolgen? 
+> 	- Vitien? Leberhautzeichen? Infektzeichen? 
+> 	- Neuro-Screen (Meningismus? [[FND]]?)
+> - **[[EKG]]:** Adam-Stokes / konvulsive [[Synkope]]? H.a. [[Hirndruck]]?
+> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? Anionenlücke → Intox?), Profil "Krampfanfall"
+> 	- *Spiegelbestimmung Antikonvulsiva:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
+> - **[[LP]]:** nur bei V.a. autoimmune Genese oder DD [[Meningitis]]/Encephalitis
+> - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG
+> - **[[Radiologie]]:** cCT nativ bei Erst-Anfall; bei [[FND]], V.a. Encephalitis, V.a. Sinusvenenthrombose +CTA
 
 > [!management]+
-> - ...
-
-> [!disposition]+
-> - ...
+> - **Erst-Anfall Diagnostik im Verlauf:** EEG <24h, cMRT stationär
+> - **Fahrtauglichkeit:**
+> 	- *Provoziert:[^4]* PKW 3 Mo, LKW/Bus 6 Mo
+> 	- *Unprovoziert ohne H.a. Epilepsie:* PKW 6 Mo, LKW/Bus 2 Jahre
+> 	- *Epilepsie:* i.d.R. keine Fahreignung, ggf. PKW nach 1 Jahr Anfallsfreiheit
 
 > [!note]- Textbaustein
 > ```
@@ -54,39 +70,10 @@ aliases:
 
 [^6]
 
-
-
-> [!danger] Status epilepticus (≥5 min, fokal ≥10 min)
-> 1. **ABCDE:** Abpolstern, O2 15L, , BZ/[[BGA]], Anamnese
-> 2. **Stufen:** Midazolam 10 mg i.v./i.m.
-> 3. [^2] 2x → Levetiracetam 4.5 g i.v. → [[RSI]]
-> 4. **Dx?** 
-> 	- *Eklampsie[^3]:* [[MgSO4]] 20 mmol / 5 g[^5] i.v. KI auch wenn durchbrochen
-> 	- *Alkohol:* Thiamin 100 mg i.v.
-
-- K **Killer:** [[Synkope]] / Adam-Stokes bei [[CPR]], [[Hypoglykämie]], Status epilepticus, [[Intrakranielle Blutung]], [[Meningitis]]
-- **[[Anamnese|A]]:** [S] Semiologie, Infekt, Kopfschmerz, Palpitationen, AP, Enuresis/Enkopresis, [M] Antiepileptika + Adhärenz, [P] Epilepsie, Sucht, Tumor, [[Schwanger]], [L] Anfallsfrequenz, [E] Trauma, Schlafentzug, Provokation, [R] [[Alkohol]], Drogen, Entzug
-- **[[Untersuchung|U]]:** Neuro-Screen, Infekt, Zungenbiss, [[U-Status]], β-HCG, W wie [[Synkope]]
-- **W Z.n. Krampfanfall**
-	- *Erstmalig:* cCT nativ ±CTA, EEG <24h, cMRT im Verlauf
-	- ggf. Spiegelbestimmung Antiepileptika
-- **DD**
-	- Tumorlysesyndrom
-	- Adam-Stokes / [[Synkope]] / ROSC
-	- Eklampsie
-	- [[Alkohol]]-Entzugskrampf
-	- PNEA
-- **T Fahrverbot:** Provoziert[^4] PKW 3 Mo LKW 6 Mo, unprovoziert PKW 6 Mo LKW 2 J., Epilepsie i.d.R. keine Fahreignung ggf. PKW nach 1 J. anfallsfrei
-
-
-
-
-[^2]: alternativ Lorazepam 2-4 mg i.v.
-
 [^3]: kindliche Mortalität 90%, mütterliche Mortalität 50%
 
 [^4]: Schlafentzug zählt nicht als Provokationsfaktor
 
-[^5]: = 5 Amp. MgSO4 10% 10 ml
-
 [^6]: [S2k-Leitlinie Erster epileptischer Anfall und Epilepsien im Erwachsenenalter 2023](https://register.awmf.org/de/leitlinien/detail/030-041)
+
+[^7]: Gewichtsadaptiert: Midazolam 0.2 mg/kg i.v.

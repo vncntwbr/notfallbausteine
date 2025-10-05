@@ -2,6 +2,9 @@
 tags:
   - status/done
   - sy/labor
+aliases:
+  - Hypercalcämie
+title: Hypercalcämie (Ca2+↑)
 ---
 
 > [!danger] Hypercalcäme Krise gCa2+ >3.5 mM / iCa2+ >2 mM

@@ -12,7 +12,7 @@ title: Influenza A/B / Grippe
 
 > [!anamnese]+ Anamnese
 > - **S:** Symptombeginn <48h?
-> - **P:** Immunsuppression (auch Diabetes, Sucht, ...)? Herz, Lunge, Leber, Neurologie? Adipositas?
+> - **P:** [[Immunsupp.]] (auch Diabetes, Sucht, ...)? Herz, Lunge, Leber, Neurologie? Adipositas?
 > - **L:** Impfung?
 > - **R:** [[Schwanger]]/Wochenbett? 
 > - **Sozial:** Kontaktpersonen mit Indikation Oseltamivir-PEP? Häusliche Versorgung? Pflegeheim?
@@ -32,7 +32,7 @@ title: Influenza A/B / Grippe
 > 		- Pflegeheim
 > 		- Adipositas III° mit BMI >40
 > 		- [[Schwanger]]/Wochenbett (Oseltamivir safe)
-> 		- [[Immunsuppression]] (auch: Diabetes, Onko, Sucht, HIV, ...)
+> 		- [[Immunsupp.]] (auch: Diabetes, Onko, Sucht, HIV, ...)
 > 		- Chronische Herz-, Lungen-, Leber-, Stoffwechsel-, Neurologische Erkrankung
 > 		- Mitarbeiter Gesundheitswesen
 > 		- Haushaltskontakt zu Person mit Risikofaktoren ("kann")

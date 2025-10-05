@@ -3,6 +3,11 @@ tags:
   - sy/allgemein
   - status/started
 ---
+> [!danger]+ Ermittlung Patientenwille
+> 1. **Einwilligungsfähiger Pat.:** Aktuell geäußerter Wille
+> 2. **Patientenverfügung/ACP** ([vorsorgeregister.de](https://www.vorsorgeregister.de/aerzte)) oder **Vertreter nach Vorsorgevollmacht**
+> 3. **Mutmaßlicher Wille**
+
 > [!management] Symptomkontrolle
 > - **[[Dyspnoe]]:** Opioidnaiv Morphin 5-10 mg i.v.
 > - **Schmerzexazerbation**
@@ -17,6 +22,7 @@ tags:
 > - **Terminalphase:** Morphin-Bolus s.o. + [[Perfusor]] 1 mg/kg/h ±0.5 nach Effekt
 
 > [!disposition]
+> - SAPV-Anbindung...
 
 ---
 - P-CaRES Implementation[^1] und Content Validation[^3]

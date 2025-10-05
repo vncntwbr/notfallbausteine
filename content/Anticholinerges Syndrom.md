@@ -6,7 +6,7 @@ tags:
 
 > [!danger] Rapid Reference
 > - Supportiv (Volumen, Kühlung, DK bei Harnverhalt)
-> - **Delir:** Physostigmin 0.5-2.0 mg langsam i.v. ggf. q30 min
+> - **[[Delir]]:** Physostigmin 0.5-2.0 mg langsam i.v. ggf. q30 min
 
 > [!dd]+ DD
 > - **Primäre Anticholinergika**

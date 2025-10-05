@@ -3,6 +3,9 @@ tags:
   - fach
   - fach/gastroenterologie
   - status/started
+title: Hepatische Enzephalopathie (HE)
+aliases:
+  - Hepatische Enzephalopathie
 ---
 - **S West-Haven:** 1° verdeckt, 2° letharg./desorient., 3° Somnolenz/Sopor, 4° Koma
 - **W:** Aszitespunktion (SBP?), Auslöser (Infekt? GI-Blutung?)

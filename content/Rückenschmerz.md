@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 > [!dd]+ Do Not Miss DD
-> - **Killer:** ==[[Aortensyndrom]]==
+> - **Killer:** ==[[Aorta]]==
 > - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
 > - **Infektion** (==Spondylodiszitis==, Abszess) → [[Anamnese|A]] (Fieber? Z.n. Spritzen?), Labor, MRT
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH

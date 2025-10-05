@@ -32,7 +32,7 @@ title: Rapid Sequence Induction / Intubation (RSI)
 > - [ ] Tubus**FIXIERUNG**
 > - [ ] **FILTER**
 > - [ ] **PEEP**-Ventil?
-> - [ ] **HF** + **SpO2** + **RR** laut ablesen
+> - [ ] **HF** + **SpO2** + **[[RR]]** laut ablesen
 > - [ ] Parameter am **BEATMUNGSGERÄT**
 > - [ ] Magensonde?
 > - [ ] **MEDIKAMENTE** zur Aufrechterhaltung 

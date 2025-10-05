@@ -8,7 +8,7 @@ title: Metabolische Alkalose
 ---
 > [!dd]+ DD
 > - **H+ Shift n. intrazellulär:** 
-> 	- [[Hypokaliämie]]
+> 	- [[HypoK+]]
 > - **H+ Verlust gastrointestinal:**
 > 	- [[Ü+E]]
 > 	- Chloride-wasting enteropathy

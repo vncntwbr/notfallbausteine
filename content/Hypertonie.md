@@ -3,11 +3,11 @@ tags:
   - sy/allgemein
   - status/started
 ---
-- K **Killer:** [[Aortensyndrom]], [[ACS]], [[Lungenödem]], PRES, [[ICB]], [[(Prä-)Eklampsie]]
+- K **Killer:** [[Aorta]], [[ACS]], [[Lungenödem]], PRES, [[ICB]], [[(Prä-)Eklampsie]]
 - **W/Ä Akut:** VP, [[EKG]], W β-HCG, ggf. [[U-Status]] (AKI?), Ophthalmoskopie (bei Sehstörung), [[POCUS]] (Harnverhalt?)
 	- R *Endorganschäden?* 
 		- [[ACS]]
-		- [[Aortensyndrom]]
+		- [[Aorta]]
 		- [[Herzinsuffizienz]]
 		- Präeklampsie bei [[Schwanger]]
 		- [[ICB]]/[[SAB]]
@@ -18,9 +18,9 @@ tags:
 > [!management]
 > - **Akut**
 > 	- Schmerzen? Stress/Angst? Harnverhalt? etc. adressieren
-> 	- Beruhigen, 30 min entspannen lassen, keine wdh. RR-Messung, Aufklärung
+> 	- Beruhigen, 30 min entspannen lassen, keine wdh. [[RR]]-Messung, Aufklärung
 > 	- Extra Dosis antihypertensive Hausmedikation p.o.
-> - **Langzeit** Ziel-RR <140/90 in 3 Mo, LZ <130/80[^3]
+> - **Langzeit** Ziel-[[RR]] <140/90 in 3 Mo, LZ <130/80[^3]
 > 	- Alkohol↓, Rauchen↓, Salz↓, Ernährung, Aktivität, [[NSAR]]>
 > 	- *Med Initial*
 > 		- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)

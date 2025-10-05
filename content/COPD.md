@@ -32,14 +32,14 @@ aliases:
 > - **P:** COPD-Stadium? LTOT (l/min, Nutzung)? Bronchiektasen?[^7] Ventile? Amb. Pneumologe? Herzinsuffizienz?
 > - **L:** LuFu? Prednisolon-Stoß? KH-Aufenthalt? ABx (womit)?
 > - **E:** Infekt?
-> - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, COVID-19, Varizellen, RSV, Pertussis)?
+> - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, [[COVID]], Varizellen, RSV, Pertussis)?
 
 > [!workup]+
 > - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
 > - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "Pneumonie" ±PCT ±[[D-Dimer]], Blutkulturen
-> - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID-19]], [[Influenza]], ±RSV)
+> - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID]], [[Influenza]], ±RSV)
 > - **[[Urin]]:** Legionellen-/Pneumokokken-Ag
 > - **[[Radiologie]]:** CT-Thorax lowdose (atypisch? ±[[LAE]]?)[^1]
 

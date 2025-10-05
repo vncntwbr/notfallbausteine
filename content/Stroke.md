@@ -11,13 +11,13 @@ title: Stroke / Schlaganfall
 	- *Labor:* [[BGA]], Profil "Stroke", PoC INR, bei Fieber BK/[[Sepsis]]
 	- *Bildgebung:* [[NIHSS]] <10 MRT+MRA, ≥10 CT+CTA[^2], Onset >4.5h +Perfusion, wake-up/unbek. MR +DWI-FLAIR-Mismatch
 - **DD Stroke Mimics**
-	- [[Aortensyndrom]] Typ A (CTA immer bis Aortenbogen)
+	- [[Aorta]] Typ A (CTA immer bis Aortenbogen)
 	- Fieber/Infekt/[[Sepsis]]
 	- [[Hypoglykämie]] ([[BGA]])
-	- [[Hyponatriämie]] ([[BGA]])
+	- [[HypoNa+]] ([[BGA]])
 	- Z.n. [[Krampfanfall]] (Todd'sche Parese, postiktal)
 	- Exsikkose
-	- [[Intoxikation]]
+	- [[Intox]]
 	- Migräne mit Aura
 	- [[Schwindel]] anderer Ursachen
 	- [[Porphyrie]]
@@ -31,4 +31,4 @@ title: Stroke / Schlaganfall
 
 [^1]: Aroor. Stroke 2017. [BE-FAST (Balance, Eyes, Face, Arm, Speech, Time): Reducing the Proportion of Strokes Missed Using the FAST Mnemonic](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.015169)
 
-[^2]: CTA immer bis Aortenbogen, DD Typ A [[Aortensyndrom]]
+[^2]: CTA immer bis Aortenbogen, DD Typ A [[Aorta]]

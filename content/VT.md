@@ -19,5 +19,5 @@ title: Ventrikuläre Tachykardie (VT)
 > - WPW
 > - Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
 > - Drugs (I-Antiarrhythmika, ==[[TCA-Intoxikation]]==)
-> - [[Elektrolyte]] (==[[Hyperkaliämie]]==)
+> - [[Elektrolyte]] (==[[HyperK+]]==)
 > - Raised STE

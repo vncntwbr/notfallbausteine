@@ -20,7 +20,7 @@ aliases:
 > [!workup]+
 > - **[[Anamnese|A]]:** [S] Dyspnoe? AP? Synkope? Urin? Stuhl? Hämoptysen? Epistaxis? Menorrhoe? B-Sympt.? [A] Transfusion? [M] AK/TAH? NSAR? Cortison? CTX? Myelotox.? [P] CKD? Onko? GI? Herzklappen? Aorta? Z.n. OP? [L] Menstruation? Stuhl? [E] Trauma? Infekt? [R] Alkohol? Reisen? Familie?
 > - **[[Untersuchung|U]]:** Ikterus? Blutungsstigmata? Konjunktiven? DRU? Splenomegalie?
-> 	- *Anämische Hypoxie?* Euvolämie + AF↑, HF↑, RR↓, EKG Ischämie, Laktat
+> 	- *Anämische Hypoxie?* Euvolämie + AF↑, HF↑, [[RR]]↓, EKG Ischämie, Laktat
 > - **[[EKG]]:** Ischämie? HRST?
 > - **[[POCUS]]:** [[Volumenstatus]], [[eFAST]], Splenomegalie?
 > - **[[Urin]]:** Hämoglobinurie? [W] β-HCG?

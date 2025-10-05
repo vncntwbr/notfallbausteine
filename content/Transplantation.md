@@ -9,7 +9,7 @@ tags:
 > - Frühzeitig RS Transplant-Zentrum
 
 > [!dd]+ DD
-> - **Infektion unter Immunsuppression:** [<1 Mo] Spenderorgan, nosokomial/OP, [>1 Mo] Opportunistisch (PCP, HepB/C, Tbc, CMV, EBV, Kryptokokkose u.a.), Reaktivierung (VZV, CMV, HSV, EBV)
+> - **Infektion unter [[Immunsupp.]]:** [<1 Mo] Spenderorgan, nosokomial/OP, [>1 Mo] Opportunistisch (PCP, HepB/C, Tbc, CMV, EBV, Kryptokokkose u.a.), Reaktivierung (VZV, CMV, HSV, EBV)
 > - **Abstoßung** (hyperakut <1d / akut ≤6 Mo / chronisch >6 Mo): lokale Inflammation, Organfunktionsabnahme
 > - **UAW Immunsuppressiva**
 > - **Organspezifische Komplikationen**

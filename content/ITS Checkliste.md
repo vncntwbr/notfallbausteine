@@ -12,7 +12,7 @@ tags:
 ## Neuro
 - [ ] **Analgesie:** BPS <6
 - [ ] **Sedierung:** RASS -1 bis 0 / SAT
-- [ ] **Delir:** CAM-ICU
+- [ ] **[[Delir]]:** CAM-ICU
 
 ## Beatmung
 - [ ] **[[BGA]]:** Oxygenierung? Decarboxylierung?

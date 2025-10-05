@@ -6,8 +6,8 @@ tags:
 > [!management] Thorax Bildgebung
 > - **Primär CT Thorax Low-Dose:**[^1]
 > 	- V.a. Atypische Pneumonie
-> 	- COVID/Influenza Pneumonie
-> 	- Immunsuppression
+> 	- [[COVID]]/Influenza Pneumonie
+> 	- [[Immunsupp.]]
 > 	- Kritisch Kranke, [[Sepsis]], sCAP
 > 	- DD [[LAE]] (CTPA)
 > 	- ILD/Lungenfibrose

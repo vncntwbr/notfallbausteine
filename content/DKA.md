@@ -47,7 +47,7 @@ title: Diabetische Ketoazidose (DKA)
 > 	1. [[Perfusor]] 0.05-0.1 IE/kg/h i.v. (kein Bolus), bei leichter DKA ggf. s.c. gem. [SQuID-Protocol](https://rebelem.com/the-squid-protocol-sq-insulin-in-dka/)
 > 	2. *Ziel:* BZ-Abfall 50 mg/dl/h (Cave zu schnell: Hirnödem), nicht tiefer als 250 mg/dl, pH-Ziel 7.3
 > 	3. *BZ fällt zu schnell:* Gegensteuern Glucose G10% 50 ml/h (Insulin nicht pausieren)
-> 3. **Kaliumsubstitution:** sobald K+ <5.5 mmol/l (Pseudo-[[Hyperkaliämie]] nicht therapieren)
+> 3. **Kaliumsubstitution:** sobald K+ <5.5 mmol/l (Pseudo-[[HyperK+]] nicht therapieren)
 > 	1. z.B. KCl 40 mval in 1000 ml VEL i.v. in 1h + zzgl. p.o.
 > 	2. *K+ nicht >3.5 haltbar:* ggf. Insulin reduzieren/pausieren
 > 4. **Atemminutenvolumen ist heilig**

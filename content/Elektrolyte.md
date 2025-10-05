@@ -5,11 +5,11 @@ tags:
 ---
 
 - **Kalium**
-	- [[Hyperkaliämie]]
-	- [[Hypokaliämie]]
+	- [[HyperK+]]
+	- [[HypoK+]]
 - **Natrium**
-	- [[Hyponatriämie]]
+	- [[HypoNa+]]
 	- [[Hypernatriämie]]
 - **Calcium**
-	- [[Hypercalcämie]]
+	- [[HyperCa2+]]
 	- [[Hypocalcämie]]

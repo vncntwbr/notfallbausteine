@@ -8,7 +8,7 @@ title: Myokardischämie im EKG (STEMI/OMI)
 	- V2-V3 M <40 J. ≥2.5 mm, M ≥40 J. ≥2 mm, W ≥1.5 mm
 	- V7-V9 od. V3R-V5R ≥0,5 mm
 - *Nonsign. STE + reziproke STD*
-- *Hyperakutes T* (AUC↑ in DD zu [[Hyperkaliämie]])
+- *Hyperakutes T* (AUC↑ in DD zu [[HyperK+]])
 - *De-Winter*
 - *Wellens*
 - *Shark-Fin*

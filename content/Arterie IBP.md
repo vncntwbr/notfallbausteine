@@ -5,7 +5,7 @@ tags:
   - status/started
 title: |-
   Arterieller Katheter &
-  Invasive Blutdruckmessung
+  Invasive Blutdruckmessung (IBP)
 ---
 
 > [!note]+ Textbaustein Arterie

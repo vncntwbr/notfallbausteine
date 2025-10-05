@@ -19,7 +19,7 @@ title: Harnwegsinfektion (HWI)
 > - **S:** Algurie? Pollakisurie? Sonst. Dysurie? Urinmenge, -farbe, -geruch? Ausfluss? Juckreiz? Schmerzen? Fieber, Schüttelfrost?
 > - **A:** ABx?
 > - **M:** Prüfe [[Interaktionen]] Dauermedikation+ABx
-> - **P:** Immunsuppression (auch: Diabetes, Alkohol)? Epilepsie? Rezidivierende HWI? Prostata? [[Schwanger]]?
+> - **P:** [[Immunsupp.]] (auch: Diabetes, Alkohol)? Epilepsie? Rezidivierende HWI? Prostata? [[Schwanger]]?
 > - **L:** ABx?
 > - **E:** DK? Manipulation? Geschlechtsverkehr?
 > - **R:** STI-Risiko? Menopause/Stillen (ggf. Indikation lokales Östrogen)?

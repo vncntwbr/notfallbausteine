@@ -15,7 +15,7 @@ aliases:
 > 	- Hyperventilation
 > 	- Sympathikus↑
 > - **Atmungskette↓:**
-> 	- [[Intoxikation]], Metformin, Linezolid, HIV-Therapeutika, Nitroprussid, Valproat, Topiramat
+> 	- [[Intox]], Metformin, Linezolid, HIV-Therapeutika, Nitroprussid, Valproat, Topiramat
 > 	- Thiaminmangel
 > - **Laktatmetabolismus↓:** 
 > 	- [[Alkohol]]

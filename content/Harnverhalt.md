@@ -4,14 +4,14 @@ tags:
   - status/done
 ---
 > [!info] Definition
-> Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/Delir)
+> Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
 
 > [!dd]- DD
 > - **Cave:** Querschnitt / Cauda-Equina-Syndrom? (siehe [[Rückenschmerz]])
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
 > [!anamnese]-
-> - **S:** Schmerzen/OPQRST+? Algurie, Dysurie? Makrohämaturie? Fieber, Schüttelfrost? Schwäche, Paresen? Stuhlinkontinenz? Delir?
+> - **S:** Schmerzen/OPQRST+? Algurie, Dysurie? Makrohämaturie? Fieber, Schüttelfrost? Schwäche, Paresen? Stuhlinkontinenz? [[Delir]]?
 > - **A:** Latex? ABx?
 > - **M:** Anticholinerge UAW?
 > - **P:** Z.n. DK? Tumor? Neurogene Entleerungsstörung? [M] BPH? [W] Descensus?

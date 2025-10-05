@@ -9,12 +9,12 @@ aliases:
 > [!dd] Erhöhte Anionenlücke (AGMA)
 > - **Cave:** 
 > 	- [[Physiologisch schwieriger Atemweg]]
-> 	- [[Hyperkaliämie|Kalium falsch-hoch]] (+0.5 mM je -0.1 pH)
+> 	- [[HyperK+|Kalium falsch-hoch]] (+0.5 mM je -0.1 pH)
 > - **Top Ursachen (KULT):**
 > 	- Ketoazidose ([[DKA]], [[Alkohol]], katabol)
 > 	- Urämie
 > 	- [[Lactatazidose]]
-> 	- [[Intoxikation|Tox]]
+> 	- [[Intox|Tox]]
 > - **Weitere Ursachen:**
 > 	- D-Lactat (Kurzdarmsyndrom, gemessenes Lactat nw), Methanol
 > 	- Metformin ([[Lactatazidose]])

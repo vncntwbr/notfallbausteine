@@ -2,6 +2,9 @@
 tags:
   - status/started
   - sy/labor
+title: Hypokaliämie (K+↓)
+aliases:
+  - Hypokaliämie
 ---
 > [!danger] Reanimation / Peri-Arrest
 > 1. **Kaliumchlorid** 20 mmol (20 ml 7.45%) als KI über 10 min i.v. unter Monitoring

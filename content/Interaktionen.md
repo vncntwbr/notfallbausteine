@@ -11,7 +11,7 @@ tags:
 - PipTaz → MTX-Elimination↓, Akkumulation insb. high-dose onkolog. Dosen[^2]
 - Ciprofloxacin → Theophyllin↑[^3]
 - Clarithromycin → CYP3A4-Inhib., u.a. Calciumantagonisten, Statine, pot. fatal mit Colchicin in AKI[^4]
-- Cotrimoxazol + RAAS-Inhibitoren → fatale Hyperkaliämie[^5]
+- Cotrimoxazol + RAAS-Inhibitoren → fatale [[HyperK+]][^5]
 - Carbapeneme → Valproat↓ 80% 
 
 [^1]: Veenhof, H., Schouw, H.M., Besouw, M.T.P. _et al._ Flucloxacillin decreases tacrolimus blood trough levels: a single-center retrospective cohort study. _Eur J Clin Pharmacol_ **76**, 1667–1673 (2020). https://doi.org/10.1007/s00228-020-02968-z

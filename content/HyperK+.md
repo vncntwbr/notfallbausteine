@@ -2,6 +2,9 @@
 tags:
   - status/started
   - sy/labor
+title: Hyperkaliämie (K+↑)
+aliases:
+  - Hyperkaliämie
 ---
 > [!danger] Rapid Reference
 > 1. **[[BGA]]-Kontrolle** (Pseudo?), Monitoring

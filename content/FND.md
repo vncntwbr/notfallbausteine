@@ -4,7 +4,7 @@ tags:
   - status/empty
 title: Fokalneurologisches Defizit (FND)
 ---
-- K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aortensyndrom]]
+- K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aorta]]
 - **[[Anamnese|A]]**
 	- *S:* Zeitlicher Verlauf ("last seen well")
 	- *M:* [[Antikoagulation]], insb. letzte Einnahme

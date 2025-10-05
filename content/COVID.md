@@ -2,6 +2,11 @@
 tags:
   - fach/infektiologie
   - status/started
+title: COVID-19 / "Corona"
+aliases:
+  - COVID-19
+  - Corona
+  - SARS-CoV-2
 ---
 > [!note]+ Textbaustein
 > ```

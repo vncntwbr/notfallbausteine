@@ -2,6 +2,9 @@
 tags:
   - basics
   - status/started
+title: Immunsuppression
+aliases:
+  - Immunsuppression
 ---
 
 - V.a. akute respiratorische Infektion immer [[CT]][^1]

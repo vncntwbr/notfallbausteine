@@ -15,6 +15,6 @@ tags:
 > 	- Progesteron ([[Schwanger]], Leberzirrhose)
 > 	- Medikamente (z.B. Salicylate, Theophyllin, Koffein, Nikotin)
 > 	- Gram-negative Sepsis
-> 	- Hepatische Enzephalopathie
+> 	- [[HE]]
 > 	- Hyperthyreose
 > 	- Hirnstammschädigung

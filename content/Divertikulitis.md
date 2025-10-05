@@ -15,7 +15,7 @@ tags:
 > 	- **2c:** frei perforiert, Peritonitis (→OP)
 
 > [!workup]+
-> - 🚩 Immunsuppression, AZ↓, IFP
+> - 🚩 [[Immunsupp.]], AZ↓, IFP
 > - 
 > - **E:** Prävalenz Divertikulose 60% Ü70
 > - **Ä:** Rotes Fleisch, Rauchen, Adipositas, Motilität↓, Med

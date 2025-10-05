@@ -7,12 +7,12 @@ title: Tumorlyse-Syndrom (TLS)
 > [!danger] Rapid Reference
 > 1. **VEL** (Cave [[Volumenstatus]]), Ziel-Diurese 200 ml/h, ggf. + Furosemid, Blasenkatheter
 > 2. **Rasburicase** 0.2 mg/kg i.v.
-> 3. **[[Hyperkaliämie]]-Therapie**
+> 3. **[[HyperK+]]-Therapie**
 > 4. **[[Dialyse]]** großzügig
 
 > [!stadien] Cairo-Bishop-Kriterien
 > - **Harnsäure** >8 mg/dl oder +25%
-> - **[[Hyperkaliämie|Kalium]]** >6.0 mmol/l oder +25%
+> - **[[HyperK+|Kalium]]** >6.0 mmol/l oder +25%
 > - **Phosphat** >1.45 mmol/l oder +25%
 > - **[[Hypocalcämie|Calcium]]** <1.75 mmol/l oder –25% (in [[BGA]])
 

@@ -72,7 +72,7 @@ title: Elektrokardiogramm (EKG)
 	- WPW
 	- Intraventr. conduction delay (Block, abberant, Pacemaker)
 	- Drugs (I-Antiarrhy., Tricyclica)
-	- [[Elektrolyte]] ([[Hyperkaliämie]])
+	- [[Elektrolyte]] ([[HyperK+]])
 	- Raised STE
 
 [^2]

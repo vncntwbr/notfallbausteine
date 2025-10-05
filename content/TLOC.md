@@ -9,7 +9,7 @@ title: Transient Loss of Consciousness (TLOC)
 		- *Kardiogene Synkope*
 			- Arrhythmogen (HRST)
 			- Strukturell (Aortenklappenstenose, HOCM, Myxom u.a.)
-			- Extrakardial (z.B. LAE, Aortensyndrom, pHTN, Sepsis)
+			- Extrakardial (z.B. LAE, [[Aorta]], pHTN, Sepsis)
 		- *Reflexsynkope*
 			- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
 			- Situativ (z.B. Miktion, [[Husten]], nach Belastung)

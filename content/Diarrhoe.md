@@ -54,5 +54,5 @@ title: Diarrhoe / Durchfall
 > 	- *Schwere bakterielle Infektion (>38.5°C, blutig, voluminös, >6x/d, >7d):* Salmonellen, Shigellen, Campylobacter, E. coli, Yersinien, Vibrionen/Cholera, C. diff. → Stuhldiagnostik, ggf. ABx, bei V.a. C. diff. Vancomycin 125 mg p.o. (nicht i.v.)
 > 	- *Reise-assoziiert:* 80% bakteriell, anhaltend oft Protozoen → ABx, z.B. Rifaximin
 > 	- *ABx-assoziiert / hospitalisiert:* C. diff. → Stuhldiagnostik, Vancomycin 125 mg p.o. (nicht i.v.)
-> 	- *Immunsuppression:* RS Infektio
+> 	- *[[Immunsupp.]]:* RS Infektio
 > 	- *Checkpoint-Inhibitor:* nicht infektiös, RS Häma/Onko, i.d.R. Prednisolon

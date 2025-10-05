@@ -9,7 +9,7 @@ title: Brustschmerz / Thoraxschmerz
 > [!danger]+ Killer-DD bei Kritisch Kranken mit Brustschmerz
 > - **[[ACS]]** ([[Ischämie-EKG]], [[TTE]] WBS)
 > - **[[LAE]]** ([[POCUS]] [[RHB]], TVT)
-> - **[[Aortensyndrom]]** ([[POCUS]] [[Perikarderguss]], Aorta >5cm, Diss.-Membran)
+> - **[[Aorta]]** ([[POCUS]] [[Perikarderguss]], Aorta >5cm, Diss.-Membran)
 > - **[[Pneu]]** ([[LUS]] Pleuragleiten)
 > - **[[Ösophagusruptur]]** ([[Anamnese|A]]: Erbrechen)
 
@@ -17,7 +17,7 @@ title: Brustschmerz / Thoraxschmerz
 > - **Kardiovaskulär:**
 > 	- [[ACS]]
 > 	- [[LAE]]
-> 	- [[Aortensyndrom]]
+> 	- [[Aorta]]
 > 	- [[Aortenklappenstenose]]
 > 	- [[Perikarderguss]]/-tamponade
 > 	- [[Perimyokarditis]]

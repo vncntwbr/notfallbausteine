@@ -2,6 +2,8 @@
 tags:
   - interventionen
   - status/started
+aliases:
+  - Airwaymanagement
 ---
 
 - iGEL > King LT (Mortalität)[^1]

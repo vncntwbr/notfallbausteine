@@ -3,6 +3,9 @@ tags:
   - status/done
   - fach/nephrologie
   - sy/labor
+aliases:
+  - Hyponatriämie
+title: Hyponatriämie (Na+↓)
 ---
 
 > [!danger]+ Nachweislich akut oder schwere Symptome ([[Krampfanfall]], [[Vigilanzminderung]])

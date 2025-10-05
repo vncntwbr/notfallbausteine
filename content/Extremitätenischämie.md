@@ -5,7 +5,7 @@ tags:
   - status/done
 ---
 > [!dd] DD
-> - [[Aortensyndrom]]
+> - [[Aorta]]
 > - Thromboembolie? Septische Embolien?
 
 > [!stadien] Stadien nach Rutherford
