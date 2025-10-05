@@ -7,4 +7,4 @@ tags:
 - [[Pleurapunktion]]
 - [[Aszitespunktion]]
 - [[LP]]
-- [[Gefäßzugänge]]: [[Arterie IBP]], [[ZVK]]
+- [[Gefäßzugänge]]: [[Arterie]], [[ZVK]]

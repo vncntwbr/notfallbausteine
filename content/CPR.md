@@ -25,8 +25,8 @@ title: Reanimation / Arrest (CPR)
 > - **E:** [[Hyperthermie]] (kühlen, NaCl 3%)? [[Hypothermie]] (<30° Ø Epi, <35° q8min)?
 
 > [!management] CPR-Quali optimieren!
-> - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie IBP]]), Puls unter CPR
-> - Druckpunkt? Ermüdung? ggf. Magensonde, Arterie li.
+> - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie]]), Puls unter CPR
+> - Druckpunkt? Ermüdung? ggf. Magensonde, [[Arterie]] li.
 > - **CPRIC:** esKETAmin 0.5 mg/kg
 
 > [!management] Siehe [[ROSC]]

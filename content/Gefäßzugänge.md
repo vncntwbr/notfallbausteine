@@ -3,11 +3,11 @@ tags:
   - interventionen
   - status/started
 ---
-- [[Arterie IBP]]
+- [[Arterie]]
 - [[ZVK]]
 - [[i.o.]]
 - [[Port]]
 ---
-![[Arterie IBP#^76aae9]]
+![[Arterie#^76aae9]]
 ![[ZVK#^56fae3]]
 ![[i.o.#^dc23ba]]

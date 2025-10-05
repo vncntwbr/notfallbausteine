@@ -17,7 +17,7 @@ aliases:
 > 4. **[[MgSO4]]** 2g als KI i.v.
 > 5. **[[POCUS]]:** [[Pneu]]/Sekretverlegung Hauptbronchus?
 > 6. **Erwäge [[NIV]]**[^5], low PEEP, AF ≤10/min, I:E 1:3, ggf. Dissoziation mit [[esKETAmin]]
-> 7. **[[Arterie IBP]]**
+> 7. **[[Arterie]]**
 > 8. **ggf. "Auspressen"** des Thorax manuell bei Überblähung
 > 9. **ggf. Terbutalin** (Bricanyl®) 0.25-0.5 mg s.c.
 > 10. **[[RSI]]:** Restriktive Indikation ([[Palliativsituation]]?), [[Physiologisch schwieriger Atemweg]]

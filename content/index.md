@@ -1,8 +1,10 @@
 ---
 title: Home
+aliases:
+  - Home
 ---
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
-- **Interventionen** [[Arterie IBP]] [[Blutungsmanagement]] [[HALO]] [[eKV]] [[Perfusor]] [[Punktionen]] [[ZVK]]
+- **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[HALO]] [[eKV]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**
 	- #sy/allgemein [[CPR]] [[Schock]] [[Sepsis]] [[Synkope]] [[Delir]] [[Hypertonie]] [[Hyperthermie]] [[Intox]] [[Anaphylaxie]] [[Palliativsituation]] [[Seltene Erkrankungen]] [[Kindernotfall]]
 	- #sy/labor [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie]] [[HypoNa+]] [[Neutropenie]]
@@ -21,5 +23,3 @@ title: Home
 
 ---
 [[How To QRH]]
-
-Lizensiert unter [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/): Nutzung für nicht-kommerzielle Zwecke unter Nennung der Originalquelle
