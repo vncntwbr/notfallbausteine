@@ -56,7 +56,7 @@ aliases:
 > 	- *Unprovoziert ohne H.a. Epilepsie:* PKW 6 Mo, LKW/Bus 2 Jahre
 > 	- *Epilepsie:* i.d.R. keine Fahreignung, ggf. PKW nach 1 Jahr Anfallsfreiheit
 
-> [!note]- Textbaustein
+> [!note]- Textbaustein Bekannte Epilepsie Ambulant
 > ```
 > Zusammenfassend bilateral tonisch-klonischer Anfall bei bekannter Epilepsie. 
 > Kein fokal-neurologisches Defizit, beobachteter Anfall ohne Kopftrauma, somit keine Indikation für Notfall-cCT. Laborchemisch kein H.a. Elektrolytentgleisung oder Infekt, im Verlauf regrediente Lactatämie und erhöhte CK, passend zum Z.n. epileptischen Anfall. Ätiologisch einzuordnen a.e. bei ###TRIGGER?.

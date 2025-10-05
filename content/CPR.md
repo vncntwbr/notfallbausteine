@@ -6,7 +6,9 @@ tags:
   - druck
 aliases:
   - Reanimation
-title: Reanimation (CPR)
+  - Herz-Kreislauf-Stillstand
+  - Arrest
+title: Reanimation / Arrest (CPR)
 ---
 > [!danger] Erstmaßnahmen
 > 1. **KOLLAPS** Zeit? Beobachtet? CPR? AED? No-Flow?
