@@ -5,8 +5,8 @@ tags:
 ---
 > [!management] Thorax Bildgebung
 > - **Primär CT Thorax Low-Dose:**[^1]
-> 	- V.a. Atypische Pneumonie
-> 	- [[COVID]]/Influenza Pneumonie
+> 	- V.a. Atypische [[Pneumonie]]
+> 	- [[COVID]]/Influenza [[Pneumonie]]
 > 	- [[Immunsupp.]]
 > 	- Kritisch Kranke, [[Sepsis]], sCAP
 > 	- DD [[LAE]] (CTPA)
@@ -24,4 +24,4 @@ tags:
 
 > 
 
-[^1]: Bei ~30% der Pat. mit Infiltrat im Röntgen konnte die Pneumonie im CT ausgeschlossen werden; ~35% der Pat. mit negativem Röntgen hatten pneumonisches Infiltrat im CT [Quelle](https://pubmed.ncbi.nlm.nih.gov/26168322/)
+[^1]: Bei ~30% der Pat. mit Infiltrat im Röntgen konnte die [[Pneumonie]] im CT ausgeschlossen werden; ~35% der Pat. mit negativem Röntgen hatten pneumonisches Infiltrat im CT [Quelle](https://pubmed.ncbi.nlm.nih.gov/26168322/)

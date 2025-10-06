@@ -20,7 +20,7 @@ title: Influenza A/B / Grippe
 > [!workup]+
 > - **[[Untersuchung|U]]:** VP (validierte AF)? Fokus H.a. bakterielle Superinfektion, respiratorische Insuffizienz, Herzinsuffizienz, Orientierung, Gang-/Standsicherheit?
 > - **[[EKG]]:** HRST? H.a. Myokarditis? QTc?
-> - **[[Labor]]:** Profil "Pneumonie", bei älteren Pat. "Sepsis" + [[Blutkulturen]], [[BGA]]
+> - **[[Labor]]:** Profil "[[Pneumonie]]", bei älteren Pat. "Sepsis" + [[Blutkulturen]], [[BGA]]
 > - **Abstrich:** PCR (Influenza A/B ± SARS-CoV-2, RSV)
 > - **[[Radiologie]]:** ggf. CT-Thorax lowdose nativ bei V.a. bakt. Superinfektion oder resp. Insuffizienz (kein Routine-Röntgen)
 

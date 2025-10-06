@@ -3,6 +3,9 @@ tags:
   - sy/allgemein
   - basics
   - status/started
+aliases:
+  - Transplantation
+title: Transplantation (Tx)
 ---
 
 > [!danger]+ Rapid Reference

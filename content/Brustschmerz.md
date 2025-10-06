@@ -52,7 +52,7 @@ title: Brustschmerz / Thoraxschmerz
 > 1. **[[Untersuchung|U]]:** 
 > 	- VP (insb. AF, HF)? 
 > 	- Herzgeräusch? Stauung? 
-> 	- Auskultation (Pneumonie, Pneu, Pleuritis)? 
+> 	- Auskultation ([[Pneumonie]], Pneu, Pleuritis)? 
 > 	- Abdomen (Oberbauch)? 
 > 	- Beine (Ödeme, [[TVT]])? 
 > 	- Haut (Perfusion)? U45: Marfanoider Habitus?

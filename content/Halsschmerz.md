@@ -12,7 +12,7 @@ title: Halsschmerz & Nackenschmerz
 > 4. **Vigilanz↓/Erschöpfung:** [[RSI]] in [[eFONA]]-Bereitschaft
 > 5. **Kinder:** keine enorale Manipulation, kein Spatel, kein Endoskop
 
-- R **Red Flags (nur dann Labor)[^4]** V.a. Scharlach[^1], V.a. EBV, V.a. Infekt mit sonst. Fokus (Pneumonie, Otitis, Sinusitis), Immunsupp., schwere Komorbidität, Risiko Rheumatisches Fieber[^2], Risiko Agranulozytose[^3]
+- R **Red Flags (nur dann Labor)[^4]** V.a. Scharlach[^1], V.a. EBV, V.a. Infekt mit sonst. Fokus ([[Pneumonie]], Otitis, Sinusitis), Immunsupp., schwere Komorbidität, Risiko Rheumatisches Fieber[^2], Risiko Agranulozytose[^3]
 - **DD**
 	- [[Tonsillopharyngitis]]
 	- *Peritonsillarabszess:* 

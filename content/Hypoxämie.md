@@ -8,7 +8,7 @@ tags:
 > - Hypoxämie = PaO2↓ / Hypoxie = O2↓ im Gewebe
 
 > [!DD]+ DD
-> 1. **Shunt:** "Crap in Alveoli", z.B. Pneumonie, Lungenödem, Atelektasen, Hämoptysen
+> 1. **Shunt:** "Crap in Alveoli", z.B. [[Pneumonie]], Lungenödem, Atelektasen, Hämoptysen
 > 2. **V/Q-Mismatch (Totraum):** [[LAE]], Emphysem, pHTN, sonst. [[Schock]], exzess. PEEP
 > 3. **Diffusionsdefekt:** Lungenfibrose
 > 4. **Hypopnoe/Apnoe**
