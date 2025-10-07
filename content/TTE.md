@@ -13,7 +13,13 @@ title: Transthorakale Echokardiografie (TTE)
 > 5. **PSAX** 
 > 6. **Pleura bds.**
 
-> [!note]+ Textbaustein POCUS TTE
+> [!note]+ Textbaustein TTE kompakt
+> ```
+> Fokussierte TTE/POCUS (Weber): Kein Perikarderguss, kein H.a. RHB, kein H.a. regionale WBS, EF orientierend eher normodynam. Keine Pleuraergüsse. IVC ca. ## mm, <50% atemmoduliert.
+
+^1fb4f0
+
+> [!note]+ Textbaustein TTE ausführlich
 > ```
 > Fokussierte TTE/POCUS (Weber):
 > - LV: Keine Hypertrophie. EF orientierend normodynam (EPSS ### mm, entspricht geschätzter LVEF ##%). Keine höhergradigen regionalen WBS. Ak trikuspid, kein Vitium. Mk leichtgradige MI. 

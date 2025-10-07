@@ -21,5 +21,5 @@ title: Transkranieller Doppler (TCD)
 	- *Zirkulationsstillstand:* s. Abb. 2, Diastole↓ weil < ICP, später diastolischer Rückfluss
 - Sensitivität 80% (MCA: 90-98%) vs. Angiographie
 ---
-![[Pasted image 20250813210844.png]]
+![[Pasted image 20250813210844.jpeg]]
 ![[Pasted image 20250813212658.png]]

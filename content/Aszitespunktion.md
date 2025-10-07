@@ -5,14 +5,14 @@ tags:
   - status/done
 ---
 > [!danger] Indikation
-> - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, ACLV, AKI oder [[HE]])
+> - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, Leberversagen, [[AKI]] oder V.a. [[HE]])
 > - **Therapeutisch** (Schmerzen, Spannung, [[Dyspnoe]], hepatorenales Syndrom)
 
 > [!management] Durchführung
 > - **Punktion** mit 18G grünem PVK
 > - **Albumin** 6-8 g/L ab 5 L
 
-> [!workup] Aszitespunktat
+> [!workup] Aszitespunktat Diagnostik
 > - **Visuell:** trüb/eitrig (V.a. [[SBP]]), blutig (Malignität, Trauma, iatrogen durch Punktion)
 > - **Bedside:** [[U-Status]] auf Leukozyten
 > - **Labordiagnostik:** Zellzahl+Diff, Albumin, Protein, LDH, Glucose, Cholesterin
@@ -22,7 +22,7 @@ tags:
 
 > [!note]+ Textbaustein Aszitespunktion
 > ```
-> Bei Notfallindikation ### / zum Ausschluss SBP erfolgte die komplikationslose sonografiegesteuerte diagnostische Aszitespunktion ##rechter/linker## Unterbauch. Insgesamt ## ml makroskopisch ##klarer## Aszites drainiert, BK, Zellzahl, klinische Chemie und ##ad Pathologie## verschickt, Bedside-Stix Leukozyten neg. 
+> Bei Notfallindikation ### / zum Ausschluss SBP erfolgte die komplikationslose sonografiegesteuerte diagnostische Aszitespunktion ##rechter/linker## Unterbauch. Insgesamt ## L makroskopisch ##klarer## Aszites drainiert, BK, Zellzahl, klinische Chemie und ##ad Pathologie## verschickt, Bedside-Stix Leukozyten neg. 
 > ```
 
 [^1]: "Eingriff in instabiles Kartenhaus der Leberzirrhose"

@@ -2,7 +2,7 @@
 tags:
   - sy
   - status/started
-title: Myokardischämie im EKG (STEMI/OMI)
+title: Ischämie-EKG
 ---
 - *Klassischer STEMI:* STE ≥1 mm in ≥2 benachbarten Abltg., außer:
 	- V2-V3 M <40 J. ≥2.5 mm, M ≥40 J. ≥2 mm, W ≥1.5 mm

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Notfall QRH & Bausteine Home
 aliases:
   - Home
 ---
@@ -15,11 +15,12 @@ aliases:
 - **Häufige Probleme** [[Anämie]] [[AKI]] [[Bauchschmerz]] [[Brustschmerz]] [[Delir]] [[Diarrhoe]] [[Dyspnoe]] [[Epistaxis]] [[GI-Blutung]] [[Hyperglykämie]] [[HyperCa2+]] [[HyperK+]] [[Hypernatriämie]] [[Hypertonie]] [[HypoK+]] [[HypoNa+]] [[Ikterus]] [[Intox]] [[Kopfschmerz]] [[Krampfanfall]] [[Palliativsituation]] [[Rückenschmerz]] [[Schwindel]] [[Sepsis]] [[Stroke]]
 - **Häufige Diagnosen** [[ACS]] [[Anaphylaxie]] [[Aorta]] [[Asthma]] [[COPD]] [[COVID]], [[DKA]], [[Divertikulitis]] [[Facialisparese]] [[Gastritis]] [[Gastroenteritis]] [[Grippaler Infekt]] [[Harnverhalt]] [[HWI]] [[Intrakranielle Blutung]] [[LAE]] [[Lungenödem]] [[Meningitis]] [[Pankreatitis]] [[Pneumonie]] [[Sepsis]] [[SHT]] [[STI]] [[Stroke]] [[TVT]] [[Urolithiasis]] [[Urtikaria]] [[VHF]] [[Zoster]]
 ## Häufige Textbausteine
+![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
 ![[POCUS#^aa3283]]
-![[TTE#^88177b]]
+![[TTE#^1fb4f0]]
 
 ---
 [[How To QRH]]
