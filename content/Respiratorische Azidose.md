@@ -6,7 +6,7 @@ tags:
   - fach/labor
   - status/done
 ---
-> [!dd]+ DD
+> [!dd]+ DD (siehe auch [[Dyspnoe]])
 > - **Neurologisch:** 
 > 	- *ZNS:* z.B. [[Stroke]], Meningitis, Drogen, ALS
 > 	- *PNS:* z.B. Phrenicus-Läsion, CIP/CIM, Guillain-Barré-Syndrom, Mysthenie, Botulismus

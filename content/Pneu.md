@@ -13,7 +13,7 @@ title: Pneumothorax
 > 3. **[[TDx]]** unter [[Analgesie]]/[[Analgosedierung]]
 
 > [!anamnese]
-> - **S:** Schmerzen? (Belastungs-)Dyspnoe?
+> - **S:** Schmerzen? (Belastungs-)[[Dyspnoe]]?
 > - **A:** Lokalanästhetika?
 > - **M:** [[Antikoagulation]]?
 > - **P:** Jemals Pneu? Lungenerkrankung? Malignom? Z.n. Pleurodese?

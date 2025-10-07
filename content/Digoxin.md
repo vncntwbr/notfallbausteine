@@ -5,7 +5,6 @@ tags:
   - fach/kardiologie
 aliases:
   - Digitoxin
-  - Herzglykoside
 ---
 - **KI:** Bradykardie, [[VT]], avisierte Rhythmuskontrolle/[[eKV]], [[AKI]], [[HypoK+]], [[HypoMg2+]], [[HyperCa2+]], Thyreotoxikose
 - **I:** HF-Senkung bei chron. persist. VHF, ideal HFrEF (pos. Inotropie) + [[Tachykardie]] mild-moderat + GFR opB

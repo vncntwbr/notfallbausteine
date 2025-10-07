@@ -17,7 +17,7 @@ tags:
 > - **Selten:** 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? Cortison? [P] HTN? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
+> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? Cortison? [P] [[Hypertonie|HTN]]? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
 > - **[[Untersuchung|U]]:** ± nasales Spekulum (Blutungsquelle? 90% Locus Kieselbachii)
 > - **[[EKG]]:**
 > - **[[POCUS]]:**
@@ -25,7 +25,7 @@ tags:
 > - **Red Flags:**
 
 > [!management]+
-> - HTN ≠ wirkliche Ursache, nicht wild senken[^3]
+> - [[Hypertonie|HTN]] ≠ wirkliche Ursache, nicht wild senken[^3]
 > - **Disposition:** 
 
 > [!note]+ Textbaustein Epistaxis Ambulant

@@ -11,7 +11,7 @@ aliases:
 > 3. **Sekundärtrauma** (z.B. Sturz von Leiter)
 
 > [!anamnese]+ Anamnese
-> - **S:** AP? Palpitationen? Schmerzen/OPQRST+? Dyspnoe? [[Verbrennung]]/Trauma? TLOC? 
+> - **S:** AP? Palpitationen? Schmerzen/OPQRST+? [[Dyspnoe]]? [[Verbrennung]]/Trauma? TLOC? 
 > - **P:** Herz (insb. Schrittmacher/ICD)? [[Schwanger]]?
 > - **E:** Stromquelle Niederspannung / Hochspannung (>1000 Volt)? "Festkleben" an Stromquelle? Stromfluss durch Thorax?
 

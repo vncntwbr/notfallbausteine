@@ -6,7 +6,7 @@ tags:
 ---
 > [!danger] Indikation
 > - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, ACLV, AKI oder [[HE]])
-> - **Therapeutisch** (Schmerzen, Spannung, Dyspnoe, hepatorenales Syndrom)
+> - **Therapeutisch** (Schmerzen, Spannung, [[Dyspnoe]], hepatorenales Syndrom)
 
 > [!management] Durchführung
 > - **Punktion** mit 18G grünem PVK

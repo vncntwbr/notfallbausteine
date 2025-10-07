@@ -11,13 +11,19 @@ aliases:
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
 > - **Osteoporotische Fraktur** → bei Osteoporose großzügig Rö
 
+> [!anamnese]+
+> - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? Fieber? B-Symptomatik? 
+> - **A:** NSAR?
+> - **M:** Cortison? [[Immunsupp.]]? [[Antikoagulation]]? 
+> - **P:** Tumor? Osteoporose? Diabetes (=Immunsuppr.)?
+> - **L:** Stuhlgang/Urin Störung? 
+> - **E:** Trauma?
+> - **R:** Infiltrationen/Spritzen?
+
 > [!workup]+ Basis Workup
-> - **[[Anamnese|A]]:** [S] OPQRST+? besser im Liegen? reißend/wandernd (Aorta)? Sensibilität? Paresen? Fieber? B-Sympt.? [A] NSAR? [M] Cortison? Immunsupp.? AK? [P] Tumor? Osteoporose? Diabetes (Immun)? [L] Stuhlgang/Urin Störung? [E] Trauma? [R] Infiltrationen/Spritzen?
-> - **[[Untersuchung|U]]:** 
-> 	- VP inkl. Temp.
-> 	- *Rücken:* WS-Klopfschmerz, Beweglichkeit
+> - **[[Untersuchung|U]]:** VP (insb. Temp.)? Rücken (WS-Klopfschmerz, Beweglichkeit)? 
 > 	- *Beine:* Kraftgrade, Lasègue (einschießend bei Flexion Bein >45°)
-> 	- *Neuro:* Zehengang (S1), Hackengang (L4-5), Romberg, Sensibilität Beine+Perineum, Reflexe (PSR, ASR), radikulär?
+> 	- *Neuro:* Zehengang (S1)? Hackengang (L4-5)? Romberg? Sensibilität Beine+Perineum? Reflexe (PSR, ASR)? Radikulär?
 > - **Red Flags**
 > 	- *Fx/Mets:* Trauma, Osteoporose, Cortison, KS über WS, Krebs, B-Sympt.
 > 	- *Radikulopathie:* Ausstrahlend (L4-S1), Reithosen, Extr.-Schwäche, Inkontinenz/Harnverhalt

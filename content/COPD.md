@@ -26,7 +26,7 @@ aliases:
 > [!dd] DD Exazerbationsursachen: [[Herzinsuffizienz]], [[LAE]], [[Pneu]]
 
 > [!anamnese]+
-> - **S:** Dyspnoe? Giemen? Husten? Thorakale Enge (≠AP)? Nächtliche Dyspnoe? Sputum (Farbe/Menge)? Infektsymptome? Schmerzen? Allergische Symptome (Juckreiz, Konjunktivitits, Urtikaria, Globusgefühl, Kreislauf- oder GI-Symptome?) Onset? Zeitlicher Verlauf? Mehr als 2x/Woche tagsüber Sympt? Nächtliches Erwachen? Aktivität eingeschränkt?
+> - **S:** [[Dyspnoe]]? Giemen? Husten? Thorakale Enge (≠AP)? Nächtliche [[Dyspnoe]]? Sputum (Farbe/Menge)? Infektsymptome? Schmerzen? Allergische Symptome (Juckreiz, Konjunktivitits, Urtikaria, Globusgefühl, Kreislauf- oder GI-Symptome?) Onset? Zeitlicher Verlauf? Mehr als 2x/Woche tagsüber Sympt? Nächtliches Erwachen? Aktivität eingeschränkt?
 > - **A:** DD Anaphylaxie denkbar? ABx?
 > - **M:** Häufigkeit Bedarfsmedikation-Gebrauch? Adhärenz/Zuverlässigkeit Dauermedikation und Inhalatoren-Handhabung?
 > - **P:** COPD-Stadium? LTOT (l/min, Nutzung)? Bronchiektasen?[^7] Ventile? Amb. Pneumologe? Herzinsuffizienz?
@@ -78,7 +78,7 @@ aliases:
 > 	- Cave: Vor-ABx und MiBi-Befunde? HAP? Pseudomonas-Risiko bei (E)?
 
 > [!disposition]+
-> - **Stationär:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥1 Pkt., Dyspnoe unzureichend gebessert, relevante Infektion, stark red. AZ, unzureichende häusliche Versorgung, dekompensierte Begleiterkrankung (Ödeme, TAA bei [[VHF]], ...)
+> - **Stationär:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥1 Pkt., [[Dyspnoe]] unzureichend gebessert, relevante Infektion, stark red. AZ, unzureichende häusliche Versorgung, dekompensierte Begleiterkrankung (Ödeme, TAA bei [[VHF]], ...)
 > - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanzminderung]], [[Hypoxämie]] (PaO2 <40 mmHg), anhaltend/progredient [[Respiratorische Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
 
 > [!note]- Textbaustein aeCOPD Ambulant

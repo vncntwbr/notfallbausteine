@@ -18,7 +18,7 @@ aliases:
 > - *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] Dyspnoe? AP? Synkope? Urin? Stuhl? Hämoptysen? Epistaxis? Menorrhoe? B-Sympt.? [A] Transfusion? [M] AK/TAH? NSAR? Cortison? CTX? Myelotox.? [P] CKD? Onko? GI? Herzklappen? Aorta? Z.n. OP? [L] Menstruation? Stuhl? [E] Trauma? Infekt? [R] Alkohol? Reisen? Familie?
+> - **[[Anamnese|A]]:** [S] [[Dyspnoe]]? AP? Synkope? Urin? Stuhl? Hämoptysen? Epistaxis? Menorrhoe? B-Sympt.? [A] Transfusion? [M] AK/TAH? NSAR? Cortison? CTX? Myelotox.? [P] CKD? Onko? GI? Herzklappen? Aorta? Z.n. OP? [L] Menstruation? Stuhl? [E] Trauma? Infekt? [R] Alkohol? Reisen? Familie?
 > - **[[Untersuchung|U]]:** Ikterus? Blutungsstigmata? Konjunktiven? DRU? Splenomegalie?
 > 	- *Anämische Hypoxie?* Euvolämie + AF↑, HF↑, [[RR]]↓, EKG Ischämie, Laktat
 > - **[[EKG]]:** Ischämie? HRST?

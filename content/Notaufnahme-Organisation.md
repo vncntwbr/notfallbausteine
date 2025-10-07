@@ -5,7 +5,7 @@ tags:
 ---
 
 - Verzögerung stationäre Aufnahme >5h hat NNH=82 für 30d-Mortalität[^1]
-- *CHARITEM:* 66% "none of these symptoms", KH-Mortalität 1% [[Brustschmerz]] 5% Bauchschmerz 10% Dyspnoe[^2]
+- *CHARITEM:* 66% "none of these symptoms", KH-Mortalität 1% [[Brustschmerz]] 5% Bauchschmerz 10% [[Dyspnoe]][^2]
 - Ärzte können selbst nur schlecht identifizieren wer "inappropriate" in ZNA ist[^3]
 - 50% von diagnostic tests low-value, compounden access-block[^4]
 

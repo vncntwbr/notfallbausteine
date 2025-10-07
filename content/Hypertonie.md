@@ -1,42 +1,70 @@
 ---
 tags:
   - sy/allgemein
-  - status/started
----
-- K **Killer:** [[Aorta]], [[ACS]], [[Lungenödem]], PRES, [[ICB]], [[(Prä-)Eklampsie]]
-- **W/Ä Akut:** VP, [[EKG]], W β-HCG, ggf. [[U-Status]] (AKI?), Ophthalmoskopie (bei Sehstörung), [[POCUS]] (Harnverhalt?)
-	- R *Endorganschäden?* 
-		- [[ACS]]
-		- [[Aorta]]
-		- [[Herzinsuffizienz]]
-		- Präeklampsie bei [[Schwanger]]
-		- [[ICB]]/[[SAB]]
-		- PRES
-		- Maligne Hypertonie (Visusminderung + AKI + RRsys >200)
-	- *Weitere Ursachen:* Schmerzen, Stress/"Weißkittel", Fehlmessung, Intox (Amphetamine, Kokain), [[Alkohol]]-Entzug, hyperaktives [[Delir]], [[Harnverhalt]], [[AKI]] (z.B. Glomerulonephritis, nephrotisches Syndrom), Hyperaldosteronismus
-
-> [!management]
-> - **Akut**
-> 	- Schmerzen? Stress/Angst? Harnverhalt? etc. adressieren
-> 	- Beruhigen, 30 min entspannen lassen, keine wdh. [[RR]]-Messung, Aufklärung
-> 	- Extra Dosis antihypertensive Hausmedikation p.o.
-> - **Langzeit** Ziel-[[RR]] <140/90 in 3 Mo, LZ <130/80[^3]
-> 	- Alkohol↓, Rauchen↓, Salz↓, Ernährung, Aktivität, [[NSAR]]>
-> 	- *Med Initial*
-> 		- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)
-> 		- *+* Thiazid (Chlortalidon 12.5-25 mg/d) oder Calciumantagonist (Amlodipin 5-10 mg/d)
-> 		- [[Betablocker]] (Bisoprolol[^2] 2.5-5 mg 1-0-1) nur bei KHK/[[Herzinsuffizienz]]/[[VHF]]
-> 	- *Med Eskalation* (Cave: Sekundäre Hypertonie?)
-> 		1. 3er-Komibination (ACEi/AT1RB + Thiazid + Calciumantagonist)
-> 		2. +Aldosteronantagonist (Spironolacton 25 mg/d)
-> 		3. Alternativen:
-
+  - status/done
+title: Hypertensive Entgleisung / Arterielle Hypertonie
+aliases:
+  - HTN
 ---
 
+> [!dd]+ DD
+> - **Kritische Endorganschäden (= hypertensiver Notfall):**
+> 	- [[ACS]]
+> 	- [[Aorta]]
+> 	- [[Herzinsuffizienz]]
+> 	- [[(Prä-)Eklampsie]] (ab RR >170/110)
+> 	- [[Hirndruck]] bzw. [[Intrakranielle Blutung]] (insb. [[SAB]])
+> 	- PRES
+> 	- Maligne Hypertonie (Visusminderung + [[AKI]] + RR >200/120)
+> - **Häufig:** Schmerzen ([[Analgesie]]), Stress (Beruhigung), Fehlmessung
+> - **Weiteres:** [[Intox]], [[Entzug]], [[Harnverhalt]], [[Delir]], [[AKI]], Hyperaldosteronismus
+
+> [!anamnese]+ Anamnese
+> - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? TLOC? [[Ü+E]] (nüchtern)?
+> 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Bradykardie]] (Cushing-Reflex)
+> - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → AKI)?
+> - **P:** aHTN (RR-Einstellung)? [[Aorta]] (OP)? KHK? Vitien? [[Schwanger]]/Wochenbett?
+> - **L:** Miktion (reduziert, Farbe, H.a. [[AKI]])? 
+> - **E:** [[SHT]]?
+> - **R:** CVRF? Alkohol/Drogen, [[Entzug]]?
+
+> [!workup]+
+> 1. Bei asympt./oligosympt. (z.B. leichter [[Kopfschmerz]], Unruhe, [[Epistaxis]]) Hypertonie nur A+U und [[EKG]], weitere Diagnostik nur bei Auffälligkeiten
+> - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
+> - **[[EKG]]**
+> - ggf. [[POCUS]] (Harnverhalt?)
+> - **[[Urin]]:** ggf. [[U-Status]] (V.a. AKI / Maligne HTN), [W] β-HCG 
+
+> [!management]+ Akutes Management
+> 1. **Nur bei H.a. Endorganschäden:** spezifische Therapie, ggf. RR-Senkung z.B. Urapidil 5-mg-weise i.v., max -20%
+> 	- Vordere [[Epistaxis]] ist nicht RR-verursacht + gut durch Kompression therapierbar
+> 2. **Auslöser:** [[Analgesie|Schmerzen]], Stress/Angst, [[Harnverhalt]] etc. adressieren
+> 3. **Beruhigung:** 30 min entspannen lassen, keine repetitive RR-Messung, Aufklärung
+> 4. **Antihypertensiva:** ggf. Extradosis antihypertensive Hausmedikation p.o.
+> 	- Keine "Notfalltherapie" mit kurzwirksamen Meds (z.B. unret. Nifedipin), Amlodipin (wenn nicht bereits Hausmed), Nitro-Spray (Rebound), i.v.-Meds (ohne Indikation s.o.)
+> 	- *Cave Somatisierung:* "Blutdruck so schlimm, dass Notarzt Spritze geben musste"
+> 5. **Langzeit:** Hausärztliche Anbindung in 2-3d, Aufklärung, ambulante Bestätigungsmessung notwendig für ED art. Hypertonie
+
+> [!management]- Langzeit Management
+> - **Ziel-[[RR]]:** <140/90 in 3 Mo, Langzeit <130/80[^3]
+> - Alkohol↓, Rauchen↓, Salz↓, Ernährung, Aktivität, [[NSAR]]>
+> - **Initialmedikation:**
+> 	- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)
+> 	- *+* Thiazid (Chlortalidon 12.5-25 mg/d) oder Calciumantagonist (Amlodipin 5-10 mg/d)
+> 	- [[Betablocker]] (Bisoprolol[^2] 2.5-5 mg 1-0-1) nur bei KHK/[[Herzinsuffizienz]]/[[VHF]]
+> - **Medikamentöse Eskalation** (Cave: Sekundäre Hypertonie?)
+> 	1. 3er-Komibination (ACEi/AT1RB + Thiazid + Calciumantagonist)
+> 	2. +Aldosteronantagonist (Spironolacton 25 mg/d)
+> 	3. Alternativen:
+> - **Optimale Antihypertensiva-Dosierung** (darüber nur UAW↑, Wirkung=)
+> 	- Candesartan 16 mg/d
+> 	- Ramipril 5 mg/d
+> 	- Valsartan 160 mg/d
+> 	- Amlodipin 10 mg/d
 
 > [!note]+ Textbaustein Hypertensive Entgleisung
 > ```
-> Vorstellung bei isoliert hypertensiven RR-Werten, abseits von BEGLEITSYMPTOME asymptomatisch. Kein H.a. akute Endorganschädigung. Somit keine Indikation zur Akuttherapie nach ESC-Leitlinie. Ausführliche Beratung zum Umgang mit RR-Entgleisungen. Es besteht der V.a. arterielle Hypertonie, zur Diagnose müssen jedoch ambulante Bestätigungsmessungen erfolgen. 
+> Vorstellung bei isoliert hypertensiven RR-Werten, abseits von BEGLEITSYMPTOME asymptomatisch. Kein H.a. akute Endorganschädigung. Somit keine Indikation zur Akuttherapie nach ESC-Leitlinie. Ausführliche Beratung zum Umgang mit RR-Entgleisungen. ###ED: Es besteht der V.a. arterielle Hypertonie, zur Diagnose müssen jedoch ambulante Bestätigungsmessungen erfolgen. 
 > 
 > Erklärung für Patient:innen:
 > Blutdruck-Entgleisungen mit milden Beschwerden sind üblicherweise selbstlimitierend; eine notfallmäßige Diagnostik/Therapie durch Rettungsdienst oder Notaufnahme ist nicht notwendig. Eine (zu) schnelle Blutdruck-Senkung kann in diesen Fällen sogar nachgewiesen schädlich sein. Ein zu hoher Blutdruck muss aufgrund von Folgeschäden an den Gefäßen (Herzinfarkt- und Schlaganfall-Risiko) über Wochen bis Monate gut eingestellt werden, jedoch nicht akut über Stunden bis Tage.

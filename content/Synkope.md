@@ -7,7 +7,7 @@ tags:
 - I **Def:** [[TLOC]] mit unmittelbare+vollständige Erholung
 	- *Präsynkope:* Prodromalstadium, Risikoprofil gleichwertig
 - **W**
-	- *[[Anamnese|A]]:* [S] PPP (high: Pos. Liegen/Sitzen, Prov. keine oder während Belastung, Prodromi keine oder Dyspnoe/AP/Palpitationen), persistierend? Vegetativ↓? [M] QTc-verlängernd? prüfen auf Sedativa, BB u.a. [P] Kardial? Epilepsie? Parkinson o.ä.? [R] FA kardial, plötzlicher Tod?
+	- *[[Anamnese|A]]:* [S] PPP (high: Pos. Liegen/Sitzen, Prov. keine oder während Belastung, Prodromi keine oder [[Dyspnoe]]/AP/Palpitationen), persistierend? Vegetativ↓? [M] QTc-verlängernd? prüfen auf Sedativa, BB u.a. [P] Kardial? Epilepsie? Parkinson o.ä.? [R] FA kardial, plötzlicher Tod?
 	- *[[Untersuchung|U]]:* Sturzfolgen? Vitien? Volumenmangel? Infekt? [VP]
 	- *[[EKG]] WOBBLERR:* WPW, Obstr. AV-Block, LSB/RSB, Brugada, LVH, Epsilon bei ARVD, Long-QT, RHB
 	- *Labor:* [[BGA]]

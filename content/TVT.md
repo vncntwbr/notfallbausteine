@@ -9,7 +9,7 @@ title: Venöse Thrombose (TVT)
 > [!dd]+ DD siehe [[Beinschmerzen]] – Cave [[LAE]]
 
 > [!anamnese]+ Anamnese
-> - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, Dyspnoe, Hämoptysen, [[TLOC]])? B-Symptomatik?
+> - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], Hämoptysen, [[TLOC]])? B-Symptomatik?
 > - **A:** Z.n. HIT? Heparin? DOAK?
 > - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[Antikoagulation]]?
 > - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? CKD (DANI)?

@@ -33,7 +33,7 @@ tags:
 > 	- *Schmerzen:* Paracetamol, Opioide, Gabapentin, ggf. PCIA/[[Regionalanästhesie]] (Cave: kein Metamizol)
 > 	- *Übelkeit:* Ondansetron, ggf. low-dose Haloperidol (0,5 mg i.v./s.c.) 
 > 	- *Tachykardie:* Metoprolol 
-> 	- *Hypertonie:* Nitroglycerin, Clonidin 
+> 	- *[[Hypertonie]]:* Nitroglycerin, Clonidin 
 > 	- *Obstipation:* MCP
 > 4. **Echte [[HypoNa+]]** mit NaCl 3% Boli therapieren
 > 5. **Neuropsychiatrische Sympt:** In RS OA Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via [[ZVK]]
