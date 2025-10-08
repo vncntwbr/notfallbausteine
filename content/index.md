@@ -1,5 +1,5 @@
 ---
-title: Notfall QRH & Bausteine Home
+title:
 aliases:
   - Home
 ---
