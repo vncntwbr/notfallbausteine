@@ -103,9 +103,9 @@ export default (() => {
           const password = "käsekuchen"; 
           const userPass = prompt("Passwort:");
           if (userPass !== password) {
-          // Redirect to a different page or hide content if incorrect or cancelled
-          alert("Falsches Passwort");
-          document.body.innerHTML = "";
+            alert('Falsches Passwort');
+            document.body.innerHTML = "";
+          }
   }
 </script>
 
