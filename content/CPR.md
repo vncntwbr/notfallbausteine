@@ -26,10 +26,10 @@ title: Reanimation / Arrest (CPR)
 
 > [!management] CPR-Quali optimieren!
 > - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie]]), Puls unter CPR
-> - Druckpunkt? Ermüdung? ggf. Magensonde, [[Arterie]] li.
+> - Druckpunkt? Ermüdung? ggf. TEE, Magensonde
 > - **CPRIC:** esKETAmin 0.5 mg/kg
 
-> [!management] Siehe [[ROSC]]
+> [!disposition] Siehe [[ROSC]], [[ECMO]] oder [[TOR]]
 
 > [!note]- Textbaustein Übergabe Reanimation/ROSC
 > ```

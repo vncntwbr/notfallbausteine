@@ -7,7 +7,7 @@ aliases:
 ---
 > [!danger] Komplikationen mit hoher Letalität: [[Delir]] + [[Liegetrauma]]
 
-> [!dd]+ Häufige Ursachen bei Pflegebedürftigen ("KEIM") + weitere Ursachen
+> [!dd]+ Häufige Ursachen bei Pflegebedürftigen ("KEIM" + weitere)
 > - **Kardiovaskulär:** z.B. [[VHF]], [[ACS]], [[Herzinsuffizienz]], Exsikkose/[[AKI]]
 > - **[[Elektrolytstörung]]:** insb. [[HypoNa+]], Mangelernährung
 > - **Infektion:** [[Sepsis]]
@@ -15,7 +15,7 @@ aliases:
 > - Harnverhalt? Obstipation?
 > - Trauma (SHT, Schmerzen, Liegetrauma)?
 
-> [!anamnese]+ Fremdanamnese
+> [!anamnese]+ (Fremd-)Anamnese
 > - **S:** H.a. Infektion?
 > - **M:** Neu? [[Anticholinerges Syndrom]]? Sedativa? Antipsychotika? Opioide? [[Interaktionen]]? Neue Meds?
 > - **E:** Funktioneller Vorzustand?
@@ -29,7 +29,8 @@ aliases:
 > - **[[Urin]]:** [[U-Status]]
 
 > [!management]+
-> - **[[Delir]]**
+> - **Kausale Therapie**
+> - **[[Delir]]** siehe dort
 > - **Liegetrauma:** Zugrundeliegende Ursache,[[AKI]]-Therapie; bei [[Rhabdomyolyse]] forcierte Diurese evtl. +Mannitol
 
 [^1]

@@ -19,18 +19,18 @@ aliases:
 > ```
 ^db877f
 
-> [!note]+ Zusatz Infektio
+> [!note]- Zusatz Infektio
 > ```
 > - Impfungen: Grundimmunisierung nach STIKO: ja. SARS-CoV-2: 3x. Saisonale Influenza: nein. Pneumokokken: nein. Tetanus: <10 J.
 > - Infektio: Keine Auslandsreisen in letzten Wochen. Keine akuten Infektionserkrankungen im engeren Umfeld bekannt.
 > ```
 
-> [!note]+ Zusatz Psych
+> [!note]- Zusatz Psych
 > ```
 > - Psych: Keine psychiatrischen Erkrankungen bekannt. Lebensüberdruss und Suizidalität glaubhaft verneint.
 > ```
 
-> [!note]+ Zusatz Gyn
+> [!note]- Zusatz Gyn
 > ```
 > Gyn: G0 P0. Sexuell aktiv mit festem Partner. Kontrazeption mit 0000. Menstruation regelmäßig ohne überstarke Beschwerden/Blutungen. Letzte Regel 0000 bzw. Postmenopausal seit 0000.
 > 

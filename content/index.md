@@ -3,19 +3,20 @@ title: Home
 aliases:
   - Home
 ---
+- **Cave:** Alles außer #status/done mit besonderer Vorsicht zu genießen
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
 - **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**
-	- *Kritisch:* [[CPR]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ-Minderung|AZ↓]]
+	- *Kritisch:* [[CPR]] [[ROSC]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ-Minderung|AZ↓]]
 	- *Schmerzen:* [[Kopfschmerz|Kopf]] [[Halsschmerz|Hals/Nacken]] [[Brustschmerz|Brust]] [[Bauchschmerz|Bauch]] [[Rückenschmerz|Rücken]] [[Hodenschmerzen|Hoden]] [[Extremitätenschmerz|Extremitäten]]
 	- *Neuro/Psych:* [[Vigilanzminderung]] [[Schwindel]] [[TLOC]] [[Psych]] [[Sehstörung]] [[FND]]
 	- *Werte:* [[Hypertonie]] [[Tachykardie]] [[Bradykardie]] 
 	- *Labor:* [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]
 	- *Misc:* [[Dyspnoe]] [[Fieber]] [[Hautveränderungen]]
-	- *Flüssigkeiten:* [[Epistaxis]] [[Husten]] [[GI-Blutung]] [[Ü+E]] [[Diarrhoe]] [[HWI]] [[STI]] [[Geburt]]
+	- *Flüssigkeiten:* [[Epistaxis]] [[Diarrhoe]] [[Husten]] [[Geburt]] [[GI-Blutung]] [[HWI]] [[STI]] [[Ü+E]] 
 	- *Trauma:* [[Polytrauma]] [[SHT]]
 - **Diagnosen**
-	- *Kardio:* [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[VHF]] 
+	- *Kardiovask:* [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]
 	- *Pulmo/Infektio:* [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]
 	- *Gastro:* [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]]
 	- *Nephro/Uro:* [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]] 

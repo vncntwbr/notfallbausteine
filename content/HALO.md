@@ -4,9 +4,9 @@ tags:
   - status/started
 title: High Acuity Low Occurence (HALO)
 ---
-
-- [[Laterale Kanthotomie]]
-- [[Thorakotomie]]
-- [[Crash-Sectio]]
-- [[Escharotomie]]
-- [[eFONA]]
+- **A:** [[eFONA]]
+- **B:** [[Escharotomie]]
+- **C:** [[Thorakotomie]]
+- **C:** [[Crash-Sectio]]
+- **C:** [[Perikardiozentese]]
+- **D:** [[Laterale Kanthotomie]]

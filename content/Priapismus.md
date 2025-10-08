@@ -28,7 +28,7 @@ title: Priapismus / Erektion >4h
 
 > [!management]+
 > 1. **Monitoring**
-> 2. **[[Analgesie]]:** Penisblock, ggf. [[Analgosedierung]]
+> 2. **[[Analgesie]]:** Penisblock, ggf. [[(Analgo-)Sedierung]]
 > 3. **[[BGA]] aus Schwellkörper:** pO2 <50 mmHg, Azidose, pCO2 >60 mmHg = ischämischer low-flow Priapismus
 > 4. **Low-Flow:**
 > 	1. **Schwellkörperpunktion** mit 2 Butterflys, passives Ablassen von 150 ml Blut (ggf. bis 500 ml)

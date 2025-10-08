@@ -4,7 +4,73 @@ tags:
   - status/started
 aliases:
   - Kardiale Dekompensation
+title: Herzinsuffizienz & Kardiale Dekompensation
 ---
+![[Lungenödem#^40f277]]
+> [!dd]+ DD siehe [[Dyspnoe]]
+> - **Reversible Ursachen akute Herzinsuffizienz** (CHAMP-IT) + weitere
+> 	- Coronar ([[ACS]])
+> 	- [[Hypertonie|Hypertensiver Notfall]] (SCAPE)
+> 	- Arrhythmie (oft [[VHF]])
+> 	- Mechanisch (z.B. iatrogene Komplikationen, Vitien)
+> 	- [[LAE|PE]]
+> 	- Infektion ([[Sepsis]], [[Perimyokarditis]])
+> 	- [[Perikarderguss|Tamponade]]
+> 	- Komorbiditäten: [[COPD]], [[CKD]]/[[AKI]], [[Anämie]] etc.
+
+> [!anamnese]+ Anamnese
+> - **S:** Dyspnoe (NYHA), Orthopnoe? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
+> - **M:** Diuretika? Adhärenz? Änderungen?
+> - **P:** KHK? CVRF? COPD?
+> - **L:** TTE (LVEF)? HKU? Gewicht?
+> - **E:** 
+> - **R:** Familie? Noxen?
+
+> [!workup]+
+> - **[[Untersuchung|U]]:** VP? HT, AG? VJI? Ödeme/Anasarka?
+> - **[[EKG]]:** [[ACS]]? HRST?
+> - **[[POCUS]]:** [[TTE]], Pleuraergüsse, [[LUS]] (B-Lines), VCI, Leber/Nieren
+> - **[[Labor]]:** [[BGA]] (Anämie? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]
+> - **[[Urin]]:** [[U-Status]] (Glucosurie, Proteinurie)
+> - **[[Radiologie]]:** ggf. Rö Tx
+
+> [!stadien]+
+> - **NYHA:** I (asymptomatisch), II (Dyspnoe bei Treppen), III (beim Gehen), IV (in Ruhe)
+> - **Klinische Phänotypen**
+> 	- *Warm-feucht:* Gestaut, gut perfundiert, "klassisch"
+> 	- *Kalt-feucht:* V.a. kardiogener [[Schock]]
+> 	- *Kalt-trocken:* Hypoperfusion ohne Stauung
+> - **Chronische Einteilung nach LVEF**
+> 	- HFrEF ≤40%
+> 	- HFmrEF 41-49%
+> 	- HFpEF ≥50% (aber Symptome, diastolische Dysfunktion oder BNP↑)
+
+> [!management]+
+> - ...
+
+> [!management]- Dauermedikation bei HFrEF nach DGK/ESC
+> - **Medikamentöse 4 Säulen, prognoseverbessernd, ab NYHA II:**
+> 	- **SGLT2i:** Dapa-/Empaglifozin 10 mg/d (Cave: euglykäme [[DKA]])
+> 	- **[[Betablocker]]:** Bisoprolol 1.25-10.0 mg/d (KI: [[Asthma]])
+> 	- **ACE-Hemmer:** Ramipril 2.5-5.0 mg/d (Cave: [[HyperK+]], Reizhusten) oder 
+> 	  **AT1RB:** Valsartan 40-160 mg / Candesartan 4-16 mg/d (bei Unverträglichkeit ACEi) oder 
+> 	  **ARNI:** Sacubitril/Valsartan = Entresto® (bei Symptompersistenz, Cave: [[Angioödem]] 2x häufiger als ACEi)
+> 	- **Aldosteronantagonist:** Spironolacton/Eplerenon 25-50 mg/d (Cave: [[HyperK+]])
+> - **Medikamentöse Symptomkontrolle:**
+> 	- **Schleifendiuretika:** Torasemid 10-20 mg q24h / Furosemid q6h oder 
+> 	  **Thiazide:** Xipamid 10-40 mg/d / Chlortalidon 25 mg/d / HCT meiden (Cave: [[HypoNa+]], [[HypoK+]], [[AKI]])
+> 	- Eisen i.v.
+> 	- Digitalis (Reservemittel)
+
+> [!disposition]+
+> - ...
+
+> [!note]- Textbaustein
+> ```
+> Zusammenfassend kardiale Dekompensation bei bekannter Herzinsuffizienz. Normalstationäre kardiologische Aufnahme zur Rekompensation.
+> ```
+
+
 > [!note]+ Textbaustein Diagnose
 > ```
 > Aktuell: Akute rechts-/links-/bi-ventrikuläre Kardiale Dekompensation NYHA ###

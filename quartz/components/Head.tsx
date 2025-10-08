@@ -97,6 +97,18 @@ export default (() => {
             return resource
           }
         })}
+
+        // Password Protection (cheesy, not secure)
+        <script>
+          const password = "käsekuchen"; 
+          const userPass = prompt("Passwort:");
+          if (userPass !== password) {
+          // Redirect to a different page or hide content if incorrect or cancelled
+          alert("Falsches Passwort");
+          document.body.innerHTML = "";
+  }
+</script>
+
       </head>
     )
   }
