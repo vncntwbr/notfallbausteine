@@ -97,15 +97,6 @@ export default (() => {
             return resource
           }
         })}
-
-        // Password Protection (cheesy, not secure)
-        <script>
-          const password = "käsekuchen"; 
-          const userPass = prompt("Passwort:");
-          if (userPass !== password) {
-            alert('Falsches Passwort');
-            document.body.innerHTML = "";
-          }
   }
 </script>
 
