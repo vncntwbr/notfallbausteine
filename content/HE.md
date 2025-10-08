@@ -11,6 +11,6 @@ aliases:
 - **W:** [[Aszitespunktion]] (SBP?), Auslöser (Infekt? GI-Blutung?)
 - **T**
 	- Lactulose 10-30 ml p.o. q8h
-	- L-Ornithin-L-Aspartat 5 g i.v. q6h (geringe Evidenz, KI AKI)
+	- L-Ornithin-L-Aspartat 5 g i.v. q6h (geringe Evidenz, KI [[AKI]])
 	- Thiamin + Pyridoxin 100 mg/d
 	- Nüchternphasen >4h meiden

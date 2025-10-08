@@ -1,40 +1,74 @@
 ---
 tags:
   - sy/allgemein
-  - status/started
+  - status/done
+  - dx
+  - fach/kardiologie
+  - fach/neurologie
 ---
-> [!dd]+ DD siehe [[TLOC]]
+> [!info]+ Definition
+> - Synkope = [[TLOC]] mit unmittelbarer + vollständiger Erholung
+> - Persistierende Störung siehe [[Vigilanzminderung]] bzw. [[Schock]]/[[CPR]]
 
-- I **Def:** [[TLOC]] mit unmittelbare+vollständige Erholung
-	- *Präsynkope:* Prodromalstadium, Risikoprofil gleichwertig
-- **W**
-	- *[[Anamnese|A]]:* [S] PPP (high: Pos. Liegen/Sitzen, Prov. keine oder während Belastung, Prodromi keine oder [[Dyspnoe]]/AP/Palpitationen), persistierend? Vegetativ↓? [M] QTc-verlängernd? prüfen auf Sedativa, BB u.a. [P] Kardial? Epilepsie? Parkinson o.ä.? [R] FA kardial, plötzlicher Tod?
-	- *[[Untersuchung|U]]:* Sturzfolgen? Vitien? Volumenmangel? Infekt? [VP]
-	- *[[EKG]] WOBBLERR:* WPW, Obstr. AV-Block, LSB/RSB, Brugada, LVH, Epsilon bei ARVD, Long-QT, RHB
-	- *Labor:* [[BGA]]
-- **T**
-	- *Low-Risk:* Typ. [[Anamnese|A]] ("PPP"), jetzt beschwerdefrei, [[Anamnese|A]], [[Untersuchung|U]], [[EKG]], [[BGA]] opB, [CHESS](https://www.mdcalc.com/calc/93/san-francisco-syncope-rule) 0 Pkt, bei rez. TTE opB
-	- *High-Risk:* [V.a. kardiogen] Monitor, TTE, stationär, [extrakardial DD] kausal
-	- *Fahrverbot:* Bei rezividierend low-risk bis 6 Mo ereignisfrei, nicht bei vasovagal mit klarem Auslöser außerhalb PKW/Beruf (z.B. Blutsehen, Miktion)
-
-
-> 	- *Kardiogene Synkope*
-> 		- Arrhythmogen (HRST)
-> 		- Strukturell (Aortenklappenstenose, HOCM, Myxom u.a.)
-> 		- Extrakardial (z.B. LAE, [[Aorta]], pHTN, Sepsis)
-> 	- *Reflexsynkope*
-> 		- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
-> 		- Situativ (z.B. Miktion, [[Husten]], nach Belastung)
-> 		- Carotissinussyndrom (Atherosklerose + mech. Reizung z.B. durch Kopfdrehung, Krawatte, Rasieren)
-> 	- *Orthostatische Synkope*
-> 		- Autonome Dysregulation (z.B. Parkinson, MS, Diabetes)
+> [!dd]+ DD siehe [[TLOC]] insb. Differenzierung zu [[Krampfanfall]]
+> - **Ätiologie bei Synkope**
+> 	- *Kardiogen = High Risk*
+> 		- HRST
+> 		- Strukturell (z.B. Aortenklappenstenose, HOCM)
+> 		- [[Schock]] (z.B. LAE, [[Aorta]], pHTN, [[Sepsis]])
+> 	- *Reflex*
+> 		- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS[^2]
+> 		- Situativ (z.B. Miktion, [[Husten]], \*nach\* Belastung)
+> 		- Carotissinussyndrom (kontrovers)
+> 	- *Orthostase*
+> 		- Autonome Dysreg. (z.B. Parkinson, MS, Diabetes)
 > 		- Hypovolämie (z.B. [[GI-Blutung]], Dehydratation, [[Diarrhoe]])
-> 		- Medikamenten-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
+> 		- Med-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
+> - **Präsynkope** (Prodromalstadium) = gleichwertiges Risikoprofil
 
-![[TLOC]]
+> [!anamnese]+
+>||**High-Risk**|**Low-Risk**|
+|---|---|---|
+|Position|Aus Liegen oder Sitzen|Längeres Stehen oder beim Aufstehen|
+|Provokation|Keine oder \*während\* Belastung|Angst, Schmerz, Defäkation, postprandial, Sex o.ä. oder \*nach\* Belastung|
+|Prodromi|Keine oder [[Dyspnoe]], AP, Palpitationen|[[Schwindel]], “Schwarz vor Augen”, Schwitzen, Übelkeit, Hitzegefühl, Einengung Gesichtsfeld|
+|Persistierend|Persistierende Beschwerden|Vollständige Resolution|
+|Vorgeschichte|Kardial?|Rezidiv (wenn auch low-risk)? Autonome Dysregulation (z.B. Parkinson)? Epilepsie?|
+|Vegetativ|[[AZ-Minderung]], [[Dyspnoe]], AP? H.a. GI-Blutung?|Negativ|
+|Familienanamnese|Kardial? Plötzliche Todesfälle?|Negativ|
+|Medikation|QTc-verlängernde Med.|Prüfen bzgl. Orthostase!|
 
----
-> [!note]+ Textbaustein Synkope Low-Risk Ambulant
+> [!workup]+ Workup Synkope
+> - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
+> 	- Persistierende Hypotonie/Tachykardie?
+> 	- Kein Schellong-Test (nicht sinnvoll)
+> - **[[EKG]]:** WOBBLERR? [[Ischämie-EKG]]? [[Bradykardie|Brady-]]/[[Tachykardie]]?
+> 	- WPW-Syndrom?
+> 	- Obstruktion (AV-Block)?
+> 	- Blockbild?
+> 	- Brugada-Syndrom?
+> 	- LV-Hypertrophie?
+> 	- AVRD (Epsilon-Welle)?
+> 	- [[RHB]] ([[LAE]])?
+> 	- Repolarisation (Long-QT)?
+> - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolytstörung]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
+> - ggf. [[TTE]] (bei V.a. kardiogen oder rezidiverende unklare Synkopen)
+> - ggf. weiteres Workup nach DD
+
+> [!disposition]+
+> - **Low Risk → Ambulant**
+> 	- Typische Akutanamnese: “PPP” (Position, Provokation, Prodromi)
+> 	- [San Francisco Syncope Rule](https://www.mdcalc.com/calc/93/san-francisco-syncope-rule) / CHESS-Kriterien 0 Pkt.
+> 	- Jetzt vollständig beschwerdefrei, unauffällige A+U, EKG, BGA
+> 	- Bei rezidiverenden Synkopen: zumindest fokussierte [[TTE]]
+> - **High-Risk → Stationär**
+> 	- V.a. kardiogen → Monitoring, [[TTE]]
+> 	- Extrakardiale DD → kausale Therapie
+> - **Fahrtauglichkeit**
+> 	- *Erstereignis:* Keine Einschränkung (außer hohes Rezidivrisiko)
+> 	- *Rezidivierend:* Bis 6 Mo Rezidivfreiheit (außer vasovagal + Auslöser nicht beim Fahren bzw. im Hochrisikoumfeld zu erwarten, z.B. Blutsehen, Miktion)
+
+> [!note]- Textbaustein Synkope Low-Risk Ambulant
 > ```
 > Vorstellung nach Synkope. Monitoring, EKG und Labor ohne relevante Pathologien oder H.a. rhythmogene/strukturelle Ursache. Körperliche Untersuchung ohne H.a. Sturzfolgen, Vitien oder Infektion. Anamnestisch bei ### a.e. als low-risk Synkope einzuordnen. Zusammenfassend kein H.a. abwendbar gefährlichen Verlauf, Pat. beschwerdefrei, ambulantes Management.
 > 
@@ -45,19 +79,36 @@ tags:
 > - Stellen Sie sich bei Auftreten von Brustschmerzen oder Luftnot umgehend wieder in unserer Klinik für Notfallmedizin vor bzw. verständigen Sie den Rettungsdienst (Tel. 112).
 > ```
 
-> [!note]+ Zusatz Rezidivierende Synkope und Fahrtauglichkeit
+> [!note]- Zusatz Rezidivierende Synkope und Fahrtauglichkeit
 > ```
 > Bei rezidivierenden Synkopen empfehlen wir weitergehende ambulante Ursachenabklärung (z.B. Langzeit-EKG, FKDS der Halsgefäße, kardiologische Vorstellung).
 > 
 > Bei häufigen, unprovoziert und/oder ohne Prodromi auftretenden Synkopen bzw. Hochrisikotätigkeit (schwere Maschinen, Berufskraftfahrer, Piloten etc.) ist aus medizinischer Sicht für min. 6 Monate die Fahrtauglichkeit NICHT gegeben. Eingehend mit Pat. besprochen. Empfehlen ambulante Reevaluation.
 > ```
 
-> [!note]+ Textbaustein High-/Intermediate-Risk Synkope Stationär
+> [!note]- Textbaustein High-/Intermediate-Risk Synkope Stationär
 > ```
 > Vorstellung nach Synkope. In Monitoring, EKG, Labor und POCUS keine relevanten Pathologien. Bei ### Indikation zur stationären Diagnostik.
 > ```
 
 ---
+## Schulung
+- [Amal Mattu: Cardiogenic Syncope](https://www.youtube.com/watch?v=rXgk5SRrM6g)
 - Carotissinusmassage ist sinnlos in Differenzierung und gefährlich[^1]
+- **Leitlinien**
+    - [EUSEM Konsensus Statement 2024](https://journals.lww.com/euro-emergencymed/fulltext/9900/the_syncope_core_management_process_in_the.131.aspx)
+    - [Leitlinie der Deutschen Gesellschaft für Neurologie 2020](https://register.awmf.org/assets/guidelines/030-072l_S1_Synkopen_2020-04.pdf)
+    - [Leitlinie der Deutschen Gesellschaft für Kardiologie (nach ESC) 2019](https://leitlinien.dgk.org/files/11_2018_pocket_leitlinien_synkope.pdf)
+- [Lungenembolie als Synkopenursache](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2670036)
+    - “Pulmonary embolism was rarely identified in patients with syncope [<0.55% für alle ED-Patienten, <2.10% für hospitalisierte Patienten]. Although PE should be considered in every patient, not all patients should undergo evaluation for PE.”
+- [Videos: Synkope / Adam-Stokes-Anfall als Symptom des Herz-Kreislaufstillstands](https://dasfoam.org/2018/08/18/kreislaufstillstand-eine-videoanalyse/)
+- [Video: “Phänotypen” von Synkopen einschließlich konvulsiver Synkopen](https://www.youtube.com/watch?v=lF2TF5OUakI&t=109s)
+- [EKG bei Synkope](https://resus.me/wobbler/) - FOAM Beitrag auf [resus.me](http://resus.me)
+- [Schellong-Test](https://first10em.com/orthostatic-vital-signs-dont-help/) - FOAM Beitrag auf [first10em.com](http://first10em.com)
+    - Weder schließt ein negativer Schellong-Test eine orthostatische, noch ein positiver Schellong-Test mit hinreichender Sicherheit eine kardiale Ursache aus!
+    - 25% der Pat. mit vasovagaler oder kardialer Synkopengenese hatten einen positiven Schellong-Test ([Atkins 1991](https://pubmed.ncbi.nlm.nih.gov/1867243/))
+    - Siehe auch [Leitlinie der Deutschen Gesellschaft für Neurologie 2020](https://register.awmf.org/assets/guidelines/030-072l_S1_Synkopen_2020-04.pdf) Kapitel 2.2.3 (empfiehlt verkürzten Schellong-Test über 3 min statt 10 min)
 
 [^1]: [Carotid Sinus Massage in Syncope Evaluation: A Nonspecific and Dubious Diagnostic Method](https://www.scielo.br/j/abc/a/zWkKJ5fSYmvrWNmCYQ3hRND/?lang=en)
+
+[^2]:  Tachykardie ohne Hypotonie

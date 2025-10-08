@@ -35,7 +35,7 @@ aliases:
 > [!workup]+ Spezifische Diagnostik
 > - **V.a. Rückenmarkskompression/QS:** N0-MRT bei Cauda-Equina-Sympt. (Harnverhalt, Stuhlinkontinenz, Reithosenanästhesie), Radikuläre Sympt. + passendes motorisches Defizit oder + Risiko Metastasen/Infektion
 > - **V.a. Spinale Infektion:** N1-MRT bei mittel-hoch Risiko, bei geringem Risiko BSG, BK, CT, Aufnahme
-> - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, AKI) ggf. CT Pariser Schema
+> - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, [[AKI]]) ggf. CT Pariser Schema
 > - **V.a. (osteoporotische) WK#:** Rö stehend bzw. bettlägerig CT bei RF (geriatrisch, Osteoporose, Cortison, signifikantes Trauma oder mildes Trauma + Osteoporose-RF)
 
 > [!note]+ Textbaustein Unspezifische Rückenschmerzen Ambulant

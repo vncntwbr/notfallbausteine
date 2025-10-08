@@ -51,7 +51,7 @@ aliases:
 > 	- Bei Ausschluss einer aktiven Hepatitis B und unzureichendem Antikörpertiter simultane Hepatitis-B-Impfung zur PEP angeboten, dies war gewünscht. Simultane Impfung mit Hepatitis B Immunglobulin Behring ### ml [0,06 ml/kg i.m.] (Ch-B.: ###) und Engerix B (Ch-B.: ###) erfolgt. 2. Impfung sollte in 4 Wochen, eine weitere Impfung in 6 Monaten erfolgen (über Hausarzt oder Infektiologen). 
 > 3. Andere STI:
 > 	- Untersuchung auf andere sexuell übertragbare Erkrankungen (STI) empfohlen, aus infektiologischen Gründen jedoch erst in frühestens 14 Tagen sinnvoll durchführbar. Dann z.B. über eine infektiologische Schwerpunktpraxis, ambulanten Urologen oder Dermatologen, das Gesundheitsamt (dort teils kostenlos möglich) oder Beratungsstellen erfolgen.
-> 	- Aufmerksam auf Symptome wie genitalen/analen Juckreiz, Hautveränderungen, Schmerzen beim Wasserlassen oder Ausfluss aus der Harnröhre achten. Bei Auftreten von Beschwerden ärztliche Vorstellung.
+> 	- Aufmerksam auf Symptome wie genitalen/analen Juckreiz, [[Hautveränderungen]], Schmerzen beim Wasserlassen oder Ausfluss aus der Harnröhre achten. Bei Auftreten von Beschwerden ärztliche Vorstellung.
 > 	- Doxycyclin-PEP (200 mg p.o. einmalig) wurde dem Patienten nach Aufklärung über off-label-use angeboten, war gewünscht und wurde verabreicht.
 > 4. Aufklärung und Beratung zur Notwendigkeit von "safer sex"-Praktiken bis zum Vorliegen der STI-Testergebnisse (min. 14 Tage) *und* des 2. negativen HIV-Tests (6 Monate). Eine Blutspende ist für 6 Monate ausgeschlossen (ggf. vertraulichen Selbstausschluss nutzen). 
 > 5. Wiedervorstellung in unserer Notaufnahme bei akuten Beschwerden jederzeit möglich.

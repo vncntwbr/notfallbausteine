@@ -32,7 +32,7 @@ tags:
 
 ## Niere
 - [ ] **Bilanzziel:** ±? E/A? erreicht?
-- [ ] **AKI:** prä/intra/post? DANI?
+- [ ] **[[AKI]]:** prä/intra/post? DANI?
 - [ ] **Dialyse:** BF, DF, UF? Clotting? Citratakkumulation?
 
 ## Abdomen

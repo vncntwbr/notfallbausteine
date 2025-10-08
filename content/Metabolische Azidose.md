@@ -33,7 +33,7 @@ aliases:
 > 	- Hyperalimentation (parenterale Überernährung)
 > - **HCO3- Verlust:**
 > 	- Diarrhoe, High-Output-Stoma, GI-Fistel
-> 	- Renal-tubuläre Azidose, Carboanhydrasehemmer, AKI
+> 	- Renal-tubuläre Azidose, Carboanhydrasehemmer, [[AKI]]
 
 > [!dd] Erniedrigte Anionenlücke
 > - Laborfehler (bei Hyponatriämie, Hyperlipidämie)

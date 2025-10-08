@@ -22,7 +22,7 @@ aliases:
 > [!anamnese]+ Anamnese
 > - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? [[TLOC]]? [[Ü+E]] (nüchtern)?
 > 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Bradykardie]] (Cushing-Reflex)
-> - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → AKI)?
+> - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → [[AKI]])?
 > - **P:** aHTN (RR-Einstellung)? [[Aorta]] (OP)? KHK? Vitien? [[Schwanger]]/Wochenbett?
 > - **L:** Miktion (reduziert, Farbe, H.a. [[AKI]])? 
 > - **E:** [[SHT]]?
@@ -33,7 +33,7 @@ aliases:
 > - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
 > - **[[EKG]]**
 > - ggf. [[POCUS]] (Harnverhalt?)
-> - **[[Urin]]:** ggf. [[U-Status]] (V.a. AKI / Maligne HTN), [W] β-HCG 
+> - **[[Urin]]:** ggf. [[U-Status]] (V.a. [[AKI]] / Maligne HTN), [W] β-HCG 
 
 > [!management]+ Akutes Management
 > 1. **Nur bei H.a. Endorganschäden:** spezifische Therapie, ggf. RR-Senkung z.B. Urapidil 5-mg-weise i.v., max -20%
