@@ -4,6 +4,7 @@ tags:
   - status/started
 ---
 - EPA = trash[^3]
+- Presentations[^4]
 ### **Multimedia Learning Principles**[^1]
 
 - Multimedia: Pictures + Words > Words Alone
@@ -75,3 +76,5 @@ tags:
 [^2]: https://rebelem.com/rebel-cast-ep-45-how-to-build-a-great-presentation/
 
 [^3]: [How well do workplace-based assessments support summative entrustment decisions? A multi-institutional generalisability study](https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.15291)
+
+[^4]: „P Cubed Presentations“. _P Cubed Presentations_, o. J. Zugegriffen 5. Dezember 2023. [http://ffolliet.com/category/science-of-fail/](http://ffolliet.com/category/science-of-fail/).

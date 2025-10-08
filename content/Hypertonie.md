@@ -20,7 +20,7 @@ aliases:
 > - **Weiteres:** [[Intox]], [[Entzug]], [[Harnverhalt]], [[Delir]], [[AKI]], Hyperaldosteronismus
 
 > [!anamnese]+ Anamnese
-> - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? TLOC? [[Ü+E]] (nüchtern)?
+> - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? [[TLOC]]? [[Ü+E]] (nüchtern)?
 > 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Bradykardie]] (Cushing-Reflex)
 > - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → AKI)?
 > - **P:** aHTN (RR-Einstellung)? [[Aorta]] (OP)? KHK? Vitien? [[Schwanger]]/Wochenbett?

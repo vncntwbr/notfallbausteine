@@ -2,25 +2,25 @@
 tags:
   - sy
   - status/started
-title: Transient Loss of Consciousness (TLOC)
+title: Transient Loss of Consciousness (TLOC) & Synkope
 ---
-- **DD**
-	- *[[Synkope]]* (vorübergehende HZV-Minderung)
-		- *Kardiogene Synkope*
-			- Arrhythmogen (HRST)
-			- Strukturell (Aortenklappenstenose, HOCM, Myxom u.a.)
-			- Extrakardial (z.B. LAE, [[Aorta]], pHTN, Sepsis)
-		- *Reflexsynkope*
-			- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
-			- Situativ (z.B. Miktion, [[Husten]], nach Belastung)
-			- Carotissinussyndrom (Atherosklerose + mech. Reizung z.B. durch Kopfdrehung, Krawatte, Rasieren)
-		- *Orthostatische Synkope*
-			- Autonome Dysregulation (z.B. Parkinson, MS, Diabetes)
-			- Hypovolämie (z.B. [[GI-Blutung]], Dehydratation, [[Diarrhoe]])
-			- Medikamenten-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
-	- *[[Krampfanfall]]:* Postiktale Phase (LR+ 3-5), Kloni unmittelbar nach TLOC statt verzögert, Zyanose (LR+ 3-5) statt Blässe (LR+ 3 für Synkope), Myalgien (LR+ 3), >20 Zuckungen, Dauer >30s, ggf. CK↑, Laktat↑, lateraler Zungenbiss (LR+ 7-16)
-	- *[[PNEA]]*
-	- *"Drop Attacks:* Kryptogene Stürze ohne TLOC im höheren Alter, a.e. neurogener Muskeltonusverlust
-	- *Adam-Stokes-Anfall / Arrest* = kardiogene [[Synkope]] bei VT/VF
-	- *[[Stroke]]:* Cerebrale Ischämie vertebrobasilär / Steal-Syndrome / [[Intrakranielle Blutung]]
-	- *[[SHT]]*
+> [!danger]+ Rapid Reference
+> 
+
+> [!dd]+ DD
+> - **[[Synkope]]:** HZV↓ kurzzeitig → rasche, vollständige Erholung
+> 	- *Kardiogen:* HRST, strukturell (z.B. HOCM, [[Aortenklappenstenose|AS]]), [[Schock]] (z.B. [[LAE]])
+> 	- *Reflex:* z.B. Angst, Schmerz, Husten, nach Belastung
+> 	- *Orthostat.:* Autonom (z.B. Parkinson), Hypovoläm (z.B. [[GI-Blutung]]), UAW (z.B. Psychopharmaka)
+> - **[[Krampfanfall]]:** Postiktalphase (LR+ 5), Kloni sofort[^1] (LR+ 5), Zyanose (LR+ 3) Myalgien (LR+ 3), lateraler Zungenbiss (LR+ 10), >20 Kloni, Dauer >30s
+> - **[[PNEA]]:** Dissoziativer Anfall
+> - **[[Stroke]]:** Basilaristhrombose, Steal-Syndrome, [[Intrakranielle Blutung]], [[SHT]]
+
+> [!workup]+
+> - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
+> - **[[EKG]]:** WOBBLERR? [[Ischämie-EKG]]? [[Bradykardie|Brady-]]/[[Tachykardie]]? 
+> - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolytstörung]]? BZ? Lactat?), ggf. Standard-Profil
+> - ggf. [[TTE]]
+> - ggf. weiteres Workup nach DD
+
+[^1]: Kloni bei Synkope eher verzögert nach TLOC, bei Krampfanfall sofort

@@ -28,7 +28,7 @@ aliases:
 > - **PNEA/PNES** (Dissoziativer/Psychogener nicht-epileptischer Anfall)
 
 > [!anamnese]+ Anamnese
-> - **S:** Semiologie (falls beobachtet)? Infekt? Fieber? [[Kopfschmerz]]? Palpitationen? AP? [[FND]]? TLOC? Enuresis/Enkopresis? Schmerzen?
+> - **S:** Semiologie (falls beobachtet)? Infekt? Fieber? [[Kopfschmerz]]? Palpitationen? AP? [[FND]]? [[TLOC]]? Enuresis/Enkopresis? Schmerzen?
 > 	- *Semiologie:* Tonische Haltung? Myoklonien der Extremitäten? Fokal eingeleitet? Augen offen/zu? Blickwendung? Zyanose? Dauer? Postiktale Desorientiertheit?
 > - **M:** Antikonvulsiva? Adhärenz? Änderungen?
 > - **P:** Epilepsie? Strukt. ZNS-Erkrankung? Sucht? [[Schwanger]]/Wochenbett? Tumor?

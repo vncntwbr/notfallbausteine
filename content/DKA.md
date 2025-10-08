@@ -19,7 +19,7 @@ title: Diabetische Ketoazidose (DKA)
 > [!dd]+ DD: [[Hyperglykämie]], [[Metabolische Azidose|nicht-diabetische Ketoazidose]] (z.B. Alkohol, Fasten, SGLTi)
 
 > [!anamnese]+
-> - **S:** Schmerzen/OPQRST+? [[Ü+E]]? Diarrhoe? Fieber, Schüttelfrost? Polyurie, Algurie? Husten? Wunden? Gewichtsverlust? Polydipsie? AP? [[Dyspnoe]]? TLOC? [[FND]]?
+> - **S:** Schmerzen/OPQRST+? [[Ü+E]]? Diarrhoe? Fieber, Schüttelfrost? Polyurie, Algurie? Husten? Wunden? Gewichtsverlust? Polydipsie? AP? [[Dyspnoe]]? [[TLOC]]? [[FND]]?
 > - **M:** Insulinschema/-pumpe? Tagesbedarf? Änderung Insulingaben? SGLTi ("-glifozin")?
 > - **P:** Diabetes bekannt (Typ, ED)? Z.n. DKA? Z.n. [[Pankreatitis]]/Pankreas-OP?
 > - **L:** Mahlzeit? Letzter Wechsel Insulinpumpe (Einstichstelle, Leitung)? 

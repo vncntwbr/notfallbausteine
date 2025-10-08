@@ -4,16 +4,22 @@ aliases:
   - Home
 ---
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
-- **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[HALO]] [[eKV]] [[Perfusor]] [[Punktionen]] [[ZVK]]
+- **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**
-	- #sy/allgemein [[CPR]] [[Schock]] [[Sepsis]] [[Synkope]] [[Delir]] [[Hypertonie]] [[Hyperthermie]] [[Intox]] [[Anaphylaxie]] [[Palliativsituation]] [[Seltene Erkrankungen]] [[Kindernotfall]]
-	- #sy/labor [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie]] [[HypoNa+]] [[Neutropenie]]
-	- #sy/kopf-neuro [[Vigilanzminderung]] [[FND]] [[Kopfschmerz]] [[Schwindel]] [[Krampfanfall]] [[Psych]] [[Epistaxis]] [[HNO-Notfälle]] [[Halsschmerz]] [[Augen-Notfälle]] [[Kiefer- & Zahnschmerz]]
-	- #sy/herz-thorax [[Dyspnoe]] [[Brustschmerz]] [[Tachykardie]] [[Bradykardie]] [[Husten]] [[Schrittmacher-Dysfunktion]]
-	- #sy/abdomen-haut-extr [[Bauchschmerz]] [[GI-Blutung]] [[Ü+E]] [[Diarrhoe]] [[Rückenschmerz]] [[Flankenschmerz]] [[Extremitätenschmerz]] [[Lokale Entzündung]] [[Hautveränderungen]] [[Urogenitale Notfälle]] [[STI]] [[Fremdkörper]]
-	- #sy/trauma [[Polytrauma]] [[Frakturen]] [[SHT]]
-- **Häufige Probleme** [[Anämie]] [[AKI]] [[Bauchschmerz]] [[Brustschmerz]] [[Delir]] [[Diarrhoe]] [[Dyspnoe]] [[Epistaxis]] [[GI-Blutung]] [[Hyperglykämie]] [[HyperCa2+]] [[HyperK+]] [[Hypernatriämie]] [[Hypertonie]] [[HypoK+]] [[HypoNa+]] [[Ikterus]] [[Intox]] [[Kopfschmerz]] [[Krampfanfall]] [[Palliativsituation]] [[Rückenschmerz]] [[Schwindel]] [[Sepsis]] [[Stroke]]
-- **Häufige Diagnosen** [[ACS]] [[Anaphylaxie]] [[Aorta]] [[Asthma]] [[COPD]] [[COVID]], [[DKA]], [[Divertikulitis]] [[Facialisparese]] [[Gastritis]] [[Gastroenteritis]] [[Grippaler Infekt]] [[Harnverhalt]] [[HWI]] [[Intrakranielle Blutung]] [[LAE]] [[Lungenödem]] [[Meningitis]] [[Pankreatitis]] [[Pneumonie]] [[Sepsis]] [[SHT]] [[STI]] [[Stroke]] [[TVT]] [[Urolithiasis]] [[Urtikaria]] [[VHF]] [[Zoster]]
+	- *Kritisch:* [[CPR]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ-Minderung|AZ↓]]
+	- *Schmerzen:* [[Kopfschmerz|Kopf]] [[Halsschmerz|Hals/Nacken]] [[Brustschmerz|Brust]] [[Bauchschmerz|Bauch]] [[Rückenschmerz|Rücken]] [[Hodenschmerzen|Hoden]] [[Extremitätenschmerz|Extremitäten]]
+	- *Neuro/Psych:* [[Vigilanzminderung]] [[Schwindel]] [[TLOC]] [[Psych]] [[Sehstörung]] [[FND]]
+	- *Werte:* [[Hypertonie]] [[Tachykardie]] [[Bradykardie]] 
+	- *Labor:* [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]
+	- *Misc:* [[Dyspnoe]] [[Fieber]] [[Hautveränderungen]]
+	- *Flüssigkeiten:* [[Epistaxis]] [[Husten]] [[GI-Blutung]] [[Ü+E]] [[Diarrhoe]] [[HWI]] [[STI]] [[Geburt]]
+	- *Trauma:* [[Polytrauma]] [[SHT]]
+- **Diagnosen**
+	- *Kardio:* [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[VHF]] 
+	- *Pulmo/Infektio:* [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]
+	- *Gastro:* [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]]
+	- *Nephro/Uro:* [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]] 
+	- *Neuro:* [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]
 ## Häufige Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]

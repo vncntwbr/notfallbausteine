@@ -3,6 +3,7 @@ tags:
   - sy/allgemein
   - status/started
 ---
+> [!dd]+ DD siehe [[TLOC]]
 
 - I **Def:** [[TLOC]] mit unmittelbare+vollständige Erholung
 	- *Präsynkope:* Prodromalstadium, Risikoprofil gleichwertig
@@ -15,6 +16,20 @@ tags:
 	- *Low-Risk:* Typ. [[Anamnese|A]] ("PPP"), jetzt beschwerdefrei, [[Anamnese|A]], [[Untersuchung|U]], [[EKG]], [[BGA]] opB, [CHESS](https://www.mdcalc.com/calc/93/san-francisco-syncope-rule) 0 Pkt, bei rez. TTE opB
 	- *High-Risk:* [V.a. kardiogen] Monitor, TTE, stationär, [extrakardial DD] kausal
 	- *Fahrverbot:* Bei rezividierend low-risk bis 6 Mo ereignisfrei, nicht bei vasovagal mit klarem Auslöser außerhalb PKW/Beruf (z.B. Blutsehen, Miktion)
+
+
+> 	- *Kardiogene Synkope*
+> 		- Arrhythmogen (HRST)
+> 		- Strukturell (Aortenklappenstenose, HOCM, Myxom u.a.)
+> 		- Extrakardial (z.B. LAE, [[Aorta]], pHTN, Sepsis)
+> 	- *Reflexsynkope*
+> 		- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS bei Tachykardie ohne Hypotonie)
+> 		- Situativ (z.B. Miktion, [[Husten]], nach Belastung)
+> 		- Carotissinussyndrom (Atherosklerose + mech. Reizung z.B. durch Kopfdrehung, Krawatte, Rasieren)
+> 	- *Orthostatische Synkope*
+> 		- Autonome Dysregulation (z.B. Parkinson, MS, Diabetes)
+> 		- Hypovolämie (z.B. [[GI-Blutung]], Dehydratation, [[Diarrhoe]])
+> 		- Medikamenten-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
 
 ![[TLOC]]
 

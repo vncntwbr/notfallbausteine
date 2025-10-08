@@ -6,7 +6,7 @@ tags:
 > [!dd] DD
 > - **Killer:** [[Aorta]], [[ACS]], [[Mesenterialischämie]], Perforation/EUG, [[DKA]]
 > - *Peritonitis:* Blutung, [[Sepsis]], SBP, [[Appendizitis]], [[Pankreatitis]], [[Divertikulitis]]
-> - *Pseudoperitonitis:* [[DKA]], [[HyperCa2+]], abd. Angioödem, FMF, [[Sichelzellkrise]], [[Porphyrie]]
+> - *Pseudoperitonitis:* [[DKA]], [[HyperCa2+]], abd. [[Angioödem]], FMF, [[Sichelzellkrise]], [[Porphyrie]]
 > - [[Gallenerkrankungen]]
 > - *Vask:* [[Mesenterialischämie]], Retroperitoneales Hämatom, Milzinfarkt, Niereninfarkt
 > - [[Ileus]], Obstipation

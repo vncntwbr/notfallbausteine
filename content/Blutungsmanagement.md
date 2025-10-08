@@ -10,7 +10,7 @@ tags:
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
 > 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (16G, [[i.o.]])
 > 3. **LABOR:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]
-> 4. **Ungekreuzte [[Transfusion|TRANSFUSION]]:** 0pos (nur W 0neg), Doku numm. Barcodes auf Blanko-A4
+> 4. **Ungekreuzte [[Transfusion|TRANSFUSION]]:** 0+ (nur W 0–), Doku numm. Barcodes auf Blanko-A4
 > 5. **ANTAgonisierung**
 > 	- *Xarelto®, Eliquis®, Lixiana®* → PPSB 2.500-5.000 IE
 > 	- *Marcumar®* → PPSB + VitK 10 mg/d für 3d

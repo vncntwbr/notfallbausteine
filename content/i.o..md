@@ -12,5 +12,8 @@ title: Intraossärer Zugang (i.o.)
 ^dc23ba
 
 - Tibia vs. Humerus gleich[^1]
+- Tutorial EZ-IO recyclen[^2]
 
 [^1]: Marcus Eng Hock Ong, An observational, prospective study comparing tibial and humeral intraosseous access using the EZ-IO, The American Journal of Emergency Medicine, 2009, https://doi.org/10.1016/j.ajem.2008.01.025.
+
+[^2]: Pixelstorm. „EZIO Drill Recycling“. ETM Course, 28. September 2022. [https://etmcourse.com/ezio-drill-recycling/](https://etmcourse.com/ezio-drill-recycling/).
