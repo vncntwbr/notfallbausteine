@@ -4,7 +4,7 @@ tags:
   - status/started
 ---
 
-- Dexamethason i.v. als Adjuvanz verlängert Block um 4h, reduziert post-OP Opioide um 19 mg Morphin[^1]
+- Dexamethason i.v. als Adjuvanz verlängert Block um 4h, reduziert post-OP [[Opioide]] um 19 mg Morphin[^1]
 - [Pin-up-Docs Skript RA](https://pin-up-docs.de/2025/08/15/foamed-die-regionalanaesthesie/)
 - **Indikationen**
 	- *Obere Extremität*

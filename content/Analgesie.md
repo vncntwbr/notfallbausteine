@@ -20,7 +20,7 @@ tags:
 > 	- *WHO-Stufenschema:* Stufe I ± Stufe II oder Stufe III
 > 	- *Physikalische Maßnahmen* ausreizen (Kühlung/Wärme, Schienung etc.)
 > 	- *[[Regionalanästhesie]]* erwägen
-> - **Opioide:**[^2]
+> - **[[Opioide]]:**[^2]
 > 	- *Nicht-sensibel:* z.B. [[Kopfschmerz]]
 > 	- *Obstipationsprophylaxe:* Immer (z.B. Movicol, Lactulose)
 > 	- *Schema:* Basistherapie retardiert 1-0-1 + Bedarfsmedikation 4-6x/d mit 1/6 der Tagesdosis
@@ -30,12 +30,12 @@ tags:
 
 > [!management] Nicht-Opioid-Analgetika
 > - **ASS:** Cave Salicylatintoxikation ([[Metabolische Azidose]]), GI-Ulcera
-> - **Paracetamol:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit Esketamin/Opioide
+> - **Paracetamol:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit Esketamin/[[Opioide]]
 > - **Ibuprofen:** Ceiling-Effekt 400 mg p.o. Einzeldosis, Cave Nephrotox. (KI bei [[AKI]]/CKD), Kardiotox. (KI bei HFrEF, kann Dekomp. triggern), GI-Ulcera
 > - **Metamizol:** 500-1000 mg p.o. > i.v.[^1], = 20-40 Tropfen, Ceiling-Effekt 1g, Cave [[Anaphylaxie]], [[Neutropenie]]/Agranulozytose
 > - **[[esKETAmin]]**
 
-> [!management] Opioide
+> [!management] [[Opioide]]
 > - **Tramadol (Tramal®):** Nein, Cave [[Serotonin-Syndrom]], UAW Übelkeit
 > - **Tilidin/Naloxon** 50 mg retard p.o. 1-0-1, max. 600 mg/d, unretardiert 50 mg b.B., kaum Obstipation, Cave Abhängigkeit, [[Serotonin-Syndrom]]/WW
 > - **Piritramid (Dipidolor®)** 7.5 mg KI i.v., max. Wirkung in 20 min
@@ -44,7 +44,7 @@ tags:
 > - **Hydromorphon (Palladon®)** 4 mg retard 1-0-1, unretardiert 1.3-2.6 mg b.B. 4-6x/d
 > - **Fentanyl (Durogesic®)** 50 μg-weise titriert i.v., nasal 100-200 μg i.n., Pflaster nur in stabiler Situation, Wechsel alle 3d, Cave KI Kachexie, Freisetzung↑ bei Wärme/[[Fieber]]
 > - **Buprenorphin**
-> - Siehe [[Opioidabusus]]
+> - Siehe [[Opioide]]
 
 > [!management] Co-Analgetika
 > - **Bei Neuropathischen Schmerzen:**

@@ -18,7 +18,7 @@ tags:
 |                                      | untere Hälfte | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    |                                 |
 | MR-Antagonisten                      | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    | schwarzer Querbalken            |
-| Opiate/Opioide                       | monochrom     | Blue 297         | 133.199.227  | 37.11.0.11     | Schwarz    | Für "Piritramid" Schrift weiß   |
+| Opiate/[[Opioide]]                       | monochrom     | Blue 297         | 133.199.227  | 37.11.0.11     | Schwarz    | Für "Piritramid" Schrift weiß   |
 | Opiat-Antagonisten                   | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Blue 297         | 133.199.227  | 37.11.0.11     |            |                                 |
 | Vasopressoren                        | monochrom     | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |

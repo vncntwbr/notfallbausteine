@@ -6,7 +6,7 @@ tags:
 - **Ä**
 	- *Insulin-Überdos:* Suizidal? Inadhärenz? Langwirksam stationär, kurzwirksam Ü 6h
 	- *Orale Antidiabetika:* Sulfonylharnstoffe, Glinide
-	- *Intox:* Alkohol?
+	- *[[Intox]]:* Alkohol?
 	- *MOV:* Schock, Sepsis, Palliativ?
 - **T**
 	- G40% 50 ml (20g) i.v. + VEL über guten Zugang[^1], alt. Glukagon 1 mg i.m.

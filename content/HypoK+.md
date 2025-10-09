@@ -18,11 +18,11 @@ aliases:
 > [!workup]
 > - **[[Anamnese|A]]:** [S] [[Ü+E]], Diarrhoe? Muskelschwäche? [M] Diuretika? Cortison? Laxanz? Clindamycin? [P] Mangelernährung/Essstörung? [R] Lakritz? 
 > - **[[BGA]]:** Azidose/Alkalose?
-> - **[[Labor]]:** Basis + Mg2+, Phosphat, ggf. [[Digoxin]]-Spiegel
+> - **[[Labor]]:** Basis + Mg2+, Phosphat, ggf. [[Digitalis]]-Spiegel
 > - **[[EKG]]:** T-Verlust ("no pot no tea"), betontes U, ggf. STD, VES/HRST
 
 > [!dd] DD
-> - Cave: Aggravation [[Digoxin-Intoxikation]]
+> - Cave: Aggravation [[Digitalis]]
 > - Conn-Syndrom
 > - Cushing-Syndrom
 > - HOKPP (autosomal-dominant)

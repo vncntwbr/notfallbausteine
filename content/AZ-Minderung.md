@@ -17,7 +17,7 @@ aliases:
 
 > [!anamnese]+ (Fremd-)Anamnese
 > - **S:** H.a. Infektion?
-> - **M:** Neu? [[Anticholinerges Syndrom]]? Sedativa? Antipsychotika? Opioide? [[Interaktionen]]? Neue Meds?
+> - **M:** Neu? [[Anticholinerges Syndrom]]? Sedativa? Antipsychotika? [[Opioide]]? [[Interaktionen]]? Neue Meds?
 > - **E:** Funktioneller Vorzustand?
 > - **Sozial:** Therapieziel ([[Palliativsituation]])?
 

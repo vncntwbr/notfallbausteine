@@ -50,7 +50,7 @@ aliases:
 > 	- [[Anämie]]
 > 	- [[Intox]] (z.B. CO, Cyanid, Rauchgas)
 > - **Neurogen**
-> 	- ZNS-Atemdepression (z.B. Opioid-Intox, [[Hirndruck]], [[HE]])
+> 	- ZNS-Atemdepression (z.B. Opioid-[[Intox]], [[Hirndruck]], [[HE]])
 > 	- Neuromuskulär (z.B. ALS, MS, Myasthenie, GBS)
 > 	- Zwerchfellparese (z.B. iatrogen nach ZVK/Plexusanästhesie)
 > - **Psychogen**

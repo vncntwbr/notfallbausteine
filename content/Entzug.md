@@ -51,7 +51,7 @@ tags:
 > - **Spliff:** Joint ohne Tabak
 > - **Steine:** Crack
 > - **Steckis:** Miosis
-> - **Turkey:** Entzug (v.a. Opioide)
+> - **Turkey:** Entzug (v.a. [[Opioide]])
 > - **Yaba, Yama:** Metamphetamin
 
 - **Polyvalenter Substanzgebrauch:** Immer *zuerst* [[Alkohol]]-Entzug mit Benzodiazepinen unter Fortführung/Substitution weitere Drogen

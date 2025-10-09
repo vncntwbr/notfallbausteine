@@ -30,7 +30,7 @@ tags:
 > 1. **[Triggermedikamente](https://drugs-porphyria.org)** absetzen
 > 2. **Glucose** G10% 500 ml 2x über 1h, Tagesdosis Glucose 4g/kg/d
 > 3. **Symptomatisch:**
-> 	- *Schmerzen:* Paracetamol, Opioide, Gabapentin, ggf. PCIA/[[Regionalanästhesie]] (Cave: kein Metamizol)
+> 	- *Schmerzen:* Paracetamol, [[Opioide]], Gabapentin, ggf. PCIA/[[Regionalanästhesie]] (Cave: kein Metamizol)
 > 	- *Übelkeit:* Ondansetron, ggf. low-dose Haloperidol (0,5 mg i.v./s.c.) 
 > 	- *Tachykardie:* Metoprolol 
 > 	- *[[Hypertonie]]:* Nitroglycerin, Clonidin 

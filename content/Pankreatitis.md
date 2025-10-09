@@ -8,7 +8,7 @@ tags:
 - **W**
 	- [BISAP](https://www.mdcalc.com/calc/1735/bisap-score-pancreatitis-mortality)
 - **T**
-	- [[Analgesie]] (Opioide), VEL individuell[^1], Ernährung p.o. fettarm
+	- [[Analgesie]] ([[Opioide]]), VEL individuell[^1], Ernährung p.o. fettarm
 	- *Biliär/Cholangitisch:* [[ERCP]], ggf. Ceftriaxon + Metronidazol
 	- *Infizierte Nekrosen:* Meropenem 3 g i.v.
 

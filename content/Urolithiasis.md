@@ -16,7 +16,7 @@ title: Urolithiasis / Nierenkolik
 > [!management]-
 > - **[[Analgesie]]:** Metamizol 1g p.o. 1-1-1-1 + [[NSAR]] Ibuprofen/Paracetamol
 > 	- kein Butylscopolamin[^1]
-> 	- ggf. Opioide, ambulant nur wenn unumgänglich Tilidin/Naloxon 50/4 mg retard 1-0-1[^2]
+> 	- ggf. [[Opioide]], ambulant nur wenn unumgänglich Tilidin/Naloxon 50/4 mg retard 1-0-1[^2]
 > - **[[Volumentherapie]]** p.o. und i.v.
 > - **Ureter-Relaxation:** Tamsulosin 0.4 mg p.o. 1-0-0 (OLU)
 > - **Mobilisation/Bewegung** (möglichst Warteraum sitzend)

@@ -10,7 +10,7 @@ tags:
 - Flucloxacillin → Tacrolimus↓, Azol-Antimykotika↓[^1]
 - PipTaz → MTX-Elimination↓, Akkumulation insb. high-dose onkolog. Dosen[^2]
 - Ciprofloxacin → Theophyllin↑[^3]
-- Clarithromycin → CYP3A4-Inhib., u.a. Calciumantagonisten, Statine, pot. fatal mit Colchicin in [[AKI]][^4]
+- Clarithromycin → CYP3A4-Inhib., u.a. [[Calciumantagonisten]], Statine, pot. fatal mit Colchicin in [[AKI]][^4]
 - Cotrimoxazol + RAAS-Inhibitoren → fatale [[HyperK+]][^5]
 - Carbapeneme → Valproat↓ 80% 
 

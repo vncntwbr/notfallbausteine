@@ -60,7 +60,7 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > 	- **Schleifendiuretika:** Torasemid 10-20 mg q24h / Furosemid q6h oder 
 > 	  **Thiazide:** Xipamid 10-40 mg/d / Chlortalidon 25 mg/d / HCT meiden (Cave: [[HypoNa+]], [[HypoK+]], [[AKI]])
 > 	- Eisen i.v.
-> 	- Digitalis (Reservemittel)
+> 	- [[Digitalis]] (Reservemittel)
 
 > [!disposition]+
 > - ...

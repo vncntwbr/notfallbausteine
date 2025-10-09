@@ -8,8 +8,8 @@ tags:
 	- *Antipsychotika:* ≥1 Tbl. [[Vigilanzminderung]], oft Retard
 	- *Babypuder Aspiration:* "Austrocknen" AW, symptomfreies Intervall 24h → Prednisolon i.v., BAL, Surfactant p.i.
 	- *Backofen-/Rohrreiniger:* Massive Verätzungen → Notfall-ÖGD
-	- *[[Betablocker-Intoxikation]]:* insb. Propanolol u.a. lipophile BB
-	- *[[Calciumantagonisten-Intoxikation]]:* <4 J.
+	- *[[Betablocker]]:* insb. Propanolol u.a. lipophile BB
+	- *[[Calciumantagonisten]]:* <4 J.
 	- *[[Ethylenglykol]] (Kühlpacks, Frostschutzmittel)*
 	- *Chloroquin:* ≥20 mg/kg, ZNS-Sympt., [[HypoK+]]
 	- *Kampfer (Tiger Balsam):* ≥30 mg/kg, Krampfanfall, [[Vigilanzminderung]]

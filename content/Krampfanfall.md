@@ -43,7 +43,7 @@ aliases:
 > 	- Vitien? Leberhautzeichen? Infektzeichen? 
 > 	- Neuro-Screen (Meningismus? [[FND]]?)
 > - **[[EKG]]:** Adam-Stokes / konvulsive [[Synkope]]? H.a. [[Hirndruck]]?
-> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? Anionenlücke → Intox?), Profil "Krampfanfall"
+> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? Anionenlücke → [[Intox]]?), Profil "Krampfanfall"
 > 	- *Spiegelbestimmung Antikonvulsiva:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
 > - **[[LP]]:** nur bei V.a. autoimmune Genese oder DD [[Meningitis]]/Encephalitis
 > - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG

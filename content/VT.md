@@ -18,6 +18,6 @@ title: Ventrikuläre Tachykardie (VT)
 > [!dd] DD (WIDER)
 > - WPW
 > - Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
-> - Drugs (I-Antiarrhythmika, ==[[TCA-Intoxikation]]==)
+> - Drugs (I-Antiarrhythmika, ==[[TCA]]==)
 > - [[Elektrolyte]] (==[[HyperK+]]==)
 > - Raised STE

@@ -62,7 +62,7 @@ aliases:
 > 3. **Indikation Akutdialyse?** (AEIOU)
 > 	- Azidämie pH <7.1, therapierefraktär
 > 	- [[Elektrolytstörung]], insb. schwere [[HyperK+]]
-> 	- [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], Lithium)
+> 	- [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
 > 	- Overload ([[Lungenödem]]), therapierefraktär
 > 	- Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert
 > 4. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei BRASH bradykardisierende Meds pausieren

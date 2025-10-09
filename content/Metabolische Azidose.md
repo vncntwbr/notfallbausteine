@@ -37,7 +37,7 @@ aliases:
 
 > [!dd] Erniedrigte Anionenlücke
 > - Laborfehler (bei Hyponatriämie, Hyperlipidämie)
-> - Kationen↑ (Lithium, K+, Ca2+, Mg2+)
+> - Kationen↑ ([[Lithium]], K+, Ca2+, Mg2+)
 > - Hypalbuminämie (AG -2.5 mM je -10 g/l Albumin)
 > - Multiples Myelom
 > - Pseudohyperchloridämie (Iodid, Bromid, Salicylate)

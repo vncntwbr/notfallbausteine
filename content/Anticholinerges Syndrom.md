@@ -17,6 +17,6 @@ tags:
 > 	- div. Pflanzen
 > - **Mixed Effects inkl. anticholinerg**
 > 	- *1. Gen. Antihistaminika:* z.B. Clemastin, Dimenhydrinat, Diphenhydramin, Doxepin
-> 	- *[[TCA-Intoxikation]]:* z.B. Amitriptylin
+> 	- *[[TCA]]:* z.B. Amitriptylin
 > 	- *Muskelrelaxanzien:* ###
 > 	- *Antipsychotika:* insb. Chlorpromazin, Olanzapin, Quetiapin

@@ -16,4 +16,4 @@ title: Urin-Status
 - **Ketonurie:** Unterernährung, [[DKA]], Hypothyreose, [[Alkohol]] chron.
 	- *falsch-pos:* Captopril, L-Dopa
 - **Proteinurie:** Nierenerkrankung glomerulär/tubulär, evtl. Aktivität/Stress
-- **pH Urin:** nw 4.5-8.0, [↑] bei Alkalose, ASS-Intox, HCO3-, [↓] Azidose, Diabetes, Ketose, PKU
+- **pH Urin:** nw 4.5-8.0, [↑] bei Alkalose, ASS-[[Intox]], HCO3-, [↓] Azidose, Diabetes, Ketose, PKU
