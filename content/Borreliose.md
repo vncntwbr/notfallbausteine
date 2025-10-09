@@ -13,7 +13,7 @@ title: Lyme-Borreliose (Erythema migrans)
 > - Insektenstich (keine Symptomlatenz, abklingend nach 48h)
 > - Erysipel (Entzündungszeichen)
 > - Pilzinfektion (Juckreiz, Schuppung)
-> - Ringelröteln (Kinder, Fieber, ggf. Antikörpernachweis)
+> - Ringelröteln (Kinder, [[Fieber]], ggf. Antikörpernachweis)
 
 > [!workup]+
 > - **[[Anamnese|A]]:** Auftreten 3-30d nach Zeckenbiss (oft nicht erinnerlich)

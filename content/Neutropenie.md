@@ -18,7 +18,7 @@ aliases:
 
 > [!disposition]+
 > - **Ambulant:** [MASCC](https://www.mdcalc.com/calc/3913/mascc-risk-index-febrile-neutropenia) ≥21 Pkt. + alle Kriterien:
-> 	- ==Keine Fluorchinolon-Prophylaxe vor Fieber==
+> 	- ==Keine Fluorchinolon-Prophylaxe vor [[Fieber]]==
 > 	- Häusliche Versorgung, Klinik <1h erreichbar
 > 	- Orale Therapie + Adhärenz
 > 	- Kein H.a. Sepsis nach Workup

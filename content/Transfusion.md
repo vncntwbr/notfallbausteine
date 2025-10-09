@@ -13,7 +13,7 @@ tags:
 
 > [!danger] Indikation TK
 > - **Thrombos <50/nl** vor bestimmten Interventionen (z.B. [[ZVK]], OP)
-> - **Thrombos <20/nl + Fieber** (erhöhter Verbrauch)
+> - **Thrombos <20/nl + [[Fieber]]** (erhöhter Verbrauch)
 > - **Thrombos <10/nl** (außer ITP/TTP!)
 > - Pseudothrombozytopenie mit Thrombexakt-Röhrchen ausschließen
 > - TK-Transfusion unabhängig von der Blutgruppe → kein Bedside-Test notwendig

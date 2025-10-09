@@ -22,7 +22,7 @@ title: Reanimation / Arrest (CPR)
 > - **AB:** Hypoxie? [[Pneu]]?
 > - **C:** Tamponade? Hypovolämie? [[LAE]] ([[Lyse]])? OMI ([[ECMO]])?
 > - **[[BGA]]:** [[HyperK+]] (CalcGluc 10% 30 ml + Insulin 10 IE + G10% 250ml + NaBic 8.4% 100 ml, spülen)? [[HypoK+]] (KCl 40 mmol + [[MgSO4]] 2g als KI)? [[Hypoglykämie]]? [[Intox]]?
-> - **E:** [[Hyperthermie]] (kühlen, NaCl 3%)? [[Hypothermie]] (<30° Ø Epi, <35° q8min)?
+> - **E:** [[Fieber]] (kühlen, NaCl 3%)? [[Hypothermie]] (<30° Ø Epi, <35° q8min)?
 
 > [!management] CPR-Quali optimieren!
 > - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie]]), Puls unter CPR

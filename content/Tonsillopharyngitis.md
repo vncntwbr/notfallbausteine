@@ -21,4 +21,4 @@ tags:
 
 [^4]: Komplikationen (Rheumatisches Fieber, Post-Strep-GN) durch ABx nicht verhindert
 
-[^5]: Indikation Tonsillektomie im Verlauf: Nur bei ≥6x / 12 Mo (infektbedingte Halsschmerzen mit Fieber >38.3°C und Tonsillenexsudat oder neuer zervikaler LAD), bei rez. Tonsillitiden ggf. Versuch ABx Erregereradikation nach Abstrich, ambulant
+[^5]: Indikation Tonsillektomie im Verlauf: Nur bei ≥6x / 12 Mo (infektbedingte Halsschmerzen mit [[Fieber]] >38.3°C und Tonsillenexsudat oder neuer zervikaler LAD), bei rez. Tonsillitiden ggf. Versuch ABx Erregereradikation nach Abstrich, ambulant

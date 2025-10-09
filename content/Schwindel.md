@@ -3,23 +3,29 @@ tags:
   - sy/kopf-neuro
   - status/started
 ---
-> [!danger]+ Rapid Reference
-> 1. **Internistische Ursache?** VP, [[EKG]], [[Anamnese|A]]+[[Untersuchung|U]], [[BGA]]
-> 2. **Neurologisches Defizit?** V.a. Stroke
-> 3. **Anhaltend (AVS)?** Akutes Vestibularsyndrom → HINTS zur DD Neuritis vestibularis vs. zentral
-> 4. **Triggerbar episodisch (tEVS)?** Dix-Hallpike zur DD [[BPLS]] vs. zentral
-> 5. **Spontan episodisch (sEVS)?** Anamnese zur DD Migräne, Menière, TIA
-
 > [!dd]+ DD
-> - **Killer:** [[Schock]], [[Hypoglykämie]], Elektrolytstörung, Meningitis, Kleinhirninfarkt
+> - **Anhaltend (AVS)**
+> 	- **Internistisch:** [[Schock]], [[Hypoglykämie]], [[Elektrolytstörung]]
+> 	- **Zentral:** [[Meningitis]], Hirnstamm-/Kleinhirninfarkt ("4 Dangerous D's", [[FND]])
+> - **Triggerbar episodisch (tEVS):** Lagerung zur DD [[BPLS]] vs. zentral
+> - **Spontan episodisch (sEVS):** [[Anamnese|A]] zur DD Migräne, M. Menière, TIA
+
+> [!anamnese]+
+> - **S:** OPQRST+ (plötzlich)? Anhaltend/episodisch? Dauer je Attacke? Ohrgeräusch, Hörminderung? [[Ü+E]]? [[Kopfschmerz|Kopf-]] o.a. Schmerzen? [[FND]] (insb. Diplopie, Dysphagie, Sprechstörung, Fallneigung)? [[TLOC]], [[Synkope]]-RedFlags? 
+> - **A:** KM?
+> - **M:** [[Antikoagulation]]? Schwindel als UAW (neue Meds, Änderungen)?
+> - **P:** Migräne? Z.n. Stroke?
+> - **E:** Lagerung/Umdrehen? Trauma? HWS-Manipulationen? [[Intox]]?
+> - **R:** CVRF?
 
 > [!workup]+
-> - **[[Anamnese|A]]:** (S) OPQRST+, Diplopie, Dysphagie, Präsynkope, (M) [[Antikoagulation]], Schwindel als UAW, (E) BPLS, Trauma, HWS-Manipulation, Intox, (R) CVRF
-> - **[[Untersuchung|U]]:** Neurostatus, Gang+Stand
+> - **[[Untersuchung|U]]:** VP (insb. AF, HF, Temp.)? intern. Status? Neurostatus? Nystagmus? Gang+Stand?
 > 	- **HINTS** (nur bei AVS + Spontannystagmus)
 > 		- *Test of Skew:* Nachstellbewegung/Deviation (V.a. Stroke)
 > 		- *Head Impulse:* Muss pathologisch sein (gesichert Neuritis vestibularis, sonst Stroke)
 > 	- **Lagerungsmanöver** (tEVS)
 > 		- *Dix-Hallpike + Epley*
 > 		- *Head-Roll + Gufoni*
-> - **Red Flags:** FND, 4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie, Kopfsz. ([[ICB]]?), Nackensz. (Vertebralisdissektion?)
+> - **[[EKG]]**
+> - **[[Labor]]:** [[BGA]], Profil "Stroke"
+> - **Red Flags (=V.a. [[Stroke]]):** [[FND]], Hirnstamm-4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie (sitzen), Gangataxie, [[Kopfschmerz]] ([[ICB]]?), [[Halsschmerz|Nackenschmerz]] (Vertebralisdissektion?)

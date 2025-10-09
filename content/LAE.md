@@ -9,7 +9,7 @@ title: Lungenarterienembolie (LAE)
 ![[Crashing RV#^957508]]
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? Fieber? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
+> - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? [[Fieber]]? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
 > - **[[Untersuchung|U]]:** VP, Halsvenenstauung? TVT?
 > - **[[EKG]]:** RV-Strain (Sinustachy, T-Neg III + V1-V4, SIQIIITIII, RSB)
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?

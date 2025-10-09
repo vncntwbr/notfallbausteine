@@ -16,7 +16,7 @@ aliases:
 
 > [!workup]+
 > - **[[Anamnese|A]]:** [[STI]]-Anamnese (Vaginalpilzinfektion Partnerin? Syphilis? Chlamydien? Herpes genitalis?)
-> - **[[Untersuchung|U]]:** Blickdiagnose, VP (Fieber? → [[Sepsis]]-Workup, DD Fournier-Gangrän)
+> - **[[Untersuchung|U]]:** Blickdiagnose, VP ([[Fieber]]? → [[Sepsis]]-Workup, DD Fournier-Gangrän)
 > - **Abstrich:** ggf. [[STI]] (Syphilis, Chlamydien, Herpes genitalis), atypischer Befund ggf. E+R, Candida, HSV
 > - **[[Urin]]:** Glucosurie (SGLTi? ED Diabetes? HWI?)
 

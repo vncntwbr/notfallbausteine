@@ -42,7 +42,7 @@ tags:
 > - ==**Oxycodon/Naloxon (Targin)** 3-5 mg i.v., 10 mg retard p.o. 1-0-1, unretardiert 5 mg b.B. 4-6x/d==
 > - **Morphin** 2mg-weise i.v., 10 mg retard 1-0-1, unretardiert 10 mg b.B. 4-6x/d, Cave CKD, Histaminerge UAW, nur mäßig potent
 > - **Hydromorphon (Palladon®)** 4 mg retard 1-0-1, unretardiert 1.3-2.6 mg b.B. 4-6x/d
-> - **Fentanyl (Durogesic®)** 50 μg-weise titriert i.v., nasal 100-200 μg i.n., Pflaster nur in stabiler Situation, Wechsel alle 3d, Cave KI Kachexie, Freisetzung↑ bei Wärme/Fieber
+> - **Fentanyl (Durogesic®)** 50 μg-weise titriert i.v., nasal 100-200 μg i.n., Pflaster nur in stabiler Situation, Wechsel alle 3d, Cave KI Kachexie, Freisetzung↑ bei Wärme/[[Fieber]]
 > - **Buprenorphin**
 > - Siehe [[Opioidabusus]]
 

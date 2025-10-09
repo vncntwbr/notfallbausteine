@@ -13,7 +13,7 @@ title:
 > [!dd]+ DD
 
 > [!anamnese]+ Anamnese
-> - **S:** [[Husten]], Auswurf, [[Hämoptysen]]? [[Dyspnoe]], Tachypnoe? Fieber, Schüttelfrost? B-Symptomatik? Schmerzen (atemabhängig)?
+> - **S:** [[Husten]], Auswurf, [[Hämoptysen]]? [[Dyspnoe]], Tachypnoe? [[Fieber]], Schüttelfrost? B-Symptomatik? Schmerzen (atemabhängig)?
 > - **A:** Penicillin (PEN-FAST)?
 > - **M:** ABx?
 > - **P:** Lunge? [[Immunsupp.]]? Tumor? Dysphagie? Demenz? [[Schwanger]]?

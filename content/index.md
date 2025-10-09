@@ -3,7 +3,7 @@ title: Home
 aliases:
   - Home
 ---
-- **Cave:** Alles außer #status/done mit besonderer Vorsicht zu genießen
+> [!warning] **Cave:** Alles außer #status/done mit besonderer Vorsicht zu genießen
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
 - **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Probleme**

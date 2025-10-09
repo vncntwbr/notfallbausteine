@@ -9,7 +9,7 @@ tags:
 	- *M:* [[Antikoagulation]]? Bedarfsmed?
 	- *E:* H.a. CO?
 	- *R:* Alkohol, Drogen, Rauchen, FA (Migräne, Aneurysma)
-- R **Red Flags:** Alter >50 J., Tumor/Immunsupp., [[Schwanger]], plötzlich, Fieber, Meningismus, Sehstörung, refraktär, Schmerz anders als bekannt[^1]
+- R **Red Flags:** Alter >50 J., Tumor/Immunsupp., [[Schwanger]], plötzlich, [[Fieber]], Meningismus, Sehstörung, refraktär, Schmerz anders als bekannt[^1]
 - **DD**
 	- *Vernichtungs-:* [[SAB]], RCVS, PRES, Sinusvenenthrombose
 	- *Plötzl. Halbseiten-:* Carotis-/Vertebralisdissektion, Trigeminusneuralgie, Riesenzellarteriitis

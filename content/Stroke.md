@@ -8,11 +8,11 @@ title: Stroke / Schlaganfall
 - **[[Anamnese|A]]:** [S] Exakt Onset? Schmerzen? Infekt? [A] Gentamicin (in Metalyse)? [M] [[Antikoagulation]]/TAH? Letzte Einnahme? [P] Bek. Defizit? [[SHT]]/OP <3 Mo? VHF? Tumor? [L] Last seen well? [E] Trauma? Funktioneller Vorzustand? [R] CVRF
 - **[[Untersuchung|U]]:** VP inkl. Temp., i.v.-Zugang ≥18G, NIHSS, [[EKG]]
 - **W**
-	- *Labor:* [[BGA]], Profil "Stroke", PoC INR, bei Fieber BK/[[Sepsis]]
+	- *Labor:* [[BGA]], Profil "Stroke", PoC INR, bei [[Fieber]] BK/[[Sepsis]]
 	- *Bildgebung:* [[NIHSS]] <10 MRT+MRA, ≥10 CT+CTA[^2], Onset >4.5h +Perfusion, wake-up/unbek. MR +DWI-FLAIR-Mismatch
 - **DD Stroke Mimics**
 	- [[Aorta]] Typ A (CTA immer bis Aortenbogen)
-	- Fieber/Infekt/[[Sepsis]]
+	- [[Fieber]]/Infekt/[[Sepsis]]
 	- [[Hypoglykämie]] ([[BGA]])
 	- [[HypoNa+]] ([[BGA]])
 	- Z.n. [[Krampfanfall]] (Todd'sche Parese, postiktal)

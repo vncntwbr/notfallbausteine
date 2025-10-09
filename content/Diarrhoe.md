@@ -19,7 +19,7 @@ title: Diarrhoe / Durchfall
 > [!dd]+ DD (siehe auch: [[Bauchschmerz]], [[GI-Blutung]], [[Sepsis]])
 
 > [!anamnese]+ Anamnese
-> - **S:** Symptombeginn? Stuhl (Frequenz, Konsistenz, Farbe, Tenesmen/Schmerzen, Blutbeimengung, Teerstuhl)? [[Ü+E]]? OPQRST+? Fieber, Schüttelfrost? Trinkmenge (ausreichend)?
+> - **S:** Symptombeginn? Stuhl (Frequenz, Konsistenz, Farbe, Tenesmen/Schmerzen, Blutbeimengung, Teerstuhl)? [[Ü+E]]? OPQRST+? [[Fieber]], Schüttelfrost? Trinkmenge (ausreichend)?
 > - **M:** Checkpoint-Inhibitoren? Selbstmedikation (Loperamid, Kohle, ...)?
 > - **P:** Vor-OP abd.?
 > - **L:** Coloskopie? ABx (C. diff)?

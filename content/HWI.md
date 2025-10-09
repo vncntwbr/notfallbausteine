@@ -9,14 +9,14 @@ aliases:
 title: Harnwegsinfektion (HWI)
 ---
 > [!dd] DD
-> - **Unkompliziert:** Frauen + kein Risikofaktor (Diabetes, Anatomie, Restharn, DK, rezidivierende HWI) + Nierenfunktion ok + kein Fieber
+> - **Unkompliziert:** Frauen + kein Risikofaktor (Diabetes, Anatomie, Restharn, DK, rezidivierende HWI) + Nierenfunktion ok + kein [[Fieber]]
 > - **Komplizierter HWI**
 > - [[Harnverhalt]]
 > - [[Hämaturie]]
 > - ==[[STI]]==, Prostatitis, Urethritis, Epididymitis/Orchitis, [[Balanitis]], Skrotalabszess, Fournier-Gangrän
 
 > [!anamnese]
-> - **S:** Algurie? Pollakisurie? Sonst. Dysurie? Urinmenge, -farbe, -geruch? Ausfluss? Juckreiz? Schmerzen? Fieber, Schüttelfrost?
+> - **S:** Algurie? Pollakisurie? Sonst. Dysurie? Urinmenge, -farbe, -geruch? Ausfluss? Juckreiz? Schmerzen? [[Fieber]], Schüttelfrost?
 > - **A:** ABx?
 > - **M:** Prüfe [[Interaktionen]] Dauermedikation+ABx
 > - **P:** [[Immunsupp.]] (auch: Diabetes, Alkohol)? Epilepsie? Rezidivierende HWI? Prostata? [[Schwanger]]?

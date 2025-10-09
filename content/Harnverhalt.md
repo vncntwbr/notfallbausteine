@@ -11,7 +11,7 @@ tags:
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
 > [!anamnese]-
-> - **S:** Schmerzen/OPQRST+? Algurie, Dysurie? Makrohämaturie? Fieber, Schüttelfrost? Schwäche, Paresen? Stuhlinkontinenz? [[Delir]]?
+> - **S:** Schmerzen/OPQRST+? Algurie, Dysurie? Makrohämaturie? [[Fieber]], Schüttelfrost? Schwäche, Paresen? Stuhlinkontinenz? [[Delir]]?
 > - **A:** Latex? ABx?
 > - **M:** Anticholinerge UAW?
 > - **P:** Z.n. DK? Tumor? Neurogene Entleerungsstörung? [M] BPH? [W] Descensus?

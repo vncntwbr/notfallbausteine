@@ -7,12 +7,12 @@ aliases:
 > [!dd]+ Do Not Miss DD
 > - **Killer:** ==[[Aorta]]==
 > - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
-> - **Infektion** (==Spondylodiszitis==, Abszess) → [[Anamnese|A]] (Fieber? Z.n. Spritzen?), Labor, MRT
+> - **Infektion** (==Spondylodiszitis==, Abszess) → [[Anamnese|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
 > - **Osteoporotische Fraktur** → bei Osteoporose großzügig Rö
 
 > [!anamnese]+
-> - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? Fieber? B-Symptomatik? 
+> - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? [[Fieber]]? B-Symptomatik? 
 > - **A:** NSAR?
 > - **M:** Cortison? [[Immunsupp.]]? [[Antikoagulation]]? 
 > - **P:** Tumor? Osteoporose? Diabetes (=Immunsuppr.)?
@@ -27,7 +27,7 @@ aliases:
 > - **Red Flags**
 > 	- *Fx/Mets:* Trauma, Osteoporose, Cortison, KS über WS, Krebs, B-Sympt.
 > 	- *Radikulopathie:* Ausstrahlend (L4-S1), Reithosen, Extr.-Schwäche, Inkontinenz/Harnverhalt
-> 	- *Infekt:* Fieber/IFP, Immunsupp., i.v.-Drogen, OP, Spritzen
+> 	- *Infekt:* [[Fieber]]/IFP, Immunsupp., i.v.-Drogen, OP, Spritzen
 > - **[[EKG]]**
 > - **[[POCUS]]:** Neurogen Harnverhalt? Aorta >60 J.
 > - **[[Labor]]:** BGA, BB, Krea, CRP, ggf. BSG, ggf. BK
