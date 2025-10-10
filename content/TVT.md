@@ -6,7 +6,7 @@ aliases:
   - Thrombose
 title: Venöse Thrombose (TVT)
 ---
-> [!dd]+ DD siehe [[Beinschmerzen]] – Cave [[LAE]]
+> [!dd]+ DD siehe [[Extremitätenschmerz]] – Cave [[LAE]]
 
 > [!anamnese]+ Anamnese
 > - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], Hämoptysen, [[TLOC]])? B-Symptomatik?

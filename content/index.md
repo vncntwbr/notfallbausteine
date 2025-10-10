@@ -7,12 +7,13 @@ aliases:
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
 - **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]
 - **Häufige Probleme**
-	- *Allg.:* [[CPR]]/[[ROSC]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ↓]] [[Fieber]] [[Kinder]]
+	- *Allg.:* [[AZ↓]] [[CPR]]/[[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativsituation|Palliativ]] [[Schock]] [[Sepsis]]
 	- *Labor:* [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]
-	- *Kopf:* [[Kopfschmerz]] [[Halsschmerz|Hals-/Nackenschmerz]] [[Vigilanzminderung|Vigilanz]] [[Schwindel]] [[TLOC]] [[Psych]] [[FND]] [[Epistaxis]]
-	- *Thorax:* [[Brustschmerz]] [[Dyspnoe]] [[Husten]] [[Tachykardie]] [[Bradykardie]] [[Hypertonie]]
-	- *Rumpf:* [[Bauchschmerz]] [[Rückenschmerz]] [[Ü+E]] [[Diarrhoe]] [[GI-Blutung]] 
-	- *Urogenital:* [[Hodenschmerz]] [[STI]] [[Geburt]]
+	- *Kopf:* [[Kopfschmerz|Kopf.]] [[Halsschmerz|Hals/Nacken]] [[Vigilanzminderung|Vigilanz]] [[Schwindel]] [[TLOC]] [[Psych]] [[FND]] [[Epistaxis]]
+	- *Thorax:* [[Brustschmerz|Brust]] [[Bradykardie|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie|Tachy]]
+	- *Rumpf:* [[Bauchschmerz|Bauch]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz|Rücken]] [[Ü+E]]
+	- *Urogenital:* [[Hodenschmerz|Hoden]] [[Geburt]] [[STI]]
+	- *Haut/Extr.:* [[Anaphylaxie]] [[Extremitätenschmerz]] [[Hautveränderungen]]
 	- *Trauma:* [[Polytrauma]] [[SHT]]
 - **Häufige Diagnosen**
 	- *Neuro:* [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]

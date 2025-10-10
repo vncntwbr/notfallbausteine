@@ -103,7 +103,7 @@ function renderTranscludes(
                 tagName: "a",
                 properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
                 children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+                  //{ type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
                 ],
               },
             ]
