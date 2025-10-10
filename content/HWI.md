@@ -22,7 +22,7 @@ title: Harnwegsinfektion (HWI)
 > - **P:** [[Immunsupp.]] (auch: Diabetes, Alkohol)? Epilepsie? Rezidivierende HWI? Prostata? [[Schwanger]]?
 > - **L:** ABx?
 > - **E:** DK? Manipulation? Geschlechtsverkehr?
-> - **R:** STI-Risiko? Menopause/Stillen (ggf. Indikation lokales Östrogen)?
+> - **R:** [[STI]]-Risiko? Menopause/Stillen (ggf. Indikation lokales Östrogen)?
 
 > [!workup]
 > - **[[Untersuchung|U]]:** VP (Temp., AF, NEWS2), [M >65 J. / Diabetes] Penis, Skrotum, Perineum

@@ -6,7 +6,7 @@ tags:
 ---
 
 - **E:** Häufigste Ursache in ZNA, 90% viral
-- **W:** Klinik rules, kein Strep-A, kein E+R, bei STI-Risiko DD Gonokokken-Abstrich
+- **W:** Klinik rules, kein Strep-A, kein E+R, bei [[STI]]-Risiko DD Gonokokken-Abstrich
 	- *E+R:* Persistenz nach Therapie, H.a. Agranulozytose
 - **T**[^5]
 	- *[Centor](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis#when-to-use) =3:* ggf. ABx in SDM als "delayed Rx" (nur einlösen, wenn keine Besserung nach 2-3d)

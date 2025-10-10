@@ -27,7 +27,7 @@ aliases:
 > 	- *Anti-HBs <10 IE/l:* Simultanimpfung (Doku mit Chargennr.)
 > 		- Aktiv: Engerix B i.m. in Oberarm
 > 		- Passiv: Immunglobulin Behring 0.06 ml/kg i.m. in Oberschenkel (großes Volumen)
-> - **Andere STI**
+> - **Andere [[STI]]**
 > 	- *Testung* erst nach 14d sinnvoll (Inkubationszeit)
 > 	- *Doxy-PEP* 1x 200 mg p.o., OLU, bei MSM und bek. HIV, ARR -80% für Syphilis, Gonokokken und Chlamydien[^1]
 

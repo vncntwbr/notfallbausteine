@@ -22,7 +22,7 @@ aliases:
 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** (S) Algurie, Pollakisurie, Strangurie, Ausfluss, Infekt, (M) Immunsupp., (P) erstmalig?, DM, Kryptorchismus, (E) körperliche/sexuelle Aktivität?, (R) Mumps Impfung?, Sexualanamnese, STI RF
+> - **[[Anamnese|A]]:** (S) Algurie, Pollakisurie, Strangurie, Ausfluss, Infekt, (M) Immunsupp., (P) erstmalig?, DM, Kryptorchismus, (E) körperliche/sexuelle Aktivität?, (R) Mumps Impfung?, Sexualanamnese, [[STI]] RF
 > - **[[Untersuchung|U]]:** Inspektion+Palpation, Cremasterreflex, Harnröhrenabstrich bei V.a. [[STI]]
 > 	- *Prehn-Zeichen:* Hoden anheben, Schmerzabnahme? pos: [[Epididymitis]], neg: Hodentorsion ^516c4b
 > - **[[POCUS]]:** Perfusion↓ (PPW+ [[Hodentorsion]], aber kein Ausschluss)? Skrotalabszess? Restharn?
