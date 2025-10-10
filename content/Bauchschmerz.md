@@ -1,17 +1,33 @@
 ---
 tags:
   - sy/abdomen-haut-extr
-  - status/started
+  - status/done
 ---
-> [!dd] DD
-> - **Killer:** [[Aorta]], [[ACS]], [[Mesenterialischämie]], Perforation/EUG, [[DKA]]
-> - *Peritonitis:* Blutung, [[Sepsis]], SBP, [[Appendizitis]], [[Pankreatitis]], [[Divertikulitis]]
-> - *Pseudoperitonitis:* [[DKA]], [[HyperCa2+]], abd. [[Angioödem]], FMF, [[Sichelzellkrise]], [[Porphyrie]]
-> - [[Gallenerkrankungen]]
-> - *Vask:* [[Mesenterialischämie]], Retroperitoneales Hämatom, Milzinfarkt, Niereninfarkt
-> - [[Ileus]], Obstipation
-> - Dyspepsie
-> - Hernien
+> [!dd]+ DD
+> - **Schock + Bauchschmerz**
+> 	- [[Aorta]]
+> 	- [[EUG]]/Perforation
+> 	- [[Sepsis]]
+> 	- [[GI-Blutung]]
+> - **Peritonitisch**
+> 	- [[Mesenterialischämie]]
+> 	- [[DKA]]
+> 	- Abd. [[Angioödem]], FMF, [[Porphyrie]] u.a.
+> - **Oberbauch**
+> 	- [[ACS]]
+> 	- [[Gallenerkrankungen]]
+> 	- [[Pankreatitis]]
+> 	- [[Gastritis]]
+> 	- [[Gastroenteritis]]
+> 	- Flanken: [[Urolithiasis]]
+> 	- Unterlappenpneumonie u.ä.
+> - **Mittel-/Unterbauch**
+> 	- [[Appendizitis]] vs. [W] Salpingitis (bds. Druckschmerz LR+ 17)
+> 	- [[Ovarialtorsion]]
+> 	- [[Divertikulitis]]
+> 	- Hernie
+> 	- [[Hodentorsion]], [[STI]]
+> - **Ileus, Obstipation**
 
 > [!anamnese]+
 > - **S:** OPQRST+? [[Ü+E]]? [[Diarrhoe]]/[[Obstipation]]? Miktion? Ausfluss?
@@ -23,20 +39,25 @@ tags:
 > - **R:** Alkohol? Familie?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
+> - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
 > - **[[POCUS]]:** FAST, Bauchaorta (>60 J.), Nieren, Harnblase, Gallenblase/Leber, Darm
 > - **[[EKG]]:** DD [[ACS]], [[VHF]] ([[Mesenterialischämie]])
 > - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" ± PCT
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG
+> 1. **Immer Indikation weitere Diagnostik/CT:**
+> 	- Abwehrspannung, Peritonismus
+> 	- [[POOP]] / plötzliche, stärkste Schmerzen
+> 	- V.a. Ileus
+> 	- [[AZ↓]] (insb. geriatrisch niedrigschwellig CT)
 
 > [!Management]+
-> 1. **[[Analgesie]]**
-> 2. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
-> 3. **Antiemetika**
+> 2. **[[Analgesie]]**
+> 3. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
+> 4. **Antiemetika**
 > 	- *MCP:* Peristaltik↑, KI mech. Ileus oder Diarrhoe
 > 	- *Dimenhydrinat:* [[Anticholinerges Syndrom|anticholinerge UAW]], KI ältere Pat.
 > 	- *Ondansetron:* UAW Obstipation, [[Interaktionen]] serotonerge Meds
-> 4. **Gezielte Therapie nach DD**
+> 5. **Gezielte Therapie nach DD**
 
 > [!note]+ Unklarer Bauchschmerz
 > ```

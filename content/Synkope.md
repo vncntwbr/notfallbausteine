@@ -34,7 +34,7 @@ tags:
 |Prodromi|Keine oder [[Dyspnoe]], AP, Palpitationen|[[Schwindel]], “Schwarz vor Augen”, Schwitzen, Übelkeit, Hitzegefühl, Einengung Gesichtsfeld|
 |Persistierend|Persistierende Beschwerden|Vollständige Resolution|
 |Vorgeschichte|Kardial?|Rezidiv (wenn auch low-risk)? Autonome Dysregulation (z.B. Parkinson)? Epilepsie?|
-|Vegetativ|[[AZ-Minderung]], [[Dyspnoe]], AP? H.a. GI-Blutung?|Negativ|
+|Vegetativ|[[AZ↓]], [[Dyspnoe]], AP? H.a. GI-Blutung?|Negativ|
 |Familienanamnese|Kardial? Plötzliche Todesfälle?|Negativ|
 |Medikation|QTc-verlängernde Med.|Prüfen bzgl. Orthostase!|
 

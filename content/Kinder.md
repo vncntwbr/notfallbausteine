@@ -3,6 +3,7 @@ tags:
   - basics
   - sy/kinder
   - status/started
+title: Kindernotfall
 ---
 > [!danger] Resuscitation
 > - **Gewicht:**

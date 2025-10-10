@@ -6,21 +6,20 @@ aliases:
 > [!warning] **Cave:** Alles außer #status/done mit besonderer Vorsicht zu genießen
 - **Basics** [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[POCUS]] [[Untersuchung]] [[U-Status]]
 - **Interventionen** [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]
-- **Probleme**
-	- *Kritisch:* [[CPR]] [[ROSC]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ-Minderung|AZ↓]]
-	- *Schmerzen:* [[Kopfschmerz|Kopf]] [[Halsschmerz|Hals/Nacken]] [[Brustschmerz|Brust]] [[Bauchschmerz|Bauch]] [[Rückenschmerz|Rücken]] [[Hodenschmerzen|Hoden]] [[Extremitätenschmerz|Extremitäten]]
-	- *Neuro/Psych:* [[Vigilanzminderung]] [[Schwindel]] [[TLOC]] [[Psych]] [[Sehstörung]] [[FND]]
-	- *Werte:* [[Hypertonie]] [[Tachykardie]] [[Bradykardie]] 
+- **Häufige Probleme**
+	- *Allg.:* [[CPR]]/[[ROSC]] [[Schock]] [[Sepsis]] [[Anaphylaxie]] [[Intox]] [[Palliativsituation|Palliativ]] [[Delir]] [[AZ↓]] [[Fieber]] [[Kinder]]
 	- *Labor:* [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]
-	- *Misc:* [[Dyspnoe]] [[Fieber]] [[Hautveränderungen]]
-	- *Flüssigkeiten:* [[Epistaxis]] [[Diarrhoe]] [[Husten]] [[Geburt]] [[GI-Blutung]] [[HWI]] [[STI]] [[Ü+E]] 
+	- *Kopf:* [[Kopfschmerz]] [[Halsschmerz|Hals-/Nackenschmerz]] [[Vigilanzminderung|Vigilanz]] [[Schwindel]] [[TLOC]] [[Psych]] [[FND]] [[Epistaxis]]
+	- *Thorax:* [[Brustschmerz]] [[Dyspnoe]] [[Husten]] [[Tachykardie]] [[Bradykardie]] [[Hypertonie]]
+	- *Rumpf:* [[Bauchschmerz]] [[Rückenschmerz]] [[Ü+E]] [[Diarrhoe]] [[GI-Blutung]] 
+	- *Urogenital:* [[Hodenschmerz]] [[STI]] [[Geburt]]
 	- *Trauma:* [[Polytrauma]] [[SHT]]
-- **Diagnosen**
+- **Häufige Diagnosen**
+	- *Neuro:* [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]
 	- *Kardiovask:* [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]
 	- *Pulmo/Infektio:* [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]
 	- *Gastro:* [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]]
 	- *Nephro/Uro:* [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]] 
-	- *Neuro:* [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]
 ## Häufige Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]

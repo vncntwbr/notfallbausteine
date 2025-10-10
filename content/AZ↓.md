@@ -3,9 +3,12 @@ tags:
   - sy/allgemein
   - status/done
 aliases:
-  - Schwäche & AZ-Minderung
+  - Schwäche
+  - AZ-Minderung
+  - Liegetrauma
+title: Schwäche & AZ-Minderung inkl. Liegetrauma
 ---
-> [!danger] Komplikationen mit hoher Letalität: [[Delir]] + [[Liegetrauma]]
+> [!danger] Komplikationen mit hoher Letalität: [[Delir]] + Liegetrauma
 
 > [!dd]+ Häufige Ursachen bei Pflegebedürftigen ("KEIM" + weitere)
 > - **Kardiovaskulär:** z.B. [[VHF]], [[ACS]], [[Herzinsuffizienz]], Exsikkose/[[AKI]]
@@ -13,7 +16,7 @@ aliases:
 > - **Infektion:** [[Sepsis]]
 > - **Medikamente:** Neu? [[Interaktionen]]? [[Intox]]? Entzug? Ammoniak/[[HE]]?
 > - Harnverhalt? Obstipation?
-> - Trauma (SHT, Schmerzen, Liegetrauma)?
+> - Trauma ([[SHT]], Schmerzen, Liegetrauma)?
 
 > [!anamnese]+ (Fremd-)Anamnese
 > - **S:** H.a. Infektion?

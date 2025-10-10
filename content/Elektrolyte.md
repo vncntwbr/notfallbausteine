@@ -9,7 +9,7 @@ tags:
 	- [[HypoK+]]
 - **Natrium**
 	- [[HypoNa+]]
-	- [[Hypernatriämie]]
+	- [[HyperNa+]]
 - **Calcium**
 	- [[HyperCa2+]]
 	- [[Hypocalcämie]]

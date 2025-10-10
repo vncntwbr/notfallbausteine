@@ -7,6 +7,8 @@ title: |-
   Dyspnoe / Luftnot &
   Respiratorische Insuffizienz
 aliases:
+  - Luftnot
+  - Respiratorische Insuffizienz
 ---
 
 > [!danger]+ Rapid Reference

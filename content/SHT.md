@@ -15,10 +15,8 @@ title: Schädel-Hirn-Trauma (SHT)
 > - **Selten:** 
 
 > [!stadien]+
-> - **Leicht:** GCS 15-13
-> - **Mittel:** GCS 12-9
-> - **Schwer:** GCS 8-3
-> - **Offen:** Verletzung Dura mater
+> - **Klassische Einteilung:** Leicht (GCS 13-15), mittel (9-12), schwer (3-8), offen
+> - [PECARN](https://www.mdcalc.com/calc/589/pecarn-pediatric-head-injury-trauma-algorithm) (pädiatrisch)
 
 > [!workup]+
 > - **Bildgebung**

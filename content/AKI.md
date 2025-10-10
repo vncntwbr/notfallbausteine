@@ -6,8 +6,7 @@ tags:
   - status/done
 title: |-
   Akute Nierenschädigung (AKI),
-  Kreatinin-Erhöhung,
-  alt: Akutes Nierenversagen
+  Kreatinin-Erhöhung
 aliases:
   - Akute Nierenschädigung
   - Nierenversagen
