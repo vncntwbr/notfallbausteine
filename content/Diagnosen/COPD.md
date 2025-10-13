@@ -3,9 +3,7 @@ tags:
   - fach/pulmologie
   - dx
   - status/done
-title: |-
-  Chronisch-obstruktive Lungenerkrankung (COPD)
-  & akute Exazerbation (aeCOPD)
+title: Chronisch-obstruktive Lungenerkrankung (COPD)
 aliases:
   - aeCOPD
 ---

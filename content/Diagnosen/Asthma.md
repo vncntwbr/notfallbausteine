@@ -9,30 +9,79 @@ title: Asthma bronchiale
 ---
 > [!danger] Resuscitation
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
-> 2. **Med:** Prednisolon 50-100 mg i.v., ggf. MgSO4 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
+> 2. **Med:** Prednisolon 50-100 mg i.v., ggf. [[MgSO4]] 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie
-> 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz mit [[esKETAmin]] 
+> 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz [[esKETAmin]] 
 > 5. **[[AMAX4]]** bei Sopor/Apnoe
 
-## Workup
-- **[[Anamnese|A]]:** [S] Infektsymptome? Allerg. Sympt. inkl. GI, Konjunktivitis? OPQRST? Nächtlich? Aktivität eingeschränkt? >2x/Woche tagsüber? [A] Allergisches Asthma? DD [[Anaphylaxie]]? [M] Bedarfsmed >2x/Woche? Adhärenz/Inhalator-Kompetenz? ASS/NSAR Trigger? [P] Amb. Pneumologe? [L] LuFu? PeakFlow Selbstmessung? Anfallsfrequenz? [E] Auslöser? [R] Nikotin? THC? Shisha? ZNA/NST/ITS wegen Asthma?
-- **W**
-	- VP, [[EKG]]
-	- *[[Untersuchung|U]]:* Sprechdyspnoe? Silent Lung? VT visuell? Atemhilfsmuskulatur?
-	- ! *[[BGA]]:* pCO2 sollte niedrig-normal sein, Hyperkapnie = Erschöpfung
-	- *[[POCUS]]:* DD Asthma cardiale, [[Pneu]]
-	- *Labor:* inkl. Diff-BB Eosinophilie?
-- **S Anfall**
-	- [Leicht/mittelschwer] Sprechen normal, AF <25, HF <110, PEF ≥50% persönlicher Bestwert [schwer] ≥1 von o.g. nicht
-- **S Chronisch**
-	- *Kontrolle:* [0/4 gut, 1-2 teilweise, 3-4 unkontrolliert] in letzten 4 Wochen >2x/Woche tagsüber Symptome, nächtliches Erwachen, Bedarfsmed >2x/Woche, Einschränkung Alltagsaktivität
-	- *Schweregrad:* [leicht] gute Kontrolle unter Med Stufe 1-2, [mittelschwer] unter Med Stufe 3-4, [schwer] Stufe 5 od. unkontrolliert mit LABA/ICS
-## Management
-- *Dauermed:* Ab Stufe 1 Fixkombi LABA/ICS z.B. Beclomethason/Formoterol 100/6 μg (Foster®) Dosieraerosol 1-0-1 + 1-2 Hub b.B. bis 8x/d gesamt[^2], Videoanleitung für [Dosieraerosole](https://www.youtube.com/playlist?list=PLWW9zxQjPLcBE4k4tPES72MX8P0eJrhjx), [Pulverinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcCMxQ1DA2H6LZeo-J8ggYkK), [Feuchtinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcArlGNE-tyhsfzLmuseUJH1)
-- *Allerg.?* + Antihistaminika, z.B. Desloratadin 5 mg p.o. 1-0-0
-- *Ambulant:* Pneumolog. Anbindung, häusliche Versorgung, VP unter RL >1h stabil, keine Hyperkapnie, stufengerechte Dauermed, Inhalator-Kompetenz
----
-> [!note]+ Textbaustein Ambulant
+> [!dd]+ DD [[Anaphylaxie]] bedenken, ggf. Adrenalin i.m. empirisch
+
+> [!anamnese]+ Anamnese
+> - **S:** Dyspnoe (nächtlich)? Giemen? Husten? Enge (≠AP)? Schmerzen? Infekt? Sputum? Allergisch (Juckreiz, Konjunktivitis, Urtikaria, Globusgefühl, GI)? OPQRST+? Frequenz (≥2/Woche tagsüber)? Nächtliches Erwachen durch Symptome? Alltag eingeschränkt?
+> - **A:** Allergisches Asthma? Saisonal? DD [[Anaphylaxie]]?
+> - **M:** Bedarfsmed (≥2x/Woche)? Dauermed (Adhärenz, Handhabung)? ASS/NSAR=Trigger?
+> - **P:** Asthma bronchiale? COPD? Amb. Pneumologie? Reflux?
+> - **L:** LuFu? PeakFlow-Selbstmessung? Anfallsfrequenz? 
+> - **E:** Auslöser (Belastung, Temp.-Wechsel, Allergene, Med-Inadhärenz)?
+> - **R:** Drogen (Nikotin, THC, Shisha, Vapes)? Asthma-bedingt ZNA, Stationär, ITS, "near fatal"?
+
+> [!workup]+
+> - **[[Untersuchung|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
+> - **[[EKG]]**
+> - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz|Asthma cardiale]]
+> - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[Blutkulturen]]
+> 	- *Cave:* im Asthma-Anfall muss pCO2 normal bis erniedrigt sein, Hyperkapnie = lebensbedrohlich, respiratorische Erschöpfung
+> - **[[Urin]]:** [W] β-HCG
+> - **[[Radiologie]]:** ggf. Rö Tx (V.a. [[Pneumonie]] oder sonografisch [[Pneu]])
+
+> [!stadien]+ Schweregrad Akuter Asthma-Anfall
+> - **Leicht/Mittel:** Sprechen normal, AF <25, HF <110, PEF ≥50% persönlicher Bestwert
+> - **Schwer:** Sprechdyspnoe, AF ≥25, HF ≥110, PEF <50%
+> - **Lebensbedrohlich:**
+> 	- Silent Lung
+> 	- Flache Atmung / frustrane Atemarbeit (Inhalation kommt nicht mehr an)
+> 	- Bradykardie (hypoxischer Periarrest)
+> 	- SpO2 <92% / PaO2 <60 mmHg arteriell
+> 	- PaCO2 normal oder erhöht arteriell
+> 	- [[Vigilanzminderung]] (inkl. Verwirrtheit, hypoxische Agitation)
+
+> [!stadien]- Chronischer Schweregrad + Kontrolle
+> - **Asthma-Kontrolle:** [0/4] gut, [1-2/4] teilweise, [3-4/4] unkontrolliert
+> 	- ≥2x/Woche tagsüber Symptome?
+> 	- Nächtliches Erwachen durch Asthma?
+> 	- Bedarfsmedikation ≥2x/Woche?
+> 	- Einschränkung Alltagsaktivität durch Asthma?
+> - **Schweregrad (Erwachsene)**
+> 	- *Leicht:* Gut kontrolliert unter Medikation Stufe 1 oder 2
+> 	- *Mittelschwer:* Gut kontrolliert unter Medikation Stufe 3 oder 4
+> 	- *Schwer:* Notwendigkeit Medikation Stufe 5 *oder* nicht gut kontrolliert unter hochdosiert LABA/ICS *oder* Kontrollverlust unter Reduktion Hochdosis LABA/ICS
+
+> [!management]- Dauermedikation bei Asthma nach NVL
+> - Bereits ab Stufe 1 als Bedarfsmed Fixkombination Formoterol+ICS (im Unterschied zu [[COPD]]), SABA unterlegen[^4]
+> - **Formoterol+ICS Präparate**
+> 	- Budesonid/Formoterol 80/4,5 µg oder 160/4,5 µg (Symbicort Turbohaler®, DuoResp Spiromax®)
+> 	- Beclomethason/Formoterol 100/6 µg (Foster®) – bevorzugt, da Dosieraerosol für akuten Anfall besser
+> 
+> ![[Pasted image 20251013080659.png]]
+
+> [!management]+
+> - **Notfalltherapie** siehe oben
+> - **Dauermedikation:** Bei bislang SABA-Monotherapie Fixkombination Beclomethason/Formoterol 100/6 µg (Foster®) 1-0-1 Hub + 1-2 Hub bei Bedarf bis insg. 8x/d rezeptieren
+> - **Patienteninformation**
+> 	- Inhalatoren Videoanleitungen [Dosieraerosole](https://www.youtube.com/playlist?list=PLWW9zxQjPLcBE4k4tPES72MX8P0eJrhjx), [Pulverinhalatoren](https://www.youtube.com/playlist?list=PLWW9zxQjPLcCMxQ1DA2H6LZeo-J8ggYkK), [Feuchtinhalationssysteme](https://www.youtube.com/playlist?list=PLWW9zxQjPLcArlGNE-tyhsfzLmuseUJH1) 
+> 	- [Flyer Warum Rauchstopp bei Asthma hilft](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p6_S3_Asthma_2024-08.pdf), [Online Selbsthilfe Tabak](http://www.selbsthilfetabak.de/Portal) (anonym, kostenlos, Online-Programm über 6 Wochen)
+> 	- Flyer [Asthma-Behandlung mit Kortison-Spray](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p2_S3_Asthma_2024-08.pdf), [Unterschiede bei Inhalatoren](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p1_S3_Asthma_2024-08.pdf)
+
+> [!disposition]+
+> - **Ambulant:**
+> 	- Anbindung Pneumologin/Hausarzt
+> 	- Häusliche Versorgung gesichert
+> 	- HF, SpO2, AF unter Raumluft >1h nach letzter Medikation stabil
+> 	- Symptomatik gut kontrolliert
+> 	- [[BGA]]: PaCO2 normwertig/erniedrigt
+> 	- Stufengerechte Hausmedikation (bzw. neu rezeptiert) + korrekte Handhabung (vormachen lassen)
+
+> [!note]- Textbaustein Ambulant
 > ```
 > Aktuell: leichter/mittelschwerer/schwerer/lebensbedrohlicher Asthma-Anfall bei vorbek. Asthma bronchiale
 > 
@@ -63,11 +112,12 @@ title: Asthma bronchiale
 > ```
 
 ---
-- ![[Pasted image 20250819190040.png]][^3]
+[^3]
+
 - Unter ASS-sensiblen Asthmatikern haben 20-50% Urtikaria allerg. Reaktion auf Tartrazin (gelbes Färbemittel für Lebensmittel)[^1]
 
 [^1]: https://x.com/nickmmark/status/1719199281608061248
 
-[^2]: SABA (Salbutamol)-Monotherapie schützt auch Pat. mit leichtem Asthma nicht vor den Asthma-Risiken (Exazerbation, lebensbedrohliche Anfälle) und kann die entzündlichen Prozesse in den Atemwegen nicht kontrollieren. Unter Budesonid/Formoterol bei Bedarf in Studien deutlich weniger Exazerbationen als unter SABA-Monotherapie und gleich viele Exazerbationen wie unter Budesonid-Dauertherapie bei (durch Anwendung nur bei Bedarf) geringerer Gesamtdosis ICS. SABA Monotherapie bei Asthma nur noch bei sehr seltenem Bedarf und kontrolliertem Asthma mit Anwendung ≤ 2x/Woche empfohlen.
-
 [^3]: [S3 NVL Asthma 2024](https://register.awmf.org/de/leitlinien/detail/nvl-002)
+
+[^4]: SABA (Salbutamol)-Monotherapie schützt auch Pat. mit leichtem Asthma nicht vor den Asthma-Risiken (Exazerbation, lebensbedrohliche Anfälle) und kann die entzündlichen Prozesse in den Atemwegen nicht kontrollieren. Unter Budesonid/Formoterol bei Bedarf in Studien deutlich weniger Exazerbationen als unter SABA-Monotherapie und gleich viele Exazerbationen wie unter Budesonid-Dauertherapie bei (durch Anwendung nur bei Bedarf) geringerer Gesamtdosis ICS. SABA Monotherapie bei Asthma nur noch bei sehr seltenem Bedarf und kontrolliertem Asthma mit Anwendung ≤ 2x/Woche empfohlen.

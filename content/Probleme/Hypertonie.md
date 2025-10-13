@@ -2,7 +2,7 @@
 tags:
   - sy/allgemein
   - status/done
-title: Hypertensive Entgleisung / Arterielle Hypertonie
+title: Hypertonie / Hypertensive Entgleisung
 aliases:
   - HTN
 ---
