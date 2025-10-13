@@ -3,13 +3,14 @@ tags:
   - sy/abdomen-haut-extr
   - status/done
 aliases:
+  - Kreuzschmerz
 ---
 > [!dd]+ Do Not Miss DD
-> - **Killer:** ==[[Aorta]]==
+> - **[[Aorta]]** → [[POCUS]]
 > - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
-> - **Infektion** (==Spondylodiszitis==, Abszess) → [[Anamnese|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
+> - **Infektion** (Spondylodiszitis, Abszess) → [[Anamnese|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
-> - **Osteoporotische Fraktur** → bei Osteoporose großzügig Rö
+> - **Osteoporotische Fraktur** → bei Osteoporose oder RF großzügig Rö
 
 > [!anamnese]+
 > - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? [[Fieber]]? B-Symptomatik? 

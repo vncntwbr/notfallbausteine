@@ -14,4 +14,4 @@ tags:
 
 ^957508
 
-- [[Push-dose]] Epi, Vasopressin (peripher push), Levosimendan, Dobutamin, iNO / iNitro
+- [[Push-Dose]] Epi, Vasopressin (peripher push), Levosimendan, Dobutamin, iNO / iNitro

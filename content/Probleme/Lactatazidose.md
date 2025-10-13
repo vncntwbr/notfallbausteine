@@ -4,6 +4,7 @@ tags:
   - status/done
 aliases:
   - Laktatazidose
+title: Lactatazidose / Laktatazidose
 ---
 > [!DD] DD
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**

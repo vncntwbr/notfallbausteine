@@ -14,6 +14,15 @@ title: Intoxikation
 > - **[[Flusssäure HF]]:** Calciumgluconat 10-20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o. 
 
 
+
+
+| **Toxidrom**                | **VP**        | **Pupillen** | **Tremor** | **Clonus** | **Krampf** | **Temp** | **Haut** | **Aussehen** |
+| --------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | -------- | -------- | ------------ |
+| [[Serotonin-Syndrom]]       | AF↑, HF↑, [[RR]]↑ | 😳           | 🫨         | 🤖         | ⚡          | 🔥       | 💦       | 👿🤪😴       |
+| [[Anticholinerges Syndrom]] | HF↑, [[RR]]↑      | 😳           |            | 🤖         | ⚡          | 🔥       | 🌵🔴     | 🤪😴         |
+| [[Cholinerges Syndrom]]     | HF↓, [[RR]]↓      | 🐭           |            |            | ⚡          |          | 💦🤤🤮💩 | 😴           |
+
+
 ---
 - Flumazenil absolute KI chron. Benzo-Abusus oder Co-Intox mit Prokonvulsiva (z.B. [[TCA]]), weil Krampfanfall
 - **W**

@@ -8,7 +8,7 @@ title: Körperliche Untersuchung
 ---
 > [!note]+ Textbaustein Untersuchung kompakt
 > ```
-> AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP. Sprache opB. Stand+Gang sicher. Eupnoe, Normoxie. Haut warm+rosig, MSH feucht, Recap prompt. Puls kräftig, normofrequent, rhythmisch. Keine Ödeme, VJI nicht gestaut. Abdomen weich.
+> AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. Eupnoe AF ###, Normoxie SpO2 ### %. Haut warm+rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF ### bpm. Normoton RR ###/###. Keine Ödeme, VJI nicht gestaut. Abdomen weich.
 > ```
 
 ^82651c
