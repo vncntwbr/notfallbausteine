@@ -10,15 +10,15 @@ aliases:
 | **Basics**         | [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]] [[U-Status]] |
 | **Interventionen** | [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]                |
 
-| Häufige Probleme   |                                                                                                                                              |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativsituation\|Palliativ]] [[Schock]] [[Sepsis]]                  |
-| **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                             |
-| **Kopf**           | [[Kopfschmerz\|Kopfsz.]] [[Halsschmerz\|Hals/Nacken]] [[Vigilanzminderung\|Vigilanz]] [[Schwindel]] [[TLOC]] [[Psych]] [[FND]] [[Epistaxis]] |
-| **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                               |
-| **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                 |
-| **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                               |
-| **Trauma**         | [[Polytrauma]] [[SHT]]                                                                                                                       |
+| Häufige Probleme   |                                                                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativsituation\|Palliativ]] [[Schock]] [[Sepsis]]                    |
+| **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                               |
+| **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanzminderung\|Vigilanz]] |
+| **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |
+| **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                   |
+| **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |
+| **Trauma**         | [[Polytrauma]] [[SHT]]                                                                                                                         |
 
 | Häufige Diagnosen  |                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------- |
