@@ -1,6 +1,6 @@
 import type { Plugin } from "quartz";
 
-const textswitcher =(): Plugin => {
+const textswitcher =(): Plugin => ({
   name: "textswitcher",
   transform: (page) => {
     let md = page.content;
@@ -61,6 +61,6 @@ const textswitcher =(): Plugin => {
 
     return { ...page, content: md };
   },
-};
+});
 
 export default textswitcher;
