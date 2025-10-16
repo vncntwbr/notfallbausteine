@@ -57,7 +57,7 @@ const textswitcher =(): Plugin => ({
   const finalHtml = `${dropdownHtml}\n${htmlBlocks}\n${script}`;
 
   // Return as .content property (for HTML injection)
-  return { ...page, content: finalHtml };
+  return { ...page, contentHtml: finalHtml };
   },
 });
 
