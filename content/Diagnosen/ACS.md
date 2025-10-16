@@ -4,6 +4,9 @@ tags:
   - status/started
 title: Akutes Koronarsyndrom (ACS)
 ---
+<!-- start:default --> This is the default text. <!-- end:default --> <!-- start:option1 --> This is an alternate version. <!-- end:option1 --> <!-- start:option2 --> Another alternate version. <!-- end:option2 -->
+
+
 > [!dd] DD/Subtypen
 > - **[[Brustschmerz]]-Workup!**
 > - **STEMI/OMI**

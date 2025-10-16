@@ -6,7 +6,7 @@ aliases:
   - Kardiale Dekompensation
 title: Herzinsuffizienz & Kardiale Dekompensation
 ---
-![[Lungenödem#^40f277]]
+![[Lungenödem#^40f277]] ^633e65
 > [!dd]+ DD siehe [[Dyspnoe]]
 > - **Reversible Ursachen akute Herzinsuffizienz** (CHAMP-IT) + weitere
 > 	- Coronar ([[ACS]])
@@ -19,11 +19,11 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > 	- Komorbiditäten: [[COPD]], [[CKD]]/[[AKI]], [[Anämie]] etc.
 
 > [!anamnese]+ Anamnese
-> - **S:** Dyspnoe (NYHA), Orthopnoe? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
+> - **S:** Dyspnoe (NYHA), Orthopnoe? [[Brustschmerz]] ([[ACS]])? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
 > - **M:** Diuretika? Adhärenz? Änderungen?
 > - **P:** KHK? CVRF? COPD?
 > - **L:** TTE (LVEF)? HKU? Gewicht?
-> - **E:** 
+> - **E:** Infekt?
 > - **R:** Familie? Noxen?
 
 > [!workup]+
@@ -46,7 +46,10 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > 	- HFpEF ≥50% (aber Symptome, diastolische Dysfunktion oder BNP↑)
 
 > [!management]+
-> - ...
+> - **[[O2]]**, Oberkörperhochlagerung, low-threshold für CPAP ([[Herzinsuffizienz#^633e65|SCAPE s.o.]])
+> - **Primär hypervoläm:** Furosemid 40 mg i.v. (bei Diuretika-Dauertherapie min. Tagesdosis), evtl. + Nitro 1-2 Hub s.l.
+> - **Primär hypertensiv:** Nitro min. 2 Hub s.l., evtl. + Furosemid
+> - **Hypoperfusion:** Inotropika+Vasopressor, [[Arterie]], bei RR >90 Nitro, bei Periarrest [[ECMO]]/Impella
 
 > [!management]- Dauermedikation bei HFrEF nach DGK/ESC
 > - **Medikamentöse 4 Säulen, prognoseverbessernd, ab NYHA II:**

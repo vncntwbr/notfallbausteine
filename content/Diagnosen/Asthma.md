@@ -89,7 +89,7 @@ title: Asthma bronchiale
 > 
 > ##Dauermed## Bei bisher SABA-Monotherapie angesichts Anfallsfrequenz >2x/Woche leitliniengerechte Umstellung auf Stufe-1-Therapie mit Fixkombination Formoterol/ICS, rezeptiert und videogestützt über korrekte Anwendung aufgeklärt. Zeitnahe haus- bzw. lungenfachärztliche Vorstellung zur weiteren Diagnostik und Anpassung der Therapie empfohlen.
 > 
-> **Empfehlungen:**
+> Empfehlungen:
 > - Ursache der aktuellen Beschwerden ist eine vorübergehende Verschlechterung Ihres Asthmas (”Exazerbation”).
 > - Wenden Sie das Asthma-Spray (##Foster) morgens und abends und nach Bedarf wie folgt an: Vollständig ausatmen, mit dem Sprühstoß so tief wie möglich einatmen, Luft 5 Sekunden anhalten, langsam ausatmen. Nach der Anwendung Mund ausspülen / etwas trinken um Pilzinfektionen im Mund/Rachenraum vorzubeugen. Wenn sie das Spray mehr als 2x am Tag bei Bedarf benutzen müssen besprechen Sie dies zeitnah mit ihrer Haus- oder Lungenfachärztin! Das Spray sollte nicht häufiger als insgesamt 8x/Tag angewendet werden.
 > - Stellen Sie sich innerhalb von 2 Tagen Haus- oder Lungenfachärztlich vor.

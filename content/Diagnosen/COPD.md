@@ -27,7 +27,7 @@ aliases:
 > - **S:** [[Dyspnoe]]? Giemen? Husten? Thorakale Enge (≠AP)? Nächtliche [[Dyspnoe]]? Sputum (Farbe/Menge)? Infektsymptome? Schmerzen? Allergische Symptome (Juckreiz, Konjunktivitits, Urtikaria, Globusgefühl, Kreislauf- oder GI-Symptome?) Onset? Zeitlicher Verlauf? Mehr als 2x/Woche tagsüber Sympt? Nächtliches Erwachen? Aktivität eingeschränkt?
 > - **A:** DD Anaphylaxie denkbar? ABx?
 > - **M:** Häufigkeit Bedarfsmedikation-Gebrauch? Adhärenz/Zuverlässigkeit Dauermedikation und Inhalatoren-Handhabung?
-> - **P:** COPD-Stadium? LTOT (l/min, Nutzung)? Bronchiektasen?[^7] Ventile? Amb. Pneumologe? Herzinsuffizienz?
+> - **P:** COPD-Stadium? LTOT (l/min, Nutzung)? Bronchiektasen?[^7] Ventile? Amb. Pneumologe? [[Herzinsuffizienz]]?
 > - **L:** LuFu? Prednisolon-Stoß? KH-Aufenthalt? ABx (womit)?
 > - **E:** Infekt?
 > - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, [[COVID]], Varizellen, RSV, Pertussis)?
