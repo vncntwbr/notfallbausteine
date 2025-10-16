@@ -46,6 +46,8 @@ export * from "./transformers"
 export * from "./filters"
 export * from "./emitters"
 
+export { default as textswitcher } from "./transformers/textswitcher";
+
 declare module "vfile" {
   // inserted in processors.ts
   interface DataMap {

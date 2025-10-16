@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+import { textswitcher } from "quartz/plugins/transformers";
+
 /**
  * Quartz 4 Configuration
  *
