@@ -25,14 +25,14 @@ title: Körperliche Untersuchung
 > ```
 ^944f17
 
-> [!note]- Zusatz Neurologischer Status ausführlich
+> [!note]- Zusatz Neurologischer Status ausführlich (zzgl. Status oben)
 > ```
-> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Meningismus. Keine Nervendehnungszeichen.
+> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Meningismus.
 > - Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
 > - HN: Visus bds. erhalten, GF fingerperimetrisch intakt. Pupillen isokor, rund, prompt konsensuell lichtreagibel. FFV metrisch ohne Diplopie, kein Spontannystagmus. Gesichtssensibilität intakt, keine Facialisparese. Gehör orientierend seitengleich. Gaumensegel und Zungenmotorik symmetrisch. 
-> - Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5. Kein Absinken in AHV und BHV. 
-> - Sensibilität: Ästhesie und Algesie intakt.
-> - Reflexe: MER seitengleich +/+, Babinski bds. neg. 
+> - Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5 n. Janda. Kein Absinken in AHV und BHV. 
+> - Babinski bds. neg.
+> - Sensibilität: Ästhesie OE+UE seitengleich intakt.
 > - Koordination: Zeigeversuche bds. metrisch. Eudiadochokinese. Stand und Gang sicher, Romberg opB.
 > ```
 
