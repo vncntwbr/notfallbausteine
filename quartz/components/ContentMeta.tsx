@@ -68,10 +68,17 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}<br>
-          <div class="callout localBlock" data-callout="lokal">{localFrontmatter.default}</div>
-          <div class="callout localBlock" data-callout="lokal" style="display:none">{localFrontmatter.cbf}</div>
-          <div class="callout localBlock" data-callout="lokal" style="display:none">{localFrontmatter.zbb}</div>
+          {segments}
+          <blockquote class="callout lokal" data-callout="lokal">
+            <div class="callout-title">
+              <div class="callout-icon"></div>
+              <div class="callout-title-inner">
+                <p class="localBlock">{localFrontmatter.default}</p>
+                <p class="localBlock" style="display:none">{localFrontmatter.cbf}</p>
+                <p class="localBlock" style="display:none">{localFrontmatter.zbb}</p>
+              </div>
+            </div>
+          </blockquote>
         </p>
       )
     }
