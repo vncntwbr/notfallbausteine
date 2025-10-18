@@ -40,4 +40,4 @@ aliases:
 ![[TTE#^88177b]]
 
 ---
-[[How To Notfallbausteine]]
+[[How To]]
