@@ -7,11 +7,11 @@ title: Telefonliste & Stationsübersicht
 > [!lokal] Telefonliste
 > <span class="localBlock" data-option="default">Keine Lokalisierung :)</span>
 > <div class="localBlock" data-option="cbf" style="display:none;">
-> <a href="https://intranet.charite.de/notfallmedizin_cbf/startseite/">Telefonliste DienstärztInnen und Funktionsbereiche CBF</a>
-> <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc10/notfallmedizin/Anleitungen/Telefonliste_CCM_18062024.pdf">Telefonliste CCM / CVK</a>
-> <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Telefonlisten/Telefonliste_Kinderklinik_Stand_20230720.pdf">Telefonliste Kinderklinik CVK</a>
-> <a href="https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Krankenhausliste_CBF.pdf">Externe Krankenhäuser Notaufnahmen, Innere Medizin und Intensivstationen</a>
-> <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Verlegungen/Kliniken_Berlin_und_Umgebung.pdf">Externe Krankenhäuser Pädiatrie und Kinder-Notaufnahmen</a></div><div class="localBlock" data-option="zbb" style="display:none;">Lokalisierung ZBB</div>
+> - <a href="https://intranet.charite.de/notfallmedizin_cbf/startseite/">Telefonliste DienstärztInnen und Funktionsbereiche CBF</a>
+> - <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc10/notfallmedizin/Anleitungen/Telefonliste_CCM_18062024.pdf">Telefonliste CCM / CVK</a>
+> - <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Telefonlisten/Telefonliste_Kinderklinik_Stand_20230720.pdf">Telefonliste Kinderklinik CVK</a>
+> - <a href="https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Krankenhausliste_CBF.pdf">Externe Krankenhäuser Notaufnahmen, Innere Medizin und Intensivstationen</a>
+> - <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Verlegungen/Kliniken_Berlin_und_Umgebung.pdf">Externe Krankenhäuser Pädiatrie und Kinder-Notaufnahmen</a></div><div class="localBlock" data-option="zbb" style="display:none;">Lokalisierung ZBB</div>
 
 <div class="localBlock" data-option="cbf" style="display:none;">
 
