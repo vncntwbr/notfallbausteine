@@ -6,11 +6,13 @@ tags:
   - Status/Done
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 ---
-> [!lokal] <span class="localBlock" data-option="cbf">OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700</span>
+<span class="localBlock" data-option="cbf">
+> [!lokal] OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700
+</span>
 
 > [!danger] Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
-> 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (16G, [[i.o.]])
+> 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (16G, [[i.o.]], Shaldon)
 > 3. **LABOR:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]
 > 4. **Ungekreuzte [[Transfusion|TRANSFUSION]]:** 0+ (nur W 0–), Doku numm. Barcodes auf Blanko-A4
 > 5. **ANTAgonisierung**
