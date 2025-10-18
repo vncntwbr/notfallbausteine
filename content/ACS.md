@@ -13,9 +13,9 @@ cbf: |-
 zbb:
 ---
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
-> - **STEMI/OMI**
-> - **NSTEMI**
-> - **Instabile AP**
+> - **STEMI/OMI:** siehe [[Ischämie-EKG]]
+> - **NSTEMI:** unspezifische EKG-Veränderungen, [[Troponin]]↑/-Dynamik
+> - **Instabile AP:** klinischer Verdacht, [[Troponin]] normal
 > - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativ O2↓
 > 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxämie]]
 > 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
