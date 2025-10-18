@@ -29,13 +29,15 @@ aliases:
 | **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]                                           |
 | **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]] |
 | **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                       |
-## Häufige Textbausteine
+## Auswahl häufiger Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]
+![[ABCDE#^8e5ced]]
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
 ![[POCUS#^aa3283]]
 ![[TTE#^1fb4f0]]
+![[TTE#^88177b]]
 
 ---
-[[How To QRH]]
+[[How To Notfallbausteine]]

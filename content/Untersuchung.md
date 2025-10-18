@@ -6,7 +6,7 @@ aliases:
   - U
 title: Körperliche Untersuchung
 ---
-> [!note]+ Textbaustein Untersuchung kompakt
+> [!note]- Textbaustein Untersuchung kompakt
 > ```
 > AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. Eupnoe AF ###, Normoxie SpO2 ### %. Haut warm+rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF ### bpm. Normoton RR ###/###. Keine Ödeme, VJI nicht gestaut. Abdomen weich.
 > ```
@@ -25,7 +25,7 @@ title: Körperliche Untersuchung
 > ```
 ^944f17
 
-> [!note]- Zusatz Neurologischer Status ausführlich (zzgl. Status oben)
+> [!note]- Zusatz Neurologischer Screening-Status
 > ```
 > - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Meningismus.
 > - Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
