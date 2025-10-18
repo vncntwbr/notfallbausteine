@@ -60,13 +60,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
         segments.push(", ")
       }
+      segments.push(<span class="localBlock" data-option="default">Hier könnte man zum Beispiel auch was Lokales einfügen</span>)
+      segments.push(<span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>)
+      segments.push(<span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>)
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
-          <span class="localBlock" data-option="default">Hier könnte man zum Beispiel auch was Lokales einfügen :)</span>
-          <span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>
-          <span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
         </p>
       )
     }
