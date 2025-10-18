@@ -6,7 +6,7 @@ title: Bronchoskopie (BSK)
 ---
 > [!note]+ Textbaustein
 > ```
-> Bronchoskopie (Weber): Tubuslage regelrecht, Schleimhäute tracheal reizlos. Bronchialsystem rechts+links reizlos, alle Ostien frei.
+> Bronchoskopie: Tubuslage regelrecht, Schleimhäute tracheal reizlos. Bronchialsystem rechts+links reizlos, alle Ostien frei.
 > ```
 
 ---

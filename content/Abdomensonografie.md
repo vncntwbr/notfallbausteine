@@ -5,7 +5,7 @@ tags:
 ---
 > [!note]+ Textbaustein
 > ```
-> Fokussierte Notfallsonografie Abdomen (Weber): 
+> Fokussierte Notfallsonografie Abdomen: 
 > - Eingeschränkte Schallbedingungen bei Adipositas/Darmgasüberlagerung. 
 > - Keine fF intraperitoneal, keine Pleuraergüsse bds. basal.
 > - Leber: normal groß (ca. ### cm in MCL, Lobus caudatus ## x ## cm), Randwinkel spitz. Einsehbare Lebervenen durchflossen. V. portae mit antegradem Fluss (Vmax ### cm/s).

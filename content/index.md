@@ -20,7 +20,7 @@ aliases:
 | **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |
 | **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                   |
 | **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |
-| **Trauma**         | [[Polytrauma]] [[SHT]]                                                                                                                         |
+| **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]]                                                                                                    |
 
 | Häufige Diagnosen  |                                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------- |

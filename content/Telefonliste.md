@@ -14,6 +14,7 @@ title: Telefonliste & Stationsübersicht
 > <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc17/paediatrische_notfallmedizin/Verlegungen/Kliniken_Berlin_und_Umgebung.pdf">Externe Krankenhäuser Pädiatrie und Kinder-Notaufnahmen</a></div><div class="localBlock" data-option="zbb" style="display:none;">Lokalisierung ZBB</div>
 
 <div class="localBlock" data-option="cbf" style="display:none;">
+
 ### Stationsübersicht
 
 | **Station**   | **Fach**                                                  | **Tel. Pflege**                   | **Wo?**                        | **SAP**    |
@@ -56,6 +57,7 @@ title: Telefonliste & Stationsübersicht
 | S202          | Urologie                                                  | 515326                            | Campusklinik EG                | SUR-S202   |
 | S203          | Dermatologie,Pulmologie                                   | 665338                            | Campusklinik 1. OG             | SPF-S203   |
 | S204          | Gastro / Rheuma / Infektio, Nephrologie                   | 614678                            | Campusklinik 2. OG             | SNP-204    |
+
 ### Zuständigkeiten außerhalb "Kernzeiten"
 - **Dermatologie** täglich 08:00-17:00 Uhr, sonst Kernteam ZNA / für Station: DA Hämatologie
 - **Endokrinologie** Mo-Fr 08:00-16:30 Uhr, sonst CCM 614 146
