@@ -29,7 +29,7 @@ PageTitle.afterDOMLoaded = `
     dropdown.addEventListener('change', function () {
       const selected = this.value;
       document.querySelectorAll('.localBlock').forEach(block => {
-        block.style.display = (block.dataset.option === selected) ? '' : 'none';
+        block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
       });
     });
     console.log('Event listener attached');
