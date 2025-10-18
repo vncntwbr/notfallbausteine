@@ -16,7 +16,7 @@ interface ContentMetaOptions {
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: false,
-  showComma: true,
+  showComma: false,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -53,8 +53,17 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   }*/
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+      const segments: (string | JSX.Element)[] = []
+
+      if (fileData.dates) {
+        segments.push("Zuletzt geändert: ")
+        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        segments.push(", ")
+      }
+
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+          {segments}
           <span class="localBlock" data-option="default">Hier könnte man zum Beispiel auch was Lokales einfügen :)</span>
           <span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>
           <span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
