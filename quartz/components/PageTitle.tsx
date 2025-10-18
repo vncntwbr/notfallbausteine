@@ -15,9 +15,6 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         <option value="option3">ZBB</option>
       </select>
     </h2>
-    <div class="switcher-block" data-option="default">This is the default text.</div>
-    <div class="switcher-block" data-option="alt1" style="display:none;">Alternative text version 1.</div>
-    <div class="switcher-block" data-option="alt2" style="display:none;">Alternative text version 2.</div>
   )
 }
 
