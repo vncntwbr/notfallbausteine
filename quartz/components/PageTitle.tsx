@@ -15,8 +15,28 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         <option value="option3">ZBB</option>
       </select>
     </h2>
+    <div class="switcher-block" data-option="default">This is the default text.</div>
+    <div class="switcher-block" data-option="alt1" style="display:none;">Alternative text version 1.</div>
+    <div class="switcher-block" data-option="alt2" style="display:none;">Alternative text version 2.</div>
   )
 }
+
+PageTitle.afterDOMLoaded = 
+"
+console.log('Text Switcher Should Work')
+document.addEventListener('DOMContentLoaded', function () {
+  const dropdown = document.getElementById('text-switcher-select');
+  if (!dropdown) return;
+
+  dropdown.addEventListener('change', function () {
+    const selected = this.value;
+    document.querySelectorAll('.switcher-block').forEach(block => {
+      block.style.display = (block.dataset.option === selected) ? '' : 'none';
+    });
+  });
+});
+"
+`
 
 PageTitle.css = `
   .page-title {
@@ -24,7 +44,7 @@ PageTitle.css = `
   margin: 0;
   font-family: var(--titleFont);
   }
-  
+
   /* Style the dropdown to match Quartz root title font and size */
   #dropdownLocalisation{
     font-family: var(--font-sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif);
@@ -48,7 +68,6 @@ PageTitle.css = `
     box-shadow: 0 0 3px var(--accent, #7aa2f7);
     outline: none;
   }
-
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor
