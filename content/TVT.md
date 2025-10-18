@@ -12,7 +12,7 @@ title: Venöse Thrombose (TVT)
 > [!anamnese]+ Anamnese
 > - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], Hämoptysen, [[TLOC]])? B-Symptomatik?
 > - **A:** Z.n. HIT? Heparin? DOAK?
-> - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[Antikoagulation]]?
+> - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[AK]]?
 > - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? CKD (DANI)?
 > - **E:** Immobilisation? Trauma?
 > - **R:** Familie (TVT, [[LAE]], Thrombophilie)? Adipositas?
@@ -21,7 +21,7 @@ title: Venöse Thrombose (TVT)
 > 1. **Direkt [[Kompressionssonografie]]** bei [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2 Pkt., [[Schwanger]], V.a. Armvenenthrombose[^2]
 > 2. **Sonst [[D-Dimer]] alterskorrigiert** (nur bei [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≤1 Pkt.) → Ausschluss oder [[Kompressionssonografie|Sono]]
 > 3. **Zzgl. [[LAE]]?** TVT diagnostiziert + klinisch V.a. [[LAE]] = gesichert, CTPA nur bei [[RHB]]/Instabil zur Evaluation [[Thrombektomie]][^5]
-> - **[[Untersuchung|U]]:** VP (insb. [[Tachykardie]], [[Hypoxämie]])? Beine (Ödeme, Entzündung, Fußpulse)
+> - **[[U|U]]:** VP (insb. [[Tachykardie]], [[Hypoxämie]])? Beine (Ödeme, Entzündung, Fußpulse)
 > 	- *Thrombosezeichen:* Meyer (Waden-Kompr.-Schmerz), Payr (Fußsohlen-Kompr.-Schmerz), Homans (Wadenschmerz b. Dorsalextension Fuß)
 > - **[[EKG]]:** H.a. [[LAE]] ([[Tachykardie]], [[RHB]])?
 > - **[[POCUS]]:** Vollständige TVT-Sono (Ausschluss mögl.) oder 3-Pkt. (neg. = Vollständige Kontroll-Sono in 4-7d), ggf. +[[RHB]]?
@@ -30,23 +30,23 @@ title: Venöse Thrombose (TVT)
 > [!management]+ Management Tiefe Beinvenenthrombose oder Armvenenthrombose
 > - **V.a. Phlegmasia coerulea dolens?** (kalte, livide Extremität, Hypoperfusion) → GCh-Konsil (Thrombektomie?)
 > - **Ausdehnung:** Proximal Oberschenkel sonografisch nicht beurteilbar? → MR-/CT-Venografie, großzügig +CTPA [[LAE]]
-> - **[[Antikoagulation]]:** DOAK primär Apixaban 10 mg 1-0-1 für 7d, dann 5 mg 1-0-1, bei KI ([[Schwanger]], Blutungsrisiko, [[Antiphospholipid]]) NMH Fraxiparin 0.1 ml/kg 1-0-1 s.c.
-> - **Dauer:** [[Antikoagulation]] 3 Mo (passagerer RF) bis 6 Mo (unprovoziert/permanenter RF), bei Rezidiv lebenslang
+> - **[[AK]]:** DOAK primär Apixaban 10 mg 1-0-1 für 7d, dann 5 mg 1-0-1, bei KI ([[Schwanger]], Blutungsrisiko, [[Antiphospholipid]]) NMH Fraxiparin 0.1 ml/kg 1-0-1 s.c.
+> - **Dauer:** [[AK]] 3 Mo (passagerer RF) bis 6 Mo (unprovoziert/permanenter RF), bei Rezidiv lebenslang
 > - Kompressionsverband, -strumpf via HÄ, Mobilisation
 
 > [!management]+ Management Sonderfälle
 > - **Thrombose Beckenvenen oder V. cava inferior**
 > 	- MR-/CT-Venografie (exakte Ausdehnung?), großzügig +CTPA [[LAE]]
 > 	- Konsil GCh (Thrombektomie?)
-> 	- [[Antikoagulation]] UFH 80 IE/kg i.v. + Perfusor 1000 IE/h wenn Intervention geplant, sonst Standard
+> 	- [[AK]] UFH 80 IE/kg i.v. + Perfusor 1000 IE/h wenn Intervention geplant, sonst Standard
 > - **Isoliert Muskelvenenthrombose M. gastrocnemius/soleus**
 > 	- Kompressionsverband, -strumpf via HÄ, Mobilisation
-> 	- [[Antikoagulation]] NMH für 1 Wo bzw. bei Risikofaktoren NMH/DOAK für 4 Wo[^4]
+> 	- [[AK]] NMH für 1 Wo bzw. bei Risikofaktoren NMH/DOAK für 4 Wo[^4]
 > - **Oberflächliche Thrombophlebitis**
 > 	- *Ursache:* Nicht varikös + nicht PVK-assoz. → Autoimmun? Vaskulitis? Tumor?
 > 	- *PVK-assoz., <5 cm:* Kühlung, keine AK, ggf. Octenisept-Umschläge, NSAR, liposomale Heparinsalbe
 > 	- *>5 cm Länge, >3 cm Abstand zu Mündung:* Kompressionstherapie bei Varikosis, Fondaparinux 2.5 mg s.c. 1x/d für 45d, alternativ OLU Rivaroxaban 10 mg 1-0-0 p.o.
-> 	- *<3 cm zu Mündung tiefes Venensystem:* Wie TVT, [[Antikoagulation]] 3 Mo
+> 	- *<3 cm zu Mündung tiefes Venensystem:* Wie TVT, [[AK]] 3 Mo
 
 > [!disposition]+
 > - **Stationär:**
@@ -56,7 +56,7 @@ title: Venöse Thrombose (TVT)
 > 	- begleitend [[LAE]] mit Aufnahmeindikation
 > 	- relativ: schwere Nieren- oder Leberinsuffizienz
 > 	- relativ: Schwangerschaft
-> 	- Progress oder Rezidiv TVT unter adäquater [[Antikoagulation]]
+> 	- Progress oder Rezidiv TVT unter adäquater [[AK]]
 
 > [!note]- Textbaustein Thromboseausschluss
 > ```

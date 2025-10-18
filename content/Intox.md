@@ -9,8 +9,8 @@ title: Intoxikation
 > - **[[Betablocker]]/[[Calciumantagonisten]]:** Adrenalin, Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
 > - **[[TCA]]:** NaBic 8.4% 100 ml, Kohle, EKG
 > - **Cyanid/CO:** Hydroxycobalamin (Cyanokit®) 5 g KI
-> - **[[Anticholinerges Syndrom]]:** Physostigmin 2 mg
-> - **[[Cholinerges Syndrom]]:** Atropin 3 mg i.v., alle 5 min verdoppeln
+> - **[[Anticholinerg]]:** Physostigmin 2 mg
+> - **[[Cholinerg]]:** Atropin 3 mg i.v., alle 5 min verdoppeln
 > - **[[Flusssäure HF]]:** Calciumgluconat 10-20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o. 
 
 
@@ -19,8 +19,8 @@ title: Intoxikation
 | **Toxidrom**                | **VP**        | **Pupillen** | **Tremor** | **Clonus** | **Krampf** | **Temp** | **Haut** | **Aussehen** |
 | --------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | -------- | -------- | ------------ |
 | [[Serotonin-Syndrom]]       | AF↑, HF↑, [[RR]]↑ | 😳           | 🫨         | 🤖         | ⚡          | 🔥       | 💦       | 👿🤪😴       |
-| [[Anticholinerges Syndrom]] | HF↑, [[RR]]↑      | 😳           |            | 🤖         | ⚡          | 🔥       | 🌵🔴     | 🤪😴         |
-| [[Cholinerges Syndrom]]     | HF↓, [[RR]]↓      | 🐭           |            |            | ⚡          |          | 💦🤤🤮💩 | 😴           |
+| [[Anticholinerg]] | HF↑, [[RR]]↑      | 😳           |            | 🤖         | ⚡          | 🔥       | 🌵🔴     | 🤪😴         |
+| [[Cholinerg]]     | HF↓, [[RR]]↓      | 🐭           |            |            | ⚡          |          | 💦🤤🤮💩 | 😴           |
 
 
 ---

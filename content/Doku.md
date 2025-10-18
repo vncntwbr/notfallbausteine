@@ -1,6 +1,9 @@
 ---
 tags:
   - Basics/Meta
+title: Dokumentation
+aliases:
+  - Dokumentation
 ---
 - Doku Fehler häufig[^1]
 

@@ -20,7 +20,7 @@ title:
 > - **R:** 
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** 
+> - **[[U|U]]:** 
 > - **[[EKG]]:** 
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 

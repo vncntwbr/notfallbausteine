@@ -4,6 +4,9 @@ tags:
   - Status/Started
   - Diagnosen
   - Probleme/Kopf-Neuro
+title: Anticholinerges Syndrom
+aliases:
+  - Anticholinerges Syndrom
 ---
 
 > [!danger] Rapid Reference

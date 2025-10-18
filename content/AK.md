@@ -10,6 +10,8 @@ aliases:
   - Heparin
   - NMH
   - UFH
+  - Antikoagulation
+title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonisten (VKA, Marcumar)
 ---
 > [!danger] Prophylaktische AK
 > - Enoxaparin 40 mg/d s.c., DANI 20 mg

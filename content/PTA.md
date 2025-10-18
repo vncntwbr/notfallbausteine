@@ -4,7 +4,8 @@ tags:
   - Diagnosen
   - Status/Started
 aliases:
-  - PTA
+  - Peritonsillarabszess
+title: Peritonsillarabszess (PTA)
 ---
 
  > [!note]+ Textbaustein

@@ -13,7 +13,7 @@ tags:
 > ```
 
 > [!management]+
-> - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
+> - **Nach [[A|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
 > 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], Antikonvulsiva, ggf. Schmerzdienst
 > - **Grundsätzlich:**
@@ -51,7 +51,7 @@ tags:
 > 	- *Pregabalin (Lyrica®):* 0-0-50 mg p.o., alle 3d +50 mg, max. 600 mg/d, Cave Abhängigkeit, QTc
 > 	- *Gabapentin:* 0-0-100/200 mg p.o., alle 3d +100 mg, max. 1200 mg/d, Cave Abhängigkeit, UAW Müde, Schwindel, Ödeme
 > 	- *Carbamazepin:* 0-0-200 mg p.o., alle 3d +100 mg, max. 600-1200 mg/d, Cave Agranulozytose, ALT/AST, CYP450-Induktion
-> 	- *Amitriptylin:* 0-0-0-10 mg p.o., +25 mg/Wo, max. 150 mg/d, Cave QTc, [[Anticholinerges Syndrom]] (Glaukom, Mundtrockenheit), KI Geriatrie, Aufklärung Einsatz als Analgetikum nicht Antidepressivum
+> 	- *Amitriptylin:* 0-0-0-10 mg p.o., +25 mg/Wo, max. 150 mg/d, Cave QTc, [[Anticholinerg]] (Glaukom, Mundtrockenheit), KI Geriatrie, Aufklärung Einsatz als Analgetikum nicht Antidepressivum
 > - **Muskelrelaxanzien bei MSK/[[Rückenschmerz]]:**
 > 	- *Methocarbamol (Ortoton®)* 750 mg p.o. 1-1-1, max. 2-2-2, Cave Sturzgefahr, eingeschränkte Fahrtauglichkeit
 > 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]

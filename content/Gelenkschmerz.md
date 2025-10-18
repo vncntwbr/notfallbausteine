@@ -14,8 +14,8 @@ aliases:
 > - **Selten:** 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** 
-> - **[[Untersuchung|U]]:**
+> - **[[A|A]]:** 
+> - **[[U|U]]:**
 > - **[[EKG]]:**
 > - **[[POCUS]]:**
 > - **[[Labor]]:** 

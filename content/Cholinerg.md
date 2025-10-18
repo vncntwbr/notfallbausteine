@@ -4,6 +4,9 @@ tags:
   - Status/Started
   - Diagnosen
   - Probleme/Kopf-Neuro
+title: Cholinerges Syndrom
+aliases:
+  - Cholinerges Syndrom
 ---
 
 > [!danger] Resuscitation

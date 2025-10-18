@@ -15,5 +15,5 @@ tags:
 - **Glucose**
 - **Gerinnung**
 - **Entzündungszeichen**
-- **Rhabdomyolyse**
+- **[[Rhabdomyolyse]]**
 - **[[Urin]]**

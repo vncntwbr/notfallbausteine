@@ -2,6 +2,9 @@
 tags:
   - Status/Started
   - Basics/Meta
+title: Rettungsdienst (RD)
+aliases:
+  - Rettungsdienst
 ---
 
 - RTW Dezeleration erhöht [[Hirndruck]][^1]

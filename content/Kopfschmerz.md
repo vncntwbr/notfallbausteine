@@ -4,9 +4,9 @@ tags:
   - Status/Started
 ---
 
- - **[[Anamnese|A]]**
+ - **[[A|A]]**
 	- *S:* OPQRST+, vegetativ ([[Ü+E]]), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
-	- *M:* [[Antikoagulation]]? Bedarfsmed?
+	- *M:* [[AK]]? Bedarfsmed?
 	- *E:* H.a. CO?
 	- *R:* Alkohol, Drogen, Rauchen, FA (Migräne, Aneurysma)
 - R **Red Flags:** Alter >50 J., Tumor/Immunsupp., [[Schwanger]], plötzlich, [[Fieber]], Meningismus, Sehstörung, refraktär, Schmerz anders als bekannt[^1]

@@ -11,7 +11,7 @@ title: Brustschmerz / Thoraxschmerz
 > - **[[LAE]]** ([[POCUS]] [[RHB]], TVT)
 > - **[[Aorta]]** ([[POCUS]] [[Perikarderguss]], Aorta >5cm, Diss.-Membran)
 > - **[[Pneu]]** ([[LUS]] Pleuragleiten)
-> - **[[Ösophagusruptur]]** ([[Anamnese|A]]: Erbrechen)
+> - **[[Ösophagusruptur]]** ([[A|A]]: Erbrechen)
 
 > [!dd]+ DD
 > - **Kardiovaskulär:**
@@ -41,7 +41,7 @@ title: Brustschmerz / Thoraxschmerz
 > [!anamnese]+ Anamnese
 > - **S:** ==OPQRST+==[^2] (reißend, wandernd, stärkst → Aorta)? [[Dyspnoe]]? [[Husten]], [[Hämoptysen]]? [[Ü+E]]? [[Fieber]]?
 > - **A:** Analgetika-Asthma?
-> - **M:** ASS/DAPT? [[Antikoagulation]]?
+> - **M:** ASS/DAPT? [[AK]]?
 > - **P:** CVRF ([[Hypertonie]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
 > - **L:** TTE? HKU?
 > - **E:** Auftreten in Ruhe/Belastung? Immobilisation ([[LAE]])?
@@ -49,7 +49,7 @@ title: Brustschmerz / Thoraxschmerz
 
 
 > [!workup]+
-> 1. **[[Untersuchung|U]]:** 
+> 1. **[[U|U]]:** 
 > 	- VP (insb. AF, HF)? 
 > 	- Herzgeräusch? Stauung? 
 > 	- Auskultation ([[Pneumonie]], Pneu, Pleuritis)? 

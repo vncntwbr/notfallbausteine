@@ -17,7 +17,7 @@ aliases:
 - R **Red Flags (nur dann Labor)[^4]** V.a. Scharlach[^1], V.a. EBV, V.a. Infekt mit sonst. Fokus ([[Pneumonie]], Otitis, Sinusitis), Immunsupp., schwere Komorbidität, Risiko Rheumatisches Fieber[^2], Risiko Agranulozytose[^3]
 - **DD**
 	- [[Tonsillopharyngitis]]
-	- *Peritonsillarabszess:* 
+	- *[[PTA]]:* 
 
 [^1]: typ. Angina, Himbeerzunge, typ. Sandpapier-Exanthem
 

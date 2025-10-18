@@ -18,7 +18,7 @@ title: Potenziell inadäquate Medikation im Alter (PIM)
 	- Muskelrelaxanzien skeletal → generell dumm
 	- Nifedipin
 	- Nitrofurantoin
-	- NSAR chronisch, insb. Indometacin (GI-Ulcera, GI-Blutung)
+	- NSAR chronisch, insb. Indometacin (GI-Ulcera, [[GI-Blutung]])
 	- PPI (C. diff, [[Pneumonie]], GI-Tumoren, Osteoporose) → <8 Wochen, switch zu H2-Blockern
 	- Rivaroxaban (Blutungsrisiko im Vgl. zu Apixaban Mythos?)
 	- Spasmolytika, z.B. Scopolamin (anticholinerg)

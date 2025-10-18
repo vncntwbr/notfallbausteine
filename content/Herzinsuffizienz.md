@@ -28,7 +28,7 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > - **R:** Familie? Noxen?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP? HT, AG? VJI? Ödeme/Anasarka?
+> - **[[U|U]]:** VP? HT, AG? VJI? Ödeme/Anasarka?
 > - **[[EKG]]:** [[ACS]]? HRST?
 > - **[[POCUS]]:** [[TTE]], Pleuraergüsse, [[LUS]] (B-Lines), VCI, Leber/Nieren
 > - **[[Labor]]:** [[BGA]] (Anämie? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]

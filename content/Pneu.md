@@ -16,7 +16,7 @@ title: Pneumothorax
 > [!anamnese]
 > - **S:** Schmerzen? (Belastungs-)[[Dyspnoe]]?
 > - **A:** Lokalanästhetika?
-> - **M:** [[Antikoagulation]]?
+> - **M:** [[AK]]?
 > - **P:** Jemals Pneu? Lungenerkrankung? Malignom? Z.n. Pleurodese?
 > - **L:** Mahlzeit (nüchtern)?
 > - **E:** Trauma?

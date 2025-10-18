@@ -9,13 +9,13 @@ title: Priapismus / Erektion >4h
 > [!anamnese]+ Anamnese
 > - **S:** Symptombeginn?
 > - **M:** Potenzmittel? Schwellkörper-Autoinjektionstherapie (SKAT)? Psychopharmaka?
-> - **P:** Neurologie? Rückenmarksschädigung? Malignom (CML)? [[Sichelzellanämie]]? KHK?
+> - **P:** Neurologie? Rückenmarksschädigung? Malignom (CML)? [[Sichelzell]]? KHK?
 > - **L:** Erstereignis?
 > - **E:** Trauma (Genital, Perineum, Wirbelsäule)?
 > - **R:** Alkohol? Drogen (insb. Kokain, "Upper")?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP
+> - **[[U|U]]:** VP
 > - **[[Labor]]:** [[BGA]], Diff-BB, Krea, CRP, PTT, INR
 
 > [!stadien]+ Graduierung der Erektion

@@ -7,7 +7,7 @@ aliases:
 title: Übelkeit & Erbrechen
 ---
 - K [[Ketoazidose]], [[Ileus]], Bolus, [[GI-Blutung]], [[Urämie]], [[Stroke]], [[ACS]], [[Ösophagusruptur]]
-- **[[Anamnese|A]]:** [R] [[Schwanger]]?
+- **[[A|A]]:** [R] [[Schwanger]]?
 - **DD**
-	- [[Cannabis-Hyperemesis-Syndrom]]
+	- [[Cannabis-Hyperemesis]]
 	- [[Gastroparese]]

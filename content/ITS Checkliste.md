@@ -52,7 +52,7 @@ tags:
 - [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? Monitoring?
 - [ ] **Mobilisation:** PT, AT
 - [ ] **Soziales:** Patientenwille? Angehörige? Betreuung?
-- [ ] **Doku:** Verlauf, SAPS-II/TISS, SOFA, ICD-10, Brief
+- [ ] **[[Doku]]:** Verlauf, SAPS-II/TISS, SOFA, ICD-10, Brief
 
 ---
 

@@ -12,8 +12,8 @@ title: Schultergelenkluxation
 > - **Begleitverletzungen:** Rotatorenmanschettenruptur, Abriss Tub. majus, Bankard-Läsion / Hill-Sachs-Delle, Luxationsfraktur Humeruskopf
 
 > [!workup]+
-> - **[[Anamnese|A]]:** Habituell?
-> - **[[Untersuchung|U]]:** pDMS (N. axillaris?)
+> - **[[A|A]]:** Habituell?
+> - **[[U|U]]:** pDMS (N. axillaris?)
 > - **Radio:** Röntgen a/p + Y-Aufnahme Skapula
 > 	- *Rim Sign:* H.a. posteriore Luxation in a/p (Überlappung vorderer Pfannenrand mit Humeruskopf >6mm)
 

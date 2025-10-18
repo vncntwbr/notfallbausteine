@@ -22,7 +22,7 @@ title: Schwangerschaft
 > 	- V.-cava-Kompressionssyndrom
 
 > [!workup]+
-> - **[[Anamnese|A]]:** Mutterpass, [P] G+P, akt. Verlauf, Geburtstermin, [L] Vorsorgeuntersuchungen, [[RR]], BZ, fetal
-> - **[[Untersuchung|U]]:** [[RR]](!)
+> - **[[A|A]]:** Mutterpass, [P] G+P, akt. Verlauf, Geburtstermin, [L] Vorsorgeuntersuchungen, [[RR]], BZ, fetal
+> - **[[U|U]]:** [[RR]](!)
 > 	- *SSW:* 12 Symphyse, 20 Bauchnabel, 36 Rippenbogen
 > - **[[POCUS]]** PW fetales Herz ab 10. SSW mgl., HF 110-160

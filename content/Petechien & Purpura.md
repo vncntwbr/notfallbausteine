@@ -25,13 +25,13 @@ aliases:
 > [!anamnese]+ Anamnese
 > - **S:** Blutung? Stuhl (Blut)? Urin? [[Fieber]]? AZ? [[Diarrhoe]]? Schmerzen/OPQRST+? 
 > - **A:** Z.n. HIT?
-> - **M:** Heparin (HIT)? [[Antikoagulation]]/TAH? Carbamazepin? Valproat?
+> - **M:** Heparin (HIT)? [[AK]]/TAH? Carbamazepin? Valproat?
 > - **P:** Häma/Onko? Autoimmun? CKD?
 > - **L:** Blutbild?
 > - **E:** Infekt? Diarrhoe? je <3 Wo
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP (insb. Temp.)? Haut? Schleimhäute? Status (Vitien? Anämie?)
+> - **[[U|U]]:** VP (insb. Temp.)? Haut? Schleimhäute? Status (Vitien? Anämie?)
 > - **[[EKG]]** 
 > - **[[Labor]]:** [[BGA]], Basisprofil + LDH, gBilirubin, fHb, Haptoglobin, ggf. +Thrombexakt (Ausschluss Pseudothrombopenie), ggf. Hand-Diff. (Fragmentozyten?), bei Hämolyse + Coombs-Test
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG

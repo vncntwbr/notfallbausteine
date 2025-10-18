@@ -6,6 +6,7 @@ tags:
 title: Sichelzellanämie & Sichelzellkrise
 aliases:
   - Sichelzellkrise
+  - Sichelzellanämie
 ---
 > [!danger] Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
 > 1. **Erkennen**

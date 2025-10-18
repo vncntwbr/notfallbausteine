@@ -20,7 +20,7 @@ title: Hyponatriämie (Na+↓)
 > - [Korrektur für Hyperglykämie](https://www.mdcalc.com/calc/50/sodium-correction-hyperglycemia)
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] [[Ü+E]], Diarrhoe? [[Kopfschmerz]]? Defizite? [[TLOC]]? Sturz? Kognitiv↓? Infekt? Miktion? B-Symptomatik? Gewichtsverlauf? [M] Diuretika? Cortison? [P] Herz, Leber, Niere, Tumor [L] Laborwerte? Trinkmenge? Ernährung? [E] OP? Körperliche Anstrengung (z.B. Marathon)? [R] Alkohol? Nikotin? Drogen?
+> - **[[A|A]]:** [S] [[Ü+E]], Diarrhoe? [[Kopfschmerz]]? Defizite? [[TLOC]]? Sturz? Kognitiv↓? Infekt? Miktion? B-Symptomatik? Gewichtsverlauf? [M] Diuretika? Cortison? [P] Herz, Leber, Niere, Tumor [L] Laborwerte? Trinkmenge? Ernährung? [E] OP? Körperliche Anstrengung (z.B. Marathon)? [R] Alkohol? Nikotin? Drogen?
 > - **[[Labor]]:** [[BGA]] (Na+, BZ), gCa2+, Mg2+, Phosphat, HST, Harnsäure, Albumin, LDH, ==Serum-Osmolalität==
 > 	- *Hyperglykämie* → Korrektur
 > - **[[Urin]]:** Urinstatus, Osmolalität, Na+, Albumin/Krea, Protein/Krea, HST, ggf. Urinkultur

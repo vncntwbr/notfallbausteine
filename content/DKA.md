@@ -30,7 +30,7 @@ title: Diabetische Ketoazidose (DKA)
 > 1. **Nachweis Ketoazidose:** [[Metabolische Azidose]] mit Anionenlücke, Ketone in [[U-Status]]
 > 	- *Okkulte DKA:* nw pH + nw HCO3-, da durch Erbrechen [[Metabolische Alkalose]] (∆∆-AG berechnen), euglykäm (SGLT2i)
 > 2. **Ätiologie:** Infekt? ED Diabetes? Incompliance/Fehlfunktion Insulin? Meds? Drogen? Sonstige schwere Akuterkrankung?
-> - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Infektzeichen?
+> - **[[U|U]]:** VP (insb. AF, Temp.)? Infektzeichen?
 > - **[[EKG]]**
 > - **[[Urin]]:** Ketonurie?[^4] HWI? ggf. Urinkultur
 > - **[[Labor]]:** [[BGA]] (Anionenlücke?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes), [[Blutkulturen]], ideal + β-Hydroxybutyrat, Phosphat

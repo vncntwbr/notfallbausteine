@@ -10,7 +10,7 @@ title: Lactatazidose / Laktatazidose
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**
 > 	- Schock, Hypoxämie, Anämie, CO
 > 	- Nekrose, Ischämie, Tumor
-> 	- Krampfanfall, Rhabdomyolyse
+> 	- Krampfanfall, [[Rhabdomyolyse]]
 > - **Glykolyse↑:** 
 > 	- β2-Agonisten
 > 	- Hyperventilation

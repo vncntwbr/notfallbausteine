@@ -27,7 +27,7 @@ title: Diarrhoe / Durchfall
 > - **R:** Nikotin? Familie (CED, Polyposis)?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP, Status mit Fokus Abdomen, ggf. [[DRU]]
+> - **[[U|U]]:** VP, Status mit Fokus Abdomen, ggf. [[DRU]]
 > - **[[EKG]]:** VHF ([[Mesenterialischämie]])?
 > - **[[POCUS]]:** Freie Flüssigkeit? Distendierte Darmschlingen? Pendelperistaltik? Wandverdickung? Divertikulitis? Appendizitis (Target-Sign)?
 > - **[[Labor]]:** Profil "Bauchschmerz"

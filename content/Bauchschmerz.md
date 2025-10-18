@@ -39,7 +39,7 @@ tags:
 > - **R:** Alkohol? Familie?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
+> - **[[U|U]]:** VP (insb. AF, Temp.)? Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
 > - **[[POCUS]]:** FAST, Bauchaorta (>60 J.), Nieren, Harnblase, Gallenblase/Leber, Darm
 > - **[[EKG]]:** DD [[ACS]], [[VHF]] ([[Mesenterialischämie]])
 > - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" ± PCT
@@ -55,7 +55,7 @@ tags:
 > 3. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
 > 4. **Antiemetika**
 > 	- *MCP:* Peristaltik↑, KI mech. Ileus oder Diarrhoe
-> 	- *Dimenhydrinat:* [[Anticholinerges Syndrom|anticholinerge UAW]], KI ältere Pat.
+> 	- *Dimenhydrinat:* [[Anticholinerg|anticholinerge UAW]], KI ältere Pat.
 > 	- *Ondansetron:* UAW Obstipation, [[Interaktionen]] serotonerge Meds
 > 5. **Gezielte Therapie nach DD**
 

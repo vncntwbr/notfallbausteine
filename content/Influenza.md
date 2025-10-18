@@ -18,7 +18,7 @@ title: Influenza A/B / Grippe
 > - **Sozial:** Kontaktpersonen mit Indikation Oseltamivir-PEP? Häusliche Versorgung? Pflegeheim?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP (validierte AF)? Fokus H.a. bakterielle Superinfektion, respiratorische Insuffizienz, [[Herzinsuffizienz]], Orientierung, Gang-/Standsicherheit?
+> - **[[U|U]]:** VP (validierte AF)? Fokus H.a. bakterielle Superinfektion, respiratorische Insuffizienz, [[Herzinsuffizienz]], Orientierung, Gang-/Standsicherheit?
 > - **[[EKG]]:** HRST? H.a. Myokarditis? QTc?
 > - **[[Labor]]:** Profil "[[Pneumonie]]", bei älteren Pat. "Sepsis" + [[Blutkulturen]], [[BGA]]
 > - **Abstrich:** PCR (Influenza A/B ± SARS-CoV-2, RSV)
@@ -41,7 +41,7 @@ title: Influenza A/B / Grippe
 > - **Komplikationsmanagement**
 > 	- *Respiratorische Insuffizienz:* HFNC/NIV nach [[BGA]], bei [[RSI]] [[Physiologisch schwieriger Atemweg]]
 > 	- *V.a. Bakterielle Superinfektion:* [[ABx]] wie [[Pneumonie]]
-> 	- *Rhabdomyolyse:* [[Volumentherapie]]
+> 	- *[[Rhabdomyolyse]]:* [[Volumentherapie]]
 > 	- *[[Krampfanfall]]:* Standardtherapie (häufige Komplikation)
 
 > [!disposition]+

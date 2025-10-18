@@ -18,8 +18,8 @@ title: GI-Blutung (GIB)
 > 3. *Keine Notfall-Coloskopie* (keine Sicht, hohes Perforationsrisiko)
 > 4. **CT-A** bei anhaltender Blutung/Instabilität (Quelle? Radiolog. Intervention?)
 
-- **[[Anamnese|A]]:** 
-- **[[Untersuchung|U]]:** 
+- **[[A|A]]:** 
+- **[[U|U]]:** 
 - **T**
 	- Pantoprazol 40-80 mg i.v.
 	- **T Obere GI-Blutung**

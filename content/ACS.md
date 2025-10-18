@@ -16,7 +16,7 @@ title: Akutes Koronarsyndrom (ACS)
 > - **Typ-2-Myokardinfarkt:** Relativ O2↓ (Schock, [[Tachykardie]], [[Anämie]]), Vasospasmus  (Kokain/[[Amphetamine]], Kounis-Syndrom b. [[Anaphylaxie]]), SCAD
 
 > [!workup]
-> - **[[Untersuchung|U]]:** VP, Auskultation (Vitien? Stauung? RG?), Abd (Oberbauch?), Beine (Ödeme? TVT?), Habitus (<45 J.: Marfanoid?)
+> - **[[U|U]]:** VP, Auskultation (Vitien? Stauung? RG?), Abd (Oberbauch?), Beine (Ödeme? TVT?), Habitus (<45 J.: Marfanoid?)
 > - **[[EKG]]:** min. 0+1h, siehe [[Ischämie-EKG]]
 > - **Troponin**[^3]
 > - **[[TTE]]**

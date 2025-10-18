@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Basics/Meta
+title: Notaufnahme-Organisation
 ---
 
 - Verzögerung stationäre Aufnahme >5h hat NNH=82 für 30d-Mortalität[^1], ebenso Overnight Stay[^5]

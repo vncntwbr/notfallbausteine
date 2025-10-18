@@ -17,7 +17,7 @@ tags:
 
 > [!management]
 > 1. **[[Analgesie]]:** i.d.R. starkes Opioid (z.B. Fentanyl 50 μg-weise i.v.) + Metamizol
-> 2. **[[Antikoagulation]]:** UFH 5000 IE i.v. + Heparin-[[Perfusor]] 750 IE/h
+> 2. **[[AK]]:** UFH 5000 IE i.v. + Heparin-[[Perfusor]] 750 IE/h
 > 3. **CT-A** N0
 > 4. **GCh:** Nüchtern lassen, Konsil / OP
 

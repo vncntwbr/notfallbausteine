@@ -51,7 +51,7 @@ Bitte folgende Bausteine/Callouts nutzen. Jedes Einzelne je Seite natürlich opt
 > - **R:** 
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** 
+> - **[[U|U]]:** 
 > - **[[EKG]]:** 
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 
