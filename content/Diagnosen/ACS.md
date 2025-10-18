@@ -5,9 +5,9 @@ tags:
 title: Akutes Koronarsyndrom (ACS)
 ---
 
-<div class="switcher-block" data-option="default">This is the default text.</div>
-    <div class="switcher-block" data-option="alt1" style="display:none;">Alternative text version 1.</div>
-    <div class="switcher-block" data-option="alt2" style="display:none;">Alternative text version 2.</div>
+<div class="localBlock" data-option="default">This is the default text.</div>
+    <div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
+    <div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
 
 
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup
