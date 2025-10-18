@@ -72,7 +72,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           <span class="localBlock" data-option="default">Hier könnte auch etwas Lokales stehen</span>
           <span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>
           <span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
-          {localFrontmatter.cbf}
+          <div class="callout" data-callout="lokal">{localFrontmatter.cbf}</div>
         </p>
       )
     }
