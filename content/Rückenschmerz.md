@@ -5,6 +5,8 @@ tags:
 aliases:
   - Kreuzschmerz
 ---
+> [!lokal] <span class="localBlock" data-option="zbb" style="display:none;">Anatomische Aufteilung: Knöchern = Wirbelsäulenchirurgie, Weichgewebe (inkl. BSV) = Neurochirurgie</span>
+
 > [!dd]+ Do Not Miss DD
 > - **[[Aorta]]** → [[POCUS]]
 > - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
