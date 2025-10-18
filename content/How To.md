@@ -29,6 +29,9 @@ Willkommen! :)
 	- Es ist ziemlich viel Magic damit möglich, aber nicht ganz alles
 - Weitere Lokalisierungen können über die Datei ```./quartz/components/PageTitle.tsx``` als Option eingefügt werden: ```<option value="beispielnotfallzentrum">Beispiel-Notfallzentrum</option>``` (hier ist auch der Typescript Code hinterlegt)
 - Das Plugin ```textswitcher``` wird nicht genutzt
+
+> [!lokal] <span class="localBlock" data-option="default">Keine Lokalisierung, keine Kekse :)</span><span class="localBlock" data-option="cbf" style="display:none;">CBF Lokalisierung</span><span class="localBlock" data-option="zbb" style="display:none;">ZBB Lokalisierung</span>
+
 ## Bausteine
 Bitte folgende Bausteine/Callouts nutzen. Jedes Einzelne je Seite natürlich optional. Function beats Form. Auch durch Einfügen der [[Vorlage Leitsymptom]] möglich.
 

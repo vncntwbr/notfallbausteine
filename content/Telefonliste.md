@@ -6,7 +6,7 @@ title: Telefonliste & Stationsübersicht
 cbf: <a href="https://intranet.charite.de/notfallmedizin_cbf/startseite/">Telefonliste DienstärztInnen und Funktionsbereiche CBF</a>
 ---
 > [!lokal] Telefonliste
-> <span class="localBlock" data-option="default">Keine Lokalisierung :)</span>
+> <span class="localBlock" data-option="default">Keine Lokalisierung, keine Kekse :)</span>
 > <div class="localBlock" data-option="cbf" style="display:none;">
 > - <a href="https://intranet.charite.de/notfallmedizin_cbf/startseite/">Telefonliste DienstärztInnen und Funktionsbereiche CBF</a>
 > - <a href="https://intranet.charite.de/fileadmin/user_upload/microsites/cc10/notfallmedizin/Anleitungen/Telefonliste_CCM_18062024.pdf">Telefonliste CCM / CVK</a>

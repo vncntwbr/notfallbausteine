@@ -1,0 +1,1 @@
+> [!lokal] <span class="localBlock" data-option="default">Keine Lokalisierung, keine Kekse :)</span><span class="localBlock" data-option="cbf" style="display:none;">CBF Lokalisierung</span><span class="localBlock" data-option="zbb" style="display:none;">ZBB Lokalisierung</span>

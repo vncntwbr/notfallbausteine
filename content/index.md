@@ -3,8 +3,6 @@ title: Home
 aliases:
   - Home
 ---
-> [!lokal] <span class="localBlock" data-option="default">Keine Lokalisierung, keine Kekse :)</span><span class="localBlock" data-option="cbf" style="display:none;">CBF Lokalisierung</span><span class="localBlock" data-option="zbb" style="display:none;">ZBB Lokalisierung</span>
-
 > [!warning] Cave: Alles außer ```#status/done``` mit besonderer Vorsicht zu genießen
 
 | Willkommen         |                                                                                                        |
