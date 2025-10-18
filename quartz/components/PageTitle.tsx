@@ -33,6 +33,7 @@ PageTitle.afterDOMLoaded = `
       document.querySelectorAll('.localBlock').forEach(block => {
         block.style.display = (block.dataset.option === selected) ? 'inline' : 'none';
       });
+      console.log("blocks updated");
     }
 
     // Remove any existing event listeners to avoid duplicates
