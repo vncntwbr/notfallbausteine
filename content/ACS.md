@@ -15,14 +15,31 @@ cbf: |-
 > - **STEMI/OMI**
 > - **NSTEMI**
 > - **Instabile AP**
-> - **Typ-2-Myokardinfarkt:** Relativ O2↓ (Schock, [[Tachykardie]], [[Anämie]]), Vasospasmus  (Kokain/[[Amphetamine]], Kounis-Syndrom b. [[Anaphylaxie]]), SCAD
+> - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativ O2↓
+> 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxämie]]
+> 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
+> 	- SCAD
+
+> [!anamnese]
+> - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
+> - **A:** Analgetika-Asthma?
+> - **M:** ASS/DAPT? [[AK]]?
+> - **P:** ==Bek. KHK, z.N. PCI/ACVB?== Diabetes? OPs thorakal? Tumor? [[Schwanger]]? [[Aorta]]?
+> - **L:** TTE? HKU?
+> - **E:** Auftreten aus Ruhe/Belastung? Immobilisation/OP?
+> - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
 
 > [!workup]
-> - **[[U|U]]:** VP, Auskultation (Vitien? Stauung? RG?), Abd (Oberbauch?), Beine (Ödeme? TVT?), Habitus (<45 J.: Marfanoid?)
-> - **[[EKG]]:** min. 0+1h, siehe [[Ischämie-EKG]]
-> - **Troponin**[^3]
-> - **[[TTE]]**
+> - **[[U|U]]:** VP (insb. AF, HF)
+> 	- Auskultation (Vitien? Stauung? RG? Pneu? Pleuritis?)
+> 	- Abd (Oberbauch?)
+> 	- Extremitäten (Ödeme? TVT? Zentralisation?)
+> 	- Habitus (<45 J.: Marfanoid?)
+> - **[[EKG]]:** #1 <10min, #2 <1h, siehe [[Ischämie-EKG]]
+> - **[[Labor]]:** Profil "Brustschmerz", [[Troponin]][^3], [[D-Dimer]] nur gezielt (s. [[LAE]])
+> - **[[POCUS]]:** [[LUS]] (Pneu? Erguss? Lungeninfarkte? B-Lines?), [[TTE]], ggf. [[Aorta]], ggf. [[TVT]]
 > - **Koronar-CT:**
+> <div class="localBlock" data-option="cbf" style="display:none">- **Kardio-[[TTE]]:** Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 
 > [!Management]
 > - **[[Analgesie]]:** PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
