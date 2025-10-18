@@ -44,20 +44,20 @@ tags:
 > - **[[EKG]]:** DD [[ACS]], [[VHF]] ([[Mesenterialischämie]])
 > - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" ± PCT
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG
-> 1. **Immer Indikation weitere Diagnostik/CT:**
+> - **Immer Indikation weitere Diagnostik/CT:**
 > 	- Abwehrspannung, Peritonismus
 > 	- [[POOP]] / plötzliche, stärkste Schmerzen
 > 	- V.a. Ileus
 > 	- [[AZ↓]] (insb. geriatrisch niedrigschwellig CT)
 
 > [!Management]+
-> 2. **[[Analgesie]]**
-> 3. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
-> 4. **Antiemetika**
+> 1. **[[Analgesie]]**
+> 2. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
+> 3. **Antiemetika**
 > 	- *MCP:* Peristaltik↑, KI mech. Ileus oder Diarrhoe
 > 	- *Dimenhydrinat:* [[Anticholinerg|anticholinerge UAW]], KI ältere Pat.
 > 	- *Ondansetron:* UAW Obstipation, [[Interaktionen]] serotonerge Meds
-> 5. **Gezielte Therapie nach DD**
+> 4. **Gezielte Therapie nach DD**
 
 > [!note]+ Unklarer Bauchschmerz
 > ```
