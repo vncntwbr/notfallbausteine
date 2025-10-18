@@ -4,7 +4,9 @@ tags:
   - Druck
   - Checkliste
   - Status/Done
+cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 ---
+> [!lokal] <span class="localBlock" data-option="cbf">OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700</span>
 
 > [!danger] Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==

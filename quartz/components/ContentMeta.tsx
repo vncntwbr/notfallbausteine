@@ -60,6 +60,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push("Zuletzt geändert: ")
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
+      if (fileData.cbf){
+        segments.push(fileData.cbf)
+      }
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>

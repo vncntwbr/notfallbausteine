@@ -118,6 +118,10 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             if (socialImage) data.socialImage = socialImage
 
+            //Localisation Frontmatter
+            if (cbf) data.cbf = cbf
+
+
             // Remove duplicate slugs
             const uniqueSlugs = [...new Set(allSlugs)]
             allSlugs.splice(0, allSlugs.length, ...uniqueSlugs)
