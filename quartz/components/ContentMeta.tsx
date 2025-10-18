@@ -78,10 +78,14 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const localFrontmatterElements: HTMLElement[] = [];
 
       for (const [key, value] of Object.entries(localFrontmatter)) {
+        const keyCaps = key.toUpperCase();
         localFrontmatterElements.push(<blockquote class="callout lokal localBlock" data-option={key} style="display:none" data-callout="lokal">
             <div class="callout-title">
               <div class="callout-icon"></div>
-              <div class="callout-title-inner">
+              <div class="callout-title-inner">{keyCaps}</div>
+            </div>
+            <div class="callout-content">
+              <div class="callout-content-inner">
                 <p style={{ whiteSpace: 'pre-line' }}>{value}</p>
               </div>
             </div>
