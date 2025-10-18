@@ -5,11 +5,12 @@ tags:
   - Diagnosen
 title: Akutes Koronarsyndrom (ACS)
 cbf: |-
-  ECPR 622 454<br>
-  Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)<br>
-  ITS 32A 622 454 (Fax 514 908)<br>
-  TTE ###### (Slots 10:00 + 13:00)<br>
-  Kardio-Dienst 613 899<br>
+  ECPR 622 454
+  Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)
+  ITS 32A 622 454 (Fax 514 908)
+  TTE ###### (Slots 10:00 + 13:00)
+  Kardio-Dienst 613 899
+zbb:
 ---
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI**
@@ -38,18 +39,32 @@ cbf: |-
 > - **[[EKG]]:** #1 <10min, #2 <1h, siehe [[Ischämie-EKG]]
 > - **[[Labor]]:** Profil "Brustschmerz", [[Troponin]][^3], [[D-Dimer]] nur gezielt (s. [[LAE]])
 > - **[[POCUS]]:** [[LUS]] (Pneu? Erguss? Lungeninfarkte? B-Lines?), [[TTE]], ggf. [[Aorta]], ggf. [[TVT]]
-> - **Koronar-CT:**
+> - **ggf. Koronar-CT** (Indikation kritisch prüfen)
 > <div class="localBlock" data-option="cbf" style="display:none">- **Kardio-[[TTE]]:** Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 
 > [!Management]
-> - **[[Analgesie]]:** PCM 1 g i.v. ± Morphin 3 mg-weise i.v.
-> - **Ohne Dekomp.:** Metoprolol 5 mg-weise i.v. bis 15 mg (Präv. VT/VF, Infarktgröße), ggf. Nitro s.l.
+> 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
+> 2. **[[O2]]** Ziel SpO2 >90%[^4]
+> 3. **[[Analgesie]]:** Paracetamol 1 g i.v. ± Morphin 3 mg-weise i.v.
+> 4. **Metoprolol** 5 mg-weise i.v. bis 15 mg (wenn RR >120 + keine [[Herzinsuffizienz]]), verhindert VT/VF, reduziert Infarktgröße
+> 5. **ggf. CPAP** bei [[Herzinsuffizienz]]/[[Lungenödem]]
+> 6. **ggf. Nitro** s.l. (wenn RR >120, symptomatisch, keine diagnostische Aussage)
+> 7. **Non-sustained [[VT]]** braucht i.d.R. keine Antiarrhythmika, nur Metoprolol
+> 8. **Loading** abhängig von invasiver Strategie s.u.
 
 > [!disposition]
-> 1. **Sofort-PCI** bei STEMI/OMI od. NSTEMI + very high risk (Schock, anhaltende/refrakt. AP, [[Lungenödem]], [[VT]])
-> 2. **ITS/IMC, PCI <24h** bei NSTEMI (V.a. ACS + hs-Trop 1h∆ ≥5 / 2h∆ ≥10), dynam. [[EKG]] od. [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) >140 Pkt.
-> 3. **NST** bei V.a. instabile AP, ED KHK od. [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
-> 4. **E** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt. 
+> - **Sofort-PCI** bei STEMI/OMI oder NSTEMI + "very high risk" feature ([[Schock]], anhaltende/rezidivierende/refraktäre AP, [[Herzinsuffizienz]]/[[Lungenödem]], Arrhythmie/[[VT]], dynamisches [[Ischämie-EKG]], mechanische Komplikationen z.B. Mitralsegelausriss)
+> 	- Defibrillationsbereitschaft (Patches)
+> 	- Loading ASS 250 mg i.v. + Heparin 70 IE/kg (max. 5000) i.v.
+> 	- Metoprolol erwägen
+> 	- Arztbegleitete Verlegung zur PCI <90 min
+> - **ITS/IMC, PCI <24h** bei NSTEMI (V.a. ACS + hs-Trop 1h∆ ≥5 / 2h∆ ≥10), transientem [[Ischämie-EKG]] oder [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) >140 Pkt. (auch iAP)
+> 	- Defibrillationsbereitschaft (Gerät im Raum)
+> 	- ASS 300 mg p.o. + Fondaparinux 2.5 mg s.c. (wenn GFR >20)
+> 	- Arztbegleitete Verlegung auf ITS
+> - **Normalstation** bei V.a. instabile AP mit [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) ≤140 Pkt., ED KHK oder [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
+> 	- ASS 300 mg p.o. + Fondaparinux 2.5 mg s.c. (wenn GFR >20)
+> - **Entlassung** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
 
 
 > [!note] Formulierung
@@ -86,3 +101,5 @@ cbf: |-
 [^2]: Pendell Meyers. J Emerg Med 2021. [Comparison of the ST-Elevation Myocardial Infarction (STEMI) vs. NSTEMI and Occlusion MI (OMI) vs. NOMI Paradigms of Acute MI](https://pubmed.ncbi.nlm.nih.gov/33308915/)
 
 [^3]: “Im geeigneten klinischen Kontext, wenn eine andere Erklärung für die erhöhten Troponin-Werte identifiziert wurde (z.B. TAA bei VHF, schwere Anämie, hypertensiver Notfall), kann eine weiterführende Diagnostik (d.h. Koronarangiografie) nicht nötig sein.” ESC ACS 2023
+
+[^4]: Bei SpO2 >90% kein Benefit durch O2-Gabe aber auch kein Harm! ESC Empfehlung ist lediglich “keine Routine-Gabe” bei SpO2 >90%
