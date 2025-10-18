@@ -69,17 +69,10 @@ PageTitle.css = `
 
   /* Style the dropdown to match Quartz root title font and size */
   #dropdownLocalisation{
-    font-family: var(--font-sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif);
-    font-weight: 600;              /* semi-bold like root title */
-    font-size: 1.5rem;             /* about 24px if root is ~24px */
-    line-height: 1.2;
-    margin-top: 0.4 em;
-    padding: 0.2em;
-    border: 1px solid var(--interactive-neutral, #555);
-    border-radius: 4px;
-    background-color: var(--background-primary, #fff);
-    color: var(--text-normal, #222);
-    min-width: 200px;              /* or adjust to your content */
+    font-family: var(--titleFont);
+    font-size: 1.75rem;
+    border: none;
+    background-color: none;
     cursor: pointer;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
