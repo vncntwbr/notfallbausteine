@@ -7,7 +7,7 @@ tags:
 
 > [!note]+ Textbaustein
 > ```
-> Zusammenfassend klinisch und anamnestisch V.a. Gastroenteritis, am ehesten viraler Genese. Bedarfsgerechte intravenöse und orale Rehydratation. Symptomatische Therapie mit ### Antiemetika/Analgetika. Aktuell kein H.a. für abwendbar gefährlichen Verlauf. Entlassung in gebessertem AZ bei normwertigen Vitalparametern.
+> Zusammenfassend klinisch und anamnestisch V.a. Gastroenteritis, am ehesten viraler Genese. Bedarfsgerechte intravenöse und orale Rehydratation. Symptomatische Therapie mit ### Antiemetika/Analgetika. Aktuell kein H.a. abwendbar gefährlichen Verlauf. Entlassung in gebessertem AZ bei normwertigen Vitalparametern.
 > 
 > Empfehlungen: 
 > - Fortführung der symptomatischen Therapie zu Hause: körperliche Schonung, auf ausreichende Flüssigkeitszufuhr achten (am besten viele kleine Schlucke, bei Durchfall auf ausreichende Salzzufuhr achten und z.B. Brühe trinken), Schonkost (keine stark gewürzten oder sehr fettigen Speisen, ausreichende Salzzufuhr, z.B. Salzgebäck).

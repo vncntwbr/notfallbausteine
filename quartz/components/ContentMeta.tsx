@@ -62,25 +62,27 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
       
       const localFrontmatter: Record<string, string> = {};
-      localFrontmatter["default"] = 'Keine Lokalisation';
+      //localFrontmatter["default"] = 'Keine Lokalisation';
       localFrontmatter["cbf"] = fileData.frontmatter?.cbf || '';
       localFrontmatter["zbb"] = fileData.frontmatter?.zbb || '';
 
-      let localFrontmatterCallout: HTMLElement = <blockquote class="callout lokal" data-callout="lokal">
+      const localFrontmatterElements: HTMLElement[] = [];
+
+      for (const [key, value] of Object.entries(localFrontmatter)) {
+        localFrontmatterElements.push(<blockquote class="callout lokal" data-callout="lokal">
             <div class="callout-title">
               <div class="callout-icon"></div>
               <div class="callout-title-inner">
-                <span class="localBlock" data-option="default">{localFrontmatter.default}</span>
-                <span class="localBlock" data-option="cbf" style="visibility:hidden">{localFrontmatter.cbf}</span>
-                <span class="localBlock" data-option="zbb" style="visibility:hidden">{localFrontmatter.zbb}</span>
+                <span class="localBlock" data-option=${key} style="display:none">${value}</span>
               </div>
             </div>
-          </blockquote>
+          </blockquote>)
+      }
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
-          {localFrontmatterCallout}
+          {localFrontmatterElements}
         </p>
       )
     }

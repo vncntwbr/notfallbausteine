@@ -18,7 +18,7 @@ tags:
 > 	- [[Gallenerkrankungen]]
 > 	- [[Pankreatitis]]
 > 	- [[Gastritis]]
-> 	- [[Gastroenteritis]]
+> 	- [[Gastroenteritis (viral)]]
 > 	- Flanken: [[Urolithiasis]]
 > 	- Unterlappenpneumonie u.ä.
 > - **Mittel-/Unterbauch**

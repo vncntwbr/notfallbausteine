@@ -27,7 +27,7 @@ aliases:
 | **Neuro**          | [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]                       |
 | **Kardiovask.**    | [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]                         |
 | **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]                                           |
-| **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]] |
+| **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis (viral)]] [[Gastritis]] [[Pankreatitis]] |
 | **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                       |
 ## Auswahl häufiger Textbausteine
 ![[U#^82651c]]
