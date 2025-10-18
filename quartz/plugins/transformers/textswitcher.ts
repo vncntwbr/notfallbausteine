@@ -1,5 +1,5 @@
 import type { Plugin } from "quartz";
-
+console.log("[Quartz] TextSwitcher plugin registered");
 const textswitcher = (): Plugin => ({
   name: "textswitcher",
   transform: (page) => {
