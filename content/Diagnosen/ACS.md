@@ -5,9 +5,7 @@ tags:
 title: Akutes Koronarsyndrom (ACS)
 ---
 > [!lokal]
-> <div class="localBlock" data-option="default">Keine Lokalisierung :)</div>
-> <div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
-> <div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
+> <span class="localBlock" data-option="default">Keine Lokalisierung :)</span><span class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</span><span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
 
 
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
