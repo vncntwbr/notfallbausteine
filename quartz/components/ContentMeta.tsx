@@ -61,8 +61,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
       
-      const localFrontmatter: string = '' 
-      localFrontmatter += fileData.frontmatter?.cbf || '';
+      const dict: localFrontmatter = {};
+        dict["cbf"] = fileData.frontmatter?.zbb || '';
+        dict["zbb"] = "value2";
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
@@ -70,6 +71,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           <span class="localBlock" data-option="default">Hier könnte auch etwas Lokales stehen</span>
           <span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>
           <span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
+          {localFrontmatter.cbf}
         </p>
       )
     }
