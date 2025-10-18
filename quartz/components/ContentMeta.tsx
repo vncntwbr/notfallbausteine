@@ -62,17 +62,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
       
       const localFrontmatter: Record<string, string> = {};
+      localFrontmatter["default"] = 'Keine Lokalisation';
       localFrontmatter["cbf"] = fileData.frontmatter?.cbf || '';
       localFrontmatter["zbb"] = fileData.frontmatter?.zbb || '';
-      console.log(localFrontmatter)
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments},&nbsp;
-          <span class="localBlock" data-option="default">Hier könnte auch etwas Lokales stehen</span>
-          <span class="localBlock" data-option="cbf" style="display:none;">OA Notfallmedizin CBF: 552 880</span>
-          <span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
-          <div class="callout" data-callout="lokal">{localFrontmatter.cbf}</div>
+          {segments}<br>
+          <div class="callout localBlock" data-callout="lokal">{localFrontmatter.default}</div>
+          <div class="callout localBlock" data-callout="lokal" style="display:none">{localFrontmatter.cbf}</div>
+          <div class="callout localBlock" data-callout="lokal" style="display:none">{localFrontmatter.zbb}</div>
         </p>
       )
     }
