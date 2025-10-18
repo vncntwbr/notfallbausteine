@@ -50,7 +50,8 @@ PageTitle.css = `
     font-weight: 600;              /* semi-bold like root title */
     font-size: 1.5rem;             /* about 24px if root is ~24px */
     line-height: 1.2;
-    padding: 0.2em 0.6em;
+    margin-top: 0.4 em;
+    padding: 0.2em;
     border: 1px solid var(--interactive-neutral, #555);
     border-radius: 4px;
     background-color: var(--background-primary, #fff);

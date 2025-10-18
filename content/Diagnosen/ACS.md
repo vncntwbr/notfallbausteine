@@ -4,8 +4,8 @@ tags:
   - status/started
 title: Akutes Koronarsyndrom (ACS)
 ---
-
-<div class="localBlock" data-option="default">This is the default text.</div>
+> [!lokal]
+> <div class="localBlock" data-option="default">This is the default text.</div>
 <div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
 <div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
 
