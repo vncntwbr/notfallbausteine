@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 - Simulation ist protektiv gegen Kranktage[^1]
 

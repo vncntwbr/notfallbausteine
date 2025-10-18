@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 [^1]
 [^2]

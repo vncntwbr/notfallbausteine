@@ -1,7 +1,7 @@
 ---
 tags:
-  - basics
-  - status/started
+  - Basics
+  - Status/Started
 ---
 
 - RTW Dezeleration erhöht [[Hirndruck]][^1]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - status/started
+  - Status/Started
 aliases:
 title:
 ---

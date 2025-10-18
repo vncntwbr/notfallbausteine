@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 - 40-80% of medical information provided by healthcare practitioners is forgotten immediately. The greater the amount of information presented, the lower the proportion correctly recalled; furthermore, almost half of the information that is remembered is incorrect.[^1]
 - How To Communicate Wartezeit[^2]

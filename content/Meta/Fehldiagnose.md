@@ -1,7 +1,7 @@
 ---
 tags:
-  - basics
-  - status/started
+  - Basics
+  - Status/Started
 ---
 
 - Erhöht Mortalität in ZNA aufgenommenen Pat.[^1]

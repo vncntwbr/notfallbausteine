@@ -1,5 +1,0 @@
----
-tags:
-  - interventionen
-  - status/empty
----

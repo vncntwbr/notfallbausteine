@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 - Private Acquisition von KH erhöht Komplikationsrate[^1]
 

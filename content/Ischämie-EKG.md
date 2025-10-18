@@ -1,0 +1,23 @@
+---
+tags:
+  - Probleme
+  - Status/Started
+  - Basics
+title: Ischämie-EKG
+---
+- *Klassischer STEMI:* STE ≥1 mm in ≥2 benachbarten Abltg., außer:
+	- V2-V3 M <40 J. ≥2.5 mm, M ≥40 J. ≥2 mm, W ≥1.5 mm
+	- V7-V9 od. V3R-V5R ≥0,5 mm
+- *Nonsign. STE + reziproke STD*
+- *Hyperakutes T* (AUC↑ in DD zu [[HyperK+]])
+- *De-Winter*
+- *Wellens*
+- *Shark-Fin*
+- *LSB* neu, mit typischer Klinik od. mod. Sgarbossa-Kriterien pos.
+- *RSB mit STE* (normal bewerten)
+- *South African Flag* / hochlateral (STE aVL, I, V2)
+- *Aslanger* (STE III, STD V4-V6, ST in V1 > V2)
+- *Hauptstamm* (STE aVR, STD ≥6 Abltg.)
+
+---
+- [OMI Pocket Guide](https://omiguide.org)

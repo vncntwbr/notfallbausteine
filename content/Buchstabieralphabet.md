@@ -1,0 +1,33 @@
+---
+tags:
+  - Basics
+  - Status/Done
+---
+
+- **NATO**
+	- Alpha
+	- Bravo
+	- Charlie
+	- Delta
+	- Echo
+	- Foxtrott
+	- Golf
+	- Hotel
+	- India
+	- Juliett
+	- Kilo
+	- Lima
+	- Mike
+	- November
+	- Oscar
+	- Papa
+	- Quebec
+	- Romeo
+	- Sierra
+	- Tango
+	- Uniform
+	- Victor
+	- Whiskey
+	- X-Ray
+	- Yankee
+	- Zulu

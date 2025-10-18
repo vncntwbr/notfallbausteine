@@ -1,7 +1,7 @@
 ---
 tags:
-  - sy/trauma
-  - status/ohne
+  - Probleme/Trauma
+  - Status/ToDo
 ---
 
 [^1]

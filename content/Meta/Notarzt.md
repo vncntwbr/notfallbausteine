@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 - Berliner Qualifikationsmodell[^1]
 

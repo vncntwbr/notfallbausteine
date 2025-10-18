@@ -1,6 +1,6 @@
 ---
 tags:
-  - basics/meta
+  - Basics/Meta
 ---
 - "Skillmix" (Substitution mit Hilfskräften) erhöht Mortalität[^1]
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - basics
-  - status/done
+  - Basics
+  - Status/Done
 ---
 
 ## Grundzeichen

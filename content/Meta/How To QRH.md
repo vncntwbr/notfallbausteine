@@ -1,7 +1,7 @@
 ---
 tags:
-  - basics/meta
-  - status/started
+  - Basics/Meta
+  - Status/Started
 ---
 
 

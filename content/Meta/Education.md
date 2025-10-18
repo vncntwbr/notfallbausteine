@@ -1,7 +1,7 @@
 ---
 tags:
-  - basics
-  - status/started
+  - Basics
+  - Status/Started
 ---
 - EPA = trash[^3]
 - Presentations[^4]
