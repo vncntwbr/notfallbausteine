@@ -73,7 +73,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
             <div class="callout-title">
               <div class="callout-icon"></div>
               <div class="callout-title-inner">
-                <span class="localBlock" data-option=${key} style="display:none">${value}</span>
+                <span class="localBlock" data-option={key} style="display:none">{value}</span>
               </div>
             </div>
           </blockquote>)
