@@ -61,10 +61,19 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
       
-      const localFrontmatter: Record<string, string> = {};
-      //localFrontmatter["default"] = 'Keine Lokalisation';
-      localFrontmatter["cbf"] = fileData.frontmatter?.cbf.join() || '';
-      localFrontmatter["zbb"] = fileData.frontmatter?.zbb.join() || '';
+      const cbfValue = Array.isArray(fileData.frontmatter?.cbf)
+        ? fileData.frontmatter.cbf.join(", ")
+        : fileData.frontmatter?.cbf || '';
+
+      const zbbValue = Array.isArray(fileData.frontmatter?.zbb)
+        ? fileData.frontmatter.zbb.join(", ")
+        : fileData.frontmatter?.zbb || '';
+
+      const localFrontmatter: Record<string, string> = {
+        cbf: cbfValue,
+        zbb: zbbValue,
+      };
+      
 
       const localFrontmatterElements: HTMLElement[] = [];
 
