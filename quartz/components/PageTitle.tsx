@@ -31,7 +31,7 @@ PageTitle.afterDOMLoaded = `
     function updateBlocks() {
       const selected = dropdown.value;
       document.querySelectorAll('.localBlock').forEach(block => {
-        block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
+        block.style.display = (block.dataset.option === selected) ? 'inline' : 'none';
       });
     }
 
