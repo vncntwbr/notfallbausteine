@@ -5,11 +5,11 @@ tags:
   - Diagnosen
 title: Akutes Koronarsyndrom (ACS)
 cbf: |-
-  ECPR 622 454
-  Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)
-  ITS 32A 622 454 (Fax 514 908)
-  TTE ###### (Slots 10:00 + 13:00)
-  Kardio-Dienst 613 899
+  ECPR 622 454<br>
+  Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)<br>
+  ITS 32A 622 454 (Fax 514 908)<br>
+  TTE ###### (Slots 10:00 + 13:00)<br>
+  Kardio-Dienst 613 899<br>
 ---
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI**
