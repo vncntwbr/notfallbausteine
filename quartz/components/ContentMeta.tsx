@@ -62,11 +62,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
       
       const cbfValue = Array.isArray(fileData.frontmatter?.cbf)
-        ? fileData.frontmatter.cbf.join("\n")
+        ? fileData.frontmatter.cbf.join("<br>")
         : fileData.frontmatter?.cbf || '';
 
       const zbbValue = Array.isArray(fileData.frontmatter?.zbb)
-        ? fileData.frontmatter.zbb.join("\n")
+        ? fileData.frontmatter.zbb.join("<br>")
         : fileData.frontmatter?.zbb || '';
 
       const localFrontmatter: Record<string, string> = {
