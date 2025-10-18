@@ -16,14 +16,14 @@ interface ContentMetaOptions {
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: false,
-  showComma: false,
+  showComma: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
-  function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+  /*function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
     if (text) {
@@ -50,7 +50,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     } else {
       return null
     }
-  }
+  }*/
+
+  function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+      return (
+        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta", "localBlock")},  data-option="cbf" style="display:none;">
+          OA Notfallmedizin CBF: 552 880
+        </p>
+      )
+    }
 
   ContentMetadata.css = style
 
