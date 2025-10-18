@@ -5,12 +5,12 @@ tags:
 title: Akutes Koronarsyndrom (ACS)
 ---
 > [!lokal]
-> <div class="localBlock" data-option="default">This is the default text.</div>
-<div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
-<div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
+> <div class="localBlock" data-option="default">Keine Lokalisierung :)</div>
+> <div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
+> <div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
 
 
-> [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup
+> [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI**
 > - **NSTEMI**
 > - **Instabile AP**

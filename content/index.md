@@ -3,6 +3,11 @@ title: Home
 aliases:
   - Home
 ---
+> [!lokal]
+> <div class="localBlock" data-option="default">Keine Lokalisierung :)</div>
+> <div class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</div>
+> <div class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</div>
+
 > [!warning] Cave: Alles außer ```#status/done``` mit besonderer Vorsicht zu genießen
 
 | Willkommen         |                                                                                                        |
