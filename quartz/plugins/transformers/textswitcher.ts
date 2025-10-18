@@ -3,6 +3,7 @@ import type { Plugin } from "quartz";
 const textswitcher = (): Plugin => ({
   name: "textswitcher",
   transform: (page) => {
+    console.log("[TextSwitcher] running on:", page.filePath);
     let md = page.content;
 
     // Find all custom blocks like <!-- start:option1 -->...<!-- end:option1 -->
