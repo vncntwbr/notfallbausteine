@@ -2,6 +2,9 @@
 tags:
   - basics
   - status/started
+title: Cluster of Differentiation (CD)
+aliases:
+  - Cluster of Differentiation
 ---
 
 - CD34+ = Blast

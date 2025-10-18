@@ -9,6 +9,11 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>{title}</a>
+      <select id="dropdownLocalisation" name="dropdownLocalisation">
+        <option value="option1">Nix Lokales</option>
+        <option value="option2">CBF</option>
+        <option value="option3">ZBB</option>
+      </select>
     </h2>
   )
 }
