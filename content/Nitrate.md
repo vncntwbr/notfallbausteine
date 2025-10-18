@@ -2,7 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
-  - Fach/kardiologie
+  - Fach/Kardiologie
 ---
 
 - KI RV-Infarkt nicht evidence-based[^1] im Gegensatz zu AHA und ESC Empfehlungen

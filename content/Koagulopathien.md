@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/hämatologie
+  - Fach/Hämatologie
   - Status/Started
+  - Diagnosen
 ---
 
 > [!danger] Rapid Reference

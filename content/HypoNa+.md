@@ -1,7 +1,7 @@
 ---
 tags:
   - Status/Done
-  - Fach/nephrologie
+  - Fach/Nephrologie
   - Probleme/Labor
 aliases:
   - Hyponatriämie

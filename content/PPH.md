@@ -1,9 +1,9 @@
 ---
 tags:
   - Diagnosen
-  - Fach/gynäkologie
+  - Fach/Gynäkologie
   - Status/Done
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
 aliases:
   - Peripartale Hämorrhagie
   - Peripartale Blutung

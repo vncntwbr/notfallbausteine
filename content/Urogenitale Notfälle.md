@@ -1,5 +1,5 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
   - Status/ToDo
 ---

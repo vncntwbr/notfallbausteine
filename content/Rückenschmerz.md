@@ -1,6 +1,6 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
   - Status/Done
 aliases:
   - Kreuzschmerz

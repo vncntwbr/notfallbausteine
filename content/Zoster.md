@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/dermatologie
+  - Fach/Dermatologie
   - Status/Done
+  - Diagnosen
 aliases:
   - Gürtelrose
   - Herpes zoster

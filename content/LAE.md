@@ -1,8 +1,10 @@
 ---
 tags:
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Checkliste
   - Status/Done
+  - Diagnosen
+  - Fach/Pneumologie
 aliases:
 title: Lungenarterienembolie (LAE)
 ---

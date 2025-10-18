@@ -1,8 +1,8 @@
 ---
 tags:
   - Diagnosen
-  - Fach/hno
-  - Fach/orthopädie
+  - Fach/HNO
+  - Fach/Orthopädie
   - Status/Done
 aliases:
 ---

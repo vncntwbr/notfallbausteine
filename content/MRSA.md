@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Status/Started
+  - Diagnosen
 title: Methicillin-resistenter Staph. aureus (MRSA)
 ---
 

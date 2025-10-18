@@ -1,8 +1,8 @@
 ---
 tags:
   - Interventionen/Meds
-  - Fach/neurologie
-  - Fach/kardiologie
+  - Fach/Neurologie
+  - Fach/Kardiologie
   - Status/Started
 title: Medikamentöse Thrombolyse
 ---

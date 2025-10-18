@@ -1,7 +1,9 @@
 ---
 tags:
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Started
+  - Diagnosen
+  - Probleme/Herz-Thorax
 aliases:
   - Perikardtamponade
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - Interventionen
-  - Fach/neurologie
+  - Fach/Neurologie
   - Status/Done
 aliases:
   - Lumbalpunktion

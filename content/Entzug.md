@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/psychiatrie
+  - Fach/Psychiatrie
   - Status/Started
   - Probleme/Kopf-Neuro
 ---

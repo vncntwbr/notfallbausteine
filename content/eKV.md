@@ -1,7 +1,7 @@
 ---
 tags:
   - Interventionen
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Done
 aliases:
   - eKV
@@ -11,7 +11,7 @@ title: Elektrische Kardioversion (eKV)
 > 1. **Indikation:** Instabilitäskriterien ([[Schock]], [[Vigilanzminderung]], Akute [[Herzinsuffizienz]], Myokardiale Ischämie = [[ACS]]-Sympt. oder [[EKG]])
 > 2. **ABC:** Schockraum, Monitoring, [[BVM]], Absaugung
 > 3. **Patches:** [[VT]] und [[VHF]] anterolateral[^2], SVT anteroposterior
-> 4. **[[(Analgo-)Sedierung]]**
+> 4. **[[Analgosedierung]]**
 > 5. **SYNC**, R-Marker abwarten
 > 6. **Schock:** [[VT]] 120-150 J, [[VHF]] 200 J, [[SVT]] 120 J
 > 7. **Failure:** Elektrodenposition? [[HyperK+]]? [[Intox]]? ggf. Antiarrhythmika

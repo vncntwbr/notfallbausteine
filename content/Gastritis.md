@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Status/Done
+  - Diagnosen
 ---
 > [!note]+ Textbaustein Gastritis
 > ```

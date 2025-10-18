@@ -1,6 +1,6 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
   - Interventionen/Meds
   - Status/Done
 title: Postexpositionsprophylaxe (PEP) nach Sexualkontakt oder Nadelstichverletzung

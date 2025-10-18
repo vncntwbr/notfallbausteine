@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme
-  - Fach/neurologie
+  - Fach/Neurologie
   - Status/Done
 title: Periphere Facialisparese
 ---

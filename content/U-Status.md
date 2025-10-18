@@ -5,7 +5,7 @@ tags:
 title: Urin-Status
 ---
 
-- **Hämaturie:** Infekt, Trauma, Urolithiasis, Tumor, Nephritis, ggf. Hämolyse, Transfusionsreaktion, [[Sichelzellkrise]], Eklampsie, Menstruation
+- **Hämaturie:** Infekt, Trauma, Urolithiasis, Tumor, Nephritis, ggf. Hämolyse, Transfusionsreaktion, [[Sichelzellanämie]], Eklampsie, Menstruation
 	-  Erys/Hb/Myoglobin nicht differenziert
 - **Leukozyturie:** Entzündungsreaktion/Infekt Harnwege
 	- *falsch-neg:* Vit-C, ABx u.a. Doxycyclin, Proteinurie, Glucosurie

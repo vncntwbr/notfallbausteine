@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Status/Started
+  - Diagnosen
 ---
 > [!danger] Rapid Reference
 > - Jede Medikamentengabe prüfen: [drugs-porphyria.org](http://www.drugs-porphyria.org)

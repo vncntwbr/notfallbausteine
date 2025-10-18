@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Status/Started
+  - Diagnosen
 ---
 - **Def:** 2/3 Typischer [[Bauchschmerz]], Lipase↑ ≥3x, Sono/CT
 - **Ä:** Alkohol, Biliär, Seltenes (TAG, DM, Med, Ca2+, Tumor, ERCP, CF, ...)

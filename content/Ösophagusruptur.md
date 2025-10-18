@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/chirurgie
+  - Fach/Chirurgie
   - Status/Started
+  - Diagnosen
 ---
 - **Ä:** Boerhaave (spontan [[Ü+E]]), iatrogen → Ruptur oft distales ⅓ links dorsolateral
 - **W:** CT-Tx oral KM, [[POCUS]] [[Pneu]]?

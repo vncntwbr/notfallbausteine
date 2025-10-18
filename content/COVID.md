@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Status/Started
+  - Diagnosen
 title: COVID-19 / "Corona"
 aliases:
   - COVID-19

@@ -1,7 +1,7 @@
 ---
 tags:
   - Status/Done
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Diagnosen
 ---
 

@@ -1,8 +1,8 @@
 ---
 tags:
   - Probleme/Herz-Thorax
-  - Fach/anästhesiologie
-  - Fach/hno
+  - Fach/Anästhesiologie
+  - Fach/HNO
   - Status/Started
 ---
 

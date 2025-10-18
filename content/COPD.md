@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/pulmologie
+  - Fach/Pneumologie
   - Diagnosen
   - Status/Done
 title: Chronisch-obstruktive Lungenerkrankung (COPD)

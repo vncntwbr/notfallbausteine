@@ -1,8 +1,9 @@
 ---
 tags:
   - Status/Done
-  - Fach/infektiologie
-  - Fach/dermatologie
+  - Fach/Infektiologie
+  - Fach/Dermatologie
+  - Diagnosen
 aliases:
 title: Läuse-Befall
 ---

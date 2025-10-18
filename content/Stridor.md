@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme/Kopf-Neuro
-  - Fach/hno
+  - Fach/HNO
   - Status/Started
 ---
 > [!danger] Rapid Reference

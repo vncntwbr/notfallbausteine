@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/urologie
+  - Fach/Urologie
   - Diagnosen
   - Status/Done
 aliases:
@@ -9,7 +9,7 @@ title: Priapismus / Erektion >4h
 > [!anamnese]+ Anamnese
 > - **S:** Symptombeginn?
 > - **M:** Potenzmittel? Schwellkörper-Autoinjektionstherapie (SKAT)? Psychopharmaka?
-> - **P:** Neurologie? Rückenmarksschädigung? Malignom (CML)? [[Sichelzellkrise]]? KHK?
+> - **P:** Neurologie? Rückenmarksschädigung? Malignom (CML)? [[Sichelzellanämie]]? KHK?
 > - **L:** Erstereignis?
 > - **E:** Trauma (Genital, Perineum, Wirbelsäule)?
 > - **R:** Alkohol? Drogen (insb. Kokain, "Upper")?
@@ -28,7 +28,7 @@ title: Priapismus / Erektion >4h
 
 > [!management]+
 > 1. **Monitoring**
-> 2. **[[Analgesie]]:** Penisblock, ggf. [[(Analgo-)Sedierung]]
+> 2. **[[Analgesie]]:** Penisblock, ggf. [[Analgosedierung]]
 > 3. **[[BGA]] aus Schwellkörper:** pO2 <50 mmHg, Azidose, pCO2 >60 mmHg = ischämischer low-flow Priapismus
 > 4. **Low-Flow:**
 > 	1. **Schwellkörperpunktion** mit 2 Butterflys, passives Ablassen von 150 ml Blut (ggf. bis 500 ml)

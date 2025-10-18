@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme
-  - Fach/hämatologie
+  - Fach/Hämatologie
   - Status/Done
 aliases:
   - Petechien

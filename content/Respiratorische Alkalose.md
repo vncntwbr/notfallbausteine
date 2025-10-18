@@ -3,7 +3,7 @@ aliases:
   - Resp Alk
 tags:
   - Probleme
-  - Fach/labor
+  - Fach/Labormedizin
   - Status/Done
 ---
 > [!dd]+ DD

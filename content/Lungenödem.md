@@ -1,7 +1,9 @@
 ---
 tags:
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Started
+  - Probleme/Herz-Thorax
+  - Diagnosen
 aliases:
   - SCAPE
 ---

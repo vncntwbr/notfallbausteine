@@ -2,8 +2,8 @@
 tags:
   - Druck
   - Interventionen/HALO
-  - Fach/pädiatrie
-  - Fach/gynäkologie
+  - Fach/Pädiatrie
+  - Fach/Gynäkologie
   - Status/Done
   - Probleme/Kinder
 ---

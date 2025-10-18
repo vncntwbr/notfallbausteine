@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/urologie
+  - Fach/Urologie
   - Status/Done
+  - Diagnosen
 ---
 > [!info] Definition
 > Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])

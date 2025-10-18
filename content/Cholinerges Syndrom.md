@@ -1,7 +1,9 @@
 ---
 tags:
-  - Fach/toxikologie
+  - Fach/Toxikologie
   - Status/Started
+  - Diagnosen
+  - Probleme/Kopf-Neuro
 ---
 
 > [!danger] Resuscitation

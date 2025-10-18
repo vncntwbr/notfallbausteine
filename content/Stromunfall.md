@@ -2,7 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/Done
-  - Fach/kardiologie
+  - Fach/Kardiologie
 aliases:
 ---
 > [!danger]+ Potenziell kritische Stromunfallfolgen

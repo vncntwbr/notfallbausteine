@@ -1,7 +1,7 @@
 ---
 tags:
   - Interventionen/HALO
-  - Fach/auge
+  - Fach/Augenheilkunde
   - Status/Started
 ---
 - One Snip Approach[^1]

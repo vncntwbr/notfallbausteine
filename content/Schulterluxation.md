@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/orthopädie
+  - Fach/Orthopädie
   - Status/Started
+  - Diagnosen
 aliases:
 title: Schultergelenkluxation
 ---

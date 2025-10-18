@@ -1,9 +1,10 @@
 ---
 tags:
-  - Fach/infektiologie
-  - Fach/nephrologie
-  - Fach/urologie
+  - Fach/Infektiologie
+  - Fach/Nephrologie
+  - Fach/Urologie
   - Status/Started
+  - Diagnosen
 aliases:
   - Harnwegsinfektion
 title: Harnwegsinfektion (HWI)

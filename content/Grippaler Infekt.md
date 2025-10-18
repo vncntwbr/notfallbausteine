@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Status/Done
   - Diagnosen
 ---

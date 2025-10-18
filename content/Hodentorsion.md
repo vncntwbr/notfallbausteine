@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/urologie
+  - Fach/Urologie
   - Status/Started
   - Diagnosen
 ---

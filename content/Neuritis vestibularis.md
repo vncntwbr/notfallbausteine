@@ -1,8 +1,8 @@
 ---
 tags:
   - Diagnosen
-  - Fach/neurologie
-  - Fach/hno
+  - Fach/Neurologie
+  - Fach/HNO
   - Status/Done
 ---
 > [!dd] Beachte DD/Workup [[Schwindel]]

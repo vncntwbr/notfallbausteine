@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/hno
+  - Fach/HNO
   - Diagnosen
   - Status/Started
 aliases:

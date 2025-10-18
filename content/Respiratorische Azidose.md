@@ -3,7 +3,7 @@ aliases:
   - Resp Azi
 tags:
   - Probleme
-  - Fach/labor
+  - Fach/Labormedizin
   - Status/Done
 ---
 > [!dd]+ DD (siehe auch [[Dyspnoe]])

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/endokrinologie
+  - Fach/Endokrinologie
   - Status/Started
   - Probleme/Labor
 ---

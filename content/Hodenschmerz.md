@@ -2,7 +2,7 @@
 tags:
   - Probleme
   - Status/Started
-  - Fach/urologie
+  - Fach/Urologie
 title: Hodenschmerzen / Akutes Skrotum
 aliases:
   - Akutes Skrotum

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Diagnosen
   - Status/Done
 title: Scabies / Krätze

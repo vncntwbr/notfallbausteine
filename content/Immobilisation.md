@@ -2,7 +2,7 @@
 tags:
   - Interventionen
   - Status/Started
-  - Fach/orthopädie
+  - Fach/Orthopädie
 ---
 
 - Keine gute Evidenz für irgendeinen Outcome-Benefit der präklinischen WS-Immobilisation (nicht ausreichend HWS, keine Reduktion Neurologie, erschwert [[Atemwegsmanagement]], verursacht Druckulcera, erhöht [[Hirndruck]])[^1]

@@ -1,9 +1,9 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
   - Status/Done
-  - Fach/gastroenterologie
-  - Fach/infektiologie
+  - Fach/Gastroenterologie
+  - Fach/Infektiologie
 aliases:
 title: Diarrhoe / Durchfall
 ---

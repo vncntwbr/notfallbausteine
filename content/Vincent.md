@@ -1,3 +1,8 @@
+---
+tags:
+  - Personalisiert
+---
+
 ## Häufige Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]

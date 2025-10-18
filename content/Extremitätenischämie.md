@@ -1,7 +1,7 @@
 ---
 tags:
   - Diagnosen
-  - Fach/chirurgie
+  - Fach/Chirurgie
   - Status/Done
 ---
 > [!dd] DD

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/orthopädie
+  - Fach/Orthopädie
   - Diagnosen
   - Status/Started
 ---

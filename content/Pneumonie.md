@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fach/pulmologie
-  - Fach/infektiologie
+  - Fach/Pneumologie
+  - Fach/Infektiologie
   - Diagnosen
   - Status/Started
 aliases:

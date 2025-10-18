@@ -2,7 +2,7 @@
 tags:
   - Status/Started
   - Diagnosen
-  - Fach/endokrinologie
+  - Fach/Endokrinologie
 aliases:
 title: Hyperthyreose (TSH↓)
 ---
@@ -15,7 +15,7 @@ title: Hyperthyreose (TSH↓)
 > 5. **Prednisolon** 250 mg i.v.
 > 6. **[[POCUS]]:** EF?
 > 7. **[[Betablocker]]:** Metoprolol 2.5-5.0 mg-weise titriert i.v., ggf. Esmolol-Perfusor
-> 8. **ggf. leichte [[(Analgo-)Sedierung]]:** Midazolam 1-2 mg i.v.
+> 8. **ggf. leichte [[Analgosedierung]]:** Midazolam 1-2 mg i.v.
 > 9. **[[Sepsis]]-Workup** (häufiger Trigger)
 > 10. **Keine Jodexposition** (kein [[Amiodaron]], kein [[Kontrastmittel]])
 > 11. **ITS** (Letalität ≈80%)

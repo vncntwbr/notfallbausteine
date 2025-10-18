@@ -1,7 +1,7 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
   - Status/ToDo
+  - Probleme/Extremitäten
 aliases:
 ---
 > [!danger]+ Rapid Reference

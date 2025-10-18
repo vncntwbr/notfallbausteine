@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/neurologie
+  - Fach/Neurologie
   - Diagnosen
   - Status/Started
 ---

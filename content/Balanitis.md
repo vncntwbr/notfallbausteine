@@ -1,7 +1,7 @@
 ---
 tags:
   - Diagnosen
-  - Fach/urologie
+  - Fach/Urologie
   - Status/Done
 title: Balanitis / Eichelentzündung
 aliases:

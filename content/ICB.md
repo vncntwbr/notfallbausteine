@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/neurologie
+  - Fach/Neurologie
   - Status/Started
   - Diagnosen
 title: Intracerebrale Blutung (ICB)

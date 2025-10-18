@@ -2,8 +2,8 @@
 tags:
   - Interventionen/POCUS
   - Status/Started
-  - Fach/pulmologie
-  - Fach/kardiologie
+  - Fach/Pneumologie
+  - Fach/Kardiologie
 aliases:
   - Lungenultraschall
   - Lungensonografie

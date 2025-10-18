@@ -2,7 +2,7 @@
 tags:
   - Fach
   - Probleme/Allgemein
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Status/Started
 ---
 - **W**

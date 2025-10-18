@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/pulmologie
+  - Fach/Pneumologie
   - Status/Started
+  - Diagnosen
 aliases:
   - Pneumothorax
 title: Pneumothorax
@@ -10,7 +11,7 @@ title: Pneumothorax
 > [!danger]+ Spannungspneumothorax
 > 1. **Arbeitsdiagnose:** Einseitig fehlendes Atemgeräusch + Tubuslage richtig + B-Problem oder C-Problem
 > 2. **Nadel-Dekompression** in Bülau (4./5. ICR VAL-MAL) mit spez. Nadel alternativ PVK 14G orange
-> 3. **[[TDx]]** unter [[Analgesie]]/[[(Analgo-)Sedierung]]
+> 3. **[[TDx]]** unter [[Analgesie]]/[[Analgosedierung]]
 
 > [!anamnese]
 > - **S:** Schmerzen? (Belastungs-)[[Dyspnoe]]?

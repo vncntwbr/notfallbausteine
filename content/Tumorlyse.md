@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/hämatologie
+  - Fach/Hämatologie
   - Status/Done
+  - Diagnosen
 title: Tumorlyse-Syndrom (TLS)
 ---
 > [!danger] Rapid Reference

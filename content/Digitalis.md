@@ -2,8 +2,8 @@
 tags:
   - Interventionen/Meds
   - Status/Started
-  - Fach/kardiologie
-  - Fach/toxikologie
+  - Fach/Kardiologie
+  - Fach/Toxikologie
   - Diagnosen
 aliases:
   - Digitoxin

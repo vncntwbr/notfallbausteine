@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/anästhesiologie
+  - Fach/Anästhesiologie
   - Status/Started
   - Probleme
 ---

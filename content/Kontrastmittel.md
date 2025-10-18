@@ -2,9 +2,9 @@
 tags:
   - Basics
   - Interventionen/Meds
-  - Fach/radiologie
-  - Fach/nephrologie
-  - Fach/endokrinologie
+  - Fach/Radiologie
+  - Fach/Nephrologie
+  - Fach/Endokrinologie
   - Status/Started
 ---
 

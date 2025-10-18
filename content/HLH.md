@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/hämatologie
+  - Fach/Hämatologie
   - Status/Started
+  - Diagnosen
 title: Hämophagozytische Lymphohistiozytose (HLH)
 ---
 

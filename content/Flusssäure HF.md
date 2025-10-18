@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/toxikologie
+  - Fach/Toxikologie
   - Diagnosen
   - Status/Started
 title:

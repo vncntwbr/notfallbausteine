@@ -1,8 +1,8 @@
 ---
 tags:
   - Basics
-  - Fach/gastroenterologie
-  - Fach/labor
+  - Fach/Gastroenterologie
+  - Fach/Labormedizin
   - Status/Started
   - Probleme/Labor
 ---

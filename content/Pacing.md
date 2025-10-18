@@ -2,7 +2,7 @@
 tags:
   - Interventionen
   - Status/Started
-  - Fach/kardiologie
+  - Fach/Kardiologie
 title: Schrittmacher-Therapie (Pacing)
 ---
 

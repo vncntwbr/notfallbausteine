@@ -1,8 +1,11 @@
 ---
 tags:
-  - Fach/hämatologie
+  - Fach/Hämatologie
   - Status/Done
+  - Diagnosen
 title: Sichelzellanämie & Sichelzellkrise
+aliases:
+  - Sichelzellkrise
 ---
 > [!danger] Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
 > 1. **Erkennen**

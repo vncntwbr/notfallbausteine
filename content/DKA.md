@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/endokrinologie
+  - Fach/Endokrinologie
   - Diagnosen
   - Status/Done
 title: Diabetische Ketoazidose (DKA)

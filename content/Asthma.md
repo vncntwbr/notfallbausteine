@@ -2,7 +2,7 @@
 aliases:
   - Asthma bronchiale
 tags:
-  - Fach/pulmologie
+  - Fach/Pneumologie
   - Diagnosen
   - Status/Started
 title: Asthma bronchiale

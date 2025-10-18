@@ -2,7 +2,7 @@
 tags:
   - Probleme
   - Status/Started
-  - Fach/psychiatrie
+  - Fach/Psychiatrie
 title: Opioide/Opiate inkl. Intoxikation & Abhängigkeit
 ---
 - ! Entzugswunsch Opioide unangenehm, aber nie vital bedrohlich, immer *rein elektiv* → Suchtberatungsstellen

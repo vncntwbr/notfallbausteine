@@ -1,7 +1,7 @@
 ---
 tags:
   - Interventionen
-  - Fach/anästhesiologie
+  - Fach/Anästhesiologie
   - Status/Started
 title: |-
   Arterieller Katheter &

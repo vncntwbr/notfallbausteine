@@ -2,7 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Done
-  - Fach/neurologie
+  - Fach/Neurologie
 title: Krampfanfall / Epileptischer Anfall
 aliases:
   - Epileptischer Anfall

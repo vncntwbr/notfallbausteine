@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Started
   - Basics
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/nephrologie
+  - Fach/Nephrologie
   - Diagnosen
   - Status/Started
 title: Bradycardia, Renal failure, AV-Block, Shock, Hyperkalemia (BRASH-Syndrom)

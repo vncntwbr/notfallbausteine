@@ -3,8 +3,8 @@ tags:
   - Probleme/Allgemein
   - Status/Done
   - Diagnosen
-  - Fach/kardiologie
-  - Fach/neurologie
+  - Fach/Kardiologie
+  - Fach/Neurologie
 ---
 > [!info]+ Definition
 > - Synkope = [[TLOC]] mit unmittelbarer + vollständiger Erholung

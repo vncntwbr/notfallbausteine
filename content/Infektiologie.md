@@ -2,7 +2,7 @@
 tags:
   - Basics
   - Status/Started
-  - Fach/infektiologie
+  - Fach/Infektiologie
 ---
 
 

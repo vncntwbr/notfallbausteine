@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/dermatologie
+  - Fach/Dermatologie
   - Status/Started
+  - Diagnosen
 ---
 
 > [!danger] Resuscitation

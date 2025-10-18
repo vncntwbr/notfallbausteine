@@ -1,7 +1,7 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
-  - Fach/gastroenterologie
+  - Probleme/Abdomen
+  - Fach/Gastroenterologie
   - Status/Started
 title: GI-Blutung (GIB)
 ---

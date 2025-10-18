@@ -2,7 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
-  - Fach/nephrologie
+  - Fach/Nephrologie
 ---
 - *Schleifendiuretikum:* Furosemid 80-250 mg i.v.
 - *Thiazid:* HCT 500-1000 mg i.v.

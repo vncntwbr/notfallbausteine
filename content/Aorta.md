@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fach/chirurgie
-  - Fach/kardiologie
+  - Fach/Chirurgie
+  - Fach/Kardiologie
   - Status/Started
   - Diagnosen
 title: Akutes Aortensyndrom (inkl. Aortendissektion)

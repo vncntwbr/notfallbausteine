@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Started
+  - Diagnosen
 aliases:
   - Kardiale Dekompensation
 title: Herzinsuffizienz & Kardiale Dekompensation

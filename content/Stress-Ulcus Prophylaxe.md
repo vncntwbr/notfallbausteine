@@ -2,7 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
-  - Fach/intensiv
+  - Fach/Intensivmedizin
 ---
 - **I:** Beatmung + 1 von [[Schock]], [[DIC]], Leber↓, [[Hirndruck]]
 - **T**

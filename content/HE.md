@@ -1,8 +1,9 @@
 ---
 tags:
   - Fach
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Status/Started
+  - Diagnosen
 title: Hepatische Enzephalopathie (HE)
 aliases:
   - Hepatische Enzephalopathie

@@ -1,7 +1,9 @@
 ---
 tags:
   - Status/Done
+  - Diagnosen
 aliases:
+  - Nierenkolik
 title: Urolithiasis / Nierenkolik
 ---
 > [!dd]+ Beachte DD/Workup [[Bauchschmerz]]/[[Flankenschmerz]]

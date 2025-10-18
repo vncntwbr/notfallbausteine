@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/neurologie
+  - Fach/Neurologie
   - Status/Started
+  - Diagnosen
 aliases:
 ---
 

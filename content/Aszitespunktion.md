@@ -1,7 +1,7 @@
 ---
 tags:
   - Interventionen
-  - Fach/gastroenterologie
+  - Fach/Gastroenterologie
   - Status/Done
 ---
 > [!danger] Indikation

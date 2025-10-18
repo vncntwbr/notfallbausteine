@@ -1,9 +1,9 @@
 ---
 tags:
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Diagnosen
   - Status/Done
-  - Fach/dermatologie
+  - Fach/Dermatologie
 aliases:
   - Erythema migrans
   - Lyme

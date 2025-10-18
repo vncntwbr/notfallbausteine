@@ -1,7 +1,7 @@
 ---
 tags:
   - Diagnosen
-  - Fach/dermatologie
+  - Fach/Dermatologie
   - Status/Done
 aliases:
 ---

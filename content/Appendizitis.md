@@ -1,7 +1,7 @@
 ---
 tags:
-  - Fach/chirurgie
-  - Fach/gastroenterologie
+  - Fach/Chirurgie
+  - Fach/Gastroenterologie
   - Diagnosen
   - Status/Started
 ---

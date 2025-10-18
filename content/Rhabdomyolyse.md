@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/nephrologie
+  - Fach/Nephrologie
   - Status/Started
+  - Diagnosen
 ---
 
 - I **Def:** CK >1000 U/L, Myoglobinurie, Myalgien, red. AZ, [[AKI]]

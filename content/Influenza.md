@@ -1,7 +1,7 @@
 ---
 tags:
   - Diagnosen
-  - Fach/infektiologie
+  - Fach/Infektiologie
   - Status/Done
 aliases:
 title: Influenza A/B / Grippe

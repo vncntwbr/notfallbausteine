@@ -1,6 +1,6 @@
 ---
 tags:
-  - Probleme/Abdomen-Haut-Extr
+  - Probleme/Abdomen
   - Interventionen
   - Status/Started
 title: Perkutane endoskopische Gastrostomie (PEG)

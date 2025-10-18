@@ -2,7 +2,7 @@
 tags:
   - Checkliste
   - Probleme/Labor
-  - Fach/nephrologie
+  - Fach/Nephrologie
   - Status/Done
 title: |-
   Akute Nierenschädigung (AKI),

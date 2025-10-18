@@ -1,7 +1,8 @@
 ---
 tags:
-  - Fach/kardiologie
+  - Fach/Kardiologie
   - Status/Started
+  - Diagnosen
 ---
 - **Ä:** Idiopath./viral, TBC, autoimmun, Urämie, Med/Drogen, Tumor, Trauma
 - **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave STE, PR-Depr., [[POCUS]]
