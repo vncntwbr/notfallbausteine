@@ -19,27 +19,43 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.afterDOMLoaded = `
-  const dropdown = document.getElementById('dropdownLocalisation');
-  if (!dropdown) return;
+  function setupDropdown() {
+    const dropdown = document.getElementById('dropdownLocalisation');
+    if (!dropdown) return;
 
-  // Restore selection from localStorage
-  const saved = localStorage.getItem('selectedOption');
-  if (saved) dropdown.value = saved;
+    // Restore selection from localStorage
+    const saved = localStorage.getItem('selectedOption');
+    if (saved) dropdown.value = saved;
 
-  function updateBlocks() {
-    const selected = dropdown.value;
-    document.querySelectorAll('.localBlock').forEach(block => {
-      block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
-    });
+    function updateBlocks() {
+      const selected = dropdown.value;
+      document.querySelectorAll('.localBlock').forEach(block => {
+        block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
+      });
+    }
+
+    // Remove any existing event listeners to avoid duplicates
+    dropdown.removeEventListener('change', onChangeHandler);
+
+    function onChangeHandler() {
+      localStorage.setItem('selectedOption', dropdown.value);
+      updateBlocks();
+    }
+
+    dropdown.addEventListener('change', onChangeHandler);
+
+    updateBlocks();
   }
 
-  dropdown.addEventListener('change', () => {
-    localStorage.setItem('selectedOption', dropdown.value);
-    updateBlocks();
-  });
+  // Run on initial DOM load
+  setupDropdown();
 
-  updateBlocks();
+  // Listen for navigation events (SPA routing) to reapply logic on page changes
+  document.addEventListener('nav', () => {
+    setupDropdown();
+  });
 `;
+
 
 
 
