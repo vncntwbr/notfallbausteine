@@ -62,8 +62,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
       
       const localFrontmatter: Record<string, string> = {};
-      localFrontmatter["cbf"] = fileData.frontmatter?.zbb || '';
-      localFrontmatter["zbb"] = "value2";
+      localFrontmatter["cbf"] = fileData.frontmatter?.cbf || '';
+      localFrontmatter["zbb"] = fileData.frontmatter?.zbb || '';
+      console.log(localFrontmatter)
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>

@@ -83,9 +83,8 @@ PageTitle.css = `
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
 
-  /* Hover and focus to mimic Quartz interactive style */
-  #dropdownLocalisation:hover,
-  #dropdownLocalisation:focus {
+  /* Hover and focus to mimic Quartz interactive style   #dropdownLocalisation:focus rausgenommen*/
+  #dropdownLocalisation:hover {
     text-decoration:underline;
   }
 `
