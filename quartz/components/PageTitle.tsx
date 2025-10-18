@@ -18,8 +18,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   )
 }
 
-PageTitle.afterDOMLoaded = 
-"
+PageTitle.afterDOMLoaded = `
 console.log('Text Switcher Should Work')
 document.addEventListener('DOMContentLoaded', function () {
   const dropdown = document.getElementById('text-switcher-select');
@@ -31,9 +30,8 @@ document.addEventListener('DOMContentLoaded', function () {
       block.style.display = (block.dataset.option === selected) ? '' : 'none';
     });
   });
-});
-"
-`
+});`
+
 
 PageTitle.css = `
   .page-title {
