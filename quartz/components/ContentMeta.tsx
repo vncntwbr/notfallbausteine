@@ -66,19 +66,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       localFrontmatter["cbf"] = fileData.frontmatter?.cbf || '';
       localFrontmatter["zbb"] = fileData.frontmatter?.zbb || '';
 
-      return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-          <blockquote class="callout lokal" data-callout="lokal">
+      let localFrontmatterCallout: HTMLElement = <blockquote class="callout lokal" data-callout="lokal">
             <div class="callout-title">
               <div class="callout-icon"></div>
               <div class="callout-title-inner">
-                <p class="localBlock">{localFrontmatter.default}</p>
-                <p class="localBlock" style="display:none">{localFrontmatter.cbf}</p>
-                <p class="localBlock" style="display:none">{localFrontmatter.zbb}</p>
+                <span class="localBlock" data-option="default">{localFrontmatter.default}</span>
+                <span class="localBlock" data-option="cbf" style="visibility:hidden">{localFrontmatter.cbf}</span>
+                <span class="localBlock" data-option="zbb" style="visibility:hidden">{localFrontmatter.zbb}</span>
               </div>
             </div>
           </blockquote>
+
+      return (
+        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+          {segments}
+          {localFrontmatterCallout}
         </p>
       )
     }
