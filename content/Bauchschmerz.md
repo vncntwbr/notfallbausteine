@@ -2,6 +2,10 @@
 tags:
   - Probleme/Abdomen
   - Status/Done
+title: Bauchschmerz & Flankenschmerz
+aliases:
+  - Flankenschmerz
+  - Abdomenschmerz
 ---
 > [!dd]+ DD
 > - **Schock + Bauchschmerz**

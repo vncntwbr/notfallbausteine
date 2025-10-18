@@ -126,10 +126,10 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
 
             // Localisation Frontmatter
-            const zbb = coerceToArray(coalesceAliases(data, ["zbb"]))
+            /*const zbb = coerceToArray(coalesceAliases(data, ["zbb"]))
             if (zbb) data.zbb = zbb
             const cbf = coerceToArray(coalesceAliases(data, ["cbf"]))
-            if (cbf) data.cbf = cbf
+            if (cbf) data.cbf = cbf*/
 
           }
         },

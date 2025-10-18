@@ -6,16 +6,16 @@ aliases:
   - Nierenkolik
 title: Urolithiasis / Nierenkolik
 ---
-> [!dd]+ Beachte DD/Workup [[Bauchschmerz]]/[[Flankenschmerz]]
+> [!dd]+ Beachte DD/Workup [[Bauchschmerz|Bauchschmerz/Flankenschmerz]]
 
-> [!workup]-
+> [!workup]+
 > - **[[POCUS]]:** [[Harnstau]]? H.a. Fornixruptur? Stein darstellbar (Twinkling-Artefakt)?
 > - **[[Labor]]:** [[BGA]], Krea, HST, CRP, BB, bei evtl. OP: INR+PTT
 > - **[[Urin]]:** [[U-Status]] (Mikrohämaturie? Leukos?), Urinkultur, [W] β-HCG
 > - **[[Radiologie]]:** CT-Abd. lowdose nativ zur Steinsuche nur bei DD-Unsicherheit, Infektzeichen, Harnstau >II°, anatomische Anomalien (insb. Einzelniere), CKD oder Progredienz/Wiedervorstellung trotz adäquater Analgesie[^1]
 > 	- *Nicht in CT darstellbar:* Indinavir-Steine (HIV-Therapeutika UAW) und Matrixsteine (selten, fast nur Frauen)
 
-> [!management]-
+> [!management]+
 > - **[[Analgesie]]:** Metamizol 1g p.o. 1-1-1-1 + [[NSAR]] Ibuprofen/Paracetamol
 > 	- kein Butylscopolamin[^1]
 > 	- ggf. [[Opioide]], ambulant nur wenn unumgänglich Tilidin/Naloxon 50/4 mg retard 1-0-1[^2]
@@ -23,7 +23,7 @@ title: Urolithiasis / Nierenkolik
 > - **Ureter-Relaxation:** Tamsulosin 0.4 mg p.o. 1-0-0 (OLU)
 > - **Mobilisation/Bewegung** (möglichst Warteraum sitzend)
 
-> [!disposition]-
+> [!disposition]+
 > - **Konservative Therapie:** (1 davon nicht → Konsil Urologie, ggf. stationär)
 > 	- Konkrement <8 mm
 > 	- Analgesie oral suffizient
