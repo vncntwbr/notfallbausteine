@@ -19,18 +19,22 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.afterDOMLoaded = `
-console.log('Text Switcher Should Work')
-document.addEventListener('DOMContentLoaded', function () {
-  const dropdown = document.getElementById('text-switcher-select');
-  if (!dropdown) return;
+  console.log('Text Switcher Should Work');
 
-  dropdown.addEventListener('change', function () {
-    const selected = this.value;
-    document.querySelectorAll('.switcher-block').forEach(block => {
-      block.style.display = (block.dataset.option === selected) ? '' : 'none';
+  const dropdown = document.getElementById('dropdownLocalisation');
+  if (!dropdown) {
+    console.log('Dropdown element not found');
+  } else {
+    // Bind change event
+    dropdown.addEventListener('change', function () {
+      const selected = this.value;
+      document.querySelectorAll('.switcher-block').forEach(block => {
+        block.style.display = (block.dataset.option === selected) ? '' : 'none';
+      });
     });
-  });
-});`
+    console.log('Event listener attached');
+  }
+`;
 
 
 PageTitle.css = `
