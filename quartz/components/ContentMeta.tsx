@@ -63,8 +63,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       
       const localFrontmatter: Record<string, string> = {};
       //localFrontmatter["default"] = 'Keine Lokalisation';
-      localFrontmatter["cbf"] = fileData.frontmatter?.cbf || '';
-      localFrontmatter["zbb"] = fileData.frontmatter?.zbb || '';
+      localFrontmatter["cbf"] = fileData.frontmatter?.cbf.join() || '';
+      localFrontmatter["zbb"] = fileData.frontmatter?.zbb.join() || '';
 
       const localFrontmatterElements: HTMLElement[] = [];
 

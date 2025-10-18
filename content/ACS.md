@@ -4,12 +4,12 @@ tags:
   - Status/Started
   - Diagnosen
 title: Akutes Koronarsyndrom (ACS)
-cbf: |-
-  ECPR 622 454
-  Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)
-  ITS 32A 622 454 (Fax 514 908)
-  TTE ###### (Slots 10:00 + 13:00)
-  Kardio-Dienst 613 899
+cbf:
+  - ECPR 622 454
+  - Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)
+  - ITS 32A 622 454 (Fax 514 908)
+  - "TTE ###### (Slots 10:00 + 13:00)"
+  - Kardio-Dienst 613 899
 zbb:
   - Test ZBB 1
   - Test ZBB 2
@@ -62,10 +62,10 @@ zbb:
 > 	- Arztbegleitete Verlegung zur PCI <90 min
 > - **ITS/IMC, PCI <24h** bei NSTEMI (V.a. ACS + hs-Trop 1h∆ ≥5 / 2h∆ ≥10), transientem [[Ischämie-EKG]] oder [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) >140 Pkt. (auch iAP)
 > 	- Defibrillationsbereitschaft (Gerät im Raum)
-> 	- ASS 300 mg p.o. + Fondaparinux 2.5 mg s.c. (wenn GFR >20)
+> 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20) oder Heparin 5000 IE Bolus + Perfusor 1000 IE/h, PTT q6h
 > 	- Arztbegleitete Verlegung auf ITS
 > - **Normalstation** bei V.a. instabile AP mit [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) ≤140 Pkt., ED KHK oder [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
-> 	- ASS 300 mg p.o. + Fondaparinux 2.5 mg s.c. (wenn GFR >20)
+> 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20)
 > - **Entlassung** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
 
 
