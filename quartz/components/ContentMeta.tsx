@@ -61,9 +61,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
       
-      const dict: Record<string, string> = {};
-      dict["cbf"] = fileData.frontmatter?.zbb || '';
-      dict["zbb"] = "value2";
+      const localFrontmatter: Record<string, string> = {};
+      localFrontmatter["cbf"] = fileData.frontmatter?.zbb || '';
+      localFrontmatter["zbb"] = "value2";
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
