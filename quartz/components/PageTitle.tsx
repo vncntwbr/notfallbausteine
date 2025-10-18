@@ -19,22 +19,29 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.afterDOMLoaded = `
-  console.log('Text Switcher Should Work');
-
   const dropdown = document.getElementById('dropdownLocalisation');
-  if (!dropdown) {
-    console.log('Dropdown element not found');
-  } else {
-    // Bind change event
-    dropdown.addEventListener('change', function () {
-      const selected = this.value;
-      document.querySelectorAll('.localBlock').forEach(block => {
-        block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
-      });
+  if (!dropdown) return;
+
+  // Restore selection from localStorage
+  const saved = localStorage.getItem('selectedOption');
+  if (saved) dropdown.value = saved;
+
+  function updateBlocks() {
+    const selected = dropdown.value;
+    document.querySelectorAll('.localBlock').forEach(block => {
+      block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
     });
-    console.log('Event listener attached');
   }
+
+  dropdown.addEventListener('change', () => {
+    localStorage.setItem('selectedOption', dropdown.value);
+    updateBlocks();
+  });
+
+  updateBlocks();
 `;
+
+
 
 
 PageTitle.css = `
