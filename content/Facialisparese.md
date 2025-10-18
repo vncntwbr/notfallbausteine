@@ -5,8 +5,8 @@ tags:
   - Status/Done
 title: Periphere Facialisparese
 ---
-> [!danger]+ Rapid Reference
-> - **Periphere Facialisparese** = Stirn mitbetroffen
+> [!info]+ Definition
+> - **Periphere Facialisparese** = Stirn mitbetroffen (sonst V.a. [[Stroke]]!)
 > - **Ä:** 75% idiopathisch, ansonsten Borreliose, [[Zoster]] (Ramsay-Hunt-Syndrom), HIV
 
 > [!workup]+

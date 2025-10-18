@@ -20,13 +20,13 @@ aliases:
 | **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |
 | **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]]                                                                                                    |
 
-| Häufige Diagnosen  |                                                                                        |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| **Neuro**          | [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]                       |
-| **Kardiovask.**    | [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]                         |
-| **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[Pneumonie]] [[Sepsis]]                                           |
+| Häufige Diagnosen  |                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------- |
+| **Neuro**          | [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]                               |
+| **Kardiovask.**    | [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]                                 |
+| **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]                           |
 | **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis (viral)]] [[Gastritis]] [[Pankreatitis]] |
-| **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                       |
+| **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                               |
 ## Auswahl häufiger Textbausteine
 ![[U#^82651c]]
 ![[U#^944f17]]
