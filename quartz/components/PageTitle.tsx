@@ -85,9 +85,7 @@ PageTitle.css = `
   /* Hover and focus to mimic Quartz interactive style */
   #dropdownLocalisation:hover,
   #dropdownLocalisation:focus {
-    border-color: var(--accent, #7aa2f7);
-    box-shadow: 0 0 3px var(--accent, #7aa2f7);
-    outline: none;
+    text-decoration:underline;
   }
 `
 
