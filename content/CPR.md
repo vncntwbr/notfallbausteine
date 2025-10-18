@@ -13,7 +13,7 @@ title: Reanimation / Arrest (CPR)
 > [!danger] Erstmaßnahmen
 > 1. **KOLLAPS** Zeit? Beobachtet? CPR? AED? No-Flow?
 > 2. **PatientenWILLE?**
-> 3. **ECPR?** <65 J., nicht frail, beobachtet, VT/VF, ggf. Ursache
+> 3. **ECPR?** <65-75 J., nicht frail, beobachtet, VT/VF, ggf. Ursache
 > 4. **SCHOCKS:** Vector Change? DSED?
 > 5. **MEDS:** *Lidocain* #3: 100 mg, #5: 50 mg
 >    *Adrenalin-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
@@ -27,7 +27,7 @@ title: Reanimation / Arrest (CPR)
 > [!management] CPR-Quali optimieren!
 > - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie]]), Puls unter CPR
 > - Druckpunkt? Ermüdung? ggf. TEE, Magensonde
-> - **CPRIC:** esKETAmin 0.5 mg/kg
+> - **CPRIC:** [[esKETAmin]] 0.5 mg/kg
 
 > [!disposition] Siehe [[ROSC]], [[ECMO]] oder [[TOR]]
 

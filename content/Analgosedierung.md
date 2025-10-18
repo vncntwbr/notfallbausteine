@@ -7,7 +7,7 @@ title: |-
   Prozedurale Sedierung
 ---
 > [!management] "Ketofol" (Eingriffe, Pacing)
-> - **esKETAmin** 10 mg-weise i.v. +
+> - **[[esKETAmin]]** 10 mg-weise i.v. +
 > - **Propofol** 40 mg-weise i.v. (Ältere: 20 mg-weise)
 
 > [!management] Reine Sedierung (CT, eKV, TEE, ÖGD)

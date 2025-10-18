@@ -5,7 +5,7 @@ tags:
   - Diagnosen
 ---
 > [!dd] DD
-> - **Ä:** Häufig sekundär bei HWI, seltener [[STI]], Amiodaron, Mumps, RF LUTS
+> - **Ä:** Häufig sekundär bei [[HWI]], seltener [[STI]], [[Amiodaron]], Mumps, RF LUTS
 
 
 > [!Management]+
