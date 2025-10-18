@@ -11,6 +11,8 @@ cbf: |-
   TTE ###### (Slots 10:00 + 13:00)
   Kardio-Dienst 613 899
 zbb:
+  - Test ZBB 1
+  - Test ZBB 2
 ---
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI:** siehe [[Ischämie-EKG]]
