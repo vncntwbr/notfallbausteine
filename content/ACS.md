@@ -5,10 +5,6 @@ tags:
   - Diagnosen
 title: Akutes Koronarsyndrom (ACS)
 ---
-> [!lokal]
-> <span class="localBlock" data-option="default">Keine Lokalisierung :)</span><span class="localBlock" data-option="cbf" style="display:none;">Alternative text version CBF.</span><span class="localBlock" data-option="zbb" style="display:none;">Alternative text version ZBB.</span>
-
-
 > [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI**
 > - **NSTEMI**

@@ -7,10 +7,6 @@ tags:
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 zbb: Test ZBB hier anrufen
 ---
-<span class="localBlock" data-option="cbf">
-> [!lokal] OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700
-</span>
-
 > [!danger] Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
 > 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (16G, [[i.o.]], Shaldon)

@@ -3,6 +3,7 @@ tags:
   - Status/Done
   - Basics/Lokal
 title: Telefonliste & Stationsübersicht
+cbf: <a href="https://intranet.charite.de/notfallmedizin_cbf/startseite/">Telefonliste DienstärztInnen und Funktionsbereiche CBF</a>
 ---
 > [!lokal] Telefonliste
 > <span class="localBlock" data-option="default">Keine Lokalisierung :)</span>
