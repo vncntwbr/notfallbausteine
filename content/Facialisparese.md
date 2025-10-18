@@ -12,7 +12,7 @@ title: Periphere Facialisparese
 > [!workup]+
 > - Siehe [[FND]]
 > - **[[U|U]]:** Grinsen, Augen schließen, Backen aufpusten, Stirn runzeln (bei zentraler Facialisparese noch bds. möglich)
-> - **W:** IFP, [[LP]] bei V.a. [[Neuroborreliose]] oder [[Zoster]]
+> - **W:** IFP, [[LP]] bei V.a. [[Borreliose|Neuroborreliose]] oder [[Zoster]]
 > - [[LP]] immer anbieten (10% "V.a. idiopathisch" doch andere Genese)
 
 > [!management]+

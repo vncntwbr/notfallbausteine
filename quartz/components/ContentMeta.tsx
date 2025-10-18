@@ -69,11 +69,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const localFrontmatterElements: HTMLElement[] = [];
 
       for (const [key, value] of Object.entries(localFrontmatter)) {
-        localFrontmatterElements.push(<blockquote class="callout lokal" data-callout="lokal">
+        localFrontmatterElements.push(<blockquote class="callout lokal localBlock" data-option={key} style="display:none" data-callout="lokal">
             <div class="callout-title">
               <div class="callout-icon"></div>
               <div class="callout-title-inner">
-                <span class="localBlock" data-option={key} style="display:none">{value}</span>
+                <p>{value}</p>
               </div>
             </div>
           </blockquote>)
