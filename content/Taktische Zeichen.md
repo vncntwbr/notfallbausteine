@@ -1,7 +1,7 @@
 ---
 tags:
-  - Basics
   - Status/Done
+  - Basics/Meta
 ---
 
 ## Grundzeichen

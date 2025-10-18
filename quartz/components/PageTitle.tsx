@@ -78,6 +78,7 @@ PageTitle.css = `
     color: var(--dark);
     font-weight: revert;
     margin-bottom: 0;
+    margin-left: 0;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
 

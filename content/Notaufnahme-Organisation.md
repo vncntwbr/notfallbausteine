@@ -1,7 +1,7 @@
 ---
 tags:
-  - Basics
   - Status/Started
+  - Basics/Meta
 ---
 
 - Verzögerung stationäre Aufnahme >5h hat NNH=82 für 30d-Mortalität[^1], ebenso Overnight Stay[^5]

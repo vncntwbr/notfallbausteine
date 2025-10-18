@@ -1,7 +1,7 @@
 ---
 tags:
-  - Basics
   - Status/Started
+  - Basics/Meta
 ---
 
 - [DataColada](https://datacolada.org/)

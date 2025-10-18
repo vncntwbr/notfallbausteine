@@ -1,7 +1,7 @@
 ---
 tags:
-  - Basics
   - Status/Started
+  - Basics/Meta
 ---
 
 - Gesundes-Herz-Gesetz völlig gaga[^1]
