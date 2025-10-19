@@ -42,7 +42,7 @@ zbb:
 > - **[[Labor]]:** Profil "Brustschmerz", [[Troponin]][^3], [[D-Dimer]] nur gezielt (s. [[LAE]])
 > - **[[POCUS]]:** [[LUS]] (Pneu? Erguss? Lungeninfarkte? B-Lines?), [[TTE]], ggf. [[Aorta]], ggf. [[TVT]]
 > - **ggf. Koronar-CT** (Indikation kritisch prüfen)
-> <div class="localBlock" data-option="cbf" style="display:none">- **Kardio-[[TTE]]:** Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
+> - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 
 > [!Management]
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
@@ -66,7 +66,7 @@ zbb:
 > 	- Arztbegleitete Verlegung auf ITS
 > - **Normalstation** bei V.a. instabile AP mit [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) ≤140 Pkt., ED KHK oder [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
 > 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20)
-> - **Entlassung** bei stabiler AP, keine Troponindymaik, [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
+> - **Entlassung** bei stabiler AP ohne V.a. instabile AP, Troponin neg., [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
 
 
 > [!note] Formulierung

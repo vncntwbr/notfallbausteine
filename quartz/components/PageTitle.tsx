@@ -33,7 +33,10 @@ PageTitle.afterDOMLoaded = `
       document.querySelectorAll('.localBlock').forEach(block => {
         block.style.display = (block.dataset.option === selected) ? 'block' : 'none';
       });
-      console.log("blocks updated");
+      document.querySelectorAll('.localInline').forEach(inline => {
+        inline.style.display = (inline.dataset.option === selected) ? 'inline' : 'none';
+      });
+      console.log("blocks and inline updated");
     }
 
     // Remove any existing event listeners to avoid duplicates
