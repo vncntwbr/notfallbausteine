@@ -14,7 +14,7 @@ zbb:
   - Test ZBB 1
   - Test ZBB 2
 ---
-> [!dd] DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
+> [!dd]+ DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI:** siehe [[Ischämie-EKG]]
 > - **NSTEMI:** unspezifische EKG-Veränderungen, [[Troponin]]↑/-Dynamik
 > - **Instabile AP:** klinischer Verdacht, [[Troponin]] normal
@@ -23,7 +23,7 @@ zbb:
 > 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
 > 	- SCAD
 
-> [!anamnese]
+> [!anamnese]+
 > - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
 > - **A:** Analgetika-Asthma?
 > - **M:** ASS/DAPT? [[AK]]?
@@ -32,7 +32,7 @@ zbb:
 > - **E:** Auftreten aus Ruhe/Belastung? Immobilisation/OP?
 > - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
 
-> [!workup]
+> [!workup]+
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)
 > 	- Auskultation (Vitien? Stauung? RG? Pneu? Pleuritis?)
 > 	- Abd (Oberbauch?)
@@ -44,7 +44,7 @@ zbb:
 > - **ggf. Koronar-CT** (Indikation kritisch prüfen)
 > - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 
-> [!Management]
+> [!Management]+
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel SpO2 >90%[^4]
 > 3. **[[Analgesie]]:** Paracetamol 1 g i.v. ± Morphin 3 mg-weise i.v.
@@ -54,7 +54,7 @@ zbb:
 > 7. **Non-sustained [[VT]]** braucht i.d.R. keine Antiarrhythmika, nur Metoprolol
 > 8. **Loading** abhängig von invasiver Strategie s.u.
 
-> [!disposition]
+> [!disposition]+
 > - **Sofort-PCI** bei STEMI/OMI oder NSTEMI + "very high risk" feature ([[Schock]], anhaltende/rezidivierende/refraktäre AP, [[Herzinsuffizienz]]/[[Lungenödem]], Arrhythmie/[[VT]], dynamisches [[Ischämie-EKG]], mechanische Komplikationen z.B. Mitralsegelausriss)
 > 	- Defibrillationsbereitschaft (Patches)
 > 	- Loading ASS 250 mg i.v. + Heparin 70 IE/kg (max. 5000) i.v.
@@ -68,8 +68,7 @@ zbb:
 > 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20)
 > - **Entlassung** bei stabiler AP ohne V.a. instabile AP, Troponin neg., [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
 
-
-> [!note] Formulierung
+> [!note]+ Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"
 
 > [!note]- Textbaustein STEMI/OMI
@@ -96,7 +95,7 @@ zbb:
 
 ---
 - STEMI(–)OMI(+) haben Delays bis HKU[^2]
-[^1]
+- [^1]
 
 [^1]: Robert A Byrne et al., 2023 ESC Guidelines for the management of acute coronary syndromes: Developed by the task force on the management of acute coronary syndromes of the European Society of Cardiology (ESC), _European Heart Journal_, Volume 44, Issue 38, 7 October 2023, Pages 3720–3826, [https://doi.org/10.1093/eurheartj/ehad191](https://doi.org/10.1093/eurheartj/ehad191)
 

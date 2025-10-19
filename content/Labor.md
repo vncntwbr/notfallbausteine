@@ -3,9 +3,10 @@ tags:
   - Probleme/Allgemein
   - Status/Started
   - Basics
+zbb:
+  - "Basis: BGA, Kleines BB, Krea, TSH, CRP"
+  - "Kardio: Basis + Troponin, CK"
 ---
-> [!lokal] Siehe [[Laborprofile]]
-
 - **[[BGA]]**
 - **[[Elektrolyte]]**
 - **Blutbild**
