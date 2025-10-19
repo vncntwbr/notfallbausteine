@@ -74,6 +74,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         zbb: zbbValue,
       };
 
+      const localFrontmatterStandard: Record<string, string> = {
+        cbf: "OA ZNA 552 800",
+        zbb: "OA ZNA 42000",
+      };
+
 
       const localFrontmatterElements: HTMLElement[] = [];
 
@@ -82,7 +87,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         localFrontmatterElements.push(<blockquote class="callout lokal localBlock" data-option={key} style="display:none" data-callout="lokal">
             <div class="callout-title">
               <div class="callout-icon"></div>
-              <div class="callout-title-inner">{keyCaps}</div>
+              <div class="callout-title-inner">{keyCaps} – {localFrontmatterStandard.key}</div>
             </div>
             <div class="callout-content">
               <div class="callout-content-inner">
