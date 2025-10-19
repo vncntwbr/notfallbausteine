@@ -16,9 +16,9 @@ export default ((opts?: Options) => {
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year} von Aurelia & Vincent im Spirit von < a href="https://dasfoam.de">#FOAMed</a> • 
-          <a href="https://facharztnotfallmedizin.de">#FacharztNotfallmedizinJetzt</a> • 
-          <a href="https://notfallbausteine.de/How-To">How To Contribute</a> • 
-          Lizensiert unter <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC</a>: Nutzung für nicht-kommerzielle Zwecke unter Nennung der Originalquelle
+          &nbsp;<a href="https://facharztnotfallmedizin.de">#FacharztNotfallmedizinJetzt</a> •
+          &nbsp;<a href="https://notfallbausteine.de/How-To">How To Contribute</a> •
+          &nbsp;Lizensiert unter <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC</a>: Nutzung für nicht-kommerzielle Zwecke unter Nennung der Originalquelle
         </p>
       </footer>
     )
