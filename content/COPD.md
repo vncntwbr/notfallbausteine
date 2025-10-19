@@ -33,7 +33,7 @@ aliases:
 > - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, [[COVID]], Varizellen, RSV, Pertussis)?
 
 > [!workup]+
-> - **[[U|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
+> - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
 > - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±PCT ±[[D-Dimer]], Blutkulturen

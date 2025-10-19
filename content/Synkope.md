@@ -39,7 +39,7 @@ tags:
 |Medikation|QTc-verlängernde Med.|Prüfen bzgl. Orthostase!|
 
 > [!workup]+ Workup Synkope
-> - **[[U|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
+> - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
 > 	- Persistierende Hypotonie/Tachykardie?
 > 	- Kein Schellong-Test (nicht sinnvoll)
 > - **[[EKG]]:** WOBBLERR? [[Ischämie-EKG]]? [[Bradykardie|Brady-]]/[[Tachykardie]]?

@@ -26,7 +26,7 @@ title: Asthma bronchiale
 > - **R:** Drogen (Nikotin, THC, Shisha, Vapes)? Asthma-bedingt ZNA, Stationär, ITS, "near fatal"?
 
 > [!workup]+
-> - **[[U|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
+> - **[[Untersuchung|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz|Asthma cardiale]]
 > - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[Blutkulturen]]

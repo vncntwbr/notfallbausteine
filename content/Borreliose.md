@@ -16,7 +16,7 @@ title: Lyme-Borreliose (Erythema migrans)
 > - Ringelröteln (Kinder, [[Fieber]], ggf. Antikörpernachweis)
 
 > [!workup]+
-> - **[[A|A]]:** Auftreten 3-30d nach Zeckenbiss (oft nicht erinnerlich)
+> - **[[Anamnese|A]]:** Auftreten 3-30d nach Zeckenbiss (oft nicht erinnerlich)
 > - **Blickdiagnose:** Erythema migrans (typisch: ≥5 cm Durchmesser, randbetontes Erythem, nicht erhaben, größenprogredient)
 > 	- ggf. atypisch / Borrelien-Lymphozytom, RS Dermatologie
 > - **[[Labor]]:** Borrelien-Serologie nicht zielführend (oft falsch-positiv und falsch-negativ, keine Aussagekraft)

@@ -19,7 +19,7 @@ aliases:
 > - **R:** 
 
 > [!workup]+
-> - **[[U|U]]:** 
+> - **[[Untersuchung|U]]:** 
 > - **[[EKG]]:** 
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 

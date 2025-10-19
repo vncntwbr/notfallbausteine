@@ -5,7 +5,7 @@ tags:
   - Diagnosen
 ---
 - **Ä:** Idiopath./viral, TBC, autoimmun, Urämie, Med/Drogen, Tumor, Trauma
-- **[[U|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave STE, PR-Depr., [[POCUS]]
+- **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave STE, PR-Depr., [[POCUS]]
 	- *Myokarditis-Beteiligung:* Troponin, EF↓
 - **T:** [[Analgesie]], Antiinflammation, Rezidiv↓
 	- ASS 1g 1-1-1 p.o.

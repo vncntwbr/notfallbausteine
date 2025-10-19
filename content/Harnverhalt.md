@@ -21,7 +21,7 @@ tags:
 > - **R:** Alkohol?
 
 > [!workup]-
-> - **[[U|U]]:** Blasenhochstand palpabel? Klopfschmerz WS? Reithosenanästhesie? [[DRU]] (BPH, Prostatitis, Mastdarmstörung)
+> - **[[Untersuchung|U]]:** Blasenhochstand palpabel? Klopfschmerz WS? Reithosenanästhesie? [[DRU]] (BPH, Prostatitis, Mastdarmstörung)
 > - **[[Labor]]:** [[BGA]], Kreatinin, HST, CRP
 > - **[[Urin]]:** immer [[U-Status]], ggf. Urinkultur
 > - **[[POCUS]]:** Harnwege, Harnstau, Tamponade, Tumor

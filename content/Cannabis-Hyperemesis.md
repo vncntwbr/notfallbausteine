@@ -8,7 +8,7 @@ aliases:
   - Cannabis-Hyperemesis-Syndrom
 ---
 
-- **[[A|A]]:** Zyklisch [[Ü+E]] <7d/Mo, Besserung durch heiß Duschen/Baden, oft diffus [[Bauchschmerz]], Cannabis-Konsum, sistieren 2-4d nach Cannabis>, kaum Besserung auf Antiemetika
+- **[[Anamnese|A]]:** Zyklisch [[Ü+E]] <7d/Mo, Besserung durch heiß Duschen/Baden, oft diffus [[Bauchschmerz]], Cannabis-Konsum, sistieren 2-4d nach Cannabis>, kaum Besserung auf Antiemetika
 - **W:** [[BGA]]
 ## Management
 - Haloperidol 2.5-5.0 mg i.m.

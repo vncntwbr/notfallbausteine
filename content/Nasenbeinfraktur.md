@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 > [!workup]+
-> - **[[U|U]]:** Septumhämatom?
+> - **[[Untersuchung|U]]:** Septumhämatom?
 
 > [!management]+ 
 > - **Kühlen**, Oberkörperhochlagerung

@@ -15,7 +15,7 @@ title: Priapismus / Erektion >4h
 > - **R:** Alkohol? Drogen (insb. Kokain, "Upper")?
 
 > [!workup]+
-> - **[[U|U]]:** VP
+> - **[[Untersuchung|U]]:** VP
 > - **[[Labor]]:** [[BGA]], Diff-BB, Krea, CRP, PTT, INR
 
 > [!stadien]+ Graduierung der Erektion

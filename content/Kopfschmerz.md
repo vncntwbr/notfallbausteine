@@ -4,7 +4,7 @@ tags:
   - Status/Started
 ---
 
- - **[[A|A]]**
+ - **[[Anamnese|A]]**
 	- *S:* OPQRST+, vegetativ ([[Ü+E]]), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
 	- *M:* [[AK]]? Bedarfsmed?
 	- *E:* H.a. CO?

@@ -41,7 +41,7 @@ aliases:
 > - **E:** Volumenzufuhr/-verluste (Urin, [[Ü+E]], [[Diarrhoe]], Hitze etc.)? Infekt?
 
 > [!workup]+
-> - **[[U|U]]:** Status
+> - **[[Untersuchung|U]]:** Status
 > - **[[EKG]]** 
 > - **[[POCUS]]:** ==[[Harnverhalt]] (obligat)==, [[Harnstau]], [[Volumenstatus]], [[LUS]], [[TTE]]
 > - **[[Labor]]:** [[BGA]], Basisprofil, CK

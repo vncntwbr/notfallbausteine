@@ -16,8 +16,8 @@ tags:
 > - **Alkohol-Abhängigkeit (F10.2)** ≥3 von anhaltender Konsum trotz Schaden, Craving, Kontrollverlust, Toleranzentwicklung, körperl. Entzugssymptome, Vernachlässigung anderer Lebensbereiche
 
 ## Workup
-- **[[A|A]]:** CAGE (≥2 von: cut down, annoyed, guilty, eye-opener), Suizidalität
-- **[[U|U]]**
+- **[[Anamnese|A]]:** CAGE (≥2 von: cut down, annoyed, guilty, eye-opener), Suizidalität
+- **[[Untersuchung|U]]**
 ## Hilfsangebote
 - [MeinSalus-App](https://www.salus-kliniken.de/friedrichsdorf/salus-wissen/therapie-app/) für Trigger-Training und Loggen von Abstinenz-Zielen u.a.
 - [Online Selbsthilfe Alkohol](http://www.selbsthilfealkohol.de/Portal) - anonym, kostenlos, 6 Wochen Online-Programm zur Reduktion des Alkoholkonsums oder Erreichen von Abstinenz

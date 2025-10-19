@@ -10,7 +10,7 @@ tags:
 > - **Seltener:** Aspiration, GERD, Tbc, Tumor, [[Pneu]]
 
 > [!workup]
-> - **[[A|A]]:** [S] Auswurf? [M] ACEi? [P] Allergie? [E] Aspiration/plötzlich?
+> - **[[Anamnese|A]]:** [S] Auswurf? [M] ACEi? [P] Allergie? [E] Aspiration/plötzlich?
 
 > [!management] Symptomatische Therapie
 > - **Antitussiva bei schlafstörendem Husten:** Noscapin 50 mg / 30° q8h (Cave: enth. Alkohol, KI [[Schwanger]])

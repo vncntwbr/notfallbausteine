@@ -13,7 +13,7 @@ tags:
 > ```
 
 > [!management]+
-> - **Nach [[A|Schmerzanamnese]] OPQRST+:**
+> - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
 > 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], Antikonvulsiva, ggf. Schmerzdienst
 > - **Grundsätzlich:**

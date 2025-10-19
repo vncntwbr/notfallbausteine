@@ -8,7 +8,7 @@ aliases:
   - Epileptischer Anfall
 ---
 > [!danger]+ Resuscitation –  Status epilepticus (≥5 min, fokal ≥10 min oder Anfallsserie)
-> 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[A]]
+> 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[Anamnese]]
 > 2. **Stufentherapie ab 5 min:** 
 > 	1. ==**Midazolam** 10 mg i.m.== (1x wiederholen)
 > 	   oder Midazolam 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
@@ -37,7 +37,7 @@ aliases:
 > - **R:** Alkohol? Drogen? Entzug?
 
 > [!workup]+
-> - **[[U|U]]:** 
+> - **[[Untersuchung|U]]:** 
 > 	- VP (insb. Temp.)? 
 > 	- Zungenbiss? Enuresis/Enkopresis? Sturzfolgen? 
 > 	- Vitien? Leberhautzeichen? Infektzeichen? 

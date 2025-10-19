@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!workup]
-> - **Hepatitisch (AST/ALT↑):** [[A|A]] (Alkohol, Medikamente, Pilze, EBV, Hep-Risiko), [[POCUS]] Abdomen (Stauung? Zirrhose? Aszites? RF?), [[Hepatitis]]-Serologie
+> - **Hepatitisch (AST/ALT↑):** [[Anamnese|A]] (Alkohol, Medikamente, Pilze, EBV, Hep-Risiko), [[POCUS]] Abdomen (Stauung? Zirrhose? Aszites? RF?), [[Hepatitis]]-Serologie
 > - **Cholestatisch (gGT/AP↑):** [[POCUS]] Abdomen (Gallenblase, DHC)
 
 - **Transaminasen:** Leberzellschaden

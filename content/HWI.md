@@ -26,7 +26,7 @@ title: Harnwegsinfektion (HWI)
 > - **R:** [[STI]]-Risiko? Menopause/Stillen (ggf. Indikation lokales Östrogen)?
 
 > [!workup]
-> - **[[U|U]]:** VP (Temp., AF, NEWS2), [M >65 J. / Diabetes] Penis, Skrotum, Perineum
+> - **[[Untersuchung|U]]:** VP (Temp., AF, NEWS2), [M >65 J. / Diabetes] Penis, Skrotum, Perineum
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG, [Kompliziert/Rezidiv] Urinkultur
 > - **[[Labor]]:** [Nur Kompliziert] [[BGA]], Profil "Sepsis", Blutkulturen
 > - **[[POCUS]]:** Harnstau? [[Harnverhalt]]?

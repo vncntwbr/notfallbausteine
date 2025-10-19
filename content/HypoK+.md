@@ -16,7 +16,7 @@ aliases:
 > - **+Magnesium:** bei K+ <3 mM immer +2-4 g MGSO4
 
 > [!workup]
-> - **[[A|A]]:** [S] [[Ü+E]], Diarrhoe? Muskelschwäche? [M] Diuretika? Cortison? Laxanz? Clindamycin? [P] Mangelernährung/Essstörung? [R] Lakritz? 
+> - **[[Anamnese|A]]:** [S] [[Ü+E]], Diarrhoe? Muskelschwäche? [M] Diuretika? Cortison? Laxanz? Clindamycin? [P] Mangelernährung/Essstörung? [R] Lakritz? 
 > - **[[BGA]]:** Azidose/Alkalose?
 > - **[[Labor]]:** Basis + Mg2+, Phosphat, ggf. [[Digitalis]]-Spiegel
 > - **[[EKG]]:** T-Verlust ("no pot no tea"), betontes U, ggf. STD, VES/HRST

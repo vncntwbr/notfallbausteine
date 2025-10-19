@@ -4,7 +4,6 @@ tags:
   - Status/Done
 aliases:
   - A
-  - Anamnese
 title: Anamnese
 ---
 > [!anamnese]+ Fremdsprachige Anamnesebögen

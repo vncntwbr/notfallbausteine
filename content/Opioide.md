@@ -6,7 +6,7 @@ tags:
 title: Opioide/Opiate inkl. Intoxikation & Abhängigkeit
 ---
 - ! Entzugswunsch Opioide unangenehm, aber nie vital bedrohlich, immer *rein elektiv* → Suchtberatungsstellen
-- **[[U|U]]:** [COWS](https://www.mdcalc.com/calc/1985/cows-score-opiate-withdrawal)
+- **[[Untersuchung|U]]:** [COWS](https://www.mdcalc.com/calc/1985/cows-score-opiate-withdrawal)
 - **T Sympt.**
 	- *Übelkeit:* Ondansetron 4 mg s.l./i.v. bis 6x/d, Promethazin 25 mg p.o. bis 6x/d
 	- *Unruhe/Restless-Legs:* Ceterizin p.o.

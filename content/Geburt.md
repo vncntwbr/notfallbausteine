@@ -23,7 +23,7 @@ title:
 > - **R:** ==Mutterpass== (wenn nicht vorhanden: Alkohol, Drogen, [[STI]])? 
 
 > [!workup]+
-> - **[[U|U]]:** Inspektion Vulva (Kindsteile sichtbar?), Tastuntersuchung nur durch Gyn
+> - **[[Untersuchung|U]]:** Inspektion Vulva (Kindsteile sichtbar?), Tastuntersuchung nur durch Gyn
 > - ggf. [[POCUS]] (kindliche Herzfehler, kein Mutterpass, Größe/Mehrlinge?)
 > - ggf. CTG-Monitoring
 > - **[[Labor]]:** [[BGA]], Profil "Synkope", Blutgruppe

@@ -33,7 +33,7 @@ zbb:
 > - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
 
 > [!workup]
-> - **[[U|U]]:** VP (insb. AF, HF)
+> - **[[Untersuchung|U]]:** VP (insb. AF, HF)
 > 	- Auskultation (Vitien? Stauung? RG? Pneu? Pleuritis?)
 > 	- Abd (Oberbauch?)
 > 	- Extremitäten (Ödeme? TVT? Zentralisation?)

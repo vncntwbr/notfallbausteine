@@ -19,8 +19,8 @@ tags:
 > - 
 > - **E:** Prävalenz Divertikulose 60% Ü70
 > - **Ä:** Rotes Fleisch, Rauchen, Adipositas, Motilität↓, Med
-> - **[[A|A]]:** 
-> - **[[U|U]]:**
+> - **[[Anamnese|A]]:** 
+> - **[[Untersuchung|U]]:**
 > - **[[EKG]]:**
 > - **[[POCUS]]:** ggf. professionelle Sonografie > CT[^1]
 > - **[[Labor]]:** 

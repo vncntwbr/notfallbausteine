@@ -8,7 +8,7 @@ tags:
 > 	- **Internistisch:** [[Schock]], [[Hypoglykämie]], [[Elektrolytstörung]]
 > 	- **Zentral:** [[Meningitis]], Hirnstamm-/Kleinhirninfarkt ("4 Dangerous D's", [[FND]])
 > - **Triggerbar episodisch (tEVS):** Lagerung zur DD [[BPLS]] vs. zentral
-> - **Spontan episodisch (sEVS):** [[A|A]] zur DD Migräne, M. Menière, TIA
+> - **Spontan episodisch (sEVS):** [[Anamnese|A]] zur DD Migräne, M. Menière, TIA
 
 > [!anamnese]+
 > - **S:** OPQRST+ (plötzlich)? Anhaltend/episodisch? Dauer je Attacke? Ohrgeräusch, Hörminderung? [[Ü+E]]? [[Kopfschmerz|Kopf-]] o.a. Schmerzen? [[FND]] (insb. Diplopie, Dysphagie, Sprechstörung, Fallneigung)? [[TLOC]], [[Synkope]]-RedFlags? 
@@ -19,7 +19,7 @@ tags:
 > - **R:** CVRF?
 
 > [!workup]+
-> - **[[U|U]]:** VP (insb. AF, HF, Temp.)? intern. Status? Neurostatus? Nystagmus? Gang+Stand?
+> - **[[Untersuchung|U]]:** VP (insb. AF, HF, Temp.)? intern. Status? Neurostatus? Nystagmus? Gang+Stand?
 > 	- **HINTS** (nur bei AVS + Spontannystagmus)
 > 		- *Test of Skew:* Nachstellbewegung/Deviation (V.a. Stroke)
 > 		- *Head Impulse:* Muss pathologisch sein (gesichert Neuritis vestibularis, sonst Stroke)

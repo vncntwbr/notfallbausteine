@@ -30,7 +30,7 @@ aliases:
 
 > [!workup]+
 > 1. Bei asympt./oligosympt. (z.B. leichter [[Kopfschmerz]], Unruhe, [[Epistaxis]]) Hypertonie nur A+U und [[EKG]], weitere Diagnostik nur bei Auffälligkeiten
-> - **[[U|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
+> - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
 > - **[[EKG]]**
 > - ggf. [[POCUS]] (Harnverhalt?)
 > - **[[Urin]]:** ggf. [[U-Status]] (V.a. [[AKI]] / Maligne HTN), [W] β-HCG 

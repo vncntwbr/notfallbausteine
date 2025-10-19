@@ -14,8 +14,8 @@ aliases:
 > - *Arm/Schulter:* [[ACS]]
 
 > [!workup]+
-> - **[[A|A]]:** 
-> - **[[U|U]]:**
+> - **[[Anamnese|A]]:** 
+> - **[[Untersuchung|U]]:**
 > - **[[EKG]]:**
 > - **[[POCUS]]:**
 > - **[[Labor]]:** 

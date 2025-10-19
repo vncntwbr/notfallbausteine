@@ -31,7 +31,7 @@ aliases:
 > - **E:** Infekt? Diarrhoe? je <3 Wo
 
 > [!workup]+
-> - **[[U|U]]:** VP (insb. Temp.)? Haut? Schleimhäute? Status (Vitien? Anämie?)
+> - **[[Untersuchung|U]]:** VP (insb. Temp.)? Haut? Schleimhäute? Status (Vitien? Anämie?)
 > - **[[EKG]]** 
 > - **[[Labor]]:** [[BGA]], Basisprofil + LDH, gBilirubin, fHb, Haptoglobin, ggf. +Thrombexakt (Ausschluss Pseudothrombopenie), ggf. Hand-Diff. (Fragmentozyten?), bei Hämolyse + Coombs-Test
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG

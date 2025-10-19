@@ -7,7 +7,7 @@ aliases:
 
 | Willkommen         |                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------ |
-| **Basics**         | [[ABCDE]] [[Analgesie]] [[A]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[U]] [[U-Status]] |
+| **Basics**         | [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]] [[U-Status]] |
 | **Interventionen** | [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]                |
 
 | Häufige Probleme   |                                                                                                                                                |
@@ -28,10 +28,10 @@ aliases:
 | **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis (viral)]] [[Gastritis]] [[Pankreatitis]] |
 | **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                               |
 ## Auswahl häufiger Textbausteine
-![[U#^82651c]]
-![[U#^944f17]]
+![[Untersuchung#^82651c]]
+![[Untersuchung#^944f17]]
 ![[ABCDE#^8e5ced]]
-![[A#^db877f]]
+![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
 ![[POCUS#^aa3283]]
 ![[TTE#^1fb4f0]]

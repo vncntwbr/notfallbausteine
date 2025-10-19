@@ -22,7 +22,7 @@ title:
 > - **R:** Nikotin? Pseudomonas? [[Tbc]]? Reisen? Tierkontakt? Pflegeeinrichtung (=NHAP)? Gemeinschaftsunterkunft?
 
 > [!workup]+
-> - **[[U|U]]:** 
+> - **[[Untersuchung|U]]:** 
 > - **[[EKG]]:** 
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 

@@ -11,8 +11,8 @@ zbb: |-
 > [!dd]+ Do Not Miss DD
 > - **[[Aorta]]** → [[POCUS]]
 > - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
-> - **Infektion** (Spondylodiszitis, Abszess) → [[A|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
-> - **Maligne** (Osteolysen, Metastasen) → [[A|A]], Ca2+, LDH
+> - **Infektion** (Spondylodiszitis, Abszess) → [[Anamnese|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
+> - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
 > - **Osteoporotische Fraktur** → bei Osteoporose oder RF großzügig Rö
 
 > [!anamnese]+
@@ -25,7 +25,7 @@ zbb: |-
 > - **R:** Infiltrationen/Spritzen?
 
 > [!workup]+ Basis Workup
-> - **[[U|U]]:** VP (insb. Temp.)? Rücken (WS-Klopfschmerz, Beweglichkeit)? 
+> - **[[Untersuchung|U]]:** VP (insb. Temp.)? Rücken (WS-Klopfschmerz, Beweglichkeit)? 
 > 	- *Beine:* Kraftgrade, Lasègue (einschießend bei Flexion Bein >45°)
 > 	- *Neuro:* Zehengang (S1)? Hackengang (L4-5)? Romberg? Sensibilität Beine+Perineum? Reflexe (PSR, ASR)? Radikulär?
 > - **Red Flags**
