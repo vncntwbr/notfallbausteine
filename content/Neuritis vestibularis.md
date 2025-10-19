@@ -7,11 +7,11 @@ tags:
 ---
 > [!dd] Beachte DD/Workup [[Schwindel]]
 
-> [!workup]- Workup
+> [!workup]+
 > - **Welche Seite?** Nystagmus schlägt NICHT zur betroffenen Seite, Fallneigung zur betroffenen Seite
 > - [YouTube: What ear does the nystagmus in vestibular neuritis beat towards?](https://www.youtube.com/watch?v=iE6_29Let9g)
 
-> [!management]-
+> [!management]+
 > 1. **Dimenhydrinat** 62 mg i.v. oder 50 mg p.o. max. 3x/d für max. 3d
 > 2. **Prednisolon** 250 mg i.v., Weiterführung in RS HNO, +Pantoprazol 40 mg 1-0-0
 > 3. **[[Zoster]]?** (Therapie siehe dort)

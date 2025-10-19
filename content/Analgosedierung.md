@@ -14,5 +14,3 @@ title: |-
 > - **Propofol** 0.5 mg/kg i.v., dann 0.25 mg/kg titriert nachgeben (Ältere: initial 0.25 mg/kg)
 
 > [!dd] Agitation siehe [[Psych]]
-
----

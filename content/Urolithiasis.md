@@ -6,7 +6,7 @@ aliases:
   - Nierenkolik
 title: Urolithiasis / Nierenkolik
 ---
-> [!dd]+ Beachte DD/Workup [[Bauchschmerz|Bauchschmerz/Flankenschmerz]]
+> [!dd] Beachte DD/Workup [[Bauchschmerz|Bauchschmerz/Flankenschmerz]]
 
 > [!workup]+
 > - **[[POCUS]]:** [[Harnstau]]? H.a. Fornixruptur? Stein darstellbar (Twinkling-Artefakt)?

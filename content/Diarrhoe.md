@@ -16,7 +16,8 @@ title: Diarrhoe / Durchfall
 > - **[[Elektrolytstörung]]** ([[BGA]])
 > - **HUS** (blutige Diarrhoe, [[AKI]] mit Urämie, Hämolyse, Thrombopenie)
 
-> [!dd]+ DD (siehe auch: [[Bauchschmerz]], [[GI-Blutung]], [[Sepsis]])
+> [!dd] DD (siehe auch: [[Bauchschmerz]], [[GI-Blutung]], [[Sepsis]])
+> #Status/ToDo 
 
 > [!anamnese]+ Anamnese
 > - **S:** Symptombeginn? Stuhl (Frequenz, Konsistenz, Farbe, Tenesmen/Schmerzen, Blutbeimengung, Teerstuhl)? [[Ü+E]]? OPQRST+? [[Fieber]], Schüttelfrost? Trinkmenge (ausreichend)?
