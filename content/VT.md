@@ -5,7 +5,7 @@ tags:
   - Diagnosen
 title: Ventrikuläre Tachykardie (VT)
 ---
-> [!danger]+ Siehe [[eKV]]
+> [!danger] Siehe [[eKV]]
 
 > [!workup]+
 > - **VT pos** (70% aller Breitkomplextachykardien)
