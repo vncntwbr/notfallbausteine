@@ -5,8 +5,9 @@ tags:
   - Diagnosen
 title: Ventrikuläre Tachykardie (VT)
 ---
+> [!danger]+ Siehe [[eKV]]
 
-> [!workup] 
+> [!workup]+
 > - **VT pos** (70% aller Breitkomplextachykardien)
 > 	- aVR pos / QRS-Achse Nordwest (90% spez.)
 > 	- R-to-Peak >50 ms in II
@@ -16,9 +17,9 @@ title: Ventrikuläre Tachykardie (VT)
 > 	- Ugly looking
 > 	- Rabbits Ear li > re
 
-> [!dd] DD (WIDER)
+> [!dd]+ DD (WIDER)
 > - WPW
 > - Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
-> - Drugs (I-Antiarrhythmika, ==[[TCA]]==)
-> - [[Elektrolyte]] (==[[HyperK+]]==)
+> - Drugs ==(Natriumkanalblocker, insb. [[TCA]])==
+> - [[Elektrolyte]] ==([[HyperK+]])==
 > - Raised STE
