@@ -36,6 +36,3 @@ aliases:
 ![[POCUS#^aa3283]]
 ![[TTE#^1fb4f0]]
 ![[TTE#^88177b]]
-
----
-[[How To]]
