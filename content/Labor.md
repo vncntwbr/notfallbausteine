@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Basics
 ---
+> [!lokal] Siehe [[Laborprofile]]
 
 - **[[BGA]]**
 - **[[Elektrolyte]]**

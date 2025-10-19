@@ -11,16 +11,15 @@ aliases:
   - Respiratorische Insuffizienz
 ---
 
-> [!danger]+ Rapid Reference
-> - **Killer-DD bei Kritisch Kranken (don't miss):**
-> 	- [[Anaphylaxie]]
-> 	- [[Asthma]] / [[COPD]]
-> 	- [[Pneu]]
-> 	- [[ACS]]
-> 	- [[LAE]]
-> 	- [[Herzinsuffizienz]]
-> 	- [[Pneumonie]] / [[Sepsis]]
-> 	- [[Schock]] / [[Metabolische Azidose]]
+> [!danger]+ Killer-DD bei Kritisch Kranken (don't miss)
+> - [[Anaphylaxie]]
+> - [[Asthma]] / [[COPD]]
+> - [[Pneu]]
+> - [[ACS]]
+> - [[LAE]]
+> - [[Herzinsuffizienz]] / [[Lungenödem]]
+> - [[Pneumonie]] / [[Sepsis]]
+> - [[Schock]] / [[Metabolische Azidose]]
 
 > [!dd]+ DD
 > - **Kardiovaskulär**
