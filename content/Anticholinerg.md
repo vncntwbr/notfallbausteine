@@ -24,4 +24,4 @@ aliases:
 > 	- *1. Gen. Antihistaminika:* z.B. Clemastin, Dimenhydrinat, Diphenhydramin, Doxepin
 > 	- *[[TCA]]:* z.B. Amitriptylin
 > 	- *Muskelrelaxanzien:* ###
-> 	- *Antipsychotika:* insb. Chlorpromazin, Olanzapin, Quetiapin
+> 	- *[[Antipsychotika]]:* insb. Chlorpromazin, Olanzapin, Quetiapin

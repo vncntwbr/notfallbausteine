@@ -20,7 +20,7 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 
 > [!anamnese]+ (Fremd-)Anamnese
 > - **S:** H.a. Infektion?
-> - **M:** Neu? [[Anticholinerg]]? Sedativa? Antipsychotika? [[Opioide]]? [[Interaktionen]]? Neue Meds?
+> - **M:** Neu? [[Anticholinerg]]? Sedativa? [[Antipsychotika]]? [[Opioide]]? [[Interaktionen]]? Neue Meds?
 > - **E:** Funktioneller Vorzustand?
 > - **Sozial:** Therapieziel ([[Palliativsituation]])?
 

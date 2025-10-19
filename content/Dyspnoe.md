@@ -60,7 +60,7 @@ aliases:
 > [!workup]+
 > - **[[EKG]]:** [[Ischämie-EKG]]? HRST? [[Tachykardie]]+[[RHB]]? Niedervoltage/Alternans?
 > - **[[POCUS]]:** RUSH oder min. [[TTE]] + [[LUS]]
-> - **[[Labor]]:** [[BGA]] (Säure-Basen), Profil "Pneumonie" ± [[D-Dimer]] (s. [[LAE]]) ± [[Troponin]] (ohne Brustschmerz nur wenn ACS plausible DD + EKG-Veränderungen)
+> - **[[Labor]]:** [[BGA]] (Säure-Basen), Profil "Pneumonie" ± [[D-Dimer]] (s. [[LAE]]) ± [[Troponin]] (ohne [[Brustschmerz]] nur wenn ACS plausible DD + EKG-Veränderungen)
 > - ggf. [A-a-Gradient](https://www.mdcalc.com/calc/243/a-a-o2-gradient) (erniedrigt=intrapulmonal, normal=Hypoventilation)
 
 ![[LAE#^687753]]

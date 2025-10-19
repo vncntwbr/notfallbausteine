@@ -32,7 +32,7 @@ title: Akutes Aortensyndrom (inkl. Aortendissektion)
 
 [^2]: inkl. PCKD
 
-[^3]: Schmerzen oft maximal zu Beginn, DD ACS eher Crescendo
+[^3]: Schmerzen oft maximal zu Beginn, DD [[ACS]] eher Crescendo
 
 [^4]: Brown 2022: Häufiger älter, DM, Aneurysma
 

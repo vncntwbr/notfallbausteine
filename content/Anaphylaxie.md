@@ -3,13 +3,13 @@ tags:
   - Probleme/Allgemein
   - Status/Started
 ---
-> [!danger] Resuscitation
+> [!danger] Rapid Reference
 > 1. **Exposition stoppen**
 > 2. **Adrenalin** 0.5 mg i.m. (Wdh. alle 5 min), Päd 0.01 mg/kg
 > 3. **Adrenalin** 5 mg p.i. + **O2**
-> 4. **i.v.:** Zugang + VEL, ggf. Adrenalin
+> 4. **i.v.:** Zugang + VEL, ggf. Adrenalin 10-20 μg
 > 5. **[[AMAX4]]** bei Sopor/Apnoe
-> 6. **Adjunkt.:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
+> 6. **Adjunktiv:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
 
 - **Ä:** Kinder Nahrungsmittel, Erwachsene Meds, beide Insekten
 ## Management

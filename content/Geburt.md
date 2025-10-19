@@ -19,7 +19,7 @@ title:
 > - **M:** Dauermed? Anti-D-Prophylaxe (Rh-neg. Mutter)?
 > - **P:** Frühere Schwangerschaften/Geburten? Komplikationen? Anmeldung zur Geburt (wo)? Errechneter Termin?
 > - **L:** Vorsorge (auffällig, BZ, RR)?
-> - **E:** Abdominaltrauma?
+> - **E:** [[Abdominaltrauma]]?
 > - **R:** ==Mutterpass== (wenn nicht vorhanden: Alkohol, Drogen, [[STI]])? 
 
 > [!workup]+

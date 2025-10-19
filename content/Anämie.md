@@ -10,7 +10,7 @@ aliases:
 > - **Def:** [W] Hb <12 g/dl ≈ <7.5 mM, [M] Hb <13 g/dl ≈ <8.0 mM
 > - **Klassifikation:** mikro/hypo MCV↓ MCH↓ | makro/hyper MCV↑ MCH↑
 
-> [!dd] DD
+> [!dd]+ DD
 > - *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
 > - *Myelosuppression:* stat./amb. Häma
 > - *Eisenmangel:* DD okkult [[GI-Blutung]]
