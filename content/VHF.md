@@ -27,6 +27,12 @@ title: |-
 	- [[MgSO4]] 2 g empirisch
 	- *[[AK]]:* DOAK min. 4 Wochen, länger wenn CHADS-65 pos.
 
+
+## Antikoagulation
+![[Pasted image 20251103072621.png]]
+
+
+
 [^1]: Stiell, I.G., de Wit, K., Scheuermeyer, F.X. _et al._ 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practices Checklist. _Can J Emerg Med_ **23**, 604–610 (2021). https://doi.org/10.1007/s43678-021-00167-y
 
 [^2]: CHADS-65: Chron. HFrEF, [[Hypertonie]], Alter ≥65, Diabetes
@@ -34,3 +40,5 @@ title: |-
 [^3]: Adhärenz? Bei Vitamin-K-Antagonisten INR >2.0
 
 [^4]: HF 120-180 normalerweise maximal ohne AV-Block / neg. Dromotropie, bei >200/FBI DD VHF + WPW
+
+

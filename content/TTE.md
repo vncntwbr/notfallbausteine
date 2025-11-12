@@ -15,7 +15,7 @@ title: Transthorakale Echokardiografie (TTE)
 
 > [!note]- Textbaustein TTE kompakt
 > ```
-> Fokussierte TTE/POCUS: Kein Perikarderguss, kein H.a. RHB, kein H.a. regionale WBS, EF orientierend eher normodynam. Keine Pleuraergüsse. IVC ca. ## mm, <50% atemmoduliert.
+> Fokussierte TTE/POCUS: Kein Perikarderguss, EF orientierend a.e. [normodynam] EPSS [≤7] mm, kein H.a. RHB TAPSE [≥18] mm, kein H.a. regionale WBS in 4AC+PSAX. Ak ohne höhergradiges Vitium. Keine Pleuraergüsse. Pulmo bds. Pleuragleiten, [≤3] B-Lines/Fenster. IVC [schlank], [atemmoduliert].
 
 ^1fb4f0
 

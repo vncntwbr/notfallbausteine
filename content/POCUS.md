@@ -6,8 +6,9 @@ title: Point-of-Care Ultraschall / Sonografie (POCUS)
 ---
 > [!note]- Textbaustein POCUS RUSH
 > ```
-> Notfallsonografie nach RUSH-Protokoll: Pulmo bds. Pleuragleiten, <3 B-Lines/Fenster, keine Pleuraergüsse. Cor kein Perikarderguss, kein H.a. RHB, kein H.a. regionale WBS, EF orientierend normodynam. IVC ca. 1.5-2.0 cm, <50% atemmoduliert. Aorta abd. durchweg <3.0 cm. FAST ohne fF intraperitoneal, Nieren bds. nicht gestaut. 
+> POCUS nach RUSH-Protokoll: Pulmo bds. Pleuragleiten, [<3] B-Lines/Fenster, keine Pleuraergüsse. Cor kein Perikarderguss, EF orientierend a.e. normodynam, kein H.a. RHB, kein H.a. regionale WBS in 4AC+PSAX. IVC [schlank], [atemmoduliert]. Aorta abd. [durchweg] einsehbar schlank ohne Kalibersprung/Dissekat. FAST ohne freie Flüssigkeit intraperitoneal, Nieren bds. nicht gestaut. 
 > ```
+
 
 ^aa3283
 

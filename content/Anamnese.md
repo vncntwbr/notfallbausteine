@@ -11,12 +11,12 @@ title: Anamnese
 
 > [!note]- Textbaustein Anamnese
 > ```
-> Vorstellung WIE aus WOHER bei LEITSYMPTOM seit DAUER, aufgetreten bei EREIGNIS. LETZTE/R. OPQRST + BEGLEITSYMPTOME. 
-> - Vegetativ: Im Alltag voll belastbar. Keine Dyspnoe, keine AP, keine Palpitationen. Keine Infektsymptome. Keine B-Symptomatik. Miktion + Stuhlgang unauffällig.
-> - Allergien: Keine bekannt.
-> - Medikation: Adhärenz glaubhaft, keine neuen Medikamente.
-> - Risikofaktoren: Nikotin ### Zig./d = kum. ### PY, Alkohol sozial (≤2x/Woche), keine weiteren Noxen. Familienanamnese leer.
-> - Sozial: Selbstversorgend in Häuslichkeit mit ###. Beruf: ###, berentet. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
+> Vorstellung [WIE] aus [WOHER] bei [LEITSYMPTOM] seit [DAUER], aufgetreten bei [EREIGNIS]. [OPQRST + BEGLEITSYMPTOME]. [LETZTE/R].
+> - Vegetativ: Im Alltag [voll belastbar]. Keine Dyspnoe, keine AP, keine Palpitationen. Keine Infektsymptome. Keine B-Symptomatik. Miktion + Stuhlgang [unauffällig].
+> - Allergien: [Keine bekannt].
+> - Medikation: [Adhärenz glaubhaft, keine neuen Medikamente.]
+> - Risikofaktoren: Nikotin [] Zig./d = kum. [###] PY, Alkohol [sozial] (≤2x/Woche), keine weiteren Noxen. [Familienanamnese leer.]
+> - Sozial: Selbstversorgend in häuslicher Gemeinschaft. Beruf: [], berentet. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
 > ```
 ^db877f
 

@@ -8,7 +8,10 @@ title: Körperliche Untersuchung
 ---
 > [!note]- Textbaustein Untersuchung kompakt
 > ```
-> AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. Eupnoe AF ###, Normoxie SpO2 ### %. Haut warm+rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF ### bpm. Normoton RR ###/###. Keine Ödeme, VJI nicht gestaut. Abdomen weich.
+> - AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
+> - Pulmo: Eupnoe AF [], Normoxie SpO2 []% unter RL. Sgl. VAG ohne RG/NG.
+> - Cor: Haut warm + rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF [] bpm. Normoton RR [###/###] mmHg. Keine periph. Ödeme, VJI nicht gestaut. 
+> - Abdomen weich, keine Resistenz, keine Druckdolenz. Keine Effloreszenzen.
 > ```
 
 ^82651c
@@ -25,14 +28,14 @@ title: Körperliche Untersuchung
 > ```
 ^944f17
 
-> [!note]- Zusatz Neurologischer Screening-Status
+> [!note]- Neurologische Untersuchung
 > ```
-> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Meningismus.
+> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Fieber. Kein Meningismus.
 > - Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
 > - HN: Visus bds. erhalten, GF fingerperimetrisch intakt. Pupillen isokor, rund, prompt konsensuell lichtreagibel. FFV metrisch ohne Diplopie, kein Spontannystagmus. Gesichtssensibilität intakt, keine Facialisparese. Gehör orientierend seitengleich. Gaumensegel und Zungenmotorik symmetrisch. 
 > - Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5 n. Janda. Kein Absinken in AHV und BHV. 
-> - Babinski bds. neg.
-> - Sensibilität: Ästhesie OE+UE seitengleich intakt.
+> - Reflexe: BSR, TSR, PSR, ASR sgl. [lebhaft]. Babinski bds. neg.
+> - Sensibilität: Ästhesie OE+UE orientierend seitengleich intakt.
 > - Koordination: Zeigeversuche bds. metrisch. Eudiadochokinese. Stand und Gang sicher, Romberg opB.
 > ```
 
