@@ -18,7 +18,7 @@ tags:
 - **Hypoxie Arten**
 	1. **Hypoxemic Hypoxia:** Blood oxygen is low, so tissues get less oxygen. (e.g., severe pneumonia)
 	2. **Anemic Hypoxia:** Low hemoglobin levels mean less oxygen-carrying capacity, even if oxygen levels are normal. (e.g., hemorrhage, hemolysis)
-	3. **Ischemic Hypoxia:** Blood flow to tissues is blocked or reduced. (e.g., MI, stroke, severe shock)
+	3. **Ischemic Hypoxia:** Blood flow to tissues is blocked or reduced. (e.g., [[MI]], stroke, severe shock)
 	4. **Histotoxic Hypoxia:** Oxygen delivery is normal, but tissues can’t use it. (e.g., carbon monoxide or cyanide poisoning)
 - **Hypoxämie**
 	- FiO2↑↑ (NRB), wenn SpO2↓ refraktär = i.d.R. Shunt-Physiologie → PPV/HFNC notwendig

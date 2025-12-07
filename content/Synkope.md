@@ -14,7 +14,7 @@ tags:
 > - **Ätiologie bei Synkope**
 > 	- *Kardiogen = High Risk*
 > 		- HRST
-> 		- Strukturell (z.B. Aortenklappenstenose, HOCM)
+> 		- Strukturell (z.B. [[AS|Aortenklappenstenose]], HOCM)
 > 		- [[Schock]] (z.B. LAE, [[Aorta]], pHTN, [[Sepsis]])
 > 	- *Reflex*
 > 		- Neurokardiogen (z.B. Angst, Schmerz, langes Stehen) / POTS[^2]

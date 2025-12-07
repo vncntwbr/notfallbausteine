@@ -30,6 +30,7 @@ aliases:
 ## Auswahl häufiger Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^944f17]]
+![[Untersuchung#^e8bff0]]
 ![[ABCDE#^8e5ced]]
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]

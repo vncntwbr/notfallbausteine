@@ -8,10 +8,10 @@ title: Körperliche Untersuchung
 ---
 > [!note]- Textbaustein Untersuchung kompakt
 > ```
-> - AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Kein Fieber. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
-> - Pulmo: Eupnoe AF [], Normoxie SpO2 []% unter RL. Sgl. VAG ohne RG/NG.
-> - Cor: Haut warm + rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF [] bpm. Normoton RR [###/###] mmHg. Keine periph. Ödeme, VJI nicht gestaut. 
-> - Abdomen weich, keine Resistenz, keine Druckdolenz. Keine Effloreszenzen.
+> AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Normotherm. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
+> Pulmo: Eupnoe AF [] in Ruhe, Normoxie SpO2 [] % unter RL. Sgl. VAG ohne RG/NG.
+> Cor: Haut warm + rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF [] bpm. Normoton RR [###/###] mmHg. Keine periph. Ödeme, VJI nicht gestaut. 
+> Abdomen: Weich, keine Resistenz, keine Druckdolenz. Keine Effloreszenzen.
 > ```
 
 ^82651c
@@ -30,14 +30,16 @@ title: Körperliche Untersuchung
 
 > [!note]- Neurologische Untersuchung
 > ```
-> - Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Fieber. Kein Meningismus.
-> - Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
-> - HN: Visus bds. erhalten, GF fingerperimetrisch intakt. Pupillen isokor, rund, prompt konsensuell lichtreagibel. FFV metrisch ohne Diplopie, kein Spontannystagmus. Gesichtssensibilität intakt, keine Facialisparese. Gehör orientierend seitengleich. Gaumensegel und Zungenmotorik symmetrisch. 
-> - Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5 n. Janda. Kein Absinken in AHV und BHV. 
-> - Reflexe: BSR, TSR, PSR, ASR sgl. [lebhaft]. Babinski bds. neg.
-> - Sensibilität: Ästhesie OE+UE orientierend seitengleich intakt.
-> - Koordination: Zeigeversuche bds. metrisch. Eudiadochokinese. Stand und Gang sicher, Romberg opB.
+> Allg: Wach, freundlich zugewandt (GCS A4/V5/M6=15). Orientiert zu ZOSP. Kein Fieber. Kein Meningismus.
+> Sprache: Keine Aphasie, keine Dysarthrie, keine Dysphonie. 
+> HN: Visus bds. erhalten, GF fingerperimetrisch intakt. Pupillen isokor, rund, prompt konsensuell lichtreagibel. FFV metrisch ohne Diplopie, kein Spontannystagmus. Gesichtssensibilität intakt, keine Facialisparese. Gehör orientierend seitengleich. Gaumensegel und Zungenmotorik symmetrisch. 
+> Motorik: OE+UE bds. seitengleich proximal+distal KG 5/5 n. Janda. Kein Absinken in AHV und BHV. 
+> Reflexe: BSR, TSR, PSR, ASR sgl. [lebhaft]. Babinski bds. neg.
+> Sensibilität: Ästhesie OE+UE orientierend seitengleich intakt.
+> Koordination: Zeigeversuche bds. metrisch. Eudiadochokinese. Stand und Gang sicher, Romberg opB.
 > ```
+
+^e8bff0
 
 > [!note]- Textbaustein Gelenkstatus Schulter
 > ```
@@ -56,3 +58,13 @@ title: Körperliche Untersuchung
 > **POCUS:** ###
 > **Rö Schulter p/a + Neer:** ###
 > **Labor:** CRP # mg/l, Leukos # G/l, INR # ```
+
+## Volle Untersuchung
+
+- AZ gut (aktuell ECOG 0-4), EZ eutroph (XXX kg, XXX cm, BMI XXX). Freundlich zugewandt. Normotherm (XX °C aurikulär).
+- Neurologie: Wach, GCS 15 (A4/V5/M6), orientiert zu ZOSP. Kein Meningismus, keine Fazialisparese, Sprache flüssig. Pupillen mittelweit, rund, isokor, prompt konsensuell lichtreagibel. Gesichtsfeld fingerperimetrisch intakt. Fingerfolgeversuch unauffällig. Kraftgrad 5/5 seitengleich.
+- Kopf: Mundschleimhäute rosig feucht, Zahnstatus gepflegt, Zunge nicht belegt. Konjunktiven rosig. Halsvenen nicht gestaut. Cervicale Lymphknoten und Schilddrüse nicht vergrößert palpabel.
+- Cor: HT rein, rhythmisch, normofrequent (HF XXX bpm). Normoton (RR XXX/XX mmHg). Recap <2s, Pulse radial und dorsalis pedis bds. kräftig palpabel.
+- Pulmo: Eupnoe (AF XX /min). Normoxie (SpO2 XX % unter RL). Symmetrische Thoraxexkursionen mit adäquatem TV. Seitengleiche VAG ohne NG/RG.
+- Abdomen: Keine Narben, keine Leberhautzeichen. Weich, keine Abwehrspannung, keine Resistenzen, keine Druckdolenz. Darmperistaltik rege in allen 4Q. Leber und Milz nicht vergrößert palpabel. Kein Klopfschmerz über Wirbelsäule oder Nierenlagern.
+- Extremitäten: Warm, Hautkolorit rosig, pDMS seitengleich intakt, indolent frei beweglich. Keine Effloreszenzen. Keine peripheren Ödeme. Keine Umfangsdifferenz. Keine Thrombosezeichen (Meyer neg., Homans neg., Payr neg.).

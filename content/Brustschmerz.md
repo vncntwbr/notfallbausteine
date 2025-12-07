@@ -45,7 +45,7 @@ title: Brustschmerz / Thoraxschmerz
 > - **P:** CVRF ([[Hypertonie]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
 > - **L:** TTE? HKU?
 > - **E:** Auftreten in Ruhe/Belastung? Immobilisation ([[LAE]])?
-> - **R:** CVRF? Familienanamnese (MI, Aorta)? Drogen (Kokain u.ä. → [[ACS]]; THC → [[Pneu]])?
+> - **R:** CVRF? Familienanamnese ([[MI]], Aorta)? Drogen (Kokain u.ä. → [[ACS]]; THC → [[Pneu]])?
 
 
 > [!workup]+

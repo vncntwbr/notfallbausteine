@@ -12,7 +12,7 @@ title: Zentraler Venenkatheter (ZVK)
 
 > [!note]+ Textbaustein ZVK
 > ```
-> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei ### cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend via AlphaCard / Rö Tx / agitiertes NaCl im TTE. Katheter kann sofort bestückt werden. Bitte tägliche Kontrolle von Einstichstelle und weiter bestehender Indikation.
+> Anlage 3-Lumen-ZVK 16F komplikationslos, sonografiegesteuert, streng steril, unter Lokalanästhesie via VJI rechts. Draht entfernt, alle Lumen aspirabel. Annaht bei [VJI re 16-18, VJI li 20-22, VSC re 14-16, VCS li 18-20, VFC 20] cm Hautniveau. Lagekontrolle sonografisch vor Dilatation und abschließend via AlphaCard / Rö Tx / agitiertes NaCl im TTE. Katheter kann sofort bestückt werden. Bitte tägliche Kontrolle von Einstichstelle und weiter bestehender Indikation.
 > ```
 
 ^56fae3

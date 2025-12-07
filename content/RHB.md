@@ -15,6 +15,6 @@ title: Rechtsherzbelastung (RHB)
 	- hohes R in V1/V2, III, aVF
 	- tiefes S in I, aVL, V5/V6
 
-
-
-[[alerhandWhatEchocardiographicFindings2023]]
+---
+![[Pasted image 20251124193301.png]]
+![[Pasted image 20251124193320.png]]

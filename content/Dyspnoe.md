@@ -25,9 +25,9 @@ aliases:
 > - **Kardiovaskulär**
 > 	- [[ACS]]
 > 	- [[Herzinsuffizienz]]
-> 	- [[LAE]] / Pulmonale Hypertonie
+> 	- [[LAE]] / [[Pulmonale Hypertonie]]
 > 	- HRST
-> 	- Vitien (insb. Aortenklappenstenose)
+> 	- Vitien (insb. [[AS|Aortenklappenstenose]])
 > 	- [[Perikarderguss]]
 > 	- Shunting (angeborene Herzfehler, intrapulmonal, AVM)
 > - **Obere Atemwege**

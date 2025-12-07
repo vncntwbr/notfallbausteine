@@ -9,6 +9,8 @@ title: E-Point Septal Separation (EPSS)
 - *Durchfürung:* In [[PLAX]] M-Mode cursor durch Mitralsegel, Messung von E-Point bis Septum (s. Bild)
 - *Interpretation:* EPSS >7 mm = EF↓[^1]
 - *Cave:* Falsch-hoch bei Mitralklappenstenose und Aortenklappeninsuffizienz, Beat-to-beat Variation bei [[VHF]]
+---
+![[Pasted image 20251124193122.png]]
 
 ![](https://www.emra.org/siteassets/emresident/images/articles/2021/05-may/epss-2.png)
 

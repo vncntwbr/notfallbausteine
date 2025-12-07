@@ -18,7 +18,7 @@ title: |-
 
 
 - **W**[^1]
-	- *VHF Ursache für Instabilität?* HF >>150[^4], new-onset, atrial kick dependent (PHT, MS/AS, HFpEF), WPW
+	- *VHF Ursache für Instabilität?* HF >>150[^4], new-onset, atrial kick dependent (PHT, MS/[[AS]], HFpEF), WPW
 	- *[[eKV]] bei Stabil?* AK >3 Wochen[^3] od. Onset <12 h od. Onset <48 h + CHADS-65[^2] ≤2 od. TEE neg., bei oligosympt. Älteren eher nur Frequenzkontrolle
 	- *Labor:* HypoK+, HypoMg2+, TSH, [[LAE]]?, Medikation
 	- 

@@ -47,7 +47,7 @@ title: Elektrokardiogramm (EKG)
 - **Grün:** Rippenbogenrand rechts VAL
 
 ### OMI
-- Posterior MI
+- Posterior [[MI]]
 - Mainstem
 - LBB
 - RBB

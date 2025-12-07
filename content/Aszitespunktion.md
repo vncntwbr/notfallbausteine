@@ -25,6 +25,8 @@ tags:
 > Bei Notfallindikation ### / zum Ausschluss SBP erfolgte die komplikationslose sonografiegesteuerte diagnostische Aszitespunktion ##rechter/linker## Unterbauch. Insgesamt ## L makroskopisch ##klarer## Aszites drainiert, BK, Zellzahl, klinische Chemie und ##ad Pathologie## verschickt, Bedside-Stix Leukozyten neg. 
 > ```
 
+[^1]
+
 [^1]: "Eingriff in instabiles Kartenhaus der Leberzirrhose"
 
 [^2]: Korrektur bei hämorrhagischem Aszites (>50k Erys/μl): Reduktion 1 Granulozyt pro 250 Erys
