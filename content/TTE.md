@@ -15,16 +15,17 @@ title: Transthorakale Echokardiografie (TTE)
 
 > [!note]- Textbaustein TTE kompakt
 > ```
-> Fokussierte TTE/POCUS: Kein Perikarderguss, EF orientierend a.e. [normodynam] (EPSS [≤7] mm), kein H.a. RHB (TAPSE [≥18] mm), kein H.a. regionale WBS in 4AC+PSAX. Ak ohne höhergradiges Vitium (Vmax [] mm). Keine Pleuraergüsse. Pulmo bds. Pleuragleiten, [≤3] B-Lines/Fenster. IVC [schlank], [atemmoduliert].
+> Fokussierte TTE/POCUS: Kein Perikarderguss, EF orientierend a.e. [normodynam] (EPSS [≤7] mm, entspricht geschätzter LVEF [75.5 – (2.5 x EPSS in mm)]), kein H.a. RHB (TAPSE [≥18] mm), kein H.a. regionale WBS in 4AC+PSAX. Ak ohne höhergradiges Vitium (Vmax [] mm). Keine Pleuraergüsse. Pulmo bds. Pleuragleiten, [≤3] B-Lines/Fenster. IVC [schlank], [atemmoduliert].
 
 ^1fb4f0
 
 > [!note]- Textbaustein TTE ausführlich
 > ```
 > Fokussierte TTE/POCUS:
-> - LV: Keine Hypertrophie. EF orientierend normodynam (EPSS ### mm, entspricht geschätzter LVEF ##%). Keine höhergradigen regionalen WBS. Ak trikuspid, kein Vitium. Mk leichtgradige MI. 
-> - RV/RA: Nicht dilatiert. Kein H.a. RHB, gute Funktion (TAPSE ## mm). Tk leichtgradige TI. Pk physiologische PI. Abgeschätzter sPAP ## mmHg.
-> - Kein Perikarderguss. IVC ca. ## mm, <50% atemmoduliert. Aorta ascendens <35 mm.
+> LV: Keine Hypertrophie. EF orientierend normodynam (EPSS ### mm, entspricht geschätzter LVEF ##%). Keine höhergradigen regionalen WBS. Ak trikuspid, kein Vitium. Mk leichtgradige MI. 
+> RV/RA: Nicht dilatiert. Kein H.a. RHB, gute Funktion (TAPSE ## mm). Tk leichtgradige TI. Pk physiologische PI. Abgeschätzter sPAP ## mmHg.
+> Kein Perikarderguss. IVC ca. [] mm, [<50% atemmoduliert]. Aorta ascendens [<35] mm.
+> Keine Pleuraergüsse bds. Pleuragleiten bds. apikal, [<3] B-Lines/Lungenfenster.
 > ```
 
 ^88177b
