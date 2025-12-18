@@ -24,6 +24,7 @@ title: Blutgasanalyse (BGA)
 - *[[Schwanger]]:* PaCO2 ≈30 mmHg, HCO3- ≈20 mM, pH 7.40-7.45, Aa-Gradient +5-10 mm
 <div style="page-break-after: always;"></div>
 ---
+
 ![[Metabolische Azidose]]
 ![[Metabolische Alkalose]]
 ![[Respiratorische Azidose]]
