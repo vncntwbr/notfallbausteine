@@ -3,7 +3,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Diagnosen
-title: Akutes Koronarsyndrom (ACS)
+title: Akutes Koronarsyndrom (ACS) inkl. STEMI, NSTEMI, Instabile AP
 cbf:
   - ECPR 622 454
   - Herzkatheter 513 767/-777 (ab 16:30h + WE → 32A)
@@ -16,7 +16,7 @@ zbb:
 ---
 > [!dd]+ DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI:** siehe [[Ischämie-EKG]]
-> - **NSTEMI:** unspezifische EKG-Veränderungen, [[Troponin]]↑/-Dynamik
+> - **NSTEMI:** unspezifische [[EKG]]-Veränderungen, [[Troponin]]↑/-Dynamik
 > - **Instabile AP:** klinischer Verdacht, [[Troponin]] normal
 > - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativ O2↓
 > 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxämie]]

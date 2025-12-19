@@ -9,7 +9,7 @@ title: Schwangerschaft
 > - **Killer:** [[HELLP & Eklampsie]], [[PPH]]
 > - **Leitsymptombasiert zstzl. Ursachen:**
 > 	- *[[Brustschmerz]]:* Reflux, Peripartale Kardiomyopathie, SCAD, [[LAE]], [[Aorta]]
-> 	- *[[Bauchschmerz]]:* Oft unspez., Obstipation/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[HELLP & Eklampsie]]
+> 	- *[[Bauchschmerz]]:* Oft unspez., [[Obstipation]]/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[HELLP & Eklampsie]]
 > 	- *Trauma:* IUFT, vorz. Plazentalösung u.a. (Cave: Rh-Prophylaxe?)
 > - **Frühschwangerschaft <20. SSW:**
 > 	- [[EUG]]

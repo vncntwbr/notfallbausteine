@@ -13,7 +13,7 @@ title: Venöse Thrombose (TVT)
 > - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], Hämoptysen, [[TLOC]])? B-Symptomatik?
 > - **A:** Z.n. HIT? Heparin? DOAK?
 > - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[AK]]?
-> - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? CKD (DANI)?
+> - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? [[CKD]] (DANI)?
 > - **E:** Immobilisation? Trauma?
 > - **R:** Familie (TVT, [[LAE]], Thrombophilie)? Adipositas?
 

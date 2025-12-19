@@ -3,9 +3,10 @@ tags:
   - Fach/Psychiatrie
   - Status/Started
   - Probleme/Kopf-Neuro
+title: Sucht & Entzug
 ---
-
-- K **Killer:** "Kalter" Alkohol- oder Benzodiazepin-Entzug (andere Substanzen ausgeprägte Symptomatik, aber ohne vitale Bedrohung)
+> [!danger] Killer
+> **"Kalter" Alkohol-/Benzodiazepin-Entzug** (andere Substanzen ausgeprägte Symptomatik aber ohne vitale Bedrohung) → bei Polyvalentem Substanzgebrauch immer *zuerst* Alkoholentzug unter Fortführung/Substitution Rest
 
 > [!info]- Slang-Lexikon
 > - **Affen:** Entzugssymptome
@@ -55,6 +56,5 @@ tags:
 > - **Turkey:** Entzug (v.a. [[Opioide]])
 > - **Yaba, Yama:** Metamphetamin
 
-- **Polyvalenter Substanzgebrauch:** Immer *zuerst* [[Alkohol]]-Entzug mit Benzodiazepinen unter Fortführung/Substitution weitere Drogen
 
 ![[Alkohol]]

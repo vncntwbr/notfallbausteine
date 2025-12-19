@@ -12,35 +12,51 @@ aliases:
   - Nierenversagen
   - Kreatinin-Erhöhung
 ---
-> [!danger] Checkliste
+> [!danger]+ Rapid Reference
 > 1. **MAP** halten
 > 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
-> 3. **Dx:** [[POCUS]] postrenal (DK)? U-Status intrarenal? [[POCUS]] [[Volumenstatus]] prärenal?
+> 3. **Dx:** [[POCUS]] postrenal (DK)? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 
-> [!dd]+ DD
-> - **Prärenal** (ggf. [Fraktionierte Na+ Exkretion](https://www.mdcalc.com/calc/60/fractional-excretion-sodium-fena#next-steps))
-> 	- *Perfusion↓:* Hypovolämie, [[Schock]]
-> 	- *Vaskulär:* Nierenarterieninfarkt/-stenose
-> 	- *Vasokonstriktion:* [[HyperCa2+]], NSAR, ACEi, Katecholamine, Hepatorenales Syndrom
-> - **Intrarenal**
-> 	- *Glomerulonephritis:* z.B. Post-Streptokokken, ANCA, Anti-GBM
-> 	- *Interstitiell:* Infektion, Tumor, Hypersensitivität, SLE, Goodpasture, Hämolyse, [[Rhabdomyolyse]], [[Tumorlyse]]
-> 	- *Tubulär:* Medikamentös-toxisch, Nekrose bei prolongiert prärenale AKI
-> 	- *Vaskulär:* HUS, TTP, Nierenvenenthrombose
-> - **Postrenal**
-> 	- *Ureter:* [[Urolithiasis]], Tumor, Adhäsionen/Fibrose
-> 	- *Blase:* Neurogene Blasenentleerungsstörung
-> 	- *Urethra:* BPH, verstopfter DK
+## DD
+> [!dd]- Prärenal
+> - **Perfusion↓:** Hypovolämie, [[Schock]] jeder Ätiologie
+> - **Vaskulär:** Nierenarterieninfarkt/-stenose
+> - **Vasokonstriktion:** 
+> 	- [[HyperCa2+]]
+> 	- NSAR, ACEi, Katecholamine
+> 	- [[HRS]] (nur 20% der AKI bei Leberversagen[^1])
 
-> [!anamnese]+ Anamnese
+> [!dd]- Intrarenal
+> - **Glomerulonephritis:** z.B. Post-Streptokokken, ANCA, Anti-GBM
+> - **Interstitiell:** Infektion, Tumor, Hypersensitivität, SLE, Goodpasture
+> - **Zelllyse:** Hämolyse, [[Rhabdomyolyse]], [[Tumorlyse]]
+> - **Tubulär:** ==Medikamentös-toxisch== (s.u.)
+> - **Vaskulär:** TTP/HUS, Nierenvenenthrombose
+
+> [!dd]- Postrenal
+> - **Ureter:** [[Urolithiasis]], Tumor, retroperitoneale Fibrose
+> - **Blase:** Neurogene Blasenentleerungsstörung
+> - **Urethra:** BPH, verstopfter DK
+
+> [!dd]- Nephrotoxische Substanzen
+> - **Kardiovaskulär:** ACEi/ARB, alles was [[Cardiac Output]] reduziert
+> - **ABx:** Aminoglykoside, Cotrimoxazol, Vancomycin, Colistin, selten Penicilline
+> - **Antimykotika:** Amphotericin
+> - **Virostatika:** Aciclovir, Ganciclovir, Tenofovir u.v.m.
+> - **CTx:** Viele Biologika, Checkpoint-Inhibitoren, Platin, Cyclophosphamid, MTX
+> - **Immunsuppressiva:** Calcineurin-Inhibitoren (Cyclosporin, Tacrolimus)
+> - Sulfasalazin, IVIG, Mannitol, [[NSAR]]
+## Workup
+
+> [!anamnese]- Anamnese
 > - **S:** Dyspnoe? Infekt?
 > - **M:** Nephrotox. Meds/Drogen?
-> - **P:** CKD bekannt? Restausscheidung? Dialyse?
+> - **P:** [[CKD]] bekannt? Restausscheidung? Dialyse?
 > - **L:** Vorwerte GFR?
 > - **E:** Volumenzufuhr/-verluste (Urin, [[Ü+E]], [[Diarrhoe]], Hitze etc.)? Infekt?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** Status
 > - **[[EKG]]** 
 > - **[[POCUS]]:** ==[[Harnverhalt]] (obligat)==, [[Harnstau]], [[Volumenstatus]], [[LUS]], [[TTE]]
@@ -52,7 +68,9 @@ aliases:
 > - **II°:** Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h
 > - **III°:** Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
 
-> [!management]+
+![[CKD#^5b5bc5]]
+## Management
+> [!management]-
 > 1. **[[HyperK+]] Therapie**
 > 2. **Nach Art:**
 > 	- *Prärenal:* Volumenstatus optimieren, bei Schock MAP halten(!)
@@ -66,6 +84,8 @@ aliases:
 > 	- Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert
 > 4. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei BRASH bradykardisierende Meds pausieren
 
+![[HRS#^529493]]
+## Textbaustein
 > [!note]- Textbaustein
 > ```
 > ToDo
@@ -74,3 +94,5 @@ aliases:
 
 ---
 - Recherche: Phosphatbindner ab P >6 mg/dl ?
+
+[^1]: Tariq R, Singal AK. Management of Hepatorenal Syndrome: A Review. J Clin Transl Hepatol. 2020 Jun 28;8(2):192-199. doi: 10.14218/JCTH.2020.00011. Epub 2020 Jun 1. PMID: 32832400; PMCID: PMC7438356.

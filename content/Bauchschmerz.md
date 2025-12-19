@@ -31,12 +31,12 @@ aliases:
 > 	- [[Divertikulitis]]
 > 	- Hernie
 > 	- [[Hodentorsion]], [[STI]]
-> - **Ileus, Obstipation**
+> - **Ileus, [[Obstipation]]**
 
 > [!anamnese]+
 > - **S:** OPQRST+? [[Ü+E]]? [[Diarrhoe]]/[[Obstipation]]? Miktion? Ausfluss?
 > - **A:** [[Kontrastmittel]]?
-> - **M:** NSAR? Semaglutid=
+> - **M:** NSAR? Semaglutid?
 > - **P:**  Vor-OP abdominell?
 > - **L:** Stuhlgang? Menstruation ([[Schwanger]])? Colo/ÖGD?
 > - **E:** Trauma (Milz)? Infekt (EBV)?
@@ -54,13 +54,13 @@ aliases:
 > 	- V.a. Ileus
 > 	- [[AZ↓]] (insb. geriatrisch niedrigschwellig CT)
 
-> [!Management]+
+> [!Management]-
 > 1. **[[Analgesie]]**
 > 2. **[[Volumentherapie]]** p.o./i.v. nach Bedarf
 > 3. **Antiemetika**
 > 	- *MCP:* Peristaltik↑, KI mech. Ileus oder Diarrhoe
 > 	- *Dimenhydrinat:* [[Anticholinerg|anticholinerge UAW]], KI ältere Pat.
-> 	- *Ondansetron:* UAW Obstipation, [[Interaktionen]] serotonerge Meds
+> 	- *Ondansetron:* UAW [[Obstipation]], [[Interaktionen]] serotonerge Meds
 > 4. **Gezielte Therapie nach DD**
 
 > [!note]+ Unklarer Bauchschmerz

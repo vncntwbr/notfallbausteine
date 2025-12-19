@@ -49,6 +49,6 @@ tags:
 
 [^1]: Coole Studie, Gruppe mit D-Dimer 0.49 vs D-Dimer 0.5, n=150.000. Goulden R. [Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis](https://doi:10.1001/jamainternmed.2021.0916). JAMA Intern Med.
 
-[^2]: McDonald. Radiology 2014. [Intravenous contrast material exposure is not an independent risk factor for dialysis or mortality](https://pubmed.ncbi.nlm.nih.gov/25203000/) Retrospektiv kontrollierte Studie, n>20.000, auch Pat. mit vor-CKD
+[^2]: McDonald. Radiology 2014. [Intravenous contrast material exposure is not an independent risk factor for dialysis or mortality](https://pubmed.ncbi.nlm.nih.gov/25203000/) Retrospektiv kontrollierte Studie, n>20.000, auch Pat. mit vor-[[CKD]]
 
 [^3]: [JuWo, dasFOAM](https://dasfoam.de/2018/06/30/nierenversagen-durch-kontrastmittel-gibts-nicht/)

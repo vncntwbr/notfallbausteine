@@ -8,7 +8,7 @@ title: Lactatazidose / Laktatazidose
 ---
 > [!DD] DD
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**
-> 	- Schock, Hypoxämie, Anämie, CO
+> 	- [[Schock]], Hypoxämie, [[Anämie]], CO
 > 	- Nekrose, Ischämie, Tumor
 > 	- Krampfanfall, [[Rhabdomyolyse]]
 > - **Glykolyse↑:** 
@@ -20,7 +20,7 @@ title: Lactatazidose / Laktatazidose
 > 	- Thiaminmangel
 > - **Laktatmetabolismus↓:** 
 > 	- [[Alkohol]]
-> 	- Leberversagen, Sepsis
+> 	- Leberversagen, [[Sepsis]]
 > - **Falsch-hoch:**
 > 	- [[Ethylenglykol]]
 

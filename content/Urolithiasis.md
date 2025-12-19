@@ -12,7 +12,7 @@ title: Urolithiasis / Nierenkolik
 > - **[[POCUS]]:** [[Harnstau]]? H.a. Fornixruptur? Stein darstellbar (Twinkling-Artefakt)?
 > - **[[Labor]]:** [[BGA]], Krea, HST, CRP, BB, bei evtl. OP: INR+PTT
 > - **[[Urin]]:** [[U-Status]] (Mikrohämaturie? Leukos?), Urinkultur, [W] β-HCG
-> - **[[Radiologie]]:** CT-Abd. lowdose nativ zur Steinsuche nur bei DD-Unsicherheit, Infektzeichen, Harnstau >II°, anatomische Anomalien (insb. Einzelniere), CKD oder Progredienz/Wiedervorstellung trotz adäquater Analgesie[^1]
+> - **[[Radiologie]]:** CT-Abd. lowdose nativ zur Steinsuche nur bei DD-Unsicherheit, Infektzeichen, Harnstau >II°, anatomische Anomalien (insb. Einzelniere), [[CKD]] oder Progredienz/Wiedervorstellung trotz adäquater Analgesie[^1]
 > 	- *Nicht in CT darstellbar:* Indinavir-Steine (HIV-Therapeutika UAW) und Matrixsteine (selten, fast nur Frauen)
 
 > [!management]+

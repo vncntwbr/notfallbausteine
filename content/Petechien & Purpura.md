@@ -26,7 +26,7 @@ aliases:
 > - **S:** Blutung? Stuhl (Blut)? Urin? [[Fieber]]? AZ? [[Diarrhoe]]? Schmerzen/OPQRST+? 
 > - **A:** Z.n. HIT?
 > - **M:** Heparin (HIT)? [[AK]]/TAH? Carbamazepin? Valproat?
-> - **P:** Häma/Onko? Autoimmun? CKD?
+> - **P:** Häma/Onko? Autoimmun? [[CKD]]?
 > - **L:** Blutbild?
 > - **E:** Infekt? Diarrhoe? je <3 Wo
 

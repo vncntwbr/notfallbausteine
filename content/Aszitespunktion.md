@@ -4,15 +4,15 @@ tags:
   - Fach/Gastroenterologie
   - Status/Done
 ---
-> [!danger] Indikation
+> [!danger]- Indikation
 > - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, Leberversagen, [[AKI]] oder V.a. [[HE]])
-> - **Therapeutisch** (Schmerzen, Spannung, [[Dyspnoe]], hepatorenales Syndrom)
+> - **Therapeutisch** (Schmerzen, Spannung, [[Dyspnoe]], [[HRS]])
 
-> [!management] Durchführung
-> - **Punktion** mit 18G grünem PVK
+> [!management]+ Durchführung
+> - **Punktion** mit 18G grünem PVK (größer: erhöhtes Fistelrisiko)
 > - **Albumin** 6-8 g/L ab 5 L
 
-> [!workup] Aszitespunktat Diagnostik
+> [!workup]+ Aszitespunktat Diagnostik
 > - **Visuell:** trüb/eitrig (V.a. [[SBP]]), blutig (Malignität, Trauma, iatrogen durch Punktion)
 > - **Bedside:** [[U-Status]] auf Leukozyten
 > - **Labordiagnostik:** Zellzahl+Diff, Albumin, Protein, LDH, Glucose, Cholesterin

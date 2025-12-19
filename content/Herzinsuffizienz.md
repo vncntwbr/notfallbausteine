@@ -31,7 +31,7 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > - **[[Untersuchung|U]]:** VP? HT, AG? VJI? Ödeme/Anasarka?
 > - **[[EKG]]:** [[ACS]]? HRST?
 > - **[[POCUS]]:** [[TTE]], Pleuraergüsse, [[LUS]] (B-Lines), VCI, Leber/Nieren
-> - **[[Labor]]:** [[BGA]] (Anämie? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]
+> - **[[Labor]]:** [[BGA]] ([[Anämie]]? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]
 > - **[[Urin]]:** [[U-Status]] (Glucosurie, Proteinurie)
 > - **[[Radiologie]]:** ggf. Rö Tx
 

@@ -9,7 +9,7 @@ aliases:
   - Lyme
 title: Lyme-Borreliose (Erythema migrans)
 ---
-> [!DD] DD
+> [!DD]+ DD
 > - Insektenstich (keine Symptomlatenz, abklingend nach 48h)
 > - Erysipel (Entzündungszeichen)
 > - Pilzinfektion (Juckreiz, Schuppung)

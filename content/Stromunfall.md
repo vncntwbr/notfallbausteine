@@ -16,10 +16,10 @@ aliases:
 > - **E:** Stromquelle Niederspannung / Hochspannung (>1000 Volt)? "Festkleben" an Stromquelle? Stromfluss durch Thorax?
 
 > [!workup]+
-> 1. "Standard" Haushaltsstromunfall (<1000 Volt) ohne Risikofaktoren → nur A+U und EKG
+> 1. "Standard" Haushaltsstromunfall (<1000 Volt) ohne Risikofaktoren → nur A+U und [[EKG]]
 > - **[[Untersuchung|U]]:** VP? Haut (Strommarken)? Neuro-Screen?
 > - **[[EKG]]:** HRST? AV-Block? RSB/LSB? STE? QTc?
-> - **[[Labor]]:** ggf. [[BGA]], ggf. Profil "Brustschmerz" (bei AP, Palpitationen, Hochspannung, [[TLOC]], EKG-Veränderungen)
+> - **[[Labor]]:** ggf. [[BGA]], ggf. Profil "Brustschmerz" (bei AP, Palpitationen, Hochspannung, [[TLOC]], [[EKG]]-Veränderungen)
 > - **[[Urin]]:** ggf. [[U-Status]] (Myoglobinurie Erys+)?
 
 > [!disposition]+

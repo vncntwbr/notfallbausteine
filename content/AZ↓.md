@@ -15,7 +15,7 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 > - **[[Elektrolytstörung]]:** insb. [[HypoNa+]], Mangelernährung
 > - **Infektion:** [[Sepsis]]
 > - **Medikamente:** Neu? [[Interaktionen]]? [[Intox]]? Entzug? Ammoniak/[[HE]]?
-> - Harnverhalt? Obstipation?
+> - Harnverhalt? [[Obstipation]]?
 > - Trauma ([[SHT]], Schmerzen, Liegetrauma)?
 
 > [!anamnese]+ (Fremd-)Anamnese

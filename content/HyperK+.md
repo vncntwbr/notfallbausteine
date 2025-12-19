@@ -6,9 +6,9 @@ title: Hyperkaliämie (K+↑)
 aliases:
   - Hyperkaliämie
 ---
-> [!danger] Resuscitation – Schwere HyperK+ ≥6.5 mM oder EKG-Changes
+> [!danger] Resuscitation – Schwere HyperK+ ≥6.5 mM oder [[EKG]]-Changes
 > 1. **[[BGA]]-Kontrolle** (Pseudo?), Monitoring
-> 2. **Calciumgluconat** 10% 30 ml, bei persistierenden EKG-Changes q5min
+> 2. **Calciumgluconat** 10% 30 ml, bei persistierenden [[EKG]]-Changes q5min
 > 3. **Insulin** 10 IE in G10% 250 ml (25 g)
 > 4. **Bradykardie:** Adrenalin 20 μg-weise, ggf. Salbutamol 20 mg p.i. (4 Vernebler)
 > 5. **Azidose:** Isotones NaBic 1 L (NaBic 8.4% 150 ml + G5% 850 ml)
@@ -23,7 +23,7 @@ aliases:
 > [!anamnese]+
 > - **S:** Schmerz? Muskelschwäche? Synkope? Miktion? Diarrhoe?
 > - **M:** Diuretika (insb. Spironolacton)? ACEi? Sartane? [[Betablocker]]? [[Calciumantagonisten]]?
-> - **P:** CKD? Dialyse? Herzinsuffizienz? Neoblase? Stoma?
+> - **P:** [[CKD]]? Dialyse? Herzinsuffizienz? Neoblase? Stoma?
 > - **L:** Letzte Dialyse?
 > - **E:** Infekt? Trinkmenge? Nahrungsmittel?
 > - **R:** Exsikkose? Therapieadhärenz (Trinkmenge)? [[AKI]]?
@@ -38,7 +38,7 @@ aliases:
 > [!dd]- Ursachen
 > - **Kalium-Aufnahme:** Lebensmittel oder Medikamente
 > - **Verringerte Kalium-Ausscheidung**
->     - [[AKI]]/CKD
+>     - [[AKI]]/[[CKD]]
 >     - Meds: Kalium-sparende Diuretika (Thiazide, Spironolacton), ACEi, Sartane, NSAR, Betablocker, Cotrimoxazol, Heparin
 >     - Aldosteron-Mangel (NNR-Insuffizienz/Addison)
 > - **Kalium-Shift intra- nach extrazellulär**

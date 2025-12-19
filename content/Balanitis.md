@@ -3,11 +3,12 @@ tags:
   - Diagnosen
   - Fach/Urologie
   - Status/Done
+  - Lernen
 title: Balanitis / Eichelentzündung
 aliases:
   - Eichelentzündung
 ---
-> [!anamnese] Typische Ursachen
+> [!anamnese]+ Typische Ursachen
 > - Schlechte Intimhygiene (Smegma)
 > - Diabetes (Balanitis diabetica)
 > - Candidose, Bakterielle Vaginose oder Besiedelung mit Gardnerella vaginalis der Partnerin

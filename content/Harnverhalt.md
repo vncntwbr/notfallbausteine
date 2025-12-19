@@ -8,10 +8,10 @@ tags:
 > Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
 
 > [!dd]+ DD
-> - **Cave:** Querschnitt / Cauda-Equina-Syndrom? (siehe [[Rückenschmerz]])
+> - **Killer:** Querschnitt / Cauda-Equina-Syndrom? (siehe [[Rückenschmerz]])
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? Algurie, Dysurie? Makrohämaturie? [[Fieber]], Schüttelfrost? Schwäche, Paresen? Stuhlinkontinenz? [[Delir]]?
 > - **A:** Latex? ABx?
 > - **M:** Anticholinerge UAW?
@@ -20,7 +20,7 @@ tags:
 > - **E:** Trauma (Harnwege, Wirbelsäule)? Manipulation Harnröhre?
 > - **R:** Alkohol?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** Blasenhochstand palpabel? Klopfschmerz WS? Reithosenanästhesie? [[DRU]] (BPH, Prostatitis, Mastdarmstörung)
 > - **[[Labor]]:** [[BGA]], Kreatinin, HST, CRP
 > - **[[Urin]]:** immer [[U-Status]], ggf. Urinkultur

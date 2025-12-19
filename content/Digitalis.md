@@ -19,7 +19,7 @@ title: Digitalis (Digoxin & Digitoxin) inkl. Intoxikation
 
 - *Supp.:* Atropin, VEL
 - *Elyte:* 2 g MGSO4, Ausgleich [[HypoK+]]
-- *[[Aktivkohle]]:* <2h, repetitiv bei chronischer [[Intox]], CKD oder Digitoxin
+- *[[Aktivkohle]]:* <2h, repetitiv bei chronischer [[Intox]], [[CKD]] oder Digitoxin
 - *Antidot:* Digifab 1-10 Amp. à 40 mg bei HRST od. großer Menge od. sehr hohen Spiegeln[^1], 1 Amp. bindet 0.5 mg [[Digitalis]]/Digitoxin
 
 [^1]: ≥5-12 ng/ml [[Digitalis]], ≥50-80 ng/ml Digitoxin

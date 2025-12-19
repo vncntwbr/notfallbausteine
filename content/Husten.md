@@ -4,9 +4,17 @@ tags:
   - Probleme/Herz-Thorax
   - Status/ToDo
 ---
+> [!info] Einteilung
+> - **Zeitlich:** Akut <3 Wochen / Chronisch >8 Wochen
+> - **Klinisch:** Produktiv ([[Hämoptysen]]?) vs. Unproduktiv
+
 > [!dd] DD
-> - **Killer:** [[LAE]], [[Tbc]], massive [[Hämoptysen]]
-> - **Häufig:** Infekt obere AW, Bronchitis, [[Pneumonie]], [[Asthma]], postinfektiös, UAW ([[ACE-Hemmer]]), chronischer Husten
+> - **Killer:** 
+> 	- [[LAE]]
+> 	- [[Pneumonie]]
+> 	- [[Herzinsuffizienz]]/[[Lungenödem]]
+> 	- [[COPD]], [[Asthma]]
+> - **Häufig:** Infekt obere AW, Bronchitis, postinfektiös, UAW ([[ACE-Hemmer]]), chronischer Husten
 > - **Seltener:** Aspiration, GERD, Tbc, Tumor, [[Pneu]]
 
 > [!workup]

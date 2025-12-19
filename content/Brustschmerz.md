@@ -7,9 +7,9 @@ aliases:
 title: Brustschmerz / Thoraxschmerz
 ---
 > [!danger]+ Killer-DD bei Kritisch Kranken mit Brustschmerz
-> - **[[ACS]]** ([[Ischämie-EKG]], [[TTE]] WBS)
-> - **[[LAE]]** ([[POCUS]] [[RHB]], TVT)
-> - **[[Aorta]]** ([[POCUS]] [[Perikarderguss]], Aorta >5cm, Diss.-Membran)
+> - **[[ACS]]** ([[Ischämie-EKG]], [[TTE]] [[WBS]])
+> - **[[LAE]]** ([[POCUS]] [[RHB]], [[TVT]])
+> - **[[Aorta]]** ([[POCUS]] [[Perikarderguss]]+Aorta)
 > - **[[Pneu]]** ([[LUS]] Pleuragleiten)
 > - **[[Ösophagusruptur]]** ([[Anamnese|A]]: Erbrechen)
 
