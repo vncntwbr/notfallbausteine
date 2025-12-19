@@ -1,0 +1,46 @@
+---
+tags:
+  - Fachübersicht
+  - Fach/Neurologie
+---
+## Basics
+- [[EEG]]
+- [[TCD]]
+## Diagnosen
+- **[[Vigilanzminderung]]**
+- **[[Delir]]**
+- **[[Hirndruck]]**
+- **[[Hirntod]]**
+- **ZNS Infektion**
+	- [[Meningitis]]
+	- [[Enzephalitis]]
+	- [[Hirnabszess]]
+	- [[Spinaler Abszess]]
+- **Inflammation**
+	- Demyelinisierung
+- **Bewegungsstörungen**
+	- [[Serotonin-Syndrom]]
+	- [[Maligne Hyperthermie]]
+	- [[Malignes Neuroleptisches Syndrom]]
+- **Schwäche**
+	- [[GBS]]
+	- [[Myasthenie]]
+	- [[Rhabdomyolyse]]
+- **Neurochirurgie**
+	- [[EVD]]
+- **[[Krampfanfall]]**
+- **Toxisch**
+	- [[Alkohol]] und [[Entzug]]
+	- [[Wernicke]]
+- **Trauma**
+	- [[SHT]]
+- **Vaskulär**
+	- [[Stroke]]
+	- [[Sinusvenenthrombose]]
+	- [[PRES]]
+	- [[RCVS]]
+- **[[Intrakranielle Blutung]]**
+	- [[ICB]]
+	- [[SAB]]
+	- [[SDH]]
+	- [[EDH]]

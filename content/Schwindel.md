@@ -5,7 +5,7 @@ tags:
 ---
 > [!dd]+ DD
 > - **Anhaltend (AVS)**
-> 	- **Internistisch:** [[Schock]], [[Hypoglykämie]], [[Elektrolytstörung]]
+> 	- **Internistisch:** [[Schock]], [[Hypoglykämie]], [[Elektrolyte]]
 > 	- **Zentral:** [[Meningitis]], Hirnstamm-/Kleinhirninfarkt ("4 Dangerous D's", [[FND]])
 > - **Triggerbar episodisch (tEVS):** Lagerung zur DD [[BPLS]] vs. zentral
 > - **Spontan episodisch (sEVS):** [[Anamnese|A]] zur DD Migräne, M. Menière, TIA

@@ -10,7 +10,7 @@ title: Urindiagnostik
 - **Glucosurie:** Diabetes, Nierenerkrankung tubulär, [[Schwanger]]
 - **Bilirubinurie:** Ikterus (konj.)
 - **Urobilinogen:** nw 0.2-1.0 mg/dl, Lebererkrankung, Hämolyse, Malaria
-- **Spezifisches Gewicht:** nw 1010-1030 g/ml, [↑] Exsikkose, [[Herzinsuffizienz]]/Leber, [↓] Hypervolämie, Diabetes insipidus, Nierenerkrankung, Elektrolytstörung
+- **Spezifisches Gewicht:** nw 1010-1030 g/ml, [↑] Exsikkose, [[Herzinsuffizienz]]/Leber, [↓] Hypervolämie, Diabetes insipidus, Nierenerkrankung, [[Elektrolyte]]
 - **Urinkultur:** Indikation nur bei kompl./rez. [[HWI]], V.a. Urosepsis
 - **[[Urin-Toxscreening]]**
 - **Urin-Natrium**

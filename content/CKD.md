@@ -36,7 +36,7 @@ tags:
 	- Urämische Encephalopathie
 	- Urämische Polyneuropathie
 	- [[Thrombopenie]]
-- **[[Elektrolytstörung]]**
+- **[[Elektrolyte]]**
 	- [[HyperK+]]
 	- Hyperphosphatämie
 	- [[Hypocalcämie]]

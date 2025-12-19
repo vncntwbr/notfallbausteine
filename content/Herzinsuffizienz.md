@@ -33,7 +33,7 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > - **[[POCUS]]:** [[TTE]], Pleuraergüsse, [[LUS]] (B-Lines), VCI, Leber/Nieren
 > - **[[Labor]]:** [[BGA]] ([[Anämie]]? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]
 > - **[[Urin]]:** [[U-Status]] (Glucosurie, Proteinurie)
-> - **[[Radiologie]]:** ggf. Rö Tx
+> - **[[Radiologie]]:** ggf. [[Rö Tx]]
 
 > [!stadien]+
 > - **NYHA:** I (asymptomatisch), II (Dyspnoe bei Treppen), III (beim Gehen), IV (in Ruhe)

@@ -1,0 +1,41 @@
+---
+tags:
+  - Fachübersicht
+  - Fach/Pneumologie
+---
+## Basics
+- [[BGA]]
+- [[etCO2]]
+- [[LuFu]]
+- [[ECMO]]
+- [[RSI]]
+- [[Extubation]]
+- [[Inhalaltive Pulmodilatatoren]]
+- [[Rauchen]]
+
+## Diagnosen
+- **Atemwege**
+	- [[Asthma]]
+	- [[COPD]]
+	- [[CF]]
+	- [[Aspiration]]
+	- Bronchiektasen
+	- Bronchiololitis
+- **Infektionen**
+	- [[Pneumonie]] – CAP, HAP, VAP
+	- [[Tbc]]
+- **Interstitielle Lungenerkrankungen**
+	- [[ILD]]
+	- [[Amyloidose]]
+	- [[Sarkoidose]]
+- **[[Lungenkarzinom]]**
+- **Pleura**
+	- [[Pleuraerguss]]
+	- [[Pneu]]
+	- [[Pneumomediastinum]]
+- **Vaskulär**
+	- [[LAE]]
+	- [[Pulmonale Hypertonie]]
+	- [[Crashing RV]]
+	- [[Sichelzell]]
+- [[OSAS]]

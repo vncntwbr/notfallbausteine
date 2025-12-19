@@ -13,7 +13,7 @@ title: Diarrhoe / Durchfall
 > - **[[Mesenterialischämie]]** (CVRF, [[VHF]])
 > - **[[Sepsis]]**
 > - **Perforation**
-> - **[[Elektrolytstörung]]** ([[BGA]])
+> - **[[Elektrolyte]]** ([[BGA]])
 > - **HUS** (blutige Diarrhoe, [[AKI]] mit Urämie, Hämolyse, Thrombopenie)
 
 > [!dd] DD (siehe auch: [[Bauchschmerz]], [[GI-Blutung]], [[Sepsis]])

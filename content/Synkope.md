@@ -51,7 +51,7 @@ tags:
 > 	- AVRD (Epsilon-Welle)?
 > 	- [[RHB]] ([[LAE]])?
 > 	- Repolarisation (Long-QT)?
-> - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolytstörung]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
+> - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolyte]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
 > - ggf. [[TTE]] (bei V.a. kardiogen oder rezidiverende unklare Synkopen)
 > - ggf. weiteres Workup nach DD
 

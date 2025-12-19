@@ -32,7 +32,7 @@ title: Asthma bronchiale
 > - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[Blutkulturen]]
 > 	- *Cave:* im Asthma-Anfall muss pCO2 normal bis erniedrigt sein, Hyperkapnie = lebensbedrohlich, respiratorische Erschöpfung
 > - **[[Urin]]:** [W] β-HCG
-> - **[[Radiologie]]:** ggf. Rö Tx (V.a. [[Pneumonie]] oder sonografisch [[Pneu]])
+> - **[[Radiologie]]:** ggf. [[Rö Tx]] (V.a. [[Pneumonie]] oder sonografisch [[Pneu]])
 
 > [!stadien]+ Schweregrad Akuter Asthma-Anfall
 > - **Leicht/Mittel:** Sprechen normal, AF <25, HF <110, PEF ≥50% persönlicher Bestwert

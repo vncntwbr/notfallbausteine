@@ -11,7 +11,7 @@ aliases:
 > [!danger] Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
 > 1. **Erkennen**
 > 	- **Symptome:** [[Brustschmerz]], Tachypnoe, Hypoxie, [[Husten]], [[Fieber]] +
-> 	- **[[POCUS]] / Rö Tx:** Neue Konsolidierung, typisch basal + Randwinkelergüsse
+> 	- **[[POCUS]] / [[Rö Tx]]:** Neue Konsolidierung, typisch basal + Randwinkelergüsse
 > 2. **Info** Häma, ITS avisieren
 > 3. **Kreuzblut** abnehmen, in RS ggf. [[Transfusion]] bei Hb <7 g/dl bzw. Austauschtransfusion bei Hb >7 g/dl
 > 4. **Volumenrestriktion** (2 L/d, bevorzugt p.o.)
@@ -41,7 +41,7 @@ aliases:
 > - **[[Urin]]:** [[U-Status]] (Hämoglobinurie, HWI)?
 > - **[[POCUS]]:** [[LUS]] (B-Lines, Pleuraergüsse, Konsolidierung)? [[TTE]] (RHB, sPAP)? Cholestase?
 > - V.a. Infekt: PCR, [[Blutkulturen]], Legionellen-/Pneumokokken-Ag im Urin
-> - ggf. Rö Tx (ATS, Infiltrate), CT vermeiden
+> - ggf. [[Rö Tx]] (ATS, Infiltrate), CT vermeiden
 
 > [!management]+
 > 1. **\*Zurückhaltend* O2** (nur bei SpO2 <95%)

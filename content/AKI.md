@@ -78,7 +78,7 @@ aliases:
 > 	- *Postrenal:* Blasenkatheter, Konsil Urologie
 > 3. **Indikation Akutdialyse?** (AEIOU)
 > 	- Azidämie pH <7.1, therapierefraktär
-> 	- [[Elektrolytstörung]], insb. schwere [[HyperK+]]
+> 	- [[Elektrolyte]], insb. schwere [[HyperK+]]
 > 	- [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
 > 	- Overload ([[Lungenödem]]), therapierefraktär
 > 	- Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert

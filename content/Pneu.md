@@ -26,7 +26,7 @@ title: Pneumothorax
 > - Monitoring
 > - **[[POCUS]]** (Sens bis 98%)
 > - **[[Labor]]:** [[BGA]], Profil "Synkope"
-> - **[[Radiologie]]:** Rö Tx ==stehend== zur Größenbeurteilung (liegend Sens ≈60%)
+> - **[[Radiologie]]:** [[Rö Tx]] ==stehend== zur Größenbeurteilung (liegend Sens ≈60%)
 
 > [!stadien]
 > - **Klein** <3 cm apikale Dehiszenz

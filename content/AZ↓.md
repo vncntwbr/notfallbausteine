@@ -12,7 +12,7 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 
 > [!dd]+ Häufige Ursachen bei Pflegebedürftigen ("KEIM" + weitere)
 > - **Kardiovaskulär:** z.B. [[VHF]], [[ACS]], [[Herzinsuffizienz]], Exsikkose/[[AKI]]
-> - **[[Elektrolytstörung]]:** insb. [[HypoNa+]], Mangelernährung
+> - **[[Elektrolyte]]:** insb. [[HypoNa+]], Mangelernährung
 > - **Infektion:** [[Sepsis]]
 > - **Medikamente:** Neu? [[Interaktionen]]? [[Intox]]? Entzug? Ammoniak/[[HE]]?
 > - Harnverhalt? [[Obstipation]]?

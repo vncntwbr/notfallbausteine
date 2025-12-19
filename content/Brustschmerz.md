@@ -63,7 +63,7 @@ title: Brustschmerz / Thoraxschmerz
 > 4. **[[Labor]]:** Profil "Brustschmerz" (inkl. CRP, Trop, CK), [[BGA]]
 > 	- [[D-Dimer]] nur gezielt, siehe [[LAE]]
 > 	- #2 Trop 1h/2h siehe [[ACS]]
-> 5. **[[Radiologie]]:** Rö Tx oder CTPA je nach [[LAE]]-Risiko/[[D-Dimer]]
+> 5. **[[Radiologie]]:** [[Rö Tx]] oder CTPA je nach [[LAE]]-Risiko/[[D-Dimer]]
 
 > [!note]- Textbaustein Unklarer Brustschmerz Ambulant
 > ```
