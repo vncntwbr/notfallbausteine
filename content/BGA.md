@@ -5,7 +5,7 @@ tags:
   - Status/Done
 title: Blutgasanalyse (BGA)
 ---
-> [!danger] BGA
+> [!danger] BGA Rapid Reference
 > 1. **Umrechnen V→A:** pH +0.03, pCO2 –5 mmHg
 > 2. **Azid./Alkal.:** HCO3- 22-26 mmol/l, SBE proport. zu metab. Schwere
 > 3. **Adäquate Kompensation?**
@@ -20,7 +20,7 @@ title: Blutgasanalyse (BGA)
 > 6. **Hb/Hkt** Kontrollen aus EDTA, BGA schwankt stark
 > 7. **[[Elektrolyte]]**
 
-- *[[Asthma]]:* PaCO2 >35 mmHg respir. Erschöpfung, >42 Indikation [[RSI]]
+- *[[Asthma]]:* PaCO2 >35 mmHg respir. Erschöpfung, >42 → [[RSI]]
 - *[[Schwanger]]:* PaCO2 ≈30 mmHg, HCO3- ≈20 mM, pH 7.40-7.45, Aa-Gradient +5-10 mm
 <div style="page-break-after: always;"></div>
 ---

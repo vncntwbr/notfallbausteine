@@ -30,7 +30,7 @@ title: Hyponatriämie (Na+↓)
 > [!dd]+ DD
 > 1. **Serum-Osmolalität** [nw 285-295] Hyperlipidämie, Multiples Myelom, Ig-Therapie [erhöht >295] ==[[Hyperglykämie]]==, Mannitol [vermindert <285] weiter
 > 2. **Urin-Osmolalität** [vermindert <100-200] "Tea & Toast", "Beer", psychogene Polydipsie [erhöht] weiter
-> 3. **Volumenstatus** [euvoläm] Hypothyreose, NNR-Insuffizienz, ==[[SIADH]]==
+> 3. **Volumenstatus** [euvoläm] [[Hypothyreose]], NNR-Insuffizienz, ==[[SIADH]]==
 > 4. **Urin-Natrium** [hypervoläm + <20] ==[[Herzinsuffizienz]], [[Nephrotisches Syndrom]], Leberzirrhose== [hypervoläm + >20] ==[[CKD]]/[[AKI]]== [hypovoläm + <20] ==Extrarenale Verluste (z.B. [[Ü+E]])== [hypovoläm + >20] Renale Verluste, ==Diuretika==, Mineralocorticoid-Mangel, Salzverlust-Syndrome
 
 > [!management]+

@@ -1,9 +1,9 @@
 ---
 tags:
   - Interventionen/POCUS
-  - Status/Done
+  - Status/ToDo
 ---
-> [!note]+ Textbaustein
+> [!note]- Textbaustein Abdomensonografie
 > ```
 > Fokussierte Notfallsonografie Abdomen: 
 > - Eingeschränkte Schallbedingungen bei Adipositas/Darmgasüberlagerung. 

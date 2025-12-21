@@ -2,6 +2,7 @@
 tags:
   - Probleme/Abdomen
   - Status/Done
+  - Literatur/NVL
 aliases:
   - Kreuzschmerz
 zbb: |-
@@ -34,15 +35,15 @@ zbb: |-
 > 	- *Infekt:* [[Fieber]]/IFP, Immunsupp., i.v.-Drogen, OP, Spritzen
 > - **[[EKG]]**
 > - **[[POCUS]]:** Neurogen Harnverhalt? Aorta >60 J.
-> - **[[Labor]]:** BGA, BB, Krea, CRP, ggf. BSG, ggf. BK
+> - **[[Labor]]:** BGA, BB, Krea, CRP, ggf. BSG, ggf. [[BK]]
 
 > [!workup]+ Spezifische Diagnostik
 > - **V.a. Rückenmarkskompression/QS:** N0-MRT bei Cauda-Equina-Sympt. (Harnverhalt, Stuhlinkontinenz, Reithosenanästhesie), Radikuläre Sympt. + passendes motorisches Defizit oder + Risiko Metastasen/Infektion
-> - **V.a. Spinale Infektion:** N1-MRT bei mittel-hoch Risiko, bei geringem Risiko BSG, BK, CT, Aufnahme
+> - **V.a. Spinale Infektion:** N1-MRT bei mittel-hoch Risiko, bei geringem Risiko BSG, [[BK]], CT, Aufnahme
 > - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, [[AKI]]) ggf. CT Pariser Schema
 > - **V.a. (osteoporotische) WK#:** Rö stehend bzw. bettlägerig CT bei RF (geriatrisch, Osteoporose, Cortison, signifikantes Trauma oder mildes Trauma + Osteoporose-RF)
 
-> [!note]+ Textbaustein Unspezifische Rückenschmerzen Ambulant
+> [!note]- Textbaustein Unspezifische Rückenschmerzen Ambulant
 > ```
 > Zusammenfassend unspezifische, a.e. muskuloskelettal bedinge Rückenschmerzen ohne H.a. strukturelle Ursache in A+U. Leitliniengerecht keine Indikation zur Bildgebung ###ODER### Im Röntgen ebenfalls kein H.a. Fraktur oder andere Pathologien. Lokale Injektionen/Infiltrationen ("Spritzen") führen wir aufgrund fehlender wissenschaftlichen Wirksamkeitsnachweise jedoch hohem Infektionsrisiko grundsätzlich nicht durch und raten davon ab. Unter lokaler Wärmeanwendung und Analgesie mit NSAR kann voraussichtlich eine suffiziente Analgesie erreicht werden. Keine Hinweise für einen abwendbar gefährlichen Verlauf.
 > 
@@ -55,6 +56,11 @@ zbb: |-
 > - Bei anhaltenden Beschwerden ist nach eine Vorstellung in unserer Wirbelsäulensprechstunde möglich, Informationen hierzu finden Sie online unter www.zentralklinik.de.
 > - Bei Fieber, Lähmungserscheinungen, anhaltender Schmerzzunahme oder neu aufgetretenen Blasen-/Mastdarmfunktionsstörungen (Unfähigkeit Urin zu lassen, Einnässen bzw. neue Harninkontinenz, Sensibilitätsstörungen im Genitalbereich, neu aufgetretene Stuhlinkontinenz) sofortige Wiedervorstellung über ein Notfallzentrum oder den Rettungsdienst (Tel. 112).
 > ```
+
+## Literatur
+- [S3-Leitlinie NVL Kreuzschmerz](https://register.awmf.org/de/leitlinien/detail/nvl-007)
+- [S2k-Leitlinie Spondylodiszitis](https://register.awmf.org/de/leitlinien/detail/151-001)
+- [S2k-Leitlinie Wirbelsäulenmetastasen](https://register.awmf.org/de/leitlinien/detail/187-003)
 
 [^1][^2]
 

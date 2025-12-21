@@ -13,7 +13,7 @@ title: Urin-Status
 - **Nitrit+:** Bakterielle [[HWI]] mit Nitritbildnern (außer z.B. Pseudomonas, Acinetobacter, Enterococcus)
 	- *falsch-neg:* Luftexposition, Vitamine, Verdünnung, saurer Urin
 	- *falsch-pos:* Rote Lebensmittel/Farbstoffe
-- **Ketonurie:** Unterernährung, [[DKA]], Hypothyreose, [[Alkohol]] chron.
+- **Ketonurie:** Unterernährung, [[DKA]], [[Hypothyreose]], [[Alkohol]] chron.
 	- *falsch-pos:* Captopril, L-Dopa
 - **Proteinurie:** Nierenerkrankung glomerulär/tubulär, evtl. Aktivität/Stress
 - **pH Urin:** nw 4.5-8.0, [↑] bei Alkalose, ASS-[[Intox]], HCO3-, [↓] Azidose, Diabetes, Ketose, PKU

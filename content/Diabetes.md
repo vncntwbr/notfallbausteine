@@ -1,0 +1,10 @@
+---
+tags:
+  - Fach/Endokrinologie
+  - Diagnosen
+  - Literatur/NVL
+---
+## Literatur
+- [S3-Leitlinie NVL Typ-2-Diabetes](https://register.awmf.org/de/leitlinien/detail/nvl-001)
+- [S3-Leitlinie Gestationsdiabetes](https://register.awmf.org/de/leitlinien/detail/057-008)
+- [S3-Leitlinie Typ-1-Diabetes](https://register.awmf.org/de/leitlinien/detail/057-013)

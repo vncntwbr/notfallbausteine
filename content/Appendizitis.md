@@ -16,4 +16,7 @@ Appendizitis vs. Salpingitis (♀︎ in “gebärfähigem” Alter):
 | Keine Übelkeit/Erbrechen            | OR 8.4          |
 | Alle genannten                      | 99%             |
 
+## Literatur
+- [S1-Leitlinie Appendizitis bei Erwachsenen](https://register.awmf.org/de/leitlinien/detail/088-011)
+
 [^1]: Beat Lehmann, Letztautor Wolf Hautz. Emerg Med J 2022. [Diagnostic accuracy of a pragmatic, ultrasound-based approach to adult patients with suspected acute appendicitis in the ED](https://pubmed.ncbi.nlm.nih.gov/35301219/)

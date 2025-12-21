@@ -6,8 +6,6 @@ aliases:
   - A
 title: Anamnese
 ---
-> [!anamnese] [Fremdsprachige Anamnesebögen](https://medi-bild.de/materialien/)
-
 > [!note]- Textbaustein Anamnese
 > ```
 > Vorstellung [WIE] aus [WOHER] bei [LEITSYMPTOM] seit [DAUER], aufgetreten bei [EREIGNIS]. [OPQRST + BEGLEITSYMPTOME]. [LETZTE/R].
@@ -18,7 +16,7 @@ title: Anamnese
 > Sozial: Selbstversorgend in häuslicher Gemeinschaft. Beruf: [], berentet. Kein PG, kein PD, keine Hilfsmittel. Keine PV oder VSV, Maximaltherapie gewünscht.
 > ```
 ^db877f
-
+## Zusatzbausteine
 > [!note]- Zusatz Infektio
 > ```
 > - Impfungen: Grundimmunisierung nach STIKO: ja. SARS-CoV-2: 3x. Saisonale Influenza: nein. Pneumokokken: nein. Tetanus: <10 J.
@@ -36,3 +34,5 @@ title: Anamnese
 > 
 > Schwanger: G1 P0. SSW 0000+0. Mutterpass vorliegend, Vorsorgeuntersuchungen regelmäßig, zuletzt 0000. BG maternal 0000.
 > ```
+## Ressourcen
+> [!anamnese] [Fremdsprachige Anamnesebögen](https://medi-bild.de/materialien/)

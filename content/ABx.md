@@ -45,6 +45,10 @@ title: Antibiotika (ABx)
 - Fluorchinolone wahrscheinlich nicht relevant mehr Aortendissektionen, Benefit>Risk[^1]
 - PCT-Guided ABx Dauer ist sicher in Sepsis[^2]
 
+## Literatur
+- [S3-Leitlinie Perioperative und Periinterventionelle Antibiotikaprophylaxe](https://register.awmf.org/de/leitlinien/detail/067-009)
+- [S3-Leitlinie Strategien zur Sicherung rationaler Antibiotika-Anwendung im Krankenhaus](https://register.awmf.org/de/leitlinien/detail/092-001)
+
 [^1]: n=950.000 nationale Kohortenstudie. Risiko low <0.01%. Risikoerhöhung wenn überhaupt a.e. Surveillance Bias. Gopalakrishnan C, Bykov K, Fischer MA, Connolly JG, Gagne JJ, Fralick M. [Association of Fluoroquinolones With the Risk of Aortic Aneurysm or Aortic Dissection](https:) /doi:10.1001/jamainternmed.2020.4199). JAMA Intern Med.
 
 [^2]: Dark. JAMA 2024. [Biomarker-Guided Antibiotic Duration for Hospitalized Patients With Suspected Sepsis: The ADAPT-Sepsis Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2828036)

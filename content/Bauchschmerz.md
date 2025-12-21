@@ -63,7 +63,7 @@ aliases:
 > 	- *Ondansetron:* UAW [[Obstipation]], [[Interaktionen]] serotonerge Meds
 > 4. **Gezielte Therapie nach DD**
 
-> [!note]+ Unklarer Bauchschmerz
+> [!note]- Unklarer Bauchschmerz
 > ```
 > Zusammenfassend bleibt die genaue Ursache der Bauchschmerzen derzeit unklar. Es besteht zum aktuellen Zeitpunkt jedoch kein Anhalt für einen abwendbar gefährlichen Verlauf. Eine schwerwiegende Erkrankung ist in der Zusammenschau aller Befunde unwahrscheinlich, eine frühe oder atypische Präsentation aber nicht mit letzter Sicherheit auszuschließen, weshalb bei ausbleibender Besserung eine ambulante Kontrolle und bei Zunahme der Beschwerden (verstärkte Schmerzen, Fieber, Schüttelfrost, Verschlechterung des Allgemeinzustands) eine Wiedervorstellung in unserer Notaufnahme erfolgen sollte.
 > 

@@ -6,6 +6,8 @@ tags:
   - Fach/Intensivmedizin
   - Status/Done
 title: Hepatorenales Syndrom (HRS)
+aliases:
+  - Hepatorenales Syndrom
 ---
 > [!workup]+
 > - **Cave:** Kreatinin bei Leberzirrhose unsensitiv aufgr. Sarkopenie
@@ -16,7 +18,7 @@ title: Hepatorenales Syndrom (HRS)
 > 	- Chronische Hypotonie, Baseline-MAP <65[^2]
 > 	- Keine alleinige andere Erklärung für [[AKI]]
 
-> [!management]- HRS Management zusätzlich zu allg. [[AKI]]
+> [!management]- [[HRS]] Management zusätzlich zu allg. [[AKI]]
 > 1. **Albumin:** 1 g/kg an d1, danach 40 g/d
 > 2. **Vasokonstriktoren:** NA oder Terlipressin (UAW: [[Lungenödem]][^3]) → Ziel-MAP +15 mmHg[^1][^2]
 > 3. **Therapeutische [[Aszitespunktion]]** zur Reduktion des intraabdominellen Drucks (Cave: Albuminersatz)

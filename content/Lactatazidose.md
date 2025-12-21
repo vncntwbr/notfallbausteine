@@ -6,7 +6,7 @@ aliases:
   - Laktatazidose
 title: Lactatazidose / Laktatazidose
 ---
-> [!DD] DD
+> [!DD]- Lactatazidose
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**
 > 	- [[Schock]], Hypoxämie, [[Anämie]], CO
 > 	- Nekrose, Ischämie, Tumor
@@ -23,6 +23,8 @@ title: Lactatazidose / Laktatazidose
 > 	- Leberversagen, [[Sepsis]]
 > - **Falsch-hoch:**
 > 	- [[Ethylenglykol]]
+
+^961d37
 
 [^1]
 

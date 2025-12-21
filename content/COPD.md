@@ -3,13 +3,14 @@ tags:
   - Fach/Pneumologie
   - Diagnosen
   - Status/Done
+  - Literatur/NVL
 title: Chronisch-obstruktive Lungenerkrankung (COPD)
 aliases:
   - aeCOPD
 ---
 
 > [!danger]+ Resuscitation
-> 1. **[[O2]]+Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
+> 1. **[[O2]]-Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
 > 2. **Inhalation:** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 3. **Prednisolon** 50 mg i.v. (Fortführung 50 mg 1-0-0 p.o. für 5d)
 > 4. **[[MgSO4]]** 2g als KI i.v.
@@ -18,12 +19,12 @@ aliases:
 > 7. **[[Arterie]]**
 > 8. **ggf. "Auspressen"** des Thorax manuell bei Überblähung
 > 9. **ggf. Terbutalin** (Bricanyl®) 0.25-0.5 mg s.c.
-> 10. **[[RSI]]:** Restriktive Indikation ([[Palliativsituation]]?), [[Physiologisch schwieriger Atemweg]]
+> 10. **[[RSI]]:** Restriktive Indikation ([[Palliativ]]?), [[Physiologisch schwieriger Atemweg]]
 > 11. **[[ABx]]** bei V.a. bakterielle Genese wie [[Pneumonie]]
 
 > [!dd] DD Exazerbationsursachen: [[Herzinsuffizienz]], [[LAE]], [[Pneu]]
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** [[Dyspnoe]]? Giemen? Husten? Thorakale Enge (≠AP)? Nächtliche [[Dyspnoe]]? Sputum (Farbe/Menge)? Infektsymptome? Schmerzen? Allergische Symptome (Juckreiz, Konjunktivitits, Urtikaria, Globusgefühl, Kreislauf- oder GI-Symptome?) Onset? Zeitlicher Verlauf? Mehr als 2x/Woche tagsüber Sympt? Nächtliches Erwachen? Aktivität eingeschränkt?
 > - **A:** DD [[Anaphylaxie]] denkbar? ABx?
 > - **M:** Häufigkeit Bedarfsmedikation-Gebrauch? Adhärenz/Zuverlässigkeit Dauermedikation und Inhalatoren-Handhabung?
@@ -32,16 +33,16 @@ aliases:
 > - **E:** Infekt?
 > - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, [[COVID]], Varizellen, RSV, Pertussis)?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
-> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±PCT ±[[D-Dimer]], Blutkulturen
+> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±PCT ±[[D-Dimer]], [[BK]]
 > - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID]], [[Influenza]], ±RSV)
 > - **[[Urin]]:** Legionellen-/Pneumokokken-Ag
 > - **[[Radiologie]]:** CT-Thorax lowdose (atypisch? ±[[LAE]]?)[^1]
 
-> [!stadien]+
+> [!stadien]-
 > - **GOLD:** FEV1 ≥80% (1°), 50-79% (2°), 30-49% (3°), <30% (4°)
 > - **Risikoklassen ABE:** 
 > 	- (A/B) ≤1 amb. Exazerb./J. ohne KH, (A) [mMRC](https://www.mdcalc.com/calc/4006/mmrc-modified-medical-research-council-dyspnea-scale) 0-1 (B) [mMRC](https://www.mdcalc.com/calc/4006/mmrc-modified-medical-research-council-dyspnea-scale) ≥2
@@ -67,7 +68,7 @@ aliases:
 > 	- *Sprüvernebler (Respimat):* [pro] kaum Mitarbeit, gut durch Pflege, ==top für Geriatrie== [con] Selbstanwendung braucht Übung keine Kombi LAMA+LABA+ICS (für ADL-eingeschränkte Pat. ICS ohnehin nicht empfohlen)
 > [^2][^3]
 
-> [!management]+
+> [!management]-
 > - **Inhalation:** Salbutamol 2.5 mg p.i. q15min, amb. 2 Hub 4x/d + Ipratropium 0.5 mg p.i. q15min
 > - **Prednisolon-Stoß:** 50 mg i.v., fortführen 50 mg p.o. 1-0-0 für 5d
 > - **Infektexazerbation:** 
@@ -75,7 +76,7 @@ aliases:
 > 	- Wenn [[ABx]], analog [[Pneumonie]] (Standard: Aminopenicillin + Azithromycin)
 > 	- Cave: Vor-ABx und MiBi-Befunde? HAP? Pseudomonas-Risiko bei (E)?
 
-> [!disposition]+
+> [!disposition]-
 > - **Stationär:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥1 Pkt., [[Dyspnoe]] unzureichend gebessert, relevante Infektion, stark red. AZ, unzureichende häusliche Versorgung, dekompensierte Begleiterkrankung (Ödeme, TAA bei [[VHF]], ...)
 > - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanzminderung]], [[Hypoxämie]] (PaO2 <40 mmHg), anhaltend/progredient [[Respiratorische Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
 
@@ -110,6 +111,9 @@ aliases:
 > Bei V.a. bakteriell bedingte Infektexazerbation leiteten wir eine kalkulierte Therapie mit Ampicillin/Sulbactam i.v. und Azithromycin p.o. [ODER] Piperacillin/Tazobactam i.v. und Azithromycin p.o. ein.
 > Intensivstationäre Aufnahme.
 > ```
+
+## Literatur
+- [S3-Leitlinie NVL COPD](https://register.awmf.org/de/leitlinien/detail/nvl-003)
 
 [^1]: COPD-Pat. ohnehin 1x/J. Lungen-Ca-Screening mit CT-Thorax lowdose (GOLD 2025)
 

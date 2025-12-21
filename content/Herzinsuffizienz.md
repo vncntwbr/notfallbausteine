@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Diagnosen
+  - Literatur/NVL
 aliases:
   - Kardiale Dekompensation
 title: Herzinsuffizienz & Kardiale Dekompensation
@@ -92,6 +93,9 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 	- Wärme[^3]
 - To Read[^1]
 	- Nitroglycerin is the first line medication in patients with acute heart failure who are not in cardiogenic shock as it reduced afterload and preload and redistributes fluid from the pulmonary system rapidly. Start Nitro  50-100 μg/min
+
+## Literatur
+- [S3-Leitlinie NVL Chronische Herzinsuffizienz](https://register.awmf.org/de/leitlinien/detail/nvl-006)
 
 [^1]: EM Cases: [Ep 163 Acute Heart Failure ED Management – PoCUS, Oxygenation Strategies, Medication Strategies, PPV HAVoC and SCAPE](https://emergencymedicinecases.com/acute-heart-failure-management-pocus-oxygenation-ppv-havoc-scape/)
 

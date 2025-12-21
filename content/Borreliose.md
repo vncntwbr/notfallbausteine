@@ -26,7 +26,7 @@ title: Lyme-Borreliose (Erythema migrans)
 > - **Kinder/[[Schwanger]]:** Amoxicillin
 > - **V.a. Neuroborreliose** siehe [[Facialisparese]]
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein Borreliose
 > ```
 > Klinisch typischer Befund eines Erythema migrans. V.a. Borreliose. Somit Indikation zur Einleitung einer antibiotischen Therapie mit Doxycyclin. Entlassung in gutem AZ.
 > 
@@ -35,6 +35,6 @@ title: Lyme-Borreliose (Erythema migrans)
 > - Verlaufskontrolle über die Hausärztin oder, insbesondere bei anhaltendem Hautausschlag, eine niedergelassene Dermatologin.
 > ```
 
-[^1]
+## Literatur
 
-[^1]: [S2k-Leitlinie Kutane Lyme Borreliose](https://register.awmf.org/de/leitlinien/detail/013-044)
+- [S2k-Leitlinie Kutane Lyme Borreliose](https://register.awmf.org/de/leitlinien/detail/013-044)

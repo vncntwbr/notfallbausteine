@@ -2,6 +2,7 @@
 tags:
   - Status/Done
   - Diagnosen
+  - Literatur/S2k
 aliases:
   - Nierenkolik
 title: Urolithiasis / Nierenkolik
@@ -44,6 +45,8 @@ title: Urolithiasis / Nierenkolik
 > - Ambulante urologische Vorstellung zur Verlaufskontrolle 1x/Woche bis zum Steinabgang (Ultraschall, ggf. Labor).
 > - Sofortige ärztliche Wiedervorstellung bei Auftreten von Fieber oder Schüttelfrost. Bei trotz konsequenter Einnahme der o.g. Schmerzmedikation(!) nicht auszuhaltenden Schmerzen soll eine ambulante urologische Vorstellung, ggf. auch über unsere urologische Hochschulambulanz, bzw. in den Abend-/Nachtstunden und am Wochenende über eine Notaufnahme erfolgen. Wenn der Stein innerhalb von vier Wochen nicht spontan abgeht sollte eine operative Behandlung reevaluiert werden.
 > ```
+## Literatur
+- [S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (in Überarbeitung)](https://register.awmf.org/de/leitlinien/detail/043-025)
 
 [^1]: [S2k-Leitlinie Diagnostik, Therapie und Metaphylaxe der Urolithiasis (in Überarbeitung)](https://register.awmf.org/de/leitlinien/detail/043-025)
 

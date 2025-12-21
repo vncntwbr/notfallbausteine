@@ -43,11 +43,11 @@ aliases:
 > 	- Vitien? Leberhautzeichen? Infektzeichen? 
 > 	- Neuro-Screen (Meningismus? [[FND]]?)
 > - **[[EKG]]:** Adam-Stokes / konvulsive [[Synkope]]? H.a. [[Hirndruck]]?
-> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? Anionenlücke → [[Intox]]?), Profil "Krampfanfall"
+> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? [[AGMA]] → [[Intox]]?), Profil "Krampfanfall"
 > 	- *Spiegelbestimmung Antikonvulsiva:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
 > - **[[LP]]:** nur bei V.a. autoimmune Genese oder DD [[Meningitis]]/Encephalitis
 > - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG
-> - **[[Radiologie]]:** cCT nativ bei Erst-Anfall; bei [[FND]], V.a. Encephalitis, V.a. Sinusvenenthrombose +CTA
+> - **[[Radiologie]]:** cCT nativ bei Erst-Anfall; bei [[FND]], V.a. Encephalitis, V.a. [[Sinusvenenthrombose]] +CTA
 
 > [!management]+
 > - **Erst-Anfall Diagnostik im Verlauf:** EEG <24h, cMRT stationär
@@ -68,12 +68,11 @@ aliases:
 > - Vermeidung von potenziellen Triggerfaktoren (Schlafmangel, exzessiver Alkoholkonsum) und Vermeiden von Risikosituationen (ungesicherter Aufenthalt in Höhe, Arbeiten an schweren Maschinen, Schwimmen, unbeaufsichtigtes Baden).
 > ```
 
-[^6]
+## Literatur
+- [S2k-Leitlinie Erster epileptischer Anfall und Epilepsien im Erwachsenenalter 2023](https://register.awmf.org/de/leitlinien/detail/030-041)
 
 [^3]: kindliche Mortalität 90%, mütterliche Mortalität 50%
 
 [^4]: Schlafentzug zählt nicht als Provokationsfaktor
-
-[^6]: [S2k-Leitlinie Erster epileptischer Anfall und Epilepsien im Erwachsenenalter 2023](https://register.awmf.org/de/leitlinien/detail/030-041)
 
 [^7]: Gewichtsadaptiert: Midazolam 0.2 mg/kg i.v.

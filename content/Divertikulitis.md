@@ -4,6 +4,7 @@ tags:
   - Fach/Chirurgie
   - Diagnosen
   - Status/Started
+  - Literatur/S3
 ---
 > [!stadien]+ Stadien n. CDD
 > - **1°:** akut unkompliziert
@@ -29,13 +30,13 @@ tags:
 > - **1a:** Ambulant ([[Analgesie]]? Versorgung? p.o.-Aufnahme? Komorb.? amb. FU?), ggf. Mesalazin (OLU!) 800 mg 1-0-1
 > - **1b:** u.U. ambulant (Kriterien s. 1a), bei IFP↓ SDM bzgl. ABx
 > 	- *ABx:* [Ampicillin/Sulbactam 3 g q8h i.v.] oder [Ceftriaxon 2 g/d i.v. + Metronidazol 500 mg q8h i.v.] oder [Amoxiclav 875 mg 1-1-1 p.o. für 5d]
-> - **2:** Stationär, Nü, BK, ABx [Ceftriaxon 2 g/d i.v. + Metronidazol 500 mg q8h i.v.] oder [Piperacillin/Tazobactam 4.5 g i.v.]
+> - **2:** Stationär, Nü, [[BK]], ABx [Ceftriaxon 2 g/d i.v. + Metronidazol 500 mg q8h i.v.] oder [Piperacillin/Tazobactam 4.5 g i.v.]
 > 	- *2a:* Gastro, konservativ
 > 	- *2b:* Konsil ACh/interventionell
 > 	- *2c:* ACh OP N2
 > - Keine akute Coloskopie, Perforationsgefahr
 
-> [!note]+ Textbaustein Divertikulitis Ambulant
+> [!note]- Textbaustein Divertikulitis Ambulant
 > ```
 > Aktuell: Akute Divertikulitis CDD-Stadium ### 1a / 1b
 > 
@@ -53,5 +54,8 @@ tags:
 > - Insbesondere bei Divertikelkrankheit und Divertikulitis ist eine ballaststoffreiche Ernährung zu empfehlen
 > - Bei weiterer Verschlechterung des Allgemeinzustands, insbesondere bei Fieber/Schüttelfrost oder starken Schmerzen umgehende ärztliche Wiedervorstellung, ggf. über eine Notaufnahme.
 > ```
+
+## Literatur
+- [S3-Leitlinie Divertikelkrankheit / Divertikulitis](https://register.awmf.org/de/leitlinien/detail/021-020)
 
 [^1]: Barton. Am J Emerg Med 2025. [POCUS-first in acute diverticulitis: Quantifying cost savings, length-of-stay reduction, and radiation risk mitigation in the ED](https://pubmed.ncbi.nlm.nih.gov/39765051/)

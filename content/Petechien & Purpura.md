@@ -41,6 +41,6 @@ aliases:
 > - **Nach DD**
 > 	- **V.a. Immunthrombopenie (ITP):** Stabiler AZ, Blutungsneigung, sonst asymptomatisch (kein [[Fieber]], keine Hämolyse, keine [[AKI]]) → Stationär, ggf. Prednisolonstoß
 > 	- **V.a. Thrombotische Mikroangiopathie (HUS, TTP):** Thrombopenie + Hämolytische Anämie mit Fragmentozyten + Endorganschäden z.B. [[AKI]] oder cerebrale/kardiale Ischämie
-> 		- *Erw. Diagnostik:* [[Blutkulturen]], Pneumokokken-Ag im Urin, bei Diarrhoe EHEC-PCR im Stuhl, [[AKI]] Workup
+> 		- *Erw. Diagnostik:* [[BK]], Pneumokokken-Ag im Urin, bei Diarrhoe EHEC-PCR im Stuhl, [[AKI]] Workup
 > 		- [PLASMIC-Score](https://www.mdcalc.com/calc/10200/plasmic-score-ttp) 6-7 Pkt.: ADAMTS13-Aktivität/-Ag/-Ak anfordern
 > 		- ITS zur Plasmapherese ± Caplacizumab-Therapie

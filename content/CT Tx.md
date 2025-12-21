@@ -3,7 +3,19 @@ tags:
   - Fach/Radiologie
 ---
 ## Fremdkörper
-- am schnellsten via SCOUT
+> [!tip] Am besten via SCOUT
+- **ETT**
+	- Höhe über der Karina in neutraler Kopfposition 5±2  cm über Karina
+	- Lageabhängig: ca. 2 cm kranial bei Kopfextension, 2 cm kaudal bei Kopfbeugung
+	- Auf Höhe Aortenknopf
+- **[[ZVK]]**
+	- *Tolerierbare Fehllagen:* Spitze in RA oder V. subclavia
+	- *Relevante Fehllagen:*
+		- Spitze kinked
+		- Richtung V. jugularis nach kranial
+		- Lokalisation im Azygossystem (zurückziehen in V. cava superior)
+		- Intraarterielle Fehllage
+
 ## Rechtes Herz
 - **KM-Reflux in IVC?**
 	- *Ursachen:* Systolische RV-Dysfunktion ([[LAE]], [[Pulmonale Hypertonie]]), [[TI]], [[Perikarderguss]]
@@ -24,11 +36,30 @@ tags:
 	- Messung im Bifurkationswinkel
 	- Auftreten eher subakut bis chronisch
 - **[[LAE]]?**
-	- Max. Durchmesser 45 mm ♀︎ / 50 mm ♂︎ 
-	- 
 ## Linkes Herz
 - **LA-Dilatation?**
-	- 
+	- Max. AP Durchmesser 45 mm ♀︎ / 50 mm ♂︎ 
+	- *Ursachen:* [[VHF]], [[Herzinsuffizienz]], [[MI]]
+- **LV-Dilatation?**
+	- Max. transvers Durchmesser 55 mm ♀︎ / 60 mm ♂︎ 
+	- Messung mid-ventrikulär, axialer Schnitt, von Innenwand zu Innenwand
+	- *Ursachen:* DCM, Vitien
+- **LV-Wanddicke?**
+	- <7 mm ≈ Ausdünnung, z.B. [[Kardiomyopathie]]
+	- ≥20-25 mm ≈ [[LVH]]
+- **Mitralklappen-Kalzifikation?**
+- **Aortenklappen-Kalzifikation?**
+- **Koronarartieren-Kalzifikation?**
+## Atemwege
+- **Proximale AW**
+	- Inspiratorischer Effort (Posteriore Trachealmembran sollte konvex nach außen sein)
+	- Offensichtliche Pathologie?
+- **Distale AW**
+	- Bronchus > benachbarte Lungenarterie ≈ Bronchiektase
+	- Sekret/Mucus Plugs
+## Mediastinum & Hilus
+- **Lymphadenopathie?**
+## Lungen
 
 [^1]: Kallianos KG, Hope MD, Henry TS. Approach to Abnormal Chest Computed Tomography Contrast Enhancement in the Hospitalized Patient. Radiol Clin North Am. 2020 Jan;58(1):93-103. doi: 10.1016/j.rcl.2019.08.010. PMID: 31731905.
 

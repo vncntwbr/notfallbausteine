@@ -27,7 +27,7 @@ aliases:
 > - **Phimose:** ggf. Gentamicin-Salbe lokal (z.B. Infectogenta AS 3mg/g 6x/d unter Vorhaut)
 > - [[Patienteninformation]] [gesundheitsinformation.de](https://www.gesundheitsinformation.de/eichelentzuendung-balanitis.html)
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein
 > ```
 > Zusammenfassend klinisches Bild einer Balanitis, anamnestisch a.e. bei ###URSACHE (Kleinkinder: bakterieller Besiedelung von präputialem Smegma). Aktuell keine Indikation zur stationären Aufnahme oder weiterführenden Diagnostik.
 > 

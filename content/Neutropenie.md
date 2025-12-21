@@ -9,7 +9,7 @@ aliases:
 > [!workup]+
 > - Fokussuche wie [[Sepsis]]
 > - **[[EKG]]** 
-> - **[[Labor]]:** [[BGA]], Profil "Sepsis", [[Blutkulturen]] (2-3 Paar, +1x Pilzkultur, +1 Paar aus Port/PiCC), ggf. + IL-6
+> - **[[Labor]]:** [[BGA]], Profil "Sepsis", [[BK]] (2-3 Paar, +1x Pilzkultur, +1 Paar aus Port/PiCC), ggf. + IL-6
 > - **[[Urin]]:** [[U-Status]], immer Urinkultur
 > 	- *Cave:* "Wer keine Leukos im Blut hat, kann auch keine auspinkeln" – unauffälliger Urin/Liquor schließt Fokus bei Neutropenie nicht aus
 > - **Abstrich:** PCR ([[COVID]], Influenza ± RSV)

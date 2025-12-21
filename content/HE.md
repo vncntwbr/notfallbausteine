@@ -8,7 +8,17 @@ title: Hepatische Enzephalopathie (HE)
 aliases:
   - Hepatische Enzephalopathie
 ---
-> [!anamnese]+ Anamnese
+## DD
+> [!dd]+ HE Trigger
+> - **Infekt (#1):** Insb. [[SBP]], nachrangig [[HWI]], [[Pneumonie]]
+> - **[[GI-Blutung]]**
+> - **Medikamente:** Inadhärenz (Lactulose, Rifaximin), Prodelirogen (z.B. [[Opioide]])
+> - **Volumen:** Exsikkose, [[AKI]], [[HRS]]
+> - **Ernährung:** Protein-Aufnahme↑
+> - **Vaskulär:** TIPS oder spontane portosystemische Shunts, Pfortaderthrombose
+
+## Workup
+> [!anamnese]- Anamnese
 > - **S:** Orientierung/Delir? OPQRST+? Stuhl? H.a. [[GI-Blutung]]? Infekt?
 > - **M:** Therapieadhärenz? Lactulose, Rifaximin, Propranolol, Spironolacton?
 > - **P:** Varizen? Z.n. HE? TIPS?
@@ -16,34 +26,42 @@ aliases:
 > - **E:** [[SHT]]?
 > - **R:** Alkohol?
 
-> [!workup]+
+> [!workup]-
 > - **Bei Verdacht immer diagnostische [[Aszitespunktion]]**
 > - **[[Untersuchung|U]]:** 
 > - **[[EKG]]:** 
 > - **[[POCUS]]:** 
 > - **[[Labor]]:** 
+> 	- KEIN Ammoniak
 > - **[[Urin]]:** 
 > - **[[Radiologie]]:** 
 
-> [!stadien]+
-> - ...
+> [!stadien]- Stadien n. West-Haven
+> - **1:** Verdeckt
+> - **2:** Lethargisch / Desorientiert
+> - **3:** Somnolenz / Sopor
+> - **4:** Koma
 
+## Management
 > [!management]+
 > - ...
 
 > [!disposition]+
 > - ...
-
+## Textbaustein
 > [!note]- Textbaustein
 > ```
 > Blabla
 > ```
 
-
-- **S West-Haven:** 1° verdeckt, 2° letharg./desorient., 3° Somnolenz/Sopor, 4° Koma
+## Notizen
 - **W:** [[Aszitespunktion]] (SBP?), Auslöser (Infekt? [[GI-Blutung]]?)
 - **T**
 	- Lactulose 10-30 ml p.o. q8h
 	- L-Ornithin-L-Aspartat 5 g i.v. q6h (geringe Evidenz, KI [[AKI]])
 	- Thiamin + Pyridoxin 100 mg/d
 	- Nüchternphasen >4h meiden
+
+## Literatur
+- [IBCC: HE](https://emcrit.org/ibcc/he/)
+- [S2k LL Komplikationen der Leberzirrhose 2018 (in Überarbeitung)](https://register.awmf.org/de/leitlinien/detail/021-017)

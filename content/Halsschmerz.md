@@ -19,10 +19,13 @@ aliases:
 	- [[Tonsillopharyngitis]]
 	- *[[PTA]]:* 
 
+## Literatur
+- [S3 Leitlinie Halsschmerzen DEGAM](https://register.awmf.org/de/leitlinien/detail/053-010)
+
 [^1]: typ. Angina, Himbeerzunge, typ. Sandpapier-Exanthem
 
 [^2]: Risiko Rheumatisches Fieber: Crowding (z.B. Asylheim), Migration Afrika/Asien/Ozeanien
 
 [^3]: Vortherapie mit Metamizol, Thyreostatika, Carbamazepin, Cotrimoxazol u.a.
 
-[^4]: [S3 Leitlinie Halsschmerzen DEGAM](https://register.awmf.org/assets/guidelines/053-010k-S3_Halsschmerzen_2021-12_1.pdf)
+[^4]: [S3 Leitlinie Halsschmerzen DEGAM](https://register.awmf.org/de/leitlinien/detail/053-010)

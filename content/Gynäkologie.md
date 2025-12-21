@@ -7,4 +7,4 @@ tags:
 ---
 ## Diagnosen
 - [[(Prä-)Eklampsie]]
-- [[HELLP & Eklampsie]]
+- [[Hypertensive Schwangerschaftserkrankungen]]

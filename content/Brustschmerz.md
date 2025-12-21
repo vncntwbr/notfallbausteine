@@ -60,7 +60,7 @@ title: Brustschmerz / Thoraxschmerz
 > 	- [[Ischämie-EKG]]?
 > 	- [[RHB]]?
 > 3. **[[POCUS]]:** RUSH/[[TTE]]
-> 4. **[[Labor]]:** Profil "Brustschmerz" (inkl. CRP, Trop, CK), [[BGA]]
+> 4. **[[Labor]]:** Profil "Brustschmerz" (inkl. CRP, Trop, [[CK]]), [[BGA]]
 > 	- [[D-Dimer]] nur gezielt, siehe [[LAE]]
 > 	- #2 Trop 1h/2h siehe [[ACS]]
 > 5. **[[Radiologie]]:** [[Rö Tx]] oder CTPA je nach [[LAE]]-Risiko/[[D-Dimer]]
@@ -83,5 +83,8 @@ title: Brustschmerz / Thoraxschmerz
 
 ^e34c74
 
+
+## Literatur
+- [S3-Leitlinie Brustschmerz – DEGAM-Leitlinie für die primärärztliche Versorgung](https://register.awmf.org/de/leitlinien/detail/053-023)
 
 [^2]: *[[ACS]]+:* Ausstrahlung Arme bds. > re > li, kaltschweißig, [[Ü+E]], belastungsabh.; *[[ACS]]–:* Pleuritisch, lageabh., stechend, druckdolent

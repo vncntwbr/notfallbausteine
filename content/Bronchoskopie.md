@@ -2,7 +2,11 @@
 tags:
   - Interventionen
   - Status/Started
+  - Literatur/S2k
+  - Fach/Pneumologie
 title: Bronchoskopie (BSK)
+aliases:
+  - BSK
 ---
 > [!note]+ Textbaustein
 > ```
@@ -27,5 +31,8 @@ title: Bronchoskopie (BSK)
 	- **Rechter Unterlappen**
 ---
 ![[Pasted image 20250807125153.png]][^1]
+
+## Literatur
+- [S2k-Leitlinie Sicherheit der diagnostischen flexiblen Bronchoskopie bei Erwachsenen](https://register.awmf.org/de/leitlinien/detail/020-034)
 
 [^1]: https://kidney-campus.de/bronchoskopie-auf-der-intensivstation/

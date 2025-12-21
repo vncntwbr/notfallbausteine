@@ -3,6 +3,15 @@ tags:
   - Interventionen
   - Status/Started
 ---
+> [!management]- Indikationen Akutdialyse (AEIOU)
+> - Azidämie pH <7.1, therapierefraktär
+> - [[Elektrolyte]], insb. schwere [[HyperK+]]
+> - [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
+> - Overload ([[Lungenödem]]), therapierefraktär
+> - Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert
+
+^666546
+
 
 - *Dialysierbare Toxine:* [[Ethylenglykol]], Methanol, Salicylsäure, [[Lithium]], Valproat, Thallium, Theophyllin, Barbiturate, Paracetamol, Carbamazepin
 - **Standardeinstellungen CVVHDF**
@@ -14,6 +23,9 @@ tags:
 - **Probleme**
 	- *Clotting:* Na+↑, HCO3-↑ → DF erhöhen, Filter wechseln
 	- *Citrat-Akkum.:* ALV/PaO2↓, Ca2+/iCa2+ >2.25[^2], [[Metabolische Azidose]]
+
+## Literatur
+- [S3-Leitlinie Nierenersatztherapie in der Intensivmedizin](https://register.awmf.org/de/leitlinien/detail/040-017)
 
 [^1]
 

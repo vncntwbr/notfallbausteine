@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Fach/Gastroenterologie
   - Status/Started
+  - Literatur/S2k
 title: GI-Blutung (GIB)
 ---
 > [!danger] OBERE GI-Blutung
@@ -32,3 +33,6 @@ title: GI-Blutung (GIB)
 		- *Keine Notfall-Koloskopie* (keine Sicht, Perforationsrisiko)
 		- ggf. CT-A (Blutungsquelle? Radiolog. Interv.?)
 		- *Ambulant:* [Oakland-Score](https://www.mdcalc.com/calc/10042/oakland-score-safe-discharge-lower-gi-bleed) 0-8
+
+## Literatur
+- [S2k-Leitlinie Gastrointestinale Blutung](https://register.awmf.org/de/leitlinien/detail/021-028)

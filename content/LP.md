@@ -3,6 +3,7 @@ tags:
   - Interventionen
   - Fach/Neurologie
   - Status/Done
+  - Literatur/S1
 aliases:
   - Lumbalpunktion
   - Liquorpunktion
@@ -29,3 +30,6 @@ title: Lumbalpunktion / Liquorpunktion (LP)
 > [!workup] Liquordiagnostik
 > - **Visuell:** Trüb/eitrig ([[Meningitis]]), Xanthochrom/blutig nach 3 Gläsern ([[SAB]])
 > - **Labor:** Zellzahl+diff., Protein, Glucose, Lactat, [V.a. [[Meningitis]]] + Kultur, Gramfärbung, PCR/Antigen
+
+## Literatur
+- [S1-Leitlinie Lumbalpunktion und Liquordiagnostik](https://register.awmf.org/de/leitlinien/detail/030-141)

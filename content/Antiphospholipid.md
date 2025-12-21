@@ -2,6 +2,7 @@
 aliases:
   - Antiphospholipid-Syndrom
   - APS
+  - CAPS
 tags:
   - Fach/Hämatologie
   - Status/Started

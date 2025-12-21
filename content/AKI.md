@@ -3,7 +3,7 @@ tags:
   - Checkliste
   - Probleme/Labor
   - Fach/Nephrologie
-  - Status/Done
+  - Status/Revised
 title: |-
   Akute Nierenschädigung (AKI),
   Kreatinin-Erhöhung
@@ -15,7 +15,7 @@ aliases:
 > [!danger]+ Rapid Reference
 > 1. **MAP** halten
 > 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
-> 3. **Dx:** [[POCUS]] postrenal (DK)? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
+> 3. **Dx:** [[POCUS]] postrenal? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 
 ## DD
@@ -52,47 +52,47 @@ aliases:
 > [!anamnese]- Anamnese
 > - **S:** Dyspnoe? Infekt?
 > - **M:** Nephrotox. Meds/Drogen?
-> - **P:** [[CKD]] bekannt? Restausscheidung? Dialyse?
+> - **P:** [[CKD]] bekannt? Restausscheidung? Dialyse? Leberzirrhose (V.a. [[HRS]])?
 > - **L:** Vorwerte GFR?
 > - **E:** Volumenzufuhr/-verluste (Urin, [[Ü+E]], [[Diarrhoe]], Hitze etc.)? Infekt?
 
 > [!workup]-
-> - **[[Untersuchung|U]]:** Status
+> - **[[Untersuchung]]**
 > - **[[EKG]]** 
-> - **[[POCUS]]:** ==[[Harnverhalt]] (obligat)==, [[Harnstau]], [[Volumenstatus]], [[LUS]], [[TTE]]
-> - **[[Labor]]:** [[BGA]], Basisprofil, CK
+> - **[[POCUS]]:** ==[[Harnverhalt]]/[[Harnstau]] (obligat)==, [[Volumenstatus]], Aszites, [[LUS]], [[TTE]]
+> - **[[Labor]]:** [[BGA]], Basisprofil, Harnstoff, [[CK]]
 > - **[[Urin]]:** [[U-Status]], ggf. E+R
 
 > [!stadien]+ AKI-Stadien nach KDIGO
-> - **I°:** Krea x1.5-2, Krea +0.3 mg/dl, Oligurie <0.5 ml/kg/h für 6-12h
-> - **II°:** Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h
-> - **III°:** Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
+> - **AKIN 1:** Krea x1.5-2, Krea +0.3 mg/dl, Oligurie <0.5 ml/kg/h für 6-12h
+> - **AKIN 2:** Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h
+> - **AKIN 3:** Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
 
 ![[CKD#^5b5bc5]]
 ## Management
 > [!management]-
 > 1. **[[HyperK+]] Therapie**
 > 2. **Nach Art:**
-> 	- *Prärenal:* Volumenstatus optimieren, bei Schock MAP halten(!)
+> 	- *Prärenal:* [[Volumenstatus]] optimieren, bei Schock MAP halten(!)
 > 	- *V.a. Intrarenal:* Konsil Nephrologie
 > 	- *Postrenal:* Blasenkatheter, Konsil Urologie
-> 3. **Indikation Akutdialyse?** (AEIOU)
-> 	- Azidämie pH <7.1, therapierefraktär
-> 	- [[Elektrolyte]], insb. schwere [[HyperK+]]
-> 	- [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
-> 	- Overload ([[Lungenödem]]), therapierefraktär
-> 	- Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert
-> 4. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei BRASH bradykardisierende Meds pausieren
+> 3. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei BRASH bradykardisierende Meds pausieren
+
+![[Dialyse#^666546]]
 
 ![[HRS#^529493]]
 ## Textbaustein
-> [!note]- Textbaustein
+> [!note]- Textbaustein AKI
 > ```
 > ToDo
 > ```
 
 
 ---
-- Recherche: Phosphatbindner ab P >6 mg/dl ?
+## Recherche
+- Phosphatbindner ab P >6 mg/dl ?
+
+## Literatur
+- [S2k-Leitlinie Rationelle Labordiagnostik zur Abklärung Akuter Nierenschädigungen und Progredienter Nierenerkrankungen](https://register.awmf.org/de/leitlinien/detail/115-001)
 
 [^1]: Tariq R, Singal AK. Management of Hepatorenal Syndrome: A Review. J Clin Transl Hepatol. 2020 Jun 28;8(2):192-199. doi: 10.14218/JCTH.2020.00011. Epub 2020 Jun 1. PMID: 32832400; PMCID: PMC7438356.

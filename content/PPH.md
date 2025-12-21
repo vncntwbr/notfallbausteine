@@ -4,6 +4,7 @@ tags:
   - Fach/Gynäkologie
   - Status/Done
   - Probleme/Abdomen
+  - Literatur/S2k
 aliases:
   - Peripartale Hämorrhagie
   - Peripartale Blutung
@@ -18,3 +19,6 @@ title: Peripartale Hämorrhagie (PPH)
 > 6. **Fortgesetztes [[Blutungsmanagement]]:** Wärmeerhalt, Ca2+, Fibrinogen, Hilfe, MTP
 
 ^5aae3e
+
+## Literatur
+- [S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie](https://register.awmf.org/de/leitlinien/detail/015-063)

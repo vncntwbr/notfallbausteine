@@ -14,3 +14,6 @@ tags:
 
 - **Ursachen Bradykinin-vermittelt:** ==ACEi== (auch nach Jahren), AT1RB, Aliskiren, tPA, Gliptine, Tacrolimus, Östrogene, hereditär C1-Inhibitor-Mangel (Onset <20 J.)
 - **H.a. Bradykinin-vermittelt:** Fokal/Asymmetrisch, öfter Zunge, langsamerer Verlauf (Stunden), ==keine Urtikaria/Pruritus==
+
+## Literatur
+- [S1-Leitlinie Hereditäres Angioödem durch C1-Inhibitor-Mangel](https://register.awmf.org/de/leitlinien/detail/061-029)

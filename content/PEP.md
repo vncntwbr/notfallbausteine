@@ -57,8 +57,7 @@ aliases:
 > 5. Wiedervorstellung in unserer Notaufnahme bei akuten Beschwerden jederzeit möglich.
 > ```
 
-[^2]
+## Literatur
+- [S2k-Leitlinie zur medikamentösen Postexpositionsprophylaxe (PEP) nach HIV-Exposition](https://register.awmf.org/de/leitlinien/detail/055-004)
 
 [^1]: [Stellungnahme der Deutschen STI-Gesellschaft zur Doxy-PEP](https://onlinelibrary.wiley.com/doi/10.1111/ddg.15282_g)
-
-[^2]: [Deutsch-Österreichische S2k-Leitlinie zur medikamentösen Postexpositionsprophylaxe (PEP) nach HIV-Exposition](https://register.awmf.org/assets/guidelines/055-004l_S2k_Medikamentoese-Postexpositionsprophylaxe-PEP-nach-HIV-Exposition_2022-06.pdf)

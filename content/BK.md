@@ -2,6 +2,10 @@
 tags:
   - Basics
   - Status/Started
+aliases:
+  - Blutkultur
+  - Blutkulturen
+title: Blutkulturen (BK)
 ---
 
 - Alle BK zeitgleich aus 1 Punktionsstelle, senkt Kontaminationsgefahr

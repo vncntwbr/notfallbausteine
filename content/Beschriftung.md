@@ -22,7 +22,7 @@ tags:
 | Opiat-Antagonisten                   | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Blue 297         | 133.199.227  | 37.11.0.11     |            |                                 |
 | Vasopressoren                        | monochrom     | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |
-| Ausnahme: Epinephrin                 | obere Hälfte  | Black            | 0.0.0        |                | Violet 256 |                                 |
+| Ausnahme: [[EPINEPHrin]]                 | obere Hälfte  | Black            | 0.0.0        |                | Violet 256 |                                 |
 |                                      | untere Hälfte | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |
 | Vasodilatatoren                      | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Violet 256       | 222.191.217  | 0.12.2.13      |            |                                 |

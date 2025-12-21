@@ -13,11 +13,11 @@ aliases:
   - Antikoagulation
 title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonisten (VKA, Marcumar)
 ---
-> [!danger] Prophylaktische AK
-> - Enoxaparin 40 mg/d s.c., DANI 20 mg
-> - *GFR <15:* Heparin 7.500 IE s.c. 1-0-1
+> [!danger] Prophylaktische Antikoagulation
+> - **Standard:** Enoxaparin 40 mg/d s.c., DANI 20 mg/d
+> - **GFR <15:** Heparin 7.500 IE s.c. 1-0-1
 
-> [!danger] Therapeutische AK
+> [!danger] Therapeutische Antikoagulation
 > - **NMH:** Enoxaparin 1 mg/kg 1-0-1 s.c., Kontr. Anti-Xa n. 4d
 > - **UFH:** Heparin 80 IE/kg Bolus + 18 IE/kg/h Perfusor, aPTT q6h Ziel 2x nw
 > - **DOAK**
@@ -31,5 +31,8 @@ Antagonisierung siehe [[Blutungsmanagement]]
 
 ---
 - Circadianer Rhythmus bis +50% PTT nachts unter Heparin[^1]
+
+## Literatur
+- [S3-Leitlinie Prophylaxe der venösen Thromboembolie (VTE)](https://register.awmf.org/de/leitlinien/detail/003-001)
 
 [^1]: [Circadian changes in anticoagulant effect of heparin infused at a constant rate](https://pmc.ncbi.nlm.nih.gov/articles/PMC1417335/)

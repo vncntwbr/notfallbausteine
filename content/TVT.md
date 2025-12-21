@@ -88,9 +88,12 @@ title: Venöse Thrombose (TVT)
 
 ![[Kompressionssonografie]]
 
+## Literatur
+- [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
+
 [^1]: nur wenn Sono nicht verfügbar, LL 2.7
 
-[^2]: [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/assets/guidelines/065-002l_S2k_Venenthrombose-Lungenembolie_2023-09.pdf)
+[^2]: [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
 
 [^3]: Dauer: 3 Mo bei provoziert/vorübergehendem RF (z.B. Immob.), 6 Mo bei unprovoziert/permanentem RF, lebenslang bei Rezidiv ab #2
 

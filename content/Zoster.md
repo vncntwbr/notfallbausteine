@@ -3,6 +3,7 @@ tags:
   - Fach/Dermatologie
   - Status/Done
   - Diagnosen
+  - Literatur/S2k
 aliases:
   - Gürtelrose
   - Herpes zoster
@@ -24,5 +25,8 @@ title: Herpes zoster / Gürtelrose
 
 ---
 - Herpes zoster Impfung verhindert teils Demenz[^1]
+
+## Literatur
+- [S2k-Leitlinie Diagnostik und Therapie des Zoster und der Postzosterneuralgie](https://register.awmf.org/de/leitlinien/detail/013-023)
 
 [^1]: [Causal evidence that herpes zoster vaccination prevents a proportion of dementia cases](https://www.medrxiv.org/content/10.1101/2023.05.23.23290253v1)

@@ -31,7 +31,8 @@ title: |-
 ## Antikoagulation
 ![[Pasted image 20251103072621.png]]
 
-
+## Literatur
+- [S3-Leitlinie Vorhofflimmern](https://register.awmf.org/de/leitlinien/detail/019-014)
 
 [^1]: Stiell, I.G., de Wit, K., Scheuermeyer, F.X. _et al._ 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practices Checklist. _Can J Emerg Med_ **23**, 604–610 (2021). https://doi.org/10.1007/s43678-021-00167-y
 

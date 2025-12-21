@@ -5,6 +5,7 @@ tags:
   - Status/Done
 aliases:
   - eKV
+  - Kardioversion
 title: Elektrische Kardioversion (eKV)
 ---
 > [!danger] Notfall-Kardioversion

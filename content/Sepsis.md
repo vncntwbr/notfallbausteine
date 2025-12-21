@@ -21,8 +21,11 @@ Patients with septic shock can have any of the following patterns hemodynamics (
 - Neue S3 LL[^2]
 - Früh Albumin kein Benefit[^3]
 
+## Literatur
+- [S3-Leitlinie Sepsis](https://register.awmf.org/de/leitlinien/detail/079-001)
+
 [^1]: Dark. JAMA 2024. [Biomarker-Guided Antibiotic Duration for Hospitalized Patients With Suspected Sepsis: The ADAPT-Sepsis Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2828036)
 
-[^2]: [S3-Leitlinie Sepsis](https://register.awmf.org/assets/guidelines/079-001l_S3_Sepsis-Praevention-Diagnose-Therapie-Nachsorge_2025-07.pdf)
+[^2]: [S3-Leitlinie Sepsis](https://register.awmf.org/de/leitlinien/detail/079-001)
 
 [^3]: [ICARUS ED Trial: Concentrated Albumin for Undifferentiated Sepsis in the Emergency Department](https://rebelem.com/icarus-ed-trial/)

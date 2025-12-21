@@ -3,13 +3,14 @@ tags:
   - Fach/Neurologie
   - Status/Started
   - Diagnosen
+  - Literatur/S3
 title: Stroke / Schlaganfall
 ---
 
 - **[[Anamnese|A]]:** [S] Exakt Onset? Schmerzen? Infekt? [A] Gentamicin (in Metalyse)? [M] [[AK]]/TAH? Letzte Einnahme? [P] Bek. Defizit? [[SHT]]/OP <3 Mo? VHF? Tumor? [L] Last seen well? [E] Trauma? Funktioneller Vorzustand? [R] CVRF
 - **[[Untersuchung|U]]:** VP inkl. Temp., i.v.-Zugang ≥18G, NIHSS, [[EKG]]
 - **W**
-	- *Labor:* [[BGA]], Profil "Stroke", PoC INR, bei [[Fieber]] BK/[[Sepsis]]
+	- *Labor:* [[BGA]], Profil "Stroke", PoC INR, bei [[Fieber]] [[BK]]/[[Sepsis]]
 	- *Bildgebung:* [[NIHSS]] <10 MRT+MRA, ≥10 CT+CTA[^2], Onset >4.5h +Perfusion, wake-up/unbek. MR +DWI-FLAIR-Mismatch
 - **DD Stroke Mimics**
 	- [[Aorta]] Typ A (CTA immer bis Aortenbogen)
@@ -29,6 +30,11 @@ title: Stroke / Schlaganfall
 - **T TIA:** [ABCD2](https://www.mdcalc.com/calc/357/abcd2-score-tia) ≥4 DAPT RS Neuro, stationär SU, sonst evtl. ambulant/NST
 ---
 - FAST verpasst 14% of Strokes, deshalb BE-FAST[^1]
+
+
+## Literatur
+- [S3-Leitlinie Schlaganfall](https://register.awmf.org/de/leitlinien/detail/053-011)
+- [S2e-Leitlinie Akuttherapie des ischämischen Hirninfarktes](https://register.awmf.org/de/leitlinien/detail/030-046)
 
 [^1]: Aroor. Stroke 2017. [BE-FAST (Balance, Eyes, Face, Arm, Speech, Time): Reducing the Proportion of Strokes Missed Using the FAST Mnemonic](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.015169)
 

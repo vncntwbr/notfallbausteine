@@ -5,6 +5,7 @@ tags:
   - Fach/Pneumologie
   - Diagnosen
   - Status/Started
+  - Literatur/NVL
 title: Asthma bronchiale
 ---
 > [!danger] Resuscitation
@@ -29,7 +30,7 @@ title: Asthma bronchiale
 > - **[[Untersuchung|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz|Asthma cardiale]]
-> - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[Blutkulturen]]
+> - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[BK]]
 > 	- *Cave:* im Asthma-Anfall muss pCO2 normal bis erniedrigt sein, Hyperkapnie = lebensbedrohlich, respiratorische Erschöpfung
 > - **[[Urin]]:** [W] β-HCG
 > - **[[Radiologie]]:** ggf. [[Rö Tx]] (V.a. [[Pneumonie]] oder sonografisch [[Pneu]])
@@ -40,7 +41,7 @@ title: Asthma bronchiale
 > - **Lebensbedrohlich:**
 > 	- Silent Lung
 > 	- Flache Atmung / frustrane Atemarbeit (Inhalation kommt nicht mehr an)
-> 	- Bradykardie (hypoxischer Periarrest)
+> 	- [[Bradykardie]] (hypoxischer Periarrest)
 > 	- SpO2 <92% / PaO2 <60 mmHg arteriell
 > 	- PaCO2 normal oder erhöht arteriell
 > 	- [[Vigilanzminderung]] (inkl. Verwirrtheit, hypoxische Agitation)
@@ -115,6 +116,9 @@ title: Asthma bronchiale
 [^3]
 
 - Unter ASS-sensiblen Asthmatikern haben 20-50% Urtikaria allerg. Reaktion auf Tartrazin (gelbes Färbemittel für Lebensmittel)[^1]
+
+## Literatur
+- [S3-Leitlinie NVL Asthma](https://register.awmf.org/de/leitlinien/detail/nvl-002)
 
 [^1]: https://x.com/nickmmark/status/1719199281608061248
 

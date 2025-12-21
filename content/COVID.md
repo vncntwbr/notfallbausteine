@@ -9,7 +9,7 @@ aliases:
   - Corona
   - SARS-CoV-2
 ---
-> [!note]+ Textbaustein
+> [!note]- Textbaustein
 > ```
 > Aktuell: COVID-19-Erkrankung ohne H.a. gefährlichen Verlauf
 > 
@@ -21,12 +21,11 @@ aliases:
 > - Bei akuter Verschlechterung jederzeit Wiedervorstellung über unsere Notaufnahme, ansonsten Verlaufskontrolle beim Hausarzt nach vorheriger telefonischer Terminabsprache (Infektsprechstunde).
 > ```
 
-[^2]
+## Literatur
+- [S3-Leitlinie Empfehlungen zur Therapie von Patienten mit COVID-19 - Living Guideline](https://register.awmf.org/de/leitlinien/detail/113-001)
 
 ---
 
 - Impfskepsis sign. assoziiert mit [[Verkehrsunfall]]-Risiko, Relatives Risiko 50% adjustiert für Geschlecht u.a., n = 11 Mio[^1]
 
 [^1]: [COVID Vaccine Hesitancy and Risk of a Traffic Crash](https://www.amjmed.com/article/S0002-9343(22)00822-1/fulltext#%20)
-
-[^2]: [S3 Leitlinie stationäre Therapie von Patienten mit COVID](https://register.awmf.org/de/leitlinien/detail/113-001)

@@ -28,7 +28,7 @@ title: Harnwegsinfektion (HWI)
 > [!workup]
 > - **[[Untersuchung|U]]:** VP (Temp., AF, NEWS2), [M >65 J. / Diabetes] Penis, Skrotum, Perineum
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG, [Kompliziert/Rezidiv] Urinkultur
-> - **[[Labor]]:** [Nur Kompliziert] [[BGA]], Profil "Sepsis", Blutkulturen
+> - **[[Labor]]:** [Nur Kompliziert] [[BGA]], Profil "Sepsis", [[BK]]
 > - **[[POCUS]]:** Harnstau? [[Harnverhalt]]?
 
 > [!management]
@@ -94,9 +94,8 @@ title: Harnwegsinfektion (HWI)
 > - Anwendung der neu begonnenen lokalen Östrogentherapie (Folgerezepte über Gynäkologin oder Hausa)
 > ```
 
-[^2]
+## Literatur
+- [S3-Leitlinie Epidemiologie, Diagnostik, Therapie, Prävention und Management unkomplizierter, bakterieller, ambulant erworbener Harnwegsinfektionen bei erwachsenen Patienten](https://register.awmf.org/de/leitlinien/detail/043-044)
 
 
 [^1]: ≥30 RCTs zum Thema, in internationalen Leitlinien klar empfohlen. OR >20 zur Verhinderung atrophe Vaginitis. Weitere Benefits für Patientin. Auch bei Z.n. HR+ Mamma-Ca kein erhöhtes Rezidivrisiko (dann aber OLU). [Prävention rezidivierender HWI durch lokale Östrogenisierung bei postmenopausalen Frauen](https://pubmed.ncbi.nlm.nih.gov/32533967/) / [Vaginal Estrogen as First-Line Therapy for Recurrent Urinary Tract Infections in Postmenopausal Women](https://pubmed.ncbi.nlm.nih.gov/33620909/) / [Consensus Statement: Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825634?utm_source=twitter&utm_medium=social_jamajno&utm_term=15152138623&utm_campaign=article_alert&linkId=642487259)
-
-[^2]: [S3-Leitlinie Epidemiologie, Diagnostik, Therapie, Prävention und Management unkomplizierter, bakterieller, ambulant erworbener Harnwegsinfektionen bei erwachsenen Patienten](https://register.awmf.org/de/leitlinien/detail/043-044)

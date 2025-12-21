@@ -31,3 +31,5 @@ title: Schädel-Hirn-Trauma (SHT)
 > [!note]- Textbaustein
 > Blabla
 
+## Literatur
+- [S2e-Leitlinie Schädel-Hirn-Trauma im Erwachsenenalter](https://register.awmf.org/de/leitlinien/detail/008-001)

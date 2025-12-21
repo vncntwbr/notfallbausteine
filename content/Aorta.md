@@ -5,6 +5,9 @@ tags:
   - Status/Started
   - Diagnosen
 title: Akutes Aortensyndrom (inkl. Aortendissektion)
+aliases:
+  - Aortensyndrom
+  - Aortendissektion
 ---
 > [!danger]+ Resuscitation
 > 1. **Kontakt GCh / HCh:** DHZC Tel. 030-4593-2007, [Anfahrtskizze](https://www.dhzc.charite.de/fileadmin/user-upload/pdf/notfall/dhzc-aortentelefon-anfahrt.pdf)
@@ -27,6 +30,10 @@ title: Akutes Aortensyndrom (inkl. Aortendissektion)
 - **W:** [ADD-RS](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs) + D-Dimer
 - **[[POCUS]]**
 	- *TTE:* AI[^6], dilat. Aortenwurzel, Flap, Erguss/Tamponade, bikuspide AK
+
+## Literatur
+- [S2k-Leitlinie Typ B Aortendissektion](https://register.awmf.org/de/leitlinien/detail/004-034)
+
 
 [^1]: Marfan-Syndrom 5% Risiko A-Diss., von A-Diss. <40 J. haben 50% Marfan
 

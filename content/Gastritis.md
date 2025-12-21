@@ -3,8 +3,9 @@ tags:
   - Fach/Gastroenterologie
   - Status/Done
   - Diagnosen
+  - Literatur/S2k
 ---
-> [!note]+ Textbaustein Gastritis
+> [!note]- Textbaustein Gastritis
 > ```
 > Aktuell: V.a. Gastritis
 > 
@@ -17,3 +18,7 @@ tags:
 > - Bei weiterhin Schmerzen hierunter kann Paracetamol (max. 6 Tbl. à 500 mg pro Tag) oder Metamizol (rezeptpflichtig) eingenommen werden; auf Einnahme anderer Schmerzmittel (z.B. Ibuprofen, Aspirin, Diclofenac/Voltaren, …) sollte wegen magenschädigenden Nebenwirkungen unbedingt verzichtet werden. 
 > - Möglichst auf stark gewürzte, scharfe und fettige Speisen sowie stark säurehaltige Lebensmittel (Kaffee, Fruchtsäfte, Früchtetees) verzichten sowie auf eine ausreichende Trinkmenge (mindestens 1.5 Liter pro Tag, ideal stilles Wasser oder Kräutertee) achten.
 > ```
+
+
+## Literatur
+- [S2k-Leitlinie Helicobacter pylori und gastroduodenale Ulkuskrankheit](https://register.awmf.org/de/leitlinien/detail/021-001)

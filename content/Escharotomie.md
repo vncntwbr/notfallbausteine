@@ -5,7 +5,7 @@ tags:
 ---
 > [!danger] Rapid Reference
 > 
-> 1. **Indikation:** A/B unmöglich bei schwerst. zirkulärer [[Verbrennung]] Thorax
+> 1. **Indikation:** Beatmung unmöglich bei schwerst. zirkulärer [[Verbrennung]] Thorax
 > 2. **Vorbereitung:** Tiefe Narkose, sterile Vorbereitung
 > 3. **Schnitt** VAL Axilla bis Rippenbogen
 > 4. **Verbindungsschnitt** entlang Rippenbogen

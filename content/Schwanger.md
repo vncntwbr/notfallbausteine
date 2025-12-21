@@ -6,10 +6,10 @@ aliases:
 title: Schwangerschaft
 ---
 > [!dd]+ DD
-> - **Killer:** [[HELLP & Eklampsie]], [[PPH]]
+> - **Killer:** [[Hypertensive Schwangerschaftserkrankungen]], [[PPH]]
 > - **Leitsymptombasiert zstzl. Ursachen:**
 > 	- *[[Brustschmerz]]:* Reflux, Peripartale Kardiomyopathie, SCAD, [[LAE]], [[Aorta]]
-> 	- *[[Bauchschmerz]]:* Oft unspez., [[Obstipation]]/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[HELLP & Eklampsie]]
+> 	- *[[Bauchschmerz]]:* Oft unspez., [[Obstipation]]/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[Hypertensive Schwangerschaftserkrankungen]]
 > 	- *Trauma:* IUFT, vorz. Plazentalösung u.a. (Cave: Rh-Prophylaxe?)
 > - **Frühschwangerschaft <20. SSW:**
 > 	- [[EUG]]
@@ -17,7 +17,7 @@ title: Schwangerschaft
 > 	- [[Hyperemesis gravidarum]]
 > 	- Ovarielles Hyperstimulationssyndrom n. IVF
 > - **Spätschwangerschaft >20. SSW:**
-> 	- [[HELLP & Eklampsie]]
+> 	- [[Hypertensive Schwangerschaftserkrankungen]]
 > 	- [[PPH]]
 > 	- V.-cava-Kompressionssyndrom
 

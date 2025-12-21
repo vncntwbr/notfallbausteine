@@ -22,13 +22,13 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 > - **S:** H.a. Infektion?
 > - **M:** Neu? [[Anticholinerg]]? Sedativa? [[Antipsychotika]]? [[Opioide]]? [[Interaktionen]]? Neue Meds?
 > - **E:** Funktioneller Vorzustand?
-> - **Sozial:** Therapieziel ([[Palliativsituation]])?
+> - **Sozial:** Therapieziel ([[Palliativ]])?
 
 > [!workup]+
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)? Vollständiger Status (Herz, Lunge, Abd., Beine, Haut, Neuro), [Delir-Screening 4AT](https://www.mdcalc.com/calc/3982/4-test-delirium-assessment)
 > - **[[EKG]]** 
 > - **[[POCUS]]:** RUSH
-> - **[[Labor]]:** Profil "Unklar", CK, [[BGA]]
+> - **[[Labor]]:** Profil "Unklar", [[CK]], [[BGA]]
 > - **[[Urin]]:** [[U-Status]]
 
 > [!management]+
@@ -36,6 +36,5 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 > - **[[Delir]]** siehe dort
 > - **Liegetrauma:** Zugrundeliegende Ursache,[[AKI]]-Therapie; bei [[Rhabdomyolyse]] forcierte Diurese evtl. +Mannitol
 
-[^1]
-
-[^1]: [IBCC: Delirium](https://emcrit.org/ibcc/delirium/#diagnostic_approach)
+## Literatur
+- [IBCC: Delirium](https://emcrit.org/ibcc/delirium/#diagnostic_approach)

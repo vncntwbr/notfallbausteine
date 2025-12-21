@@ -40,7 +40,7 @@ aliases:
 > - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" + PCT, LDH, freies Hb, HbS (telefonisch), Kreuzblut (Diagnose Sichelzellanämie + Vortransfusion angeben)
 > - **[[Urin]]:** [[U-Status]] (Hämoglobinurie, HWI)?
 > - **[[POCUS]]:** [[LUS]] (B-Lines, Pleuraergüsse, Konsolidierung)? [[TTE]] (RHB, sPAP)? Cholestase?
-> - V.a. Infekt: PCR, [[Blutkulturen]], Legionellen-/Pneumokokken-Ag im Urin
+> - V.a. Infekt: PCR, [[BK]], Legionellen-/Pneumokokken-Ag im Urin
 > - ggf. [[Rö Tx]] (ATS, Infiltrate), CT vermeiden
 
 > [!management]+

@@ -42,4 +42,7 @@ title: Transthorakale Echokardiografie (TTE)
 7. **SC:** 4C, IVC, hepatic veins
 8. **SSN:** aortic arch
 
+## Literatur
+- [S2k-Leitlinie Transthorakale Echokardiographie](https://register.awmf.org/de/leitlinien/detail/085-004)
+
 [^1]: Mitchell. American Society of Echocardiography 2018. [Guidelines for Performing a Comprehensive Transthoracic Echocardiographic Examination in Adults: Recommendations from the American Society of Echocardiography](https://onlinejase.com/article/S0894-7317(18)30318-3/fulltext)

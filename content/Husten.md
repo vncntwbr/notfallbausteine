@@ -25,3 +25,6 @@ tags:
 
 ---
 ![[Hämoptysen]]
+
+## Literatur
+- [S3-Leitlinie Akuter und chronischer Husten](https://register.awmf.org/de/leitlinien/detail/053-013)

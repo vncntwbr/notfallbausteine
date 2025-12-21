@@ -4,6 +4,10 @@ tags:
   - Fach/Neurologie
   - Status/Done
 title: Hirndruck, IPC-Erhöhung & Einklemmung
+aliases:
+  - ICP-Erhöhung
+  - Einklemmung
+  - Intrakranieller Druck
 ---
 
 >[!danger] Akute Einklemmung (GCS↓ + Anisokorie + Cushing-Reflex RR↑/HF↓ + Beuge-/Strecksynergismen)
@@ -34,4 +38,5 @@ title: Hirndruck, IPC-Erhöhung & Einklemmung
 ## Schulung
 - [DGN Fortbildung ICP](https://www.dgn.org/mediathek/videoplayer/intrakranieller-druck)
 
-[^1]: [S1 Leitlinie Intrakranieller Druck (ICP) 2023](https://dnvp9c1uo2095.cloudfront.net/cms-content/030105_LL_ICP_2023_V1.2_1721379152831.pdf)
+## Literatur
+- [S1 Leitlinie Intrakranieller Druck (ICP)](https://register.awmf.org/de/leitlinien/detail/030-105)

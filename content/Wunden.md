@@ -40,5 +40,8 @@ title: Wunden & Wundversorgung
 > - Bei lokalen Entzündungszeichen (Rötung, Schwellung, zunehmende Schmerzen, eitriger Ausfluss) umgehende ärztliche Vorstellung
 > ```
 
+## Literatur
+- [S3-Leitlinie Lokaltherapie schwerheilender und/oder chronischer Wunden aufgrund von peripherer arterieller Verschlusskrankheit, Diabetes Mellitus oder chronischer venöser Insuffizienz](https://register.awmf.org/de/leitlinien/detail/091-001)
+
 
 [^1]: Aktivimpfung im Rahmen begonnener Grundimmunisierung (z.B. Säuglinge, Nachholer) nur wenn letzte Tetanusimpfung >4 Wo

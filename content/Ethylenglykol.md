@@ -11,7 +11,7 @@ tags:
 	- [<12h] abdominal/neurolog., [<24h] kardiopulmonal, [<72h] [[AKI]]
 	- Sympt. bei Alkohol-Cointox ggf. um 48-72h verzögert
 - **W:** Einnahme + 2 von
-	- [[Metabolische Azidose]] mit Anionenlücke (ab 3h, bei Alkohol später)
+	- [[AGMA]] (ab 3h, bei Alkohol später)
 	- [[Osmolalitätslücke]] >10 mOsm/kg
 	- [[Lactatazidose]] mit Diff. [[BGA]] | Zentrallabor
 	- [[AKI]]

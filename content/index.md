@@ -12,7 +12,7 @@ aliases:
 
 | Häufige Probleme   |                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativsituation\|Palliativ]] [[Schock]] [[Sepsis]]                    |
+| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                    |
 | **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                               |
 | **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanzminderung\|Vigilanz]] |
 | **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |

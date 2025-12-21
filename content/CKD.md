@@ -45,3 +45,5 @@ tags:
 	- EPO-Mangel → normochrome, normozytäre Anämie
 - **Renale Osteopathie**
 	- Sekundärer Hyperparathyreoidismus
+## Literatur
+- [S3-Leitlinie Versorgung von Patienten mit nicht-nierenersatztherapiepflichtiger Nierenkrankheit in der Hausarztpraxis - Chronisch eingeschränkte Nierenfunktion in der Hausarztpraxis](https://register.awmf.org/de/leitlinien/detail/053-048)

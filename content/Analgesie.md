@@ -1,7 +1,7 @@
 ---
 tags:
   - Basics
-  - Status/Done
+  - Status/Started
 ---
 > [!note]+ Textbaustein Entlassung Analgesie
 > ```
@@ -55,6 +55,10 @@ tags:
 > - **Muskelrelaxanzien bei MSK/[[Rückenschmerz]]:**
 > 	- *Methocarbamol (Ortoton®)* 750 mg p.o. 1-1-1, max. 2-2-2, Cave Sturzgefahr, eingeschränkte Fahrtauglichkeit
 > 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]
+
+## Literatur
+- [S3-Leitlinie Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen (LONTS)](https://register.awmf.org/de/leitlinien/detail/145-003)
+- [S3-Leitlinie Schmerzmanagement bei GERiatrischen PAtIeNt:innen in allen Versorgungssettings (GeriPAIN)](https://register.awmf.org/de/leitlinien/detail/145-005)
 
 [^1]: Metamizol Aktivierung durch Hydrolyse im Darmepithel, p.o. Wirkung > i.v.
 
