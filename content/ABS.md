@@ -3,7 +3,8 @@ aliases:
   - Antibiotic Stewardship
 title: Antibiotic Stewardship (ABS)
 ---
-## C. diff. Raten
+## [[ABx]] Auswahl
+### C. diff. Raten
 - **Grobe Kategorisierung nach C. diff. Risiko**[^2]
 	- **Niedrig**
 		- Tetracycline (OR 0.8)
@@ -20,7 +21,7 @@ title: Antibiotic Stewardship (ABS)
 		- Cephalosporine Gen 4 (OR 2.1)
 		- Clindamycin (OR 2.9)
 		- Cephalosporine Gen 3 (OR 3.2)
-## Resistenzentwicklung
+### Resistenzentwicklung
 - **WHO AWaRe [[ABx]] Gruppierung nach Risiko der Resistenzentwicklung**[^1]
 	- **Access**
 		- Penicillin G, Amoxicillin, Ampicillin
@@ -65,7 +66,15 @@ title: Antibiotic Stewardship (ABS)
 	- **Cellulitis** ≤5-6d[^3]
 	- **[[Neutropenie]]** bis afebril und klinisch besser +3d
 	- **Intraabdominelle Infektion**
-- Siehe [[IFP]] für [[PCT]]/CRP als Marker für [[ABx]]-Stop
+
+> [!tip] Siehe [[IFP]] für [[PCT]]/CRP als Marker für [[ABx]]-Stop
+
+## Therapieversagen
+- **Häufige Ursachen:**
+	- [[Fehldiagnose]]
+	- Unterdosierung der [[ABx]] (z.B. erhöhte renale Clearance durch physiologischen Stress)
+	- Neues nosokomiales Problem (z.B. Hypervolämie, Superinfektion, Medikamenten-UAW)
+	- Unzureichende Fokussanierung
 
 
 [^1]: Sulis G. Exposure to World Health Organization's AWaRe antibiotics and isolation of multidrug resistant bacteria: a systematic review and meta-analysis. Clin Microbiol Infect. 2022 Sep;28(9):1193-1202. doi: 10.1016/j.cmi.2022.03.014. Epub 2022 Mar 23. PMID: 35339675.

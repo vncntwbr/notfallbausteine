@@ -7,7 +7,12 @@ aliases:
   - Blutkulturen
 title: Blutkulturen (BK)
 ---
+## Kontamination
+- **Nachweis gram-positiver Kokken**
+	- 1/2 Sets positiv *eher* Kontamination
+	- 2/2 Sets positiv *eher* echte Infektion
 
+---
 - Alle BK zeitgleich aus 1 Punktionsstelle, senkt Kontaminationsgefahr
 - Sequentielle Abnahme, mehrere Punktionen oder Abnahme im Temperaturanstieg erhöht nicht die Nachweisrate[^1]
 
