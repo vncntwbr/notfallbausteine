@@ -21,7 +21,7 @@ tags:
 - **Bewegungsstörungen**
 	- [[Serotonin-Syndrom]]
 	- [[Maligne Hyperthermie]]
-	- [[Malignes Neuroleptisches Syndrom]]
+	- [[MNS]]
 - **Schwäche**
 	- [[GBS]]
 	- [[Myasthenie]]

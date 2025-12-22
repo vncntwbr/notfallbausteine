@@ -30,7 +30,7 @@ tags:
 
 > [!management] Nicht-Opioid-Analgetika
 > - **ASS:** Cave Salicylatintoxikation ([[Metabolische Azidose]]), GI-Ulcera
-> - **Paracetamol:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit [[Esketamin]]/[[Opioide]]
+> - **[[PCM]]:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit [[Esketamin]]/[[Opioide]]
 > - **Ibuprofen:** Ceiling-Effekt 400 mg p.o. Einzeldosis, Cave Nephrotox. (KI bei [[AKI]]/[[CKD]]), Kardiotox. (KI bei HFrEF, kann Dekomp. triggern), GI-Ulcera
 > - **Metamizol:** 500-1000 mg p.o. > i.v.[^1], = 20-40 Tropfen, Ceiling-Effekt 1g, Cave [[Anaphylaxie]], [[Neutropenie]]/Agranulozytose
 > - **[[esKETAmin]]**
@@ -57,6 +57,7 @@ tags:
 > 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]
 
 ## Literatur
+- [EUSEM: Guidelines for the management of acute pain in emergency situations - 2025 Update](https://eusem.org/images/251210_EUSEM_European_Pain_Initiative_Guidelines_Updated_Oct_2025.pdf)
 - [S3-Leitlinie Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen (LONTS)](https://register.awmf.org/de/leitlinien/detail/145-003)
 - [S3-Leitlinie Schmerzmanagement bei GERiatrischen PAtIeNt:innen in allen Versorgungssettings (GeriPAIN)](https://register.awmf.org/de/leitlinien/detail/145-005)
 

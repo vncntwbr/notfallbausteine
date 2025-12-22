@@ -18,7 +18,7 @@ aliases:
 > 5. **HYPOtonie meiden:** Ziel-RRsys >120 (CPP=MAP-ICP, ICP <20, CPP >60)
 > 6. **[[Blutungsmanagement]]:** ANTAgonisierung [[AK]]
 > 7. **Sonderfall VP-SHUNT:** Reservoirpunktion mit Butterfly 23G blau (NCh)
-> 8. **ENTLASTUNG:** EVD, Bohrloch o.a. (NCh)
+> 8. **ENTLASTUNG:** [[EVD]], Bohrloch o.a. (NCh)
 
 > [!workup]+
 > - **[[POCUS]]:** [[Opticusdurchmesser]]
@@ -29,7 +29,7 @@ aliases:
 > 3. **Hypotonie aggressiv verhindern:** Ziel-RRsys >120, [[Hypertonie]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
 > 4. **Frühzeitig [[RSI]]** mit tiefer Narkose (Normoxie, Normokapnie)
 > 5. **[[Krampfanfall]]** sofort durchbrechen
-> 6. **Normothermie:** Antipyrese ab 37.7°C mit Paracetamol, Metamizol, physikalisch
+> 6. **Normothermie:** Antipyrese ab 37.7°C mit [[PCM]], Metamizol, physikalisch
 > 7. **Hirntumor/-metastase:** Dexamethason 20-40 mg langsam i.v.
 
 [^1]

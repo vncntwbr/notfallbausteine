@@ -8,7 +8,7 @@ tags:
 > Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
 
 > [!dd]+ DD
-> - **Killer:** Querschnitt / Cauda-Equina-Syndrom? (siehe [[Rückenschmerz]])
+> - **Killer:** [[Querschnitt]] / Cauda-Equina-Syndrom (siehe [[Rückenschmerz]])
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
 > [!anamnese]-

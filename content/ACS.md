@@ -47,7 +47,7 @@ zbb:
 > [!Management]+
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel SpO2 >90%[^4]
-> 3. **[[Analgesie]]:** Paracetamol 1 g i.v. ± Morphin 3 mg-weise i.v.
+> 3. **[[Analgesie]]:** [[PCM]] 1 g i.v. ± Morphin 3 mg-weise i.v.
 > 4. **Metoprolol** 5 mg-weise i.v. bis 15 mg (wenn RR >120 + keine [[Herzinsuffizienz]]), verhindert VT/VF, reduziert Infarktgröße
 > 5. **ggf. CPAP** bei [[Herzinsuffizienz]]/[[Lungenödem]]
 > 6. **ggf. Nitro** s.l. (wenn RR >120, symptomatisch, keine diagnostische Aussage)

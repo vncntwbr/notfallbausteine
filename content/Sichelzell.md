@@ -37,7 +37,7 @@ aliases:
 
 > [!workup]+
 > - **U:** Status
-> - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" + PCT, LDH, freies Hb, HbS (telefonisch), Kreuzblut (Diagnose Sichelzellanämie + Vortransfusion angeben)
+> - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" + [[PCT]], LDH, freies Hb, HbS (telefonisch), Kreuzblut (Diagnose Sichelzellanämie + Vortransfusion angeben)
 > - **[[Urin]]:** [[U-Status]] (Hämoglobinurie, HWI)?
 > - **[[POCUS]]:** [[LUS]] (B-Lines, Pleuraergüsse, Konsolidierung)? [[TTE]] (RHB, sPAP)? Cholestase?
 > - V.a. Infekt: PCR, [[BK]], Legionellen-/Pneumokokken-Ag im Urin
@@ -47,7 +47,7 @@ aliases:
 > 1. **\*Zurückhaltend* O2** (nur bei SpO2 <95%)
 > 2. **\*Zurückhaltend* Volumen** (Überwässerung = Risiko ATS)
 > 3. **Atemtherapie konsequent** z.B. Triflo, jede auch nur milde Hypoventilation meiden (Risiko ATS)
-> 4. **Aggressive Analgesie:** Paracetamol, Metamizol, [[Opioide]] nach Bedarf, ggf. [[esKETAmin]] low-dose, für Verlauf z.B. Morphin-Perfusor oder PCIA
+> 4. **Aggressive Analgesie:** [[PCM]], Metamizol, [[Opioide]] nach Bedarf, ggf. [[esKETAmin]] low-dose, für Verlauf z.B. Morphin-Perfusor oder PCIA
 > 5. **[[Fieber]]/Infekt** (nicht bei isoliert CRP↑) kalkulierte ABx Ampicillin/Sulbactam oder Cefotaxim + Azithromycin (Pneumokokken, Haemophilus, Salmonellen)
 > 6. **\*Zurückhaltend* [[Transfusion]]:** nie bei Hb >5.5 g/dl + gutem AZ, ggf. Aderlass/Austauschtransfusion ([Onkopedia](https://www.onkopedia.com/de/onkopedia/guidelines/sichelzellkrankheiten/@@guideline/html/index.html#ID0EMCAE))
 

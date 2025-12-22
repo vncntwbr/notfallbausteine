@@ -11,7 +11,7 @@ tags:
 - **T**[^5]
 	- *[Centor](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis#when-to-use) =3:* ggf. ABx in SDM als "delayed Rx" (nur einlösen, wenn keine Besserung nach 2-3d)
 	- *[Centor](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis#when-to-use) ≥4:* Pencillin V 1 M IE 1-1-1 für 5-7 d[^1][^2], <15 J. nur bei Strep-A-Schnelltest pos.
-	- *Edukation:* Selbstlim. 1 Wo, Flüssigkeit, Schonung, Lutschtbl., Salbeitee, Honig (>1 J.)[^3], Paracetamol, ABx NNT≈200[^4]
+	- *Edukation:* Selbstlim. 1 Wo, Flüssigkeit, Schonung, Lutschtbl., Salbeitee, Honig (>1 J.)[^3], [[PCM]], ABx NNT≈200[^4]
 
 [^1]: Kinder <15 J.: 0.1 M IE/kg in 2-3 ED für 5-7 d
 

@@ -17,7 +17,7 @@ title: Urolithiasis / Nierenkolik
 > 	- *Nicht in CT darstellbar:* Indinavir-Steine (HIV-Therapeutika UAW) und Matrixsteine (selten, fast nur Frauen)
 
 > [!management]+
-> - **[[Analgesie]]:** Metamizol 1g p.o. 1-1-1-1 + [[NSAR]] Ibuprofen/Paracetamol
+> - **[[Analgesie]]:** Metamizol 1g p.o. 1-1-1-1 + [[NSAR]] Ibuprofen/[[PCM]]
 > 	- kein Butylscopolamin[^1]
 > 	- ggf. [[Opioide]], ambulant nur wenn unumgänglich Tilidin/Naloxon 50/4 mg retard 1-0-1[^2]
 > - **[[Volumentherapie]]** p.o. und i.v.

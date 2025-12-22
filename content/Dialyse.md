@@ -4,16 +4,16 @@ tags:
   - Status/Started
 ---
 > [!management]- Indikationen Akutdialyse (AEIOU)
-> - Azidämie pH <7.1, therapierefraktär
-> - [[Elektrolyte]], insb. schwere [[HyperK+]]
-> - [[Intox]] mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
-> - Overload ([[Lungenödem]]), therapierefraktär
-> - Urämische Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig vom Wert
+> - **Azidämie** pH <7.1, therapierefraktär
+> - **[[Elektrolyte]]**, insb. schwere [[HyperK+]]
+> - **[[Intox]]** mit dialysierbaren Substanzen (z.B. [[Ethylenglykol]], [[Lithium]])
+> - **Overload** ([[Lungenödem]]), therapierefraktär
+> - **[[Urämie]]**-Komplikationen (Serositis, [[Perikarderguss]], Encephalopathie), unabhängig von HST-Wert
 
 ^666546
 
 
-- *Dialysierbare Toxine:* [[Ethylenglykol]], Methanol, Salicylsäure, [[Lithium]], Valproat, Thallium, Theophyllin, Barbiturate, Paracetamol, Carbamazepin
+- *Dialysierbare Toxine:* [[Ethylenglykol]], Methanol, Salicylsäure, [[Lithium]], Valproat, Thallium, Theophyllin, Barbiturate, [[PCM]], Carbamazepin
 - **Standardeinstellungen CVVHDF**
 	- Blutfluss 100 ml/min
 	- Dialysatfluss 2.000 ml/h (BF:DF 1:20)

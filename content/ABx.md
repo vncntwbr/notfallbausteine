@@ -5,7 +5,7 @@ tags:
 title: Antibiotika (ABx)
 ---
 > [!danger] Kalkulierte ABx
-> - **aeCOPD:** [Indikation: Sputum, ITS o. PCT] Ampi/Sulb o. Ceftriaxon, [1 davon vor <3 Mo gegeben] Moxi, [Pseudomonas-Risiko] Pip/Taz
+> - **aeCOPD:** [Indikation: Sputum, ITS o. [[PCT]]] Ampi/Sulb o. Ceftriaxon, [1 davon vor <3 Mo gegeben] Moxi, [Pseudomonas-Risiko] Pip/Taz
 > - **[[COVID]]:** [Frühphase + RF] Paxlovid® (CYP3A4), [O2-Bedarf] Dexamethason 6 mg/d
 > - **[[Influenza]] A/B:** [Stat. o. RF] Oseltamivir 75 mg 1-0-1
 > - **CAP:** [Amb.] Amoxi, RF +Clav, atyp. +Azithro, [Stat] Ampi/Sulb + Azithro, [ITS/Sepsis] Pip/Taz + Azithro
@@ -43,7 +43,7 @@ title: Antibiotika (ABx)
 	- *Sepsis bei [[Neutropenie]]:* Meropenem 2g q8h + Ciprofloxacin 400 mg q8h + Voriconazol 6 mg/kg q12h
 ---
 - Fluorchinolone wahrscheinlich nicht relevant mehr Aortendissektionen, Benefit>Risk[^1]
-- PCT-Guided ABx Dauer ist sicher in Sepsis[^2]
+- [[PCT]]-Guided ABx Dauer ist sicher in Sepsis[^2]
 
 ## Literatur
 - [S3-Leitlinie Perioperative und Periinterventionelle Antibiotikaprophylaxe](https://register.awmf.org/de/leitlinien/detail/067-009)

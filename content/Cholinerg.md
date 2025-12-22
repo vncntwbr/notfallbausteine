@@ -14,4 +14,4 @@ aliases:
 
 > [!DD] Typische Auslöser
 > - Organophosphate (Insektizid E605, Sarin)
-> - Physostigmin
+> - [[Physostigmin]]

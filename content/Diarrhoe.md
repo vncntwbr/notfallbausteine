@@ -47,7 +47,7 @@ title: Diarrhoe / Durchfall
 
 > [!management]+
 > 1. **[[Volumentherapie]]**
-> 2. **Antipyrese:** Paracetamol 1g i.v., wenn Pat. belastet
+> 2. **Antipyrese:** [[PCM]] 1g i.v., wenn Pat. belastet
 > 3. **Antiemetika:** Primär Ondansetron 4 mg i.v. (Cave: kein MCP!)
 > 4. **Antidiarrhotika:** ggf. Loperamid 2x2 mg p.o. (wenn kein V.a. infektiöse Ursache)
 > 5. **Differenziert**

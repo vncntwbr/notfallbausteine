@@ -37,7 +37,7 @@ aliases:
 > - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
-> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±PCT ±[[D-Dimer]], [[BK]]
+> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±[[PCT]] ±[[D-Dimer]], [[BK]]
 > - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID]], [[Influenza]], ±RSV)
 > - **[[Urin]]:** Legionellen-/Pneumokokken-Ag
 > - **[[Radiologie]]:** CT-Thorax lowdose (atypisch? ±[[LAE]]?)[^1]

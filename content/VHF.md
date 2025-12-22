@@ -31,6 +31,8 @@ title: |-
 ## Antikoagulation
 ![[Pasted image 20251103072621.png]]
 
+## Fun Facts
+- Koffein verursacht wahrscheinlich zumindest kein VHF, in 1 RCT sogar geringere Recurrence[^5]
 ## Literatur
 - [S3-Leitlinie Vorhofflimmern](https://register.awmf.org/de/leitlinien/detail/019-014)
 
@@ -43,3 +45,4 @@ title: |-
 [^4]: HF 120-180 normalerweise maximal ohne AV-Block / neg. Dromotropie, bei >200/FBI DD VHF + WPW
 
 
+[^5]: Wong CX. Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation: The DECAF Randomized Clinical Trial. JAMA. 2025 Nov 9:e2521056. doi: 10.1001/jama.2025.21056. Epub ahead of print. PMID: 41206802; PMCID: PMC12598581.

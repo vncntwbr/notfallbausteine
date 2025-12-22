@@ -11,7 +11,7 @@ aliases:
 
 > [!danger] Rapid Reference
 > - Supportiv (Volumen, Kühlung, DK bei Harnverhalt)
-> - **[[Delir]]:** Physostigmin 0.5-2.0 mg langsam i.v. ggf. q30 min
+> - **[[Delir]]:** [[Physostigmin]] 0.5-2.0 mg langsam i.v. ggf. q30 min
 
 > [!dd]+ DD
 > - **Primäre Anticholinergika**
@@ -25,3 +25,6 @@ aliases:
 > 	- *[[TCA]]:* z.B. Amitriptylin
 > 	- *Muskelrelaxanzien:* ###
 > 	- *[[Antipsychotika]]:* insb. Chlorpromazin, Olanzapin, Quetiapin
+
+## Literatur
+- [Toxinfo: Anticholinerges Syndrom](https://www.toxinfo.de/kategorien/toxidrome/artikel/anticholinerges-syndrom)

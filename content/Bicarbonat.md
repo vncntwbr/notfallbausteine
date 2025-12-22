@@ -1,6 +1,7 @@
 ---
 tags:
   - Fach/Pharmakologie
+  - Interventionen/Antidote
 ---
 
 ## UAW & KI
@@ -19,3 +20,5 @@ tags:
 - **[[Intox]]**
 	- Alkalisation von [[Salicylate]]
 	- [[Na+ Kanal Blocker]]
+## Literatur
+- [Toxinfo: Natriumbicarbonat](https://www.toxinfo.de/kategorien/antidote/artikel/natriumbikarbonat)

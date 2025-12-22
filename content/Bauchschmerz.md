@@ -46,7 +46,7 @@ aliases:
 > - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
 > - **[[POCUS]]:** FAST, Bauchaorta (>60 J.), Nieren, Harnblase, Gallenblase/Leber, Darm
 > - **[[EKG]]:** DD [[ACS]], [[VHF]] ([[Mesenterialischämie]])
-> - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" ± PCT
+> - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" ± [[PCT]]
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG
 > - **Immer Indikation weitere Diagnostik/CT:**
 > 	- Abwehrspannung, Peritonismus

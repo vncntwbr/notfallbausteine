@@ -12,7 +12,7 @@ aliases:
 
 > [!dd]+ DD
 >  - **HÄUFIG: Infektion/[[Sepsis]]**
->  - **[[Intox]]:** [[Malignes Neuroleptisches Syndrom|Maligne Neurleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Maligne Hyperthermie|MH]]
+>  - **[[Intox]]:** [[MNS|Maligne Neurleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Maligne Hyperthermie|MH]]
 >  - **[[Hitzschlag]]**
 >  - **[[Thyreotoxische Krise]]**
 >  - Sympathikus-Erregung / körperliche Belastung

@@ -10,7 +10,7 @@ title: Hyperthyreose (TSH↓)
 > [!danger]+ Resuscitation – Thyreotoxische Krise
 > 1. **[[O2]]** hochdosiert, bei [[Lungenödem]] [[NIV]], Cave bei großem Struma [[Anatomisch schwieriger Atemweg]]
 > 2. **[[Volumentherapie]]**
-> 3. **Antipyrese:** Paracetamol 1g i.v., ggf. physikalische Kühlung
+> 3. **Antipyrese:** [[PCM]] 1g i.v., ggf. physikalische Kühlung
 > 4. **Thyreostatika:** Thiamazol 80 mg i.v.
 > 5. **Prednisolon** 250 mg i.v.
 > 6. **[[POCUS]]:** EF?
