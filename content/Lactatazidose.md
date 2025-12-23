@@ -6,7 +6,7 @@ aliases:
   - Laktatazidose
 title: Lactatazidose / Laktatazidose
 ---
-> [!DD]- Lactatazidose
+> [!DD]- DD Lactatazidose
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**
 > 	- [[Schock]], Hypoxämie, [[Anämie]], CO
 > 	- Nekrose, Ischämie, Tumor
@@ -26,7 +26,5 @@ title: Lactatazidose / Laktatazidose
 
 ^961d37
 
-[^1]
-
-
-[^1]: Cliff Reid. [YouTube: Understanding Elevated Lactate](https://www.youtube.com/watch?v=TuvKcplVQLg&t=77s)
+## Literatur
+- Cliff Reid. [YouTube: Understanding Elevated Lactate](https://www.youtube.com/watch?v=TuvKcplVQLg&t=77s)

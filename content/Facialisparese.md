@@ -5,17 +5,18 @@ tags:
   - Status/Done
 title: Periphere Facialisparese
 ---
-> [!info]+ Definition
-> - **Periphere Facialisparese** = Stirn mitbetroffen (sonst V.a. [[Stroke]]!)
-> - **Ä:** 75% idiopathisch, ansonsten Borreliose, [[Zoster]] (Ramsay-Hunt-Syndrom), HIV
+> [!dd]+ Periphere Facialisparese = Stirn mitbetroffen (sonst V.a. [[Stroke]]!)
+> - **Ätiologie periphere Facialisparese:**
+> 	- 75% idiopathisch
+> 	- ansonsten Borreliose, [[Zoster]] (Ramsay-Hunt), HIV
 
-> [!workup]+
+> [!workup]-
 > - Siehe [[FND]]
 > - **[[Untersuchung|U]]:** Grinsen, Augen schließen, Backen aufpusten, Stirn runzeln (bei zentraler Facialisparese noch bds. möglich)
 > - **W:** IFP, [[LP]] bei V.a. [[Borreliose|Neuroborreliose]] oder [[Zoster]]
 > - [[LP]] immer anbieten (10% "V.a. idiopathisch" doch andere Genese)
 
-> [!management]+
+> [!management]-
 > - **Nicht-idiopathisch ([[LP]] Pleozytose):** Stationär
 > 	- *V.a. [[Zoster]]:* Prednisolon s.u., Aciclovir i.v.
 > 	- *V.a. Neuroborreliose:* Ceftriaxon 2 g i.v., kein(!) Prednisolon

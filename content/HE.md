@@ -8,7 +8,6 @@ title: Hepatische Enzephalopathie (HE)
 aliases:
   - Hepatische Enzephalopathie
 ---
-## DD
 > [!dd]+ HE Trigger
 > - **Infekt (#1):** Insb. [[SBP]], nachrangig [[HWI]], [[Pneumonie]]
 > - **[[GI-Blutung]]**
@@ -17,7 +16,6 @@ aliases:
 > - **Ernährung:** Protein-Aufnahme↑
 > - **Vaskulär:** TIPS oder spontane portosystemische Shunts, Pfortaderthrombose
 
-## Workup
 > [!anamnese]- Anamnese
 > - **S:** Orientierung/Delir? OPQRST+? Stuhl? H.a. [[GI-Blutung]]? Infekt?
 > - **M:** Therapieadhärenz? Lactulose, Rifaximin, Propranolol, Spironolacton?
@@ -42,13 +40,12 @@ aliases:
 > - **3:** Somnolenz / Sopor
 > - **4:** Koma
 
-## Management
 > [!management]+
 > - ...
 
 > [!disposition]+
 > - ...
-## Textbaustein
+
 > [!note]- Textbaustein
 > ```
 > Blabla

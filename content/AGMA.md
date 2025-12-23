@@ -6,7 +6,7 @@ title: Anionenlücke+ Metabolische Azidose (AGMA)
 aliases:
   - Anionenlücke
 ---
-> [!dd]- Erhöhte Anionenlücke (AGMA)
+> [!dd]- DD Erhöhte Anionenlücke (AGMA)
 > - **Cave:** 
 > 	- [[Physiologisch schwieriger Atemweg]]
 > 	- [[HyperK+|Kalium falsch-hoch]] (+0.5 mM je -0.1 pH)

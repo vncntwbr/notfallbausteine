@@ -8,7 +8,7 @@ aliases:
   - Kardioversion
 title: Elektrische Kardioversion (eKV)
 ---
-> [!danger] Notfall-Kardioversion
+> [!danger]+ Notfall-Kardioversion
 > 1. **Indikation:** Instabilitäskriterien ([[Schock]], [[Vigilanzminderung]], Akute [[Herzinsuffizienz]], Myokardiale Ischämie = [[ACS]]-Sympt. oder [[EKG]])
 > 2. **ABC:** Schockraum, Monitoring, [[BVM]], Absaugung
 > 3. **Patches:** [[VT]] und [[VHF]] anterolateral[^2], SVT anteroposterior
@@ -17,12 +17,12 @@ title: Elektrische Kardioversion (eKV)
 > 6. **Schock:** [[VT]] 120-150 J, [[VHF]] 200 J, [[SVT]] 120 J
 > 7. **Failure:** Elektrodenposition? [[HyperK+]]? [[Intox]]? ggf. Antiarrhythmika
 
-
-> [!note]+ Textbaustein
+> [!note]- Textbaustein
 > ```
 > Elektr. Kardioversion: Notfallindikation bei INSTABILITÄTSKRITERIEN. Antikoagulation: Bislang KEINE. Mündliche Aufklärung (insb. Risiko HRST bis Arrest). Kont. Monitoring. Sedierung mit Propofol 0000 mg titriert i.v. komplikationslos. Nach 1 Schock in AL Pos. mit 0000 J Konversion in nfSR.
 > ```
----
+
+## Notizen
 - *[[VT]]:* Patches AP, Start 120-150 J
 - *[[SVT]]:* Patches AP, Start 70-120 J
 - *[[VHF]]:* Patches AL[^2], direkt 200 J

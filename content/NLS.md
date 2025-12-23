@@ -6,9 +6,13 @@ tags:
   - Fach/Gynäkologie
   - Status/Done
   - Probleme/Kinder
+aliases:
+  - Newborn-Life-Support
+  - Neugeborenen-Reanimation
+title: Neugeborenen-Reanimation / Newborn-Life-Support (NLS)
 ---
 
-> [!danger] Erste Minute
+> [!danger]+ Erste Minute
 > 1. **TIMER** starten
 > 2. **TROCKNEN, STIMULIEREN, WÄRME**
 > 3. **APGAR #1:** Aussehen, Puls, Grimassieren, Aktivität, Respiration

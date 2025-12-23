@@ -10,20 +10,20 @@ title: Lungenarterienembolie (LAE)
 ---
 ![[Crashing RV#^957508]]
 
-> [!workup]+
+> [!workup]-
 > - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? [[Fieber]]? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
 > - **[[Untersuchung|U]]:** VP, Halsvenenstauung? TVT?
 > - **[[EKG]]:** RV-Strain (Sinustachy, T-Neg III + V1-V4, SIQIIITIII, RSB)
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?
 > - **[[Labor]]:** BGA ([[Respiratorische Alkalose]]), Basis-Labor ± D-Dimer, [W] β-HCG
 
-> [!stadien] 
+> [!stadien]-
 > - **High-Risk:** Schock
 > - **Intermediate-High-Risk:** sPESI ≥1, RHB+, Troponin+
 > - **Intermediate-Low-Risk:** sPESI ≥1, RHB–, Troponin–
 > - **Low-Risk:** sPESI =0
 
-> [!management]+
+> [!management]-
 > - **High-Risk:** [[Lyse]], RS [[Thrombektomie]], überbrückend UFH Perfusor, ITS
 > - **Intermediate:** NMH, [high] ITS [low] NST
 > - **Low:** DOAK, bei [Hestia-Kriterien](https://www.mdcalc.com/calc/3918/hestia-criteria-outpatient-pulmonary-embolism-treatment) 0 Pkt. ggf. ambulant
@@ -74,4 +74,4 @@ title: Lungenarterienembolie (LAE)
 ## Literatur
 - [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
 
-[^1]: S2k-LL
+[^1]: [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)

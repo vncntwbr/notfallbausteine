@@ -1,5 +1,8 @@
 ---
 title: Mid-Esophageal Bicaval View (ME Bicaval)
+tags:
+  - Interventionen/POCUS/TEE
+  - Status/Done
 ---
 - Von [[ME 2C]] (90°)
 - Probe rechts drehen

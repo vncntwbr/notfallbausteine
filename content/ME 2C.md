@@ -1,5 +1,8 @@
 ---
 title: Mid-Esophageal 2-Chamber (ME 2C)
+tags:
+  - Interventionen/POCUS/TEE
+  - Status/Done
 ---
 - von [[ME 4C]]
 - Winkel 90°

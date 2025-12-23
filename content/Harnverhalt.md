@@ -7,7 +7,7 @@ tags:
 > [!info] Definition
 > Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
 
-> [!dd]+ DD
+> [!dd]- DD
 > - **Killer:** [[Querschnitt]] / Cauda-Equina-Syndrom (siehe [[Rückenschmerz]])
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
@@ -26,7 +26,7 @@ tags:
 > - **[[Urin]]:** immer [[U-Status]], ggf. Urinkultur
 > - **[[POCUS]]:** Harnwege, Harnstau, Tamponade, Tumor
 
-> [!management]+
+> [!management]-
 > 1. **[[Blasenkatheter]]** [W] 12-14 Ch. [M] 14-16 ggf. Tiemann 16-18 bei BPH, bei Harnröhrenstriktur, -verletzung oder Failure RS Urologie SPDK oder cystoskopische DK-Anlage
 > 2. **Polyurie-Monitoring:** Bilanzierung, 50% Ausfuhr i.v. ersetzen, viel trinken, [[BGA]]-Kontrollen
 > 3. **V.a. BPH:** Antiobstruktive Med beginnen (Tamsulosin 0.4 mg 1-0-0) / intensivieren (Tamsulosin + Dutasterid 0.5 mg 1-0-0), Cave UAW Orthostase

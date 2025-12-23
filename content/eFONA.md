@@ -4,7 +4,7 @@ tags:
   - Status/Done
 title: Emergency Front of Neck Access (eFONA) & Koniotomie
 ---
->[!danger] Koniotomie
+>[!danger]+ Koniotomie
 > 1. **ApnoeOx**
 > 2. **Laryngeal-Handshake** fixieren mit linker Hand von kranial
 > 3. **Längsschnitt** 5 cm, *Lig. cricothyreoideum ertasten*

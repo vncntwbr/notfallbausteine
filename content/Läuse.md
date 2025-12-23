@@ -7,16 +7,16 @@ tags:
 aliases:
 title: Läuse-Befall
 ---
-> [!management]+
+> [!management]-
 > - **Haare:** Dimeticon-Lösung ins *trockene* Haar einmassieren und nach Packungsbeilage einwirken lassen (Pedicul Fluid® / Jacutin®: 10 min, NYDA® 8h), danach mit warmem Wasser und Shampoo auswaschen, Haare mit Nissenkamm Strähne für Strähne durchkämmen
 > - **Kleidung/Gegenstände:** In dicht verschlossenem Plastiksack warm und trocken für min. 4d
 > - Informationsflyer [Albanisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_ALBAN.pdf) [Arabisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_ARAB.pdf) [Deutsch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_DEU.pdf) [Englisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_ENGL.pdf) [Farsi](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_FARSI.pdf) [Französisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_FRANZ.pdf) [Kurmanci](http://medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_KUR.pdf) [Rumänisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_RUMAEN.pdf) [Russisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_RUSS.pdf) [Serbisch](http://medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_SERB.pdf) [Sorani](http://medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_SOR.pdf) [Tigrinya](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_TIGR.pdf) [Türkisch](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_TURK.pdf) [Urdu](http://www.medi-bild.de/pdf/kopflaeuse2/Kopflaeuse_URDU.pdf)
 
-> [!disposition]+
+> [!disposition]-
 > - i.d.R. ambulant
 > - bei Pat. OfW oder anderer stationären Aufnahmeindikation ggf. Therapieeinleitung in ZNA
 
-> [!note]- Textbaustein
+> [!note]- Textbaustein Läuse
 > ```
 > Klinisch und anamnestisch V.a. Befall mit Läusen. 
 > 

@@ -21,7 +21,7 @@ aliases:
 > - [[Pneumonie]] / [[Sepsis]]
 > - [[Schock]] / [[Metabolische Azidose]]
 
-> [!dd]+ DD
+> [!dd]- DD
 > - **Kardiovaskulär**
 > 	- [[ACS]]
 > 	- [[Herzinsuffizienz]]
@@ -57,7 +57,7 @@ aliases:
 > - **Psychogen**
 > 	- Angst, Schmerz, Hyperventilation
 
-> [!workup]+
+> [!workup]-
 > - **[[EKG]]:** [[Ischämie-EKG]]? HRST? [[Tachykardie]]+[[RHB]]? Niedervoltage/Alternans?
 > - **[[POCUS]]:** RUSH oder min. [[TTE]] + [[LUS]]
 > - **[[Labor]]:** [[BGA]] (Säure-Basen), Profil "Pneumonie" ± [[D-Dimer]] (s. [[LAE]]) ± [[Troponin]] (ohne [[Brustschmerz]] nur wenn ACS plausible DD + [[EKG]]-Veränderungen)

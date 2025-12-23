@@ -8,20 +8,20 @@ title: Balanitis / Eichelentzündung
 aliases:
   - Eichelentzündung
 ---
-> [!anamnese]+ Typische Ursachen
+> [!anamnese]- Typische Ursachen
 > - Schlechte Intimhygiene (Smegma)
 > - Diabetes (Balanitis diabetica)
 > - Candidose, Bakterielle Vaginose oder Besiedelung mit Gardnerella vaginalis der Partnerin
 > - Windeldermatitis / Inkontinenz
 > - Phimose (Kinder)
 
-> [!workup]+
+> [!workup]-
 > - **[[Anamnese|A]]:** [[STI]]-Anamnese (Vaginalpilzinfektion Partnerin? Syphilis? Chlamydien? Herpes genitalis?)
 > - **[[Untersuchung|U]]:** Blickdiagnose, VP ([[Fieber]]? → [[Sepsis]]-Workup, DD Fournier-Gangrän)
 > - **Abstrich:** ggf. [[STI]] (Syphilis, Chlamydien, Herpes genitalis), atypischer Befund ggf. E+R, Candida, HSV
 > - **[[Urin]]:** Glucosurie (SGLTi? ED Diabetes? HWI?)
 
-> [!management]+
+> [!management]-
 > - **V.a. Candida-Balanitis:** (flächiges Erythem, brennend, juckend, [[Anamnese|A]] Partnerin) zzgl. Clotrimazol 1% Salbe 3x/d, Partnerin mitbehandeln
 > - **Therapierefraktär:** Konsil Urologie (PECA Penis, Ausschluss Malignom)
 > - **Phimose:** ggf. Gentamicin-Salbe lokal (z.B. Infectogenta AS 3mg/g 6x/d unter Vorhaut)

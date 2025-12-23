@@ -18,7 +18,6 @@ aliases:
 > 3. **Dx:** [[POCUS]] postrenal? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 
-## DD
 > [!dd]- Prärenal
 > - **Perfusion↓:** Hypovolämie, [[Schock]] jeder Ätiologie
 > - **Vaskulär:** Nierenarterieninfarkt/-stenose
@@ -47,7 +46,6 @@ aliases:
 > - **CTx:** Viele Biologika, Checkpoint-Inhibitoren, Platin, Cyclophosphamid, MTX
 > - **Immunsuppressiva:** Calcineurin-Inhibitoren (Cyclosporin, Tacrolimus)
 > - Sulfasalazin, IVIG, Mannitol, [[NSAR]]
-## Workup
 
 > [!anamnese]- Anamnese
 > - **S:** Dyspnoe? Infekt?
@@ -69,7 +67,7 @@ aliases:
 > - **AKIN 3:** Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
 
 ![[CKD#^5b5bc5]]
-## Management
+
 > [!management]-
 > 1. **[[HyperK+]] Therapie**
 > 2. **Nach Art:**
@@ -81,7 +79,7 @@ aliases:
 ![[Dialyse#^666546]]
 
 ![[HRS#^529493]]
-## Textbaustein
+
 > [!note]- Textbaustein AKI
 > ```
 > ToDo

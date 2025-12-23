@@ -6,7 +6,7 @@ tags:
   - Fach/Labormedizin
   - Status/Done
 ---
-> [!dd]+ DD
+> [!dd]- DD Respiratorische Alkalose
 > - **Hypoxie-getriggert:** 
 > 	- True Hypoxia (z.B. [[Lungenödem]], [[Pneumonie]], [[LAE]], Aspiration)
 > 	- V/Q-Mismatch

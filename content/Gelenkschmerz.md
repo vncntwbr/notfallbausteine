@@ -7,13 +7,13 @@ aliases:
 > [!danger]+ Rapid Reference
 > 1. **Septische Arthritis** Ausschluss immer durch Punktion bei system. Sympt. od. RF (Trauma/OP)
 
-> [!dd]+ DD
+> [!dd]- DD
 > - *Schulterschmerz:* [[ACS]], [[Gallenerkrankungen]] (rechts)
 > - **Killer:** 
 > - **Häufig:**
 > - **Selten:** 
 
-> [!workup]+
+> [!workup]-
 > - **[[Anamnese|A]]:** 
 > - **[[Untersuchung|U]]:**
 > - **[[EKG]]:**
@@ -21,7 +21,7 @@ aliases:
 > - **[[Labor]]:** 
 > - **Red Flags:**
 
-> [!management]+
+> [!management]-
 > - **Disposition:** 
 
 > [!note]- Textbaustein

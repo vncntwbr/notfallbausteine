@@ -18,20 +18,20 @@ title: Schwäche & AZ-Minderung inkl. Liegetrauma
 > - Harnverhalt? [[Obstipation]]?
 > - Trauma ([[SHT]], Schmerzen, Liegetrauma)?
 
-> [!anamnese]+ (Fremd-)Anamnese
+> [!anamnese]- (Fremd-)Anamnese
 > - **S:** H.a. Infektion?
 > - **M:** Neu? [[Anticholinerg]]? Sedativa? [[Antipsychotika]]? [[Opioide]]? [[Interaktionen]]? Neue Meds?
 > - **E:** Funktioneller Vorzustand?
 > - **Sozial:** Therapieziel ([[Palliativ]])?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)? Vollständiger Status (Herz, Lunge, Abd., Beine, Haut, Neuro), [Delir-Screening 4AT](https://www.mdcalc.com/calc/3982/4-test-delirium-assessment)
 > - **[[EKG]]** 
 > - **[[POCUS]]:** RUSH
 > - **[[Labor]]:** Profil "Unklar", [[CK]], [[BGA]]
 > - **[[Urin]]:** [[U-Status]]
 
-> [!management]+
+> [!management]-
 > - **Kausale Therapie**
 > - **[[Delir]]** siehe dort
 > - **Liegetrauma:** Zugrundeliegende Ursache,[[AKI]]-Therapie; bei [[Rhabdomyolyse]] forcierte Diurese evtl. +Mannitol

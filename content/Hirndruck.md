@@ -9,8 +9,7 @@ aliases:
   - Einklemmung
   - Intrakranieller Druck
 ---
-
->[!danger] Akute Einklemmung (GCS↓ + Anisokorie + Cushing-Reflex RR↑/HF↓ + Beuge-/Strecksynergismen)
+>[!danger]+ Akute Einklemmung (GCS↓ + Anisokorie + Cushing-Reflex RR↑/HF↓ + Beuge-/Strecksynergismen)
 > 1. **Abfluss:** OberkörperHOCHlagerung 30°, kein Stifneck
 > 2. **[[RSI]]** mit tiefer Narkose
 > 3. **Milde HYPERVENTILATION:** AF 20/min, Ziel-pCO2 ≈30 mmHg
@@ -20,10 +19,11 @@ aliases:
 > 7. **Sonderfall VP-SHUNT:** Reservoirpunktion mit Butterfly 23G blau (NCh)
 > 8. **ENTLASTUNG:** [[EVD]], Bohrloch o.a. (NCh)
 
-> [!workup]+
+> [!workup]-
 > - **[[POCUS]]:** [[Opticusdurchmesser]]
+> - **[[cCT]]**
 
-> [!management]+
+> [!management]-
 > 1. **Akute Einklemmung:** s.o.
 > 2. **[[Intrakranielle Blutung]] unter [[AK]]:** [[Blutungsmanagement|Antagonisierung]]
 > 3. **Hypotonie aggressiv verhindern:** Ziel-RRsys >120, [[Hypertonie]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
@@ -31,10 +31,6 @@ aliases:
 > 5. **[[Krampfanfall]]** sofort durchbrechen
 > 6. **Normothermie:** Antipyrese ab 37.7°C mit [[PCM]], Metamizol, physikalisch
 > 7. **Hirntumor/-metastase:** Dexamethason 20-40 mg langsam i.v.
-
-[^1]
-
----
 ## Schulung
 - [DGN Fortbildung ICP](https://www.dgn.org/mediathek/videoplayer/intrakranieller-druck)
 

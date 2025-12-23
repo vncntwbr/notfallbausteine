@@ -13,7 +13,7 @@ title: Brustschmerz / Thoraxschmerz
 > - **[[Pneu]]** ([[LUS]] Pleuragleiten)
 > - **[[Ösophagusruptur]]** ([[Anamnese|A]]: Erbrechen)
 
-> [!dd]+ DD
+> [!dd]- DD
 > - **Kardiovaskulär:**
 > 	- [[ACS]]
 > 	- [[LAE]]
@@ -38,7 +38,7 @@ title: Brustschmerz / Thoraxschmerz
 > 	- Funktionelle Beschwerden
 
 
-> [!anamnese]+ Anamnese
+> [!anamnese]- Anamnese
 > - **S:** ==OPQRST+==[^2] (reißend, wandernd, stärkst → Aorta)? [[Dyspnoe]]? [[Husten]], [[Hämoptysen]]? [[Ü+E]]? [[Fieber]]?
 > - **A:** Analgetika-Asthma?
 > - **M:** ASS/DAPT? [[AK]]?
@@ -48,7 +48,7 @@ title: Brustschmerz / Thoraxschmerz
 > - **R:** CVRF? Familienanamnese ([[MI]], Aorta)? Drogen (Kokain u.ä. → [[ACS]]; THC → [[Pneu]])?
 
 
-> [!workup]+
+> [!workup]-
 > 1. **[[Untersuchung|U]]:** 
 > 	- VP (insb. AF, HF)? 
 > 	- Herzgeräusch? Stauung? 

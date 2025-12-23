@@ -2,6 +2,7 @@
 tags:
   - Probleme/Abdomen
   - Lernen
+  - Fach/Gastroenterologie
 ---
 ## Lernen
 ### Ätiologie 

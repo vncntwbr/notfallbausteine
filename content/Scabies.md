@@ -4,16 +4,19 @@ tags:
   - Diagnosen
   - Status/Done
 title: Scabies / Krätze
+aliases:
+  - Skabies
+  - Krätze
 ---
-> [!workup]
+> [!workup]-
 > Blickdiagnose bei passender Anamnese (Brennen/Juckreiz, insbesondere nachts) und typischem ekzemartigen Hautbefund mit Milbengängen (insbesondere in Hautfalten, interdigital, Handgelenke, um die Brustwarzen, Genitalbereich). Im Zweifel → Derma-Konsil.
 
-> [!Management]
+> [!Management]-
 > - Rezept für Permethrin 5% Creme (Infectoscab) ausstellen und Anwendung erläutern (s. Textbaustein)
 > - ggf. parallel Loratadin gegen Juckreiz empfehlen
 > - [Informationsflyer](http://www.setzer-verlag.com/epages/79584208.sf/de_DE/?ObjectPath=/Shops/79584208/Products/12) ausdrucken und mitgeben
 
-> [!note]+ Textbaustein
+> [!note]+ Textbaustein Scabies
 > ```
 > Zusammenfassend klinisch und anamnestischV.a. Scabies.
 > 

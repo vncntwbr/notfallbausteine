@@ -6,7 +6,6 @@ tags:
 ---
 > [!dd] [[Krampfanfall]], [[AKI]]
 
-## Workup
 > [!workup]- Hinweise für genetische Prädisposition (RHABDO)
 > - Recurrent exertional rhabdo
 > - Hyper-CK persists >8 weeks after event
@@ -15,8 +14,6 @@ tags:
 > - Drugs and other factors do not explain rhabdo
 > - Other family members effected / other exertional symptoms (cramps, myalgia)
 
-
-## Management
 > [!management]- Exertional Rhabdomyolyse (inkl. [[Krampfanfall]] etc.)
 > - **CK <10.000 U/L:** keine Therapie
 > - **CK <15.000 U/L:** Entlassung mit folgenden Empfehlungen:

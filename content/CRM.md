@@ -1,12 +1,11 @@
 ---
 tags:
   - Druck
-  - Status/Done
   - Basics
 title: Crew-Resource-Management (CRM) & Arbeitsbedingungen
 ---
 
-> [!info] CRM-Leitsätze (nach Rall & Gaba)
+> [!info]+ CRM-Leitsätze (nach Rall & Gaba)
 > 1. Kenne deine Arbeitsumgebung
 > 2. Antizipiere und plane voraus.
 > 3. Fordere Hilfe an – lieber früh als spät.

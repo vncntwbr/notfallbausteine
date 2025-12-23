@@ -20,7 +20,7 @@ aliases:
 > - **Häufig:** Schmerzen ([[Analgesie]]), Stress (Beruhigung), Fehlmessung
 > - **Weiteres:** [[Intox]], [[Entzug]], [[Harnverhalt]], [[Delir]], [[AKI]], Hyperaldosteronismus
 
-> [!anamnese]+ Anamnese
+> [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? [[TLOC]]? [[Ü+E]] (nüchtern)?
 > 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Bradykardie]] (Cushing-Reflex)
 > - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → [[AKI]])?
@@ -29,14 +29,14 @@ aliases:
 > - **E:** [[SHT]]?
 > - **R:** CVRF? Alkohol/Drogen, [[Entzug]]?
 
-> [!workup]+
+> [!workup]-
 > 1. Bei asympt./oligosympt. (z.B. leichter [[Kopfschmerz]], Unruhe, [[Epistaxis]]) Hypertonie nur A+U und [[EKG]], weitere Diagnostik nur bei Auffälligkeiten
 > - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
 > - **[[EKG]]**
 > - ggf. [[POCUS]] (Harnverhalt?)
 > - **[[Urin]]:** ggf. [[U-Status]] (V.a. [[AKI]] / Maligne HTN), [W] β-HCG 
 
-> [!management]+ Akutes Management
+> [!management]- Akutes Management
 > 1. **Nur bei H.a. Endorganschäden:** spezifische Therapie, ggf. RR-Senkung z.B. Urapidil 5-mg-weise i.v., max -20%
 > 	- Vordere [[Epistaxis]] ist nicht RR-verursacht + gut durch Kompression therapierbar
 > 2. **Auslöser:** [[Analgesie|Schmerzen]], Stress/Angst, [[Harnverhalt]] etc. adressieren
@@ -63,7 +63,7 @@ aliases:
 > 	- Valsartan 160 mg/d
 > 	- Amlodipin 10 mg/d
 
-> [!note]+ Textbaustein Hypertensive Entgleisung
+> [!note]- Textbaustein Hypertensive Entgleisung
 > ```
 > Vorstellung bei isoliert hypertensiven RR-Werten, abseits von BEGLEITSYMPTOME asymptomatisch. Kein H.a. akute Endorganschädigung. Somit keine Indikation zur Akuttherapie nach ESC-Leitlinie. Ausführliche Beratung zum Umgang mit RR-Entgleisungen. ###ED: Es besteht der V.a. arterielle Hypertonie, zur Diagnose müssen jedoch ambulante Bestätigungsmessungen erfolgen. 
 > 

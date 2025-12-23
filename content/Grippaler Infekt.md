@@ -5,7 +5,7 @@ tags:
   - Diagnosen
 ---
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein Grippaler Infekt
 > ```
 > Zusammenfassend V.a. typischen viralen Atemwegsinfekt ohne H.a. für behandlungsbedürftige bakterielle Infektion. Entlassung in gutem AZ bei stabilen VP.
 > 

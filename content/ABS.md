@@ -2,6 +2,8 @@
 aliases:
   - Antibiotic Stewardship
 title: Antibiotic Stewardship (ABS)
+tags:
+  - Fach/Infektiologie
 ---
 ## [[ABx]] Auswahl
 ### C. diff. Raten

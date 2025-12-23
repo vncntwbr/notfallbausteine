@@ -30,4 +30,4 @@ title: Medikamentöse Thrombolyse
 > - [ ] [[Hypoglykämie]]/[[Hyperglykämie]]
 > - [ ] [[Schwanger]]
 
-[^1]: in Fallserien kein erhöhtes Blutungsrisiko
+[^1]: in Fallserien kein erhöhtes [[Blutungsrisiko]]

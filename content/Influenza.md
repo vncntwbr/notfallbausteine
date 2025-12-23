@@ -10,21 +10,21 @@ title: Influenza A/B / Grippe
 
 > [!dd]+ DD: [[Grippaler Infekt]]
 
-> [!anamnese]+ Anamnese
+> [!anamnese]-
 > - **S:** Symptombeginn <48h?
 > - **P:** [[Immunsupp.]] (auch Diabetes, Sucht, ...)? Herz, Lunge, Leber, Neurologie? Adipositas?
 > - **L:** Impfung?
 > - **R:** [[Schwanger]]/Wochenbett? 
 > - **Sozial:** Kontaktpersonen mit Indikation Oseltamivir-PEP? Häusliche Versorgung? Pflegeheim?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (validierte AF)? Fokus H.a. bakterielle Superinfektion, respiratorische Insuffizienz, [[Herzinsuffizienz]], Orientierung, Gang-/Standsicherheit?
 > - **[[EKG]]:** HRST? H.a. Myokarditis? QTc?
 > - **[[Labor]]:** Profil "[[Pneumonie]]", bei älteren Pat. "Sepsis" + [[BK]], [[BGA]]
 > - **Abstrich:** PCR (Influenza A/B ± SARS-CoV-2, RSV)
 > - **[[Radiologie]]:** ggf. CT-Thorax lowdose nativ bei V.a. bakt. Superinfektion oder resp. Insuffizienz (kein Routine-Röntgen)
 
-> [!management]+
+> [!management]-
 > - **Indikation Oseltamivir (Tamiflu®)** 75 mg p.o. 1-0-1 für 5d ([DANI](https://dosing.de/popup_niere.php?monoid=519))
 > 	1. *Symptombeginn <48h* UND
 > 	2. *Risikofaktoren:* 
@@ -44,11 +44,11 @@ title: Influenza A/B / Grippe
 > 	- *[[Rhabdomyolyse]]:* [[Volumentherapie]]
 > 	- *[[Krampfanfall]]:* Standardtherapie (häufige Komplikation)
 
-> [!disposition]+
+> [!disposition]-
 > - **Ambulant:** AZ stabil, VP stabil ohne O2, gesicherte häusliche Versorgung
 > - **Normalstation:** O2 bis 4 l/min, PaCO2 normwertig, AF <30
 
-> [!note]- Textbaustein Ambulant
+> [!note]- Textbaustein Influenza Ambulant
 > ```
 > Zusammenfassend V.a. Influenza (Virusgrippe), in PCR Influenza A/B positiv. Aktuell bei stabilen Vitalparametern und gesicherter häuslicher Versorgung keine Indikation für weitergehende Diagnostik oder stationäre Aufnahme, insb. kein H.a. bakterielle Superinfektion oder respiratorische Insuffizienz.
 > 

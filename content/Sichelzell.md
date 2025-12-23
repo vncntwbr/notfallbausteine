@@ -8,16 +8,16 @@ aliases:
   - Sichelzellkrise
   - Sichelzellanämie
 ---
-> [!danger] Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
+> [!danger]+ Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
 > 1. **Erkennen**
-> 	- **Symptome:** [[Brustschmerz]], Tachypnoe, Hypoxie, [[Husten]], [[Fieber]] +
-> 	- **[[POCUS]] / [[Rö Tx]]:** Neue Konsolidierung, typisch basal + Randwinkelergüsse
+> 	- *Symptome:* [[Brustschmerz]], Tachypnoe, Hypoxie, [[Husten]], [[Fieber]] +
+> 	- *[[POCUS]] / [[Rö Tx]]:* Neue Konsolidierung, typisch basal + Randwinkelergüsse
 > 2. **Info** Häma, ITS avisieren
 > 3. **Kreuzblut** abnehmen, in RS ggf. [[Transfusion]] bei Hb <7 g/dl bzw. Austauschtransfusion bei Hb >7 g/dl
 > 4. **Volumenrestriktion** (2 L/d, bevorzugt p.o.)
 > 5. **O2** ausnahmsweise SpO2 >95%, konsequent Atemtherapie
 
-> [!DD]+ Sichelzellanämie = Risiko für:
+> [!DD]- Sichelzellanämie = Risiko für:
 > - **[[Sepsis]]/OPSI** (funktionelle Asplenie)
 > - **Hämolyse**, bei Virusinfekt aplastische Krisen
 > - **Vasookklusive Schmerzkrisen**
@@ -26,7 +26,7 @@ aliases:
 > - **[[Gallenerkrankungen]]**
 > - **[[Priapismus]]**
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? Infekt? Dyspnoe? Husten? H.a. ATS s.o.?
 > - **A:** Transfusionsreaktion?
 > - **M:** Selbstmedikation?
@@ -35,7 +35,7 @@ aliases:
 > - **E:** Infekt? Trauma/OP?
 > - **R:** Drogen?
 
-> [!workup]+
+> [!workup]-
 > - **U:** Status
 > - **[[Labor]]:** [[BGA]], Profil "Bauchschmerz" + [[PCT]], LDH, freies Hb, HbS (telefonisch), Kreuzblut (Diagnose Sichelzellanämie + Vortransfusion angeben)
 > - **[[Urin]]:** [[U-Status]] (Hämoglobinurie, HWI)?
@@ -43,7 +43,7 @@ aliases:
 > - V.a. Infekt: PCR, [[BK]], Legionellen-/Pneumokokken-Ag im Urin
 > - ggf. [[Rö Tx]] (ATS, Infiltrate), CT vermeiden
 
-> [!management]+
+> [!management]-
 > 1. **\*Zurückhaltend* O2** (nur bei SpO2 <95%)
 > 2. **\*Zurückhaltend* Volumen** (Überwässerung = Risiko ATS)
 > 3. **Atemtherapie konsequent** z.B. Triflo, jede auch nur milde Hypoventilation meiden (Risiko ATS)

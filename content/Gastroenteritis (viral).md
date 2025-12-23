@@ -5,7 +5,7 @@ tags:
   - Diagnosen
 ---
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein Virale Gastroenteritis
 > ```
 > Zusammenfassend klinisch und anamnestisch V.a. Gastroenteritis, am ehesten viraler Genese. Bedarfsgerechte intravenöse und orale Rehydratation. Symptomatische Therapie mit ### Antiemetika/Analgetika. Aktuell kein H.a. abwendbar gefährlichen Verlauf. Entlassung in gebessertem AZ bei normwertigen Vitalparametern.
 > 

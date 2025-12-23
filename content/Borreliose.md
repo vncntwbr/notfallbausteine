@@ -9,19 +9,19 @@ aliases:
   - Lyme
 title: Lyme-Borreliose (Erythema migrans)
 ---
-> [!DD]+ DD
+> [!DD]- DD
 > - Insektenstich (keine Symptomlatenz, abklingend nach 48h)
 > - Erysipel (Entzündungszeichen)
 > - Pilzinfektion (Juckreiz, Schuppung)
 > - Ringelröteln (Kinder, [[Fieber]], ggf. Antikörpernachweis)
 
-> [!workup]+
+> [!workup]-
 > - **[[Anamnese|A]]:** Auftreten 3-30d nach Zeckenbiss (oft nicht erinnerlich)
 > - **Blickdiagnose:** Erythema migrans (typisch: ≥5 cm Durchmesser, randbetontes Erythem, nicht erhaben, größenprogredient)
 > 	- ggf. atypisch / Borrelien-Lymphozytom, RS Dermatologie
 > - **[[Labor]]:** Borrelien-Serologie nicht zielführend (oft falsch-positiv und falsch-negativ, keine Aussagekraft)
 
-> [!management]+
+> [!management]-
 > - **ABx:** Doxicillin 200 mg p.o. 1x/d für 14-21d (Aufklärung: Photox., nicht mit Milch/Ca2+)
 > - **Kinder/[[Schwanger]]:** Amoxicillin
 > - **V.a. Neuroborreliose** siehe [[Facialisparese]]

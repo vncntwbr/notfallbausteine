@@ -21,29 +21,27 @@ tags:
 > - **Zusatz Albuminurie:** A1 <30, A2 30-300, A3 >300 mg/24h
 
 ^5b5bc5
-
----
-## Mechanismen
-- **Hypervolämie**
-	- [[Hypertonie]]
-	- Ödeme
-	- Interstitielles [[Lungenödem]]
-- **[[Urämie]]**
-	- Foetor, Hautflecken, Pruritus
-	- Hämolyse
-	- Pleuritis
-	- Perikarditis
-	- Urämische Encephalopathie
-	- Urämische Polyneuropathie
-	- [[Thrombopenie]]
-- **[[Elektrolyte]]**
-	- [[HyperK+]]
-	- Hyperphosphatämie
-	- [[Hypocalcämie]]
-	- [[Metabolische Azidose]]
-- **Renale Anämie**
-	- EPO-Mangel → normochrome, normozytäre Anämie
-- **Renale Osteopathie**
-	- Sekundärer Hyperparathyreoidismus
+> [!info]- Mechanismen
+> - **Hypervolämie**
+> 	- [[Hypertonie]]
+> 	- Ödeme
+> 	- Interstitielles [[Lungenödem]]
+> - **[[Urämie]]**
+> 	- Foetor, Hautflecken, Pruritus
+> 	- Hämolyse
+> 	- Pleuritis
+> 	- Perikarditis
+> 	- Urämische Encephalopathie
+> 	- Urämische Polyneuropathie
+> 	- [[Thrombopenie]]
+> - **[[Elektrolyte]]**
+> 	- [[HyperK+]]
+> 	- Hyperphosphatämie
+> 	- [[Hypocalcämie]]
+> 	- [[Metabolische Azidose]]
+> - **Renale Anämie**
+> 	- EPO-Mangel → normochrome, normozytäre Anämie
+> - **Renale Osteopathie**
+> 	- Sekundärer Hyperparathyreoidismus
 ## Literatur
 - [S3-Leitlinie Versorgung von Patienten mit nicht-nierenersatztherapiepflichtiger Nierenkrankheit in der Hausarztpraxis - Chronisch eingeschränkte Nierenfunktion in der Hausarztpraxis](https://register.awmf.org/de/leitlinien/detail/053-048)

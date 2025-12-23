@@ -10,7 +10,7 @@ aliases:
 > - Nicht-einvernehmlicher Sexualkontakt → [[Stuprum]]
 > - Symptomatisch V.a. [[STI]]
 
-> [!management]+
+> [!management]-
 > - **HIV-PEP**
 > 	- *Indikation?* Nach [Leitlinie](https://register.awmf.org/assets/guidelines/055-004l_S2k_Medikamentoese-Postexpositionsprophylaxe-PEP-nach-HIV-Exposition_2022-06.pdf) prüfen; nie >72h nach Kontakt, nie bei regelrechter PrEP, nie bei Oralverkehr
 > 	- Schnellstmöglich (Labor nicht abwarten, direkt einnehmen)
@@ -31,7 +31,7 @@ aliases:
 > 	- *Testung* erst nach 14d sinnvoll (Inkubationszeit)
 > 	- *Doxy-PEP* 1x 200 mg p.o., OLU, bei MSM und bek. HIV, ARR -80% für Syphilis, Gonokokken und Chlamydien[^1]
 
-> [!disposition]+ Risikoreduktion
+> [!disposition]- Risikoreduktion
 > - **PrEP:** Beraten, Verordnung über HIV-Schwerpunktpraxis via GKV, sonst 60€/Mo
 > - **Doxy-PEP:** ggf. auch als "pill-in-the-pocket" auf Privatrezept (OLU)[^1]
 > - **"Safer Sex"** Beratung

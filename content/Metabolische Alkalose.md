@@ -6,7 +6,7 @@ tags:
   - Status/Done
 title: Metabolische Alkalose
 ---
-> [!dd]+ DD
+> [!dd]- DD Metabolische Alkalose
 > - **H+ Shift n. intrazellulär:** 
 > 	- [[HypoK+]]
 > - **H+ Verlust gastrointestinal:**

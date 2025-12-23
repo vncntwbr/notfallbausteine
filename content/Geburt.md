@@ -12,9 +12,9 @@ title:
 > 	1. *Notfalltokolyse:* Monitoring, Fenoterol 12.5 μg i.v., dann 2.5-5.0 μg alle 3 min nach Wirkung, UAW mütterliche Tachykardie
 > 	2. *Notverlegung* in Linksseitenlage mit erhöhtem Becken
 > 	3. *ggf. Lungenreifeinduktion:* Dexamethason 6 mg in RS Gyn/Geb
-> - **Cave: [[PPH|Peripartale Hämorrhagie]]**
+> - **Cave: [[PPH]]**
 
-> [!anamnese]+ Anamnese
+> [!anamnese]- Anamnese
 > - **S:** Wehen (Beginn, Abstand)? Blasensprung? Blutung ("Zeichnungsblutung" normal)? Beschwerden?
 > - **M:** Dauermed? Anti-D-Prophylaxe (Rh-neg. Mutter)?
 > - **P:** Frühere Schwangerschaften/Geburten? Komplikationen? Anmeldung zur Geburt (wo)? Errechneter Termin?
@@ -22,23 +22,23 @@ title:
 > - **E:** [[Abdominaltrauma]]?
 > - **R:** ==Mutterpass== (wenn nicht vorhanden: Alkohol, Drogen, [[STI]])? 
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** Inspektion Vulva (Kindsteile sichtbar?), Tastuntersuchung nur durch Gyn
 > - ggf. [[POCUS]] (kindliche Herzfehler, kein Mutterpass, Größe/Mehrlinge?)
 > - ggf. CTG-Monitoring
 > - **[[Labor]]:** [[BGA]], Profil "Synkope", Blutgruppe
 
-> [!management]+ Vorbereitung
+> [!management]- Vorbereitung
 > 1. **PSA:** Handschuhe, Kittel, Schutzbrille
 > 2. **Decken:** Unterlagen, trockene Handtücher (reichlich), bei Frühgeburt + Frischhaltefolie
-> 3. **[[Neugeborenes]]-Versorgungsplatz:** auf "Stehhöhe", Wärmestrahler an, Handtücher vorwärmen
+> 3. **[[NLS]]-Versorgungsplatz:** auf "Stehhöhe", Wärmestrahler an, Handtücher vorwärmen
 > 4. **[[BVM]]:** Beutel "Kind" + Neo-Maske + PEEP-Ventil + ideal Manometer + an O2 anschließen, aber nicht aufdrehen
 > 5. **Absaugung:** Funktionstest, kleiner Absaugkatheter (blau, hellgrün, schwarz)
 > 6. **Monitoring:** SpO2-Klebesensor, Monitor auf Modus "Neo"
 > 7. **Oxytocin** 3 IE in KI vorbereiten
 > 8. ggf. Alarm Neo-Team via RD (Risikokonstellation, drohende Frühgeburt)
 
-> [!management]+ Geburtsbegleitung
+> [!management]- Geburtsbegleitung
 > 1. **Gebärposition:** Vierfüßler-Stand zwingend bei Beckenendlage(!)[^3]; bei Schädellage nach Wunsch (z.B. Hocke, Vierfüßler, Seitenlage), Cave: Rückenlage unphysiologisch/erschwert!
 > 2. **Manuell:** ggf. Dammschutz, ggf. Köpfchen führen, sicher auffangen(!)
 > 3. **Kurzbeurteilung:** Vitales Kind auf mütterliche Brust, avital→NLS

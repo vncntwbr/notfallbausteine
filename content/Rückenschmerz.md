@@ -16,7 +16,7 @@ zbb: |-
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
 > - **Osteoporotische Fraktur** → bei Osteoporose oder RF großzügig Rö
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? [[Fieber]]? B-Symptomatik? 
 > - **A:** NSAR?
 > - **M:** Cortison? [[Immunsupp.]]? [[AK]]? 
@@ -25,7 +25,7 @@ zbb: |-
 > - **E:** Trauma?
 > - **R:** Infiltrationen/Spritzen?
 
-> [!workup]+ Basis Workup
+> [!workup]- Basis Workup
 > - **[[Untersuchung|U]]:** VP (insb. Temp.)? Rücken (WS-Klopfschmerz, Beweglichkeit)? 
 > 	- *Beine:* Kraftgrade, Lasègue (einschießend bei Flexion Bein >45°)
 > 	- *Neuro:* Zehengang (S1)? Hackengang (L4-5)? Romberg? Sensibilität Beine+Perineum? Reflexe (PSR, ASR)? Radikulär?
@@ -37,7 +37,7 @@ zbb: |-
 > - **[[POCUS]]:** Neurogen Harnverhalt? Aorta >60 J.
 > - **[[Labor]]:** BGA, BB, Krea, CRP, ggf. BSG, ggf. [[BK]]
 
-> [!workup]+ Spezifische Diagnostik
+> [!workup]- Spezifische Diagnostik
 > - **V.a. Rückenmarkskompression/QS:** N0-MRT bei Cauda-Equina-Sympt. (Harnverhalt, Stuhlinkontinenz, Reithosenanästhesie), Radikuläre Sympt. + passendes motorisches Defizit oder + Risiko Metastasen/Infektion
 > - **V.a. Spinale Infektion:** N1-MRT bei mittel-hoch Risiko, bei geringem Risiko BSG, [[BK]], CT, Aufnahme
 > - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, [[AKI]]) ggf. CT Pariser Schema
@@ -61,9 +61,4 @@ zbb: |-
 - [S3-Leitlinie NVL Kreuzschmerz](https://register.awmf.org/de/leitlinien/detail/nvl-007)
 - [S2k-Leitlinie Spondylodiszitis](https://register.awmf.org/de/leitlinien/detail/151-001)
 - [S2k-Leitlinie Wirbelsäulenmetastasen](https://register.awmf.org/de/leitlinien/detail/187-003)
-
-[^1][^2]
-
-[^1]: [Nationale Versorgungsleitlinie Kreuzschmerz](https://register.awmf.org/de/leitlinien/detail/nvl-007)
-
-[^2]: [S3-Leitlinie Rückenschmerz bei Kindern und Jugendlichen](https://register.awmf.org/de/leitlinien/detail/027-070)
+- [S3-Leitlinie Rückenschmerz bei Kindern und Jugendlichen](https://register.awmf.org/de/leitlinien/detail/027-070)

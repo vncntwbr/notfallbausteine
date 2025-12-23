@@ -3,8 +3,7 @@ tags:
   - Interventionen/HALO
   - Status/Done
 ---
-> [!danger] Rapid Reference
-> 
+> [!danger]+ Rapid Reference
 > 1. **Indikation:** Beatmung unmöglich bei schwerst. zirkulärer [[Verbrennung]] Thorax
 > 2. **Vorbereitung:** Tiefe Narkose, sterile Vorbereitung
 > 3. **Schnitt** VAL Axilla bis Rippenbogen

@@ -7,7 +7,7 @@ aliases:
   - Flankenschmerz
   - Abdomenschmerz
 ---
-> [!dd]+ DD
+> [!dd]- DD
 > - **Schock + Bauchschmerz**
 > 	- [[Aorta]]
 > 	- [[EUG]]/Perforation
@@ -33,7 +33,7 @@ aliases:
 > 	- [[Hodentorsion]], [[STI]]
 > - **Ileus, [[Obstipation]]**
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** OPQRST+? [[Ü+E]]? [[Diarrhoe]]/[[Obstipation]]? Miktion? Ausfluss?
 > - **A:** [[Kontrastmittel]]?
 > - **M:** NSAR? Semaglutid?
@@ -42,7 +42,7 @@ aliases:
 > - **E:** Trauma (Milz)? Infekt (EBV)?
 > - **R:** Alkohol? Familie?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Abdomen (IPAP inkl. Leisten), [M <25 J.] Hoden
 > - **[[POCUS]]:** FAST, Bauchaorta (>60 J.), Nieren, Harnblase, Gallenblase/Leber, Darm
 > - **[[EKG]]:** DD [[ACS]], [[VHF]] ([[Mesenterialischämie]])

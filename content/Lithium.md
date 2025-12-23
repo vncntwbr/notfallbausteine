@@ -8,12 +8,12 @@ tags:
 title: Lithium inkl. Intoxikation
 aliases:
 ---
-> [!anamnese]+ Symptome
+> [!anamnese]- Symptome
 > - **ZNS:** [[Vigilanzminderung]], Ataxie, Tremor, Faszikulationen
 > - **GI:** [[Ü+E]], [[Diarrhoe]], Mundtrockenheit
 > - **Kardial:** [[Bradykardie]], [[Long-QT]], breite QRS, selten HRST
 
-> [!management]+
+> [!management]-
 > - **\*Keine* Aktivkohle** (wirkungslos)
 > - **ÖGD-Bergung** bei großer Menge (>80 ml/kg), ggf. vorher Rö Abd (röntgendicht)
 > - **[[Volumentherapie]]**, evtl. [[HyperNa+]] anstreben (renale Lithium-Rückresorption↓)

@@ -9,14 +9,14 @@ title: Urolithiasis / Nierenkolik
 ---
 > [!dd] Beachte DD/Workup [[Bauchschmerz|Bauchschmerz/Flankenschmerz]]
 
-> [!workup]+
+> [!workup]-
 > - **[[POCUS]]:** [[Harnstau]]? H.a. Fornixruptur? Stein darstellbar (Twinkling-Artefakt)?
 > - **[[Labor]]:** [[BGA]], Krea, HST, CRP, BB, bei evtl. OP: INR+PTT
 > - **[[Urin]]:** [[U-Status]] (Mikrohämaturie? Leukos?), Urinkultur, [W] β-HCG
 > - **[[Radiologie]]:** CT-Abd. lowdose nativ zur Steinsuche nur bei DD-Unsicherheit, Infektzeichen, Harnstau >II°, anatomische Anomalien (insb. Einzelniere), [[CKD]] oder Progredienz/Wiedervorstellung trotz adäquater Analgesie[^1]
 > 	- *Nicht in CT darstellbar:* Indinavir-Steine (HIV-Therapeutika UAW) und Matrixsteine (selten, fast nur Frauen)
 
-> [!management]+
+> [!management]-
 > - **[[Analgesie]]:** Metamizol 1g p.o. 1-1-1-1 + [[NSAR]] Ibuprofen/[[PCM]]
 > 	- kein Butylscopolamin[^1]
 > 	- ggf. [[Opioide]], ambulant nur wenn unumgänglich Tilidin/Naloxon 50/4 mg retard 1-0-1[^2]
@@ -24,7 +24,7 @@ title: Urolithiasis / Nierenkolik
 > - **Ureter-Relaxation:** Tamsulosin 0.4 mg p.o. 1-0-0 (OLU)
 > - **Mobilisation/Bewegung** (möglichst Warteraum sitzend)
 
-> [!disposition]+
+> [!disposition]-
 > - **Konservative Therapie:** (1 davon nicht → Konsil Urologie, ggf. stationär)
 > 	- Konkrement <8 mm
 > 	- Analgesie oral suffizient
@@ -32,7 +32,7 @@ title: Urolithiasis / Nierenkolik
 > 	- Nierenfunktion unbeeinträchtigt
 > 	- Keine Infektzeichen
 
-> [!note]- Textbaustein
+> [!note]- Textbaustein Urolithiasis Ambulant
 > ```
 > Zusammenfassend Urolithiasis RECHTS/LINKS. Sonografisch ###, kein Harnstau, kein H.a. Fornixruptur. Suffiziente Analgesie unter Metamizol, Ibuprofen, Tamsulosin und ###Opiat. Im Urinstatus Mikrohämaturie. Kein Anhalt für eine akute Infektion, normwertig. In der low-dose CT-Abdomen kam ein ## mm Konkrement am ### zur Darstellung. Leitliniengemäß somit konservative Therapie indiziert. Aufklärung über Diagnose, Therapie und Wiedervorstellungsgründe. Entlassung in gebessertem AZ bei stabilen VP und suffizienter Analgesie.
 > 

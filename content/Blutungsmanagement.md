@@ -7,11 +7,11 @@ tags:
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 zbb: Test ZBB hier anrufen
 ---
-> [!danger] Blutungsmanagement allgemein
+> [!danger]+ Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
 > 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (16G, [[i.o.]], Shaldon)
 > 3. **LABOR:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]
-> 4. **Ungekreuzte [[Transfusion|TRANSFUSION]]:** 0+ (nur W 0–), Doku numm. Barcodes auf Blanko-A4
+> 4. **Ungekreuzte [[Transfusion|TRANSFUSION]]:** 0+ (nur ♀︎ 0–), Doku numm. Barcodes auf Blanko-A4
 > 5. **ANTAgonisierung**
 > 	- *Xarelto®, Eliquis®, Lixiana®* → PPSB 2.500-5.000 IE
 > 	- *Marcumar®* → PPSB + VitK 10 mg/d für 3d
@@ -21,7 +21,7 @@ zbb: Test ZBB hier anrufen
 > 	- *Thrombos* <50/nl (<100/nl bei [[SHT]]/hereditär) → [[TK]]
 > 6. **GERINNUNGsmanagement**
 > 	- **Calciumgluconat** 10% 10 ml langs. i.v., Ziel iCa2+ ≥1 mmol/l
-> 	- **Akt. Wärmeerhalt** (Lampe, Bairhugger)
+> 	- **Aktiver Wärmeerhalt** (Lampe, Bairhugger)
 > 	- **TXA** 1-2 g
 > 	- **Fibrinogen** 1 g je –5 BE und 1 g je 2 g/dl Hb <12, Ziel ≥2.0-2.5 g/l
 > 7. **MTP** (ab 5. EK + fortges. Blutverlust) → Info Blutbank + Hilfe holen
@@ -30,7 +30,7 @@ zbb: Test ZBB hier anrufen
 > 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
 <div style="page-break-after: always;"></div>
 
-> [!danger] Blutungskontrolle spezifisch
+> [!danger]+ Blutungskontrolle spezifisch
 > - **Kopf/Hals**
 > 	- *Skalpierung:* Tacker, Naht, Lidocain+Adrenalin, Druckverband
 > 	- *[[Epistaxis]]:*

@@ -5,6 +5,16 @@ tags:
   - Diagnosen
   - Literatur/S3
 ---
+> [!workup]+
+> - **[[Untersuchung|U]]:** 
+> 	- Epigastrischer Druckschmerz
+> 	- Cullen- oder Grey-Turner-Zeichen (grünliche Ekchymose des Umbillikus oder der Flanken) = hohe Krankheitsschwere
+> - **[[Labor]]:**
+> 	- [[Lipase]] >3x oberer Grenzwert (80% Sens., 90% Spez., korreliert nicht mit Krankheitsschwere)
+> 	- Amylase ist obsolet
+> - **CT Abd. KM:** 
+
+
 - **Def:** 2/3 Typischer [[Bauchschmerz]], Lipase↑ ≥3x, Sono/CT
 - **Ä:** Alkohol, Biliär, Seltenes (TAG, DM, Med, Ca2+, Tumor, ERCP, CF, ...)
 - **W**

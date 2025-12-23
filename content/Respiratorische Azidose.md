@@ -6,7 +6,7 @@ tags:
   - Fach/Labormedizin
   - Status/Done
 ---
-> [!dd]+ DD (siehe auch [[Dyspnoe]])
+> [!dd]- DD Respiratorische Azidose (siehe auch [[Dyspnoe]])
 > - **Neurologisch:** 
 > 	- *ZNS:* z.B. [[Stroke]], Meningitis, Drogen, ALS
 > 	- *PNS:* z.B. Phrenicus-Läsion, CIP/CIM, Guillain-Barré-Syndrom, Mysthenie, Botulismus

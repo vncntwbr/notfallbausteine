@@ -6,9 +6,7 @@ tags:
   - Fach/Kardiologie
   - Fach/Neurologie
 ---
-> [!info]+ Definition
-> - Synkope = [[TLOC]] mit unmittelbarer + vollständiger Erholung
-> - Persistierende Störung siehe [[Vigilanzminderung]] bzw. [[Schock]]/[[CPR]]
+> [!info] Synkope = [[TLOC]] mit unmittelbarer + vollständiger Erholung
 
 > [!dd]+ DD siehe [[TLOC]] insb. Differenzierung zu [[Krampfanfall]]
 > - **Ätiologie bei Synkope**
@@ -26,7 +24,7 @@ tags:
 > 		- Med-UAW (z.B. Antihypertensiva, Diuretika, Psychopharmaka)
 > - **Präsynkope** (Prodromalstadium) = gleichwertiges Risikoprofil
 
-> [!anamnese]+
+> [!anamnese]-
 >||**High-Risk**|**Low-Risk**|
 |---|---|---|
 |Position|Aus Liegen oder Sitzen|Längeres Stehen oder beim Aufstehen|
@@ -38,7 +36,7 @@ tags:
 |Familienanamnese|Kardial? Plötzliche Todesfälle?|Negativ|
 |Medikation|QTc-verlängernde Med.|Prüfen bzgl. Orthostase!|
 
-> [!workup]+ Workup Synkope
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
 > 	- Persistierende Hypotonie/Tachykardie?
 > 	- Kein Schellong-Test (nicht sinnvoll)
@@ -55,7 +53,7 @@ tags:
 > - ggf. [[TTE]] (bei V.a. kardiogen oder rezidiverende unklare Synkopen)
 > - ggf. weiteres Workup nach DD
 
-> [!disposition]+
+> [!disposition]-
 > - **Low Risk → Ambulant**
 > 	- Typische Akutanamnese: “PPP” (Position, Provokation, Prodromi)
 > 	- [San Francisco Syncope Rule](https://www.mdcalc.com/calc/93/san-francisco-syncope-rule) / CHESS-Kriterien 0 Pkt.
@@ -90,8 +88,6 @@ tags:
 > ```
 > Vorstellung nach Synkope. In Monitoring, EKG, Labor und POCUS keine relevanten Pathologien. Bei ### Indikation zur stationären Diagnostik.
 > ```
-
----
 ## Schulung
 - [Amal Mattu: Cardiogenic Syncope](https://www.youtube.com/watch?v=rXgk5SRrM6g)
 - Carotissinusmassage ist sinnlos in Differenzierung und gefährlich[^1]

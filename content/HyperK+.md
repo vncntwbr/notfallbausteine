@@ -43,7 +43,7 @@ aliases:
 >     - Aldosteron-Mangel (NNR-Insuffizienz/Addison)
 > - **Kalium-Shift intra- nach extrazellulär**
 >     - [[Metabolische Azidose]]
->     - Gewebszerfall: Rhabdomyolyse, Hämolyse, Tumorlyse, ischämischer Gewebsuntergang, Gewebetrauma, exzessive körperliche Belastung
+>     - Gewebszerfall: Rhabdomyolyse, Hämolyse, [[Tumorlyse]], ischämischer Gewebsuntergang, Gewebetrauma, exzessive körperliche Belastung
 >     - Hemmung der Na-K-ATPase: Insulinmangel, [[Digitalis]]-Intoxikation
 > - **Pseudo-Hyperkaliämie**
 >     - Stauung, erschwerte Blutentnahme (in-vitro Hämolyse)

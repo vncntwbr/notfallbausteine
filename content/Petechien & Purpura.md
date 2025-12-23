@@ -7,13 +7,12 @@ aliases:
   - Petechien
   - Purpura
 ---
-> [!info]+ Definition
-> - Pink-lila, nicht wegdrückbare Hämorrhagien an Haut/Schleimhaut
-> 	- *Petechien* <5 mm
-> 	- *Purpura* 5-10 mm
-> 	- *Ekchymose* >10 mm
+> [!info]+ Definition: Pink-lila, nicht wegdrückbare Hämorrhagien an Haut/Schleimhaut
+> - *Petechien* <5 mm
+> - *Purpura* 5-10 mm
+> - *Ekchymose* >10 mm
 
-> [!dd]+ DD
+> [!dd]- DD
 > - **[[Sepsis]]/[[Meningitis]]** als Nebenbefund, insb. Meningokokken
 > - **Isolierte Thrombopenie:** V.a. ITP; DD HIT, Cholesterinembolien, [[Antiphospholipid]]
 > - **Thrombotische Mikroangiopathie (TTP/HUS):** Thrombopenie + Hämolyse + [[AKI]]
@@ -22,7 +21,7 @@ aliases:
 > - **Purpura-Schönlein-Henoch:** Kind in gutem AZ mit Pupura, [[Bauchschmerz]]/[[GI-Blutung]], Arthritis
 > - *Sonstige:* Vaskulitiden, Virale Exantheme
 
-> [!anamnese]+ Anamnese
+> [!anamnese]- Anamnese
 > - **S:** Blutung? Stuhl (Blut)? Urin? [[Fieber]]? AZ? [[Diarrhoe]]? Schmerzen/OPQRST+? 
 > - **A:** Z.n. HIT?
 > - **M:** Heparin (HIT)? [[AK]]/TAH? Carbamazepin? Valproat?
@@ -30,13 +29,13 @@ aliases:
 > - **L:** Blutbild?
 > - **E:** Infekt? Diarrhoe? je <3 Wo
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. Temp.)? Haut? Schleimhäute? Status (Vitien? Anämie?)
 > - **[[EKG]]** 
 > - **[[Labor]]:** [[BGA]], Basisprofil + LDH, gBilirubin, fHb, Haptoglobin, ggf. +Thrombexakt (Ausschluss Pseudothrombopenie), ggf. Hand-Diff. (Fragmentozyten?), bei Hämolyse + Coombs-Test
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG
 
-> [!management]+
+> [!management]-
 > - **\*Keine* [[TK]]** bei ITP / TTP
 > - **Nach DD**
 > 	- **V.a. Immunthrombopenie (ITP):** Stabiler AZ, Blutungsneigung, sonst asymptomatisch (kein [[Fieber]], keine Hämolyse, keine [[AKI]]) → Stationär, ggf. Prednisolonstoß

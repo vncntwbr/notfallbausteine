@@ -9,7 +9,7 @@ title: Hepatorenales Syndrom (HRS)
 aliases:
   - Hepatorenales Syndrom
 ---
-> [!workup]+
+> [!workup]-
 > - **Cave:** Kreatinin bei Leberzirrhose unsensitiv aufgr. Sarkopenie
 > - **Diagnostische Kriterien:**
 > 	- Leberzirrhose mit Aszites

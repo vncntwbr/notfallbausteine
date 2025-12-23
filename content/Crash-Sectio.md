@@ -4,9 +4,9 @@ tags:
   - Status/Done
 title: Perimortale Crash-Sectio
 ---
-> [!danger] Schwangere >20. SSW in Arrest >4 min
+> [!danger]+ Schwangere >20. SSW in Arrest >4 min
 > 1. **ALS** weiterführen
-> 2. **[[Neugeborenes]]-REA** vorbereiten
+> 2. **[[NLS]]-REA** vorbereiten
 > 3. **LAPAROTOMIE**schnitt Fundus bis Symphyse
 > 4. **UTERUS**schnitt 5 cm in unterem Drittel bis Fruchtwasser
 > 5. Schnitt **ERWEITERN**, Finger als Schutz vor Schere

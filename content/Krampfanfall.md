@@ -18,7 +18,7 @@ aliases:
 > 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
 > 4. **[[Alkohol]]?** Thiamin 100 mg i.v.
 
-> [!dd]+ DD zum Epileptischen Anfall bei Epilepsie
+> [!dd]- DD zum Epileptischen Anfall bei Epilepsie
 > - **Konvulsive [[Synkope]]** / Adam-Stokes, [[VT]], [[CPR]]
 > - **[[Hypoglykämie]], [[HypoNa+]]**
 > - **Eklampsie** ([[Schwanger]] >20. SSW / Wochenbett)
@@ -27,7 +27,7 @@ aliases:
 > - **[[Tumorlyse]]** (unter onkologischer Therapie)
 > - **PNEA/PNES** (Dissoziativer/Psychogener nicht-epileptischer Anfall)
 
-> [!anamnese]+ Anamnese
+> [!anamnese]- Anamnese
 > - **S:** Semiologie (falls beobachtet)? Infekt? [[Fieber]]? [[Kopfschmerz]]? Palpitationen? AP? [[FND]]? [[TLOC]]? Enuresis/Enkopresis? Schmerzen?
 > 	- *Semiologie:* Tonische Haltung? Myoklonien der Extremitäten? Fokal eingeleitet? Augen offen/zu? Blickwendung? Zyanose? Dauer? Postiktale Desorientiertheit?
 > - **M:** Antikonvulsiva? Adhärenz? Änderungen?
@@ -36,7 +36,7 @@ aliases:
 > - **E:** Trauma? Schlafentzug? Reizüberflutung? Stress?
 > - **R:** Alkohol? Drogen? Entzug?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** 
 > 	- VP (insb. Temp.)? 
 > 	- Zungenbiss? Enuresis/Enkopresis? Sturzfolgen? 
@@ -49,7 +49,7 @@ aliases:
 > - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG
 > - **[[Radiologie]]:** cCT nativ bei Erst-Anfall; bei [[FND]], V.a. Encephalitis, V.a. [[Sinusvenenthrombose]] +CTA
 
-> [!management]+
+> [!management]-
 > - **Erst-Anfall Diagnostik im Verlauf:** EEG <24h, cMRT stationär
 > - **Fahrtauglichkeit:**
 > 	- *Provoziert:[^4]* PKW 3 Mo, LKW/Bus 6 Mo

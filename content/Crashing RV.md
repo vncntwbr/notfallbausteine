@@ -4,7 +4,7 @@ tags:
   - Status/Done
   - Diagnosen
 ---
->[!danger] Crashing RV
+>[!danger]+ Crashing RV
 > 1. **FiO2 100%** (pulmonale Vasodilatation), a.e. HFNC, minimal PEEP
 > 2. **Adrenalin** oder **Vasopressin** 1 IE Boli primär, alt. NA, minimal VEL
 > 3. **Nitroglycerin** 5 mg vernebeln
