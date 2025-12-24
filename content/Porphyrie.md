@@ -1,19 +1,18 @@
 ---
 tags:
   - Fach/Gastroenterologie
-  - Status/Started
-  - Diagnosen
+  - Diagnosen/Chronisch
+  - Status/Done
 ---
-> [!danger] Rapid Reference
-> - Jede Medikamentengabe prüfen: [drugs-porphyria.org](http://www.drugs-porphyria.org)
+> [!danger] Jede Medikamentengabe prüfen: [drugs-porphyria.org](http://www.drugs-porphyria.org)
 
-> [!red-flags] Trigger Schub
+> [!dd]- Trigger Schub
 > - Infekt
 > - Stress, OP
 > - Medikamente
 > - Fasten, Zyklus, Alkohol
 
-> [!anamnese]
+> [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? Übelkeit? [[Obstipation]]? Infektsymptome? Schwäche? Idem zu früheren Schüben oder anders? Neuropsychiatrische Symptome (Psychose, [[Delir]], Vigilanzminderung, Krampfanfall, Paresen, Sensibilitätsstörungen, …)?
 > - **M:** [Trigger-Medikamente](http://www.drugs-porphyria.org)? Spezifische Therapie (Givosiran)? Neue Hormone/Pille?
 > - **P:** Welche Porphyrieform? Anbindung? Bisherige Schübe? Hämarginat-Therapie (Normosang) in der Vergangenheit? 
@@ -21,13 +20,13 @@ tags:
 > - **E:** Stress? 
 > - **R:** Infekt? Alkohol? [W] Zyklus/LR? Zwischenblutung? 
 
-> [!workup]
+> [!workup]-
 > - **[[Labor]]:** Profil "Bauchschmerz", [[BGA]] ([[HypoNa+]] durch SIADH)
 > - **[[Urin]]:** β-HCG, [[U-Status]], Porphyrine PGB/ALA (lichtgeschütztes Röhrchen)
 > - **[[POCUS]]:** DD (insb. wenn Beschwerden nicht genau wie sonst → [[Bauchschmerz]])
 
 
-> [!management]
+> [!management]-
 > 1. **[Triggermedikamente](https://drugs-porphyria.org)** absetzen
 > 2. **Glucose** G10% 500 ml 2x über 1h, Tagesdosis Glucose 4g/kg/d
 > 3. **Symptomatisch:**
@@ -39,7 +38,7 @@ tags:
 > 4. **Echte [[HypoNa+]]** mit NaCl 3% Boli therapieren
 > 5. **Neuropsychiatrische Sympt:** In RS OA Hämarginat (Normosang®) 3 mg/kg/d i.v. KI via [[ZVK]]
 
-> [!note]+ Textbaustein
+> [!note]- Textbaustein Schub bekannter Porphyrie
 > ```
 > Zusammenfassend akuter Schub der vorbekannten Porphyrie (AHP / P. variegata /###) mit __ abdominellen Schmerzen, Übelkeit und ###.
 > 

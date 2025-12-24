@@ -5,6 +5,7 @@ tags:
   - Basics
   - Interventionen/POCUS
   - Status/Started
+  - Interventionen/EKG
 title: Rechtsherzbelastung (RHB)
 ---
 - **RHB im [[EKG]]**

@@ -2,7 +2,10 @@
 tags:
   - Interventionen/HALO
   - Status/Started
+  - Fach/Orthopädie
 title: Clamshell-Thorakotomie
+aliases:
+  - Clamshell
 ---
 
 [^1]

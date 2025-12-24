@@ -6,6 +6,9 @@ tags:
   - Fach/Nephrologie
   - Fach/Endokrinologie
   - Status/Started
+aliases:
+  - Kontrastmittel
+title: Kontrastmittel (KM)
 ---
 
 - **KM-Nephropathie:** not a thing[^1][^2][^3]

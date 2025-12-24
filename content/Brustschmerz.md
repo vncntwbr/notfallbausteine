@@ -41,9 +41,9 @@ title: Brustschmerz / Thoraxschmerz
 > [!anamnese]- Anamnese
 > - **S:** ==OPQRST+==[^2] (reißend, wandernd, stärkst → Aorta)? [[Dyspnoe]]? [[Husten]], [[Hämoptysen]]? [[Ü+E]]? [[Fieber]]?
 > - **A:** Analgetika-Asthma?
-> - **M:** ASS/DAPT? [[AK]]?
+> - **M:** ASS/[[DAPT]]? [[AK]]?
 > - **P:** CVRF ([[Hypertonie]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
-> - **L:** TTE? HKU?
+> - **L:** TTE? [[HKU]]?
 > - **E:** Auftreten in Ruhe/Belastung? Immobilisation ([[LAE]])?
 > - **R:** CVRF? Familienanamnese ([[MI]], Aorta)? Drogen (Kokain u.ä. → [[ACS]]; THC → [[Pneu]])?
 

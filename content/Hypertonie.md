@@ -3,6 +3,7 @@ tags:
   - Probleme/Allgemein
   - Status/Done
   - Literatur/NVL
+  - Diagnosen/Chronisch
 title: Hypertonie / Hypertensive Entgleisung
 aliases:
   - HTN

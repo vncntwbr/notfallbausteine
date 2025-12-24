@@ -3,6 +3,7 @@ tags:
   - Interventionen/Meds
   - Fach/Anästhesiologie
   - Status/Started
+  - Fach/Pharmakologie
 title: Nicht-steroidale Antirheumatika (NSAR)
 ---
 

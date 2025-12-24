@@ -1,8 +1,11 @@
 ---
 tags:
-  - Basics
-  - Interventionen
   - Status/Started
+  - Interventionen/Diagnostik
+  - Fach/Labormedizin
+  - Fach/Hämatologie
+  - Fach/Anästhesiologie
+  - Fach/Intensivmedizin
 ---
 
 - *Durchführung:* Citratblut

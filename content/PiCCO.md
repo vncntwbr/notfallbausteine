@@ -1,8 +1,8 @@
 ---
 tags:
-  - Interventionen
   - Status/Started
   - Fach/Intensivmedizin
+  - Interventionen/Diagnostik
 ---
 
 - Cardiac Index (CI) <3.0 → Inotropie

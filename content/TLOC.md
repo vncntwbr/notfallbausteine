@@ -1,7 +1,7 @@
 ---
 tags:
-  - Probleme
   - Status/Done
+  - Probleme/Allgemein
 title: Transient Loss of Consciousness (TLOC)
 aliases:
   - Transient Loss of Consciousness

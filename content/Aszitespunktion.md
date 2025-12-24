@@ -1,8 +1,8 @@
 ---
 tags:
-  - Interventionen
   - Fach/Gastroenterologie
   - Status/Started
+  - Interventionen/Punktionen
 ---
 > [!info]+ Indikation
 > - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, Leberversagen, [[AKI]] oder V.a. [[HE]])

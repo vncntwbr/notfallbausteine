@@ -1,7 +1,7 @@
 ---
 tags:
-  - Basics
   - Status/Started
+  - Interventionen/EKG
 title: Korrigierte QT-Zeit (QTc)
 ---
 

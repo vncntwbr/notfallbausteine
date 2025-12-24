@@ -1,3 +1,9 @@
+---
+tags:
+  - Diagnosen
+  - Probleme/Allgemein
+---
+
 ## Todesursache
 - Aufschlüsselung
 	- Ia: Unmittelbare Todesursache (z.B. OMI)

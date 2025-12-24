@@ -17,7 +17,7 @@ title: Hyperthyreose (TSH↓)
 > 7. **[[Betablocker]]:** Metoprolol 2.5-5.0 mg-weise titriert i.v., ggf. Esmolol-Perfusor
 > 8. **ggf. leichte [[Analgosedierung]]:** Midazolam 1-2 mg i.v.
 > 9. **[[Sepsis]]-Workup** (häufiger Trigger)
-> 10. **Keine Jodexposition** (kein [[Amiodaron]], kein [[Kontrastmittel]])
+> 10. **Keine Jodexposition** (kein [[Amiodaron]], kein [[KM]])
 > 11. **ITS** (Letalität ≈80%)
 
 > [!stadien]+
@@ -26,7 +26,7 @@ title: Hyperthyreose (TSH↓)
 > - **Thyreotoxische Krise?** [BWPS](https://www.mdcalc.com/calc/3816/burch-wartofsky-point-scale-bwps-thyrotoxicosis)
 > - **Low-T3/T4-Syndrom:** alles erniedrigt (keine Hyperthyreose)
 
-![[Kontrastmittel#^49a4bd]]
+![[KM#^49a4bd]]
 
-![[Kontrastmittel#^4c30b5]]
-![[Kontrastmittel#^64283a]]
+![[KM#^4c30b5]]
+![[KM#^64283a]]

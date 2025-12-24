@@ -3,6 +3,7 @@ tags:
   - Status/Done
   - Diagnosen
   - Literatur/S2k
+  - Fach/Urologie
 aliases:
   - Nierenkolik
 title: Urolithiasis / Nierenkolik

@@ -2,7 +2,7 @@
 tags:
   - Fach/Kardiologie
   - Interventionen/POCUS
-  - Diagnosen
+  - Diagnosen/Chronisch
 ---
 ![[Pasted image 20251124200438.png]][^1]
 

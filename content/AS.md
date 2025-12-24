@@ -7,7 +7,7 @@ title: Aortenklappenstenose (AS)
 aliases:
   - Aortenklappenstenose
 ---
-> [!danger]+ Rapid Reference
+> [!danger]+ Resuscitation
 > - **Ursachensuche:** AS immer chronisch, d.h. akuten Trigger der Dekompensation finden (z.B. [[VHF]], [[Sepsis]], Medikamente, [[LAE]])
 > - **[[NIV]]**
 > - **Nachlast↓**, MAP 65-70

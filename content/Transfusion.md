@@ -2,6 +2,7 @@
 tags:
   - Interventionen
   - Status/Done
+  - Fach/Hämatologie
 ---
 
 > [!danger]+ Indikation EK

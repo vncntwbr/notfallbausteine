@@ -35,7 +35,7 @@ aliases:
 
 > [!anamnese]-
 > - **S:** OPQRST+? [[Ü+E]]? [[Diarrhoe]]/[[Obstipation]]? Miktion? Ausfluss?
-> - **A:** [[Kontrastmittel]]?
+> - **A:** [[KM]]?
 > - **M:** NSAR? Semaglutid?
 > - **P:**  Vor-OP abdominell?
 > - **L:** Stuhlgang? Menstruation ([[Schwanger]])? Colo/ÖGD?

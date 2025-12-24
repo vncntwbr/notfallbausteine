@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Lernen
   - Fach/Gastroenterologie
+  - Diagnosen/Chronisch
 ---
 ## Lernen
 ### Ätiologie 

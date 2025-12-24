@@ -2,9 +2,9 @@
 aliases:
   - Resp Alk
 tags:
-  - Probleme
   - Fach/Labormedizin
   - Status/Done
+  - Probleme/Labor
 ---
 > [!dd]- DD Respiratorische Alkalose
 > - **Hypoxie-getriggert:** 

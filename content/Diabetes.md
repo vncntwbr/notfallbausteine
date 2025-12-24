@@ -1,8 +1,8 @@
 ---
 tags:
   - Fach/Endokrinologie
-  - Diagnosen
   - Literatur/NVL
+  - Diagnosen/Chronisch
 ---
 ## Literatur
 - [S3-Leitlinie NVL Typ-2-Diabetes](https://register.awmf.org/de/leitlinien/detail/nvl-001)

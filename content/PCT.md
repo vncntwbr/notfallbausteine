@@ -4,6 +4,7 @@ aliases:
 title: Procalcitonin (PCT)
 tags:
   - Fach/Labormedizin
+  - Fach/Infektiologie
 ---
 > [!warning] Limitationen von PCT
 > - **Falsch-Negativ**

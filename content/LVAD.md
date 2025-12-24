@@ -1,7 +1,7 @@
 ---
 tags:
-  - Probleme
   - Status/Started
+  - Probleme/Herz-Thorax
 title: Left Ventricular Assist Device (LVAD)
 ---
 > [!danger] Rapid Reference

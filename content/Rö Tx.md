@@ -1,6 +1,7 @@
 ---
 tags:
   - Fach/Radiologie
+  - Interventionen/Diagnostik
 ---
 Streamlined Approach nach [IBCC](https://emcrit.org/ibcc/cxr/#top)
 

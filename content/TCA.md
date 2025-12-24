@@ -5,6 +5,10 @@ tags:
   - Interventionen/Meds
   - Diagnosen
 title: Trizyklische Antidepressiva (TCA) inkl. Intoxikation
+aliases:
+  - Trizyklika
+  - Tricyclica
+  - Trizyklische Antidepressiva
 ---
 
 > [!Workup]+

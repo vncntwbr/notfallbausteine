@@ -2,6 +2,7 @@
 tags:
   - Probleme/Abdomen
   - Status/ToDo
+  - Fach/Gynäkologie
 aliases:
 title: Schwangerschaft
 ---

@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Diagnosen
+  - Fach/Hämatologie
 aliases:
   - Thrombose
 title: Venöse Thrombose (TVT)

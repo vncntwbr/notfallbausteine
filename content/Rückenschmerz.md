@@ -32,7 +32,7 @@ zbb: |-
 > - **Red Flags**
 > 	- *Fx/Mets:* Trauma, Osteoporose, Cortison, KS über WS, Krebs, B-Sympt.
 > 	- *Radikulopathie:* Ausstrahlend (L4-S1), Reithosen, Extr.-Schwäche, Inkontinenz/Harnverhalt
-> 	- *Infekt:* [[Fieber]]/IFP, Immunsupp., i.v.-Drogen, OP, Spritzen
+> 	- *Infekt:* [[Fieber]]/[[IFP]], Immunsupp., i.v.-Drogen, OP, Spritzen
 > - **[[EKG]]**
 > - **[[POCUS]]:** Neurogen Harnverhalt? Aorta >60 J.
 > - **[[Labor]]:** BGA, BB, Krea, CRP, ggf. BSG, ggf. [[BK]]

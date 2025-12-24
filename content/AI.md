@@ -7,13 +7,13 @@ aliases:
   - Aorteninsuffizienz
 title: Aortenklappeninsuffizienz (AI)
 ---
-> [!danger]+ Rapid Reference
+> [!danger]+ Resuscitation
 > - **Chronotropie↑** HF >100 reduziert Diastolendauer und damit Regurgitationszeit, z.B. [[DOBUTamin]]
 > - **Nachlast↓** reduziert diastolischen Regurgitationsgradienten, z.B. Nitro
 > - **Vorlastreduktion** bei [[Lungenödem]]
 
-> [!dd]- DD \*Akute* AI
+> [!dd]+ DD \*Akute* AI
 > - [[Endokarditis]]
-> - *Iatrogen:* Klappenersatz-Versagen, HKU-Komplikationen
+> - *Iatrogen:* Klappenersatz-Versagen, [[HKU]]-Komplikationen
 > - [[Aorta|Aortendissektion]]
 > - [[Thoraxtrauma]]

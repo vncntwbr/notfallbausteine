@@ -8,21 +8,22 @@ aliases:
 title: Neutrophil-Lymphocyte Ratio (NLR)
 ---
 > [!info] NLR = Neutrophile (Abs. oder %) / Lymphozyten (Abs. oder %)
-## Interpretation
-- **Pathophysiologie:** Physiologischer Stress durch Cortisol + Katecholamine, insb. bei Sepsis starke Lymphozyten-Apoptose[^1]
-- Hilfreicher für Krankheitsschwere als für Erreger bakteriell vs. viral
-- **Ungefähre Grenzwerte**[^3]
-	- 1-3 normal
-	- 6-10 mider Stress (z.B. [[Appendizitis]])
-	- 10-15 moderater Stress (meiste kritische Kranke)
-	- ≥15 schwerer Stress (z.B. gram-negative Sepsis)
-- **Nutzen bei V.a. Sepsis**
-	- NLR <3 sollte Diagnose infrage stellen
-		- ≥95% der Sepsis-Pat. haben NLR >3[^2]
-		- Unerwartet niedriger NLR = [[NNR-Insuffizienz]]?
-	- NLR >10 stützt Septischen Schock
 
-> [!warning] Limitationen der NLR
+> [!workup]+ Interpretation
+> - **Pathophysiologie:** Physiologischer Stress durch Cortisol + Katecholamine, insb. bei Sepsis starke Lymphozyten-Apoptose[^1]
+> - Hilfreicher für Krankheitsschwere als für Erreger bakteriell vs. viral
+> - **Ungefähre Grenzwerte**[^3]
+> 	- 1-3 normal
+> 	- 6-10 mider Stress (z.B. [[Appendizitis]])
+> 	- 10-15 moderater Stress (meiste kritische Kranke)
+> 	- ≥15 schwerer Stress (z.B. gram-negative Sepsis)
+> - **Nutzen bei V.a. Sepsis**
+> 	- NLR <3 sollte Diagnose infrage stellen
+> 		- ≥95% der Sepsis-Pat. haben NLR >3[^2]
+> 		- Unerwartet niedriger NLR = [[NNR-Insuffizienz]]?
+> 	- NLR >10 stützt Septischen Schock
+
+> [!warning]+ Limitationen der NLR
 > - Falsch-Hoch durch exogene Steroide
 > - Hämatologische Erkrankungen
 > - HIV-Pat. i.d.R. exkludiert

@@ -2,7 +2,11 @@
 tags:
   - Interventionen/HALO
   - Status/Started
+  - Fach/Pneumologie
+  - Fach/Orthopädie
 title: Thoraxdrainage (TDx)
+aliases:
+  - Thoraxdrainage
 ---
 
 - Annähen ist sinnvoll[^1]

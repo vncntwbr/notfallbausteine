@@ -2,6 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+  - Fach/Intensivmedizin
 ---
 > [!workup]
 > - **Organdysfunktionen**

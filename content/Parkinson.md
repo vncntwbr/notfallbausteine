@@ -2,7 +2,7 @@
 tags:
   - Fach/Neurologie
   - Status/Started
-  - Diagnosen
+  - Diagnosen/Chronisch
 ---
 
 > [!danger] Resuscitation – Akinetische Krise

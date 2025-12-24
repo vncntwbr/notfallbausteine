@@ -26,9 +26,9 @@ zbb:
 > [!anamnese]+
 > - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
 > - **A:** Analgetika-Asthma?
-> - **M:** ASS/DAPT? [[AK]]?
+> - **M:** ASS/[[DAPT]]? [[AK]]?
 > - **P:** ==Bek. KHK, z.N. PCI/ACVB?== Diabetes? OPs thorakal? Tumor? [[Schwanger]]? [[Aorta]]?
-> - **L:** TTE? HKU?
+> - **L:** TTE? [[HKU]]?
 > - **E:** Auftreten aus Ruhe/Belastung? Immobilisation/OP?
 > - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
 
@@ -94,7 +94,7 @@ zbb:
 ![[Brustschmerz#^e34c74]]
 
 ---
-- STEMI(–)OMI(+) haben Delays bis HKU[^2]
+- STEMI(–)OMI(+) haben Delays bis [[HKU]][^2]
 - [^1]
 
 [^1]: Robert A Byrne et al., 2023 ESC Guidelines for the management of acute coronary syndromes: Developed by the task force on the management of acute coronary syndromes of the European Society of Cardiology (ESC), _European Heart Journal_, Volume 44, Issue 38, 7 October 2023, Pages 3720–3826, [https://doi.org/10.1093/eurheartj/ehad191](https://doi.org/10.1093/eurheartj/ehad191)

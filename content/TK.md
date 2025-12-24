@@ -2,6 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Hämatologie
 title: Thrombozytenkonzentrat (TK)
 ---
 

@@ -18,6 +18,6 @@ tags:
 	- [[HRS]]
 	- [[Rhabdomyolyse]]
 	- [[Tumorlyse]]
-	- [[Kontrastmittel]]
+	- [[KM]]
 	- [[CKD]]
 - **[[Elektrolyte]]**

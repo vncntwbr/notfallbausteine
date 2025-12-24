@@ -1,7 +1,8 @@
 ---
 tags:
-  - Interventionen/POCUS
   - Status/Started
+  - Fach/Kardiologie
+  - Interventionen/POCUS/TTE
 title: Velocity Time Integral (VTI)
 ---
 

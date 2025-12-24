@@ -5,6 +5,12 @@ tags:
   - Status/Started
   - Literatur/S2k
 title: GI-Blutung (GIB)
+aliases:
+  - GIB
+  - Gastrointestinale Blutung
+  - Teerstuhl
+  - Hämatochezie
+  - Hämatemesis
 ---
 > [!danger] OBERE GI-Blutung
 > 1. **[[Blutungsmanagement]]** allgemein

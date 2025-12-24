@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Started
+  - Interventionen/Diagnostik
 title: Elektrokardiogramm (EKG)
 ---
 ## Ableitungen
@@ -84,7 +85,7 @@ title: Elektrokardiogramm (EKG)
 - DD VT (WIDER)
 	- WPW
 	- Intraventr. conduction delay (Block, abberant, Pacemaker)
-	- Drugs (I-Antiarrhy., Tricyclica)
+	- Drugs (I-Antiarrhy., [[TCA]])
 	- [[Elektrolyte]] ([[HyperK+]])
 	- Raised STE
 

@@ -2,6 +2,8 @@
 tags:
   - Interventionen
   - Status/Started
+  - Fach/Neurologie
+  - Fach/Radiologie
 ---
 
 - **I Thrombektomie bei [[Stroke]]**

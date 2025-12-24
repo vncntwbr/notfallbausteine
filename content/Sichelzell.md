@@ -2,7 +2,7 @@
 tags:
   - Fach/Hämatologie
   - Status/Done
-  - Diagnosen
+  - Diagnosen/Chronisch
 title: Sichelzellanämie & Sichelzellkrise
 aliases:
   - Sichelzellkrise

@@ -4,6 +4,8 @@ aliases:
 tags:
   - Interventionen/POCUS
   - Status/Started
+  - Fach/Intensivmedizin
+  - Fach/Neurologie
 title: Transkranieller Doppler (TCD)
 ---
 - **Q**

@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Started
+  - Fach/Labormedizin
 ---
 
 - **Kalium**

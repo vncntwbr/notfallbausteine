@@ -6,7 +6,7 @@ aliases:
 tags:
   - Fach/Hämatologie
   - Status/Started
-  - Diagnosen
+  - Diagnosen/Chronisch
 ---
 
 - Diagnostische Kriterien für Catastrophic-APS[^1]

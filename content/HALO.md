@@ -3,6 +3,8 @@ tags:
   - Interventionen/HALO
   - Status/Started
 title: High Acuity Low Occurence (HALO)
+aliases:
+  - High Acuity Low Occurence
 ---
 - **A:** [[eFONA]]
 - **B:** [[Escharotomie]]

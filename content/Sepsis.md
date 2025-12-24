@@ -1,9 +1,9 @@
 ---
 tags:
-  - Fach
   - Probleme/Allgemein
   - Fach/Infektiologie
   - Status/Started
+  - Fach/Intensivmedizin
 ---
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges

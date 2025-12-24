@@ -41,7 +41,7 @@ title:
 > - **Ambulant möglich:**
 > 	- [CRB-65](https://www.mdcalc.com/calc/10604/crb-65-score-for-pneumonia-severity-crb-65) 0 Pkt. (ggf. 1 Pkt. wenn nur >65 J. + gute Versorgungssicherheit)
 > 	- Kein O2-Bedarf (SpO2 >90% / PaO2 ≥55 unter RL)
-> 	- Keine Immunsuppression ([[Neutropenie]], Prednisolon ≥20mg/14d, Z.n. [[Tx]])
+> 	- Keine Immunsuppression ([[Neutropenie]], Prednisolon ≥20mg/14d, Z.n. [[Transplantation]])
 > 	- *Minor:* AF <30, keine [[AKI]], Leukos >4.000, Thrombos >100.000, Temp. >36°C, Lactat <2 mmol/l
 
 > [!note]- Textbaustein Pneumonie Ambulant

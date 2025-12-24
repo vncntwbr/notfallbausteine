@@ -1,9 +1,9 @@
 ---
 tags:
-  - Interventionen
   - Fach/Neurologie
   - Status/Done
   - Literatur/S1
+  - Interventionen/Punktionen
 aliases:
   - Lumbalpunktion
   - Liquorpunktion
@@ -15,7 +15,7 @@ title: Lumbalpunktion / Liquorpunktion (LP)
 
 > [!warning]- KI/UAW
 > - **[[Hirndruck]] → Einklemmung:** cCT vor LP (außer GCS 15 ohne FND/[[Krampfanfall]])
-> - **Gerinnungsstörung → Blutung:** Thrombos <50/nl (relativ, absolut <10/nl), Quick <50% (=INR 1.8), PTT >50s, jede therapeutische Antikoagulation, DAPT (relativ), ASS mono ist keine KI
+> - **Gerinnungsstörung → Blutung:** Thrombos <50/nl (relativ, absolut <10/nl), Quick <50% (=INR 1.8), PTT >50s, jede therapeutische Antikoagulation, [[DAPT]] (relativ), ASS mono ist keine KI
 > - **Infektion lokal**
 > - **Postpunktioneller Kopfschmerz:** 
 > - **Tethered Cord**

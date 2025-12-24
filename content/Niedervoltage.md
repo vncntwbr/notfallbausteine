@@ -4,6 +4,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Basics
+  - Interventionen/EKG
 ---
 - **Def:** QRS <5mm in allen Extremitätenabltg. od. <10 mm in allen Brustwandabltg.[^1]
 - **DD**

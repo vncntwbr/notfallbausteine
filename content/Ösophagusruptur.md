@@ -3,6 +3,9 @@ tags:
   - Fach/Chirurgie
   - Status/Started
   - Diagnosen
+aliases:
+  - Boerhaave-Syndrom
+title: Ösophagusruptur / Boerhaave-Syndrom
 ---
 - **Ä:** Boerhaave (spontan [[Ü+E]]), iatrogen → Ruptur oft distales ⅓ links dorsolateral
 - **W:** CT-Tx oral KM, [[POCUS]] [[Pneu]]?

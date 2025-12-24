@@ -1,5 +1,7 @@
 ---
 title: Transgastral Short Axis (TG SAX)
+tags:
+  - Interventionen/POCUS/TEE
 ---
 - In Magen einführen bis Magen/Leber sichtbar
 - Anteflexion

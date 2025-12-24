@@ -3,6 +3,9 @@ tags:
   - Basics
   - Druck
   - Status/Started
+  - Fach/Intensivmedizin
+  - Fach/Kardiologie
+  - Fach/Nephrologie
 ---
 ![[VExUS]]
 

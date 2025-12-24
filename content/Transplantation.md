@@ -4,12 +4,10 @@ tags:
   - Basics
   - Status/Started
 aliases:
-  - Transplantation
 title: Transplantation (Tx)
 ---
 
-> [!danger]+ Rapid Reference
-> - Frühzeitig RS Transplant-Zentrum
+> [!danger] Frühzeitig RS Transplant-Zentrum
 
 > [!dd]+ DD
 > - **Infektion unter [[Immunsupp.]]:** [<1 Mo] Spenderorgan, nosokomial/OP, [>1 Mo] Opportunistisch (PCP, HepB/C, Tbc, CMV, EBV, Kryptokokkose u.a.), Reaktivierung (VZV, CMV, HSV, EBV)

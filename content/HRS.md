@@ -22,7 +22,7 @@ aliases:
 > 1. **Albumin:** 1 g/kg an d1, danach 40 g/d
 > 2. **Vasokonstriktoren:** NA oder Terlipressin (UAW: [[Lungenödem]][^3]) → Ziel-MAP +15 mmHg[^1][^2]
 > 3. **Therapeutische [[Aszitespunktion]]** zur Reduktion des intraabdominellen Drucks (Cave: Albuminersatz)
-> 4. i.d.R. kein Benefit von [[Dialyse]] außer Bridge to [[Tx|LTx]]
+> 4. i.d.R. kein Benefit von [[Dialyse]] außer Bridge to [[Transplantation|LTx]]
 
 ^529493
 

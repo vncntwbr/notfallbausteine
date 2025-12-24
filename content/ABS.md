@@ -69,7 +69,7 @@ tags:
 	- **[[Neutropenie]]** bis afebril und klinisch besser +3d
 	- **Intraabdominelle Infektion**
 
-> [!tip] Siehe [[IFP]] für [[PCT]]/CRP als Marker für [[ABx]]-Stop
+> [!tip] Siehe [[IFP]] für [[PCT]]/[[CRP]] als Marker für [[ABx]]-Stop
 
 ## Therapieversagen
 - **Häufige Ursachen:**

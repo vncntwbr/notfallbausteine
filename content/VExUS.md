@@ -2,6 +2,7 @@
 tags:
   - Interventionen/POCUS
   - Status/Done
+  - Fach/Intensivmedizin
 title: Venous Excess Ultrasound (VExUS)
 ---
 > [!note]- Textbaustein VExUS

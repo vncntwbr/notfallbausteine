@@ -7,7 +7,7 @@ tags:
 title: Potenziell inadäquate Medikation im Alter (PIM)
 ---
 - **Avoid**[^1]
-	- Amiodaron
+	- [[Amiodaron]]
 	- Antidepressiva mit anticholinerger Aktivität, z.B. Amitriptylin, Paroxetin
 	- Antihistaminika 1st Gen
 	- [[Antipsychotika]]

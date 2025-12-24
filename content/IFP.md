@@ -10,3 +10,6 @@ title: Infektparameter (IFP)
 ![[PCT#^6d9b70]]
 
 ![[CRP#^470fed]]
+
+## NLR
+![[NLR]]

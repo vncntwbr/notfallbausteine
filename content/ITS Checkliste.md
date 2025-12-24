@@ -41,7 +41,7 @@ tags:
 - [ ] **Stuhlgang:** abgeführt? DG?
 
 ## Infekt
-- [ ] **IFP:** Fieber? CRP/[[PCT]]/Leukos?
+- [ ] **[[IFP]]:** Fieber? CRP/[[PCT]]/Leukos?
 - [ ] **Keim:** Mibi? Fokus?
 - [ ] **ABx:** indiziert? Tag? resistenzgerecht?
 - [ ] **Drainagen:** indiziert? <3d?

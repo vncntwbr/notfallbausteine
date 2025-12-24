@@ -2,9 +2,9 @@
 aliases:
   - Resp Azi
 tags:
-  - Probleme
   - Fach/Labormedizin
   - Status/Done
+  - Probleme/Labor
 ---
 > [!dd]- DD Respiratorische Azidose (siehe auch [[Dyspnoe]])
 > - **Neurologisch:** 

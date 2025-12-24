@@ -1,8 +1,9 @@
 ---
 tags:
-  - Interventionen
   - Fach/Anästhesiologie
   - Status/Started
+  - Interventionen/Punktionen
+  - Fach/Intensivmedizin
 title: |-
   Arterieller Katheter &
   Invasive Blutdruckmessung (IBP)

@@ -17,7 +17,7 @@ tags:
 > - **G3a:** GFR 45-60
 > - **G3b:** GFR 30-45 (kritischer cutoff)
 > - **G4:** GFR 15-30 (ggf. symptomatisch)
-> - **G5:** GFR <15 ([[Dialyse]] oder [[Tx]])
+> - **G5:** GFR <15 ([[Dialyse]] oder [[Transplantation]])
 > - **Zusatz Albuminurie:** A1 <30, A2 30-300, A3 >300 mg/24h
 
 ^5b5bc5

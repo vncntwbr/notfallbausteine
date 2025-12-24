@@ -24,7 +24,7 @@ title: Herzinsuffizienz & Kardiale Dekompensation
 > - **S:** Dyspnoe (NYHA), Orthopnoe? [[Brustschmerz]] ([[ACS]])? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
 > - **M:** Diuretika? Adhärenz? Änderungen?
 > - **P:** KHK? CVRF? COPD?
-> - **L:** TTE (LVEF)? HKU? Gewicht?
+> - **L:** TTE (LVEF)? [[HKU]]? Gewicht?
 > - **E:** Infekt?
 > - **R:** Familie? Noxen?
 
