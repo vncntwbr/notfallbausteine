@@ -24,7 +24,7 @@ title: Lungenarterienembolie (LAE)
 > - **Low-Risk:** sPESI =0
 
 > [!management]-
-> - **High-Risk:** [[Lyse]], RS [[Thrombektomie]], überbrückend UFH Perfusor, ITS
+> - **High-Risk:** [[Lyse]], RS [[Thrombektomie]], überbrückend UFH [[Perfusor]], ITS
 > - **Intermediate:** NMH, [high] ITS [low] NST
 > - **Low:** DOAK, bei [Hestia-Kriterien](https://www.mdcalc.com/calc/3918/hestia-criteria-outpatient-pulmonary-embolism-treatment) 0 Pkt. ggf. ambulant
 > 	- *Einzelne Subsegementale LAE:* AK nur bei TVT-Nachweis, sonst a.e. falsch-positiv[^1]

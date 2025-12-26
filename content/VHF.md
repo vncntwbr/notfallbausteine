@@ -21,7 +21,21 @@ title: |-
 > [!workup]+
 > - **[[Labor]]:** [[HypoK+]]? [[HypoMg2+]]? [[Hyperthyreose]]? ggf. [[Digitalis]]-Spiegel?
 
-	- 
+> [!management]+ Antikoagulation bei VHF
+> - **Indikation [[AK]] bei CHA2DS2VA-Score ≥2 Pkt.**
+> 	- Chronische [[Herzinsuffizienz]]
+> 	- [[Hypertonie]]
+> 	- Alter >75 J. (2 Pkt.)
+> 	- [[Diabetes]]
+> 	- [[Stroke]] / TIA / Thromboembolie (2 Pkt.)
+> 	- Vaskuläre Vorerkrankung: [[KHK]], [[PAVK]]
+> 	- Alter 65-75 J. 
+> - **Indikation [[AK]]:** HCM oder kardiale Amyloidose
+> - **Indikation VKA:** Valvuläres [[VHF]] (Mitralklappenstenose ≥2° oder MK-Ersatz)
+> - **Nach [[eKV]]:** CHA2DS2VA ≥1 oder VHF >24h: [[AK]] 4 Wochen, dann Reevaluation
+> - HAS-BLED nicht mehr empfohlen
+
+
 - **T**
 	- [[eKV]]
 	- [[MgSO4]] 2 g empirisch

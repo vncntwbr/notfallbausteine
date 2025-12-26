@@ -5,7 +5,9 @@ tags:
   - Diagnosen
 aliases:
   - Pneumothorax
-title: Pneumothorax
+  - Spannungspneumothorax
+  - Spannungspneu
+title: Pneumothorax inkl. Spannungspneumothorax
 ---
 
 > [!danger]+ Spannungspneumothorax

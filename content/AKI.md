@@ -74,7 +74,7 @@ aliases:
 > 	- *Prärenal:* [[Volumenstatus]] optimieren, bei Schock MAP halten(!)
 > 	- *V.a. Intrarenal:* Konsil Nephrologie
 > 	- *Postrenal:* Blasenkatheter, Konsil Urologie
-> 3. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei BRASH bradykardisierende Meds pausieren
+> 3. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei [[BRASH]] bradykardisierende Meds pausieren
 
 ![[Dialyse#^666546]]
 

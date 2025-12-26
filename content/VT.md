@@ -4,6 +4,9 @@ tags:
   - Status/Started
   - Diagnosen
 title: Ventrikuläre Tachykardie (VT)
+aliases:
+  - Ventrikuläre Tachykardie
+  - Breitkomplextachykardie
 ---
 > [!danger] Siehe [[eKV]]
 
@@ -17,9 +20,9 @@ title: Ventrikuläre Tachykardie (VT)
 > 	- Ugly looking
 > 	- Rabbits Ear li > re
 
-> [!dd]+ DD (WIDER)
-> - WPW
-> - Intraventricular conduction delay (Blockbild, abberant, Pacemaker)
+> [!dd]+ DD bei Breitkomplextachykardie abseits VT, VT und VT (WIDER)
+> - W – WPW
+> - I – Intraventrikuläre Leitungsverzögerung (Blockbild, abberant, Pacemaker)
 > - Drugs ==(Natriumkanalblocker, insb. [[TCA]])==
 > - [[Elektrolyte]] ==([[HyperK+]])==
-> - Raised STE
+> - Raised STE ([[Ischämie-EKG]] Tombstones)

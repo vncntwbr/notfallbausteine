@@ -14,16 +14,16 @@ zbb:
   - Test ZBB 1
   - Test ZBB 2
 ---
-> [!dd]+ DD/Subtypen – beachte [[Brustschmerz]]-Workup und [[Ischämie-EKG]] Mimics
+> [!dd]+ ACS-Subtypen – beachte [[Brustschmerz]]-DD und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI:** siehe [[Ischämie-EKG]]
 > - **NSTEMI:** unspezifische [[EKG]]-Veränderungen, [[Troponin]]↑/-Dynamik
 > - **Instabile AP:** klinischer Verdacht, [[Troponin]] normal
-> - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativ O2↓
+> - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativer O2-Mangel
 > 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxämie]]
 > 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
 > 	- SCAD
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
 > - **A:** Analgetika-Asthma?
 > - **M:** ASS/[[DAPT]]? [[AK]]?
@@ -32,7 +32,7 @@ zbb:
 > - **E:** Auftreten aus Ruhe/Belastung? Immobilisation/OP?
 > - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)
 > 	- Auskultation (Vitien? Stauung? RG? Pneu? Pleuritis?)
 > 	- Abd (Oberbauch?)
@@ -44,7 +44,7 @@ zbb:
 > - **ggf. Koronar-CT** (Indikation kritisch prüfen)
 > - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 
-> [!Management]+
+> [!Management]- Allgemeines ACS-Management
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel SpO2 >90%[^4]
 > 3. **[[Analgesie]]:** [[PCM]] 1 g i.v. ± Morphin 3 mg-weise i.v.
@@ -54,19 +54,46 @@ zbb:
 > 7. **Non-sustained [[VT]]** braucht i.d.R. keine Antiarrhythmika, nur Metoprolol
 > 8. **Loading** abhängig von invasiver Strategie s.u.
 
-> [!disposition]+
-> - **Sofort-PCI** bei STEMI/OMI oder NSTEMI + "very high risk" feature ([[Schock]], anhaltende/rezidivierende/refraktäre AP, [[Herzinsuffizienz]]/[[Lungenödem]], Arrhythmie/[[VT]], dynamisches [[Ischämie-EKG]], mechanische Komplikationen z.B. Mitralsegelausriss)
-> 	- Defibrillationsbereitschaft (Patches)
-> 	- Loading ASS 250 mg i.v. + Heparin 70 IE/kg (max. 5000) i.v.
-> 	- Metoprolol erwägen
+> [!disposition]- Sofort-PCI bei STEMI/OMI oder NSTEMI "very high risk"
+> - **"very high risk" features bei NSTE-ACS**
+> 	- [[Schock]]
+> 	- ==Anhaltende, rezidivierende oder therapierefraktäre AP==
+> 	- [[Herzinsuffizienz]]/[[Lungenödem]]
+> 	- Arrhythmie/[[VT]]
+> 	- Dynamisches [[Ischämie-EKG]]
+> 	- Mechanische Komplikationen (z.B. [[MI]] durch Mitralsegelausriss)
+> - **Management zur PCI**
+> 	- Defibrillationsbereitschaft (Patches kleben)
+> 	- Loading ASS 250 mg i.v. + Heparin 70 IE/kg (max. 5000 IE)  i.v.
+> 	- Metoprolol (wenn keine KI)
 > 	- Arztbegleitete Verlegung zur PCI <90 min
-> - **ITS/IMC, PCI <24h** bei NSTEMI (V.a. ACS + hs-Trop 1h∆ ≥5 / 2h∆ ≥10), transientem [[Ischämie-EKG]] oder [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) >140 Pkt. (auch iAP)
+
+> [!disposition]- ITS/IMC, PCI <24h bei NSTEMI
+> - **Kriterien für ITS/IMC:**
+> 	- NSTEMI (klinisch V.a. ACS + hs-Troponin 1h∆ ≥5 / 2h∆ ≥10)
+> 	- Transientes [[Ischämie-EKG]]
+> 	- [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) >140 Pkt. (auch instabile AP)
+> - **Management:**
 > 	- Defibrillationsbereitschaft (Gerät im Raum)
-> 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20) oder Heparin 5000 IE Bolus + Perfusor 1000 IE/h, PTT q6h
+> 	- ASS 300 mg p.o. (wenn nicht ASS 100 mg/d heute eingenommen)
+> 	- Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20) oder Heparin 5000 IE Bolus + [[Perfusor]] 1000 IE/h, PTT-Kontrollen q6h
 > 	- Arztbegleitete Verlegung auf ITS
-> - **Normalstation** bei V.a. instabile AP mit [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) ≤140 Pkt., ED KHK oder [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
-> 	- ASS 300 mg p.o. (wenn nicht ASS 100 Hausmed) + Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20)
-> - **Entlassung** bei stabiler AP ohne V.a. instabile AP, Troponin neg., [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
+
+> [!disposition]- Normalstation bei V.a. Instabile AP
+> - **Kriterien für normalstationäre Aufnahme:**
+> 	- V.a. Instabile AP mit [GRACE](https://www.mdcalc.com/calc/1099/grace-acs-risk-mortality-calculator) ≤140 Pkt. (sonst ITS/IMC)
+> 	- ED [[KHK]]
+> 	- [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) ≥4 Pkt.
+> - **Management:**
+> 	- ASS 300 mg p.o. (wenn nicht ASS 100 mg/d heute eingenommen) 
+> 	- Fondaparinux 2.5 mg s.c. 1x/d (wenn GFR >20)
+
+> [!disposition]- Entlassung bei Stabile AP / CCS
+> - **Kriterien für Entlassung:**
+> 	- Stabile AP bei bekannter [[KHK]] ohne V.a. Instabile AP
+> 	- [[Troponin]] negativ
+> 	- [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
+> 	- Nicht-kardiale [[Brustschmerz]]-DD bedacht
 
 > [!note]+ Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"

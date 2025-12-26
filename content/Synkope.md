@@ -40,18 +40,21 @@ tags:
 > - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
 > 	- Persistierende Hypotonie/Tachykardie?
 > 	- Kein Schellong-Test (nicht sinnvoll)
-> - **[[EKG]]:** WOBBLERR? [[Ischämie-EKG]]? [[Bradykardie|Brady-]]/[[Tachykardie]]?
-> 	- WPW-Syndrom?
-> 	- Obstruktion (AV-Block)?
-> 	- Blockbild?
-> 	- Brugada-Syndrom?
-> 	- LV-Hypertrophie?
-> 	- AVRD (Epsilon-Welle)?
-> 	- [[RHB]] ([[LAE]])?
-> 	- Repolarisation (Long-QT)?
+> - **[[EKG]]** (s.u.)
 > - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolyte]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
 > - ggf. [[TTE]] (bei V.a. kardiogen oder rezidiverende unklare Synkopen)
 > - ggf. weiteres Workup nach DD
+
+> [!ekg]- EKG bei Synkope (WOBBLERR)
+> - Allgemein: [[Tachykardie]]/[[Bradykardie]]? [[Ischämie-EKG]]?
+> - W – WPW-Syndrom?
+> - O – Obstruktion (AV-Block)?
+> - B – Blockbild?
+> - B – Brugada-Syndrom?
+> - L – [[LVH]]?
+> - A – AVRD (Epsilon-Welle)?
+> - R – [[RHB]] ([[LAE]])?
+> - R – Repolarisation ([[Long-QT]])?
 
 > [!disposition]-
 > - **Low Risk → Ambulant**

@@ -6,6 +6,8 @@ tags:
   - Probleme/Herz-Thorax
 aliases:
   - Perikardtamponade
+  - Tamponade
+title: Perikarderguss inkl. Perikardtamponade
 ---
 - **W**
 	- *[[POCUS]]:* Einwärtsbewegung RA/RV in Diastole? Atemabh. Alternans Vmax >25% über Mitralklappe? → hämodynam. Instabilität

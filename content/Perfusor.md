@@ -7,7 +7,7 @@ tags:
 
 | **Med**                                                                                                                                      | **Konz./50**         | **Konz./ml** | Dosis                                      | Start-LR  |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------ | ------------------------------------------ | --------- |
-| <span style="background-color: black; color: white">**Adrenalin /** </span><br><span style="background-color: #debfd9">**[[EPINEPHrin]]**</span> | 1 mg                 | 20 μg        | 5 μg/min<br>= 0.05-0.1 μg/kg/min           | 15 ml/h   |
+| <span style="background-color: black; color: white">**Adrenalin /** </span><br><span style="background-color: #debfd9">**EPINEPHrin**</span> | 1 mg                 | 20 μg        | 5 μg/min<br>= 0.05-0.1 μg/kg/min           | 15 ml/h   |
 | <span style="background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%); color: white; ">**aMIOdaron**                                     | 1050 mg              | 21 mg        | 900 mg/d                                   | 1.8 ml/h  |
 | **<span style="border: 3px dashed #debfd9">cloNIDin**                                                                                        | 750 μg               | 15 μg        | 30-45 μg/h                                 | 2.5 ml/h  |
 | **<span style="background-color: #ffff00">Dexdor®**                                                                                          | 400 μg               | 8 μg         | 16 μg/h                                    | 2 ml/h    |

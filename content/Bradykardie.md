@@ -4,4 +4,7 @@ tags:
   - Probleme/Herz-Thorax
   - Status/Started
 ---
-- **Ä:** Myokardinfarkt (insb. AVB III°), Medikamente (BB, [[Digitalis]]), Metabolisch ([[HyperK+]])
+> [!dd]+ Häufige Auslöser Bradykardie (3M)
+> - **M – Myokardinfarkt** (insb. AV-Block 3°)
+> - **M – Medikamenten-[[Intox]]** (z.B. [[Betablocker]], [[Digitalis]])
+> - **M – Metabolisch** (insb. [[HyperK+]] / [[BRASH]])

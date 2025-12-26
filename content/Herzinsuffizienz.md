@@ -9,16 +9,15 @@ aliases:
 title: Herzinsuffizienz & Kardiale Dekompensation
 ---
 ![[Lungenödem#^40f277]] ^633e65
-> [!dd]+ DD siehe [[Dyspnoe]]
-> - **Reversible Ursachen akute Herzinsuffizienz** (CHAMP-IT) + weitere
-> 	- Coronar ([[ACS]])
-> 	- [[Hypertonie|Hypertensiver Notfall]] (SCAPE)
-> 	- Arrhythmie (oft [[VHF]])
-> 	- Mechanisch (z.B. iatrogene Komplikationen, Vitien)
-> 	- [[LAE|PE]]
-> 	- Infektion ([[Sepsis]], [[Perimyokarditis]])
-> 	- [[Perikarderguss|Tamponade]]
-> 	- Komorbiditäten: [[COPD]], [[CKD]]/[[AKI]], [[Anämie]] etc.
+> [!dd]+ Ursachen akuter Herzinsuffizienz (CHAMPIT) – DD siehe [[Dyspnoe]]
+> - C – Coronar ([[ACS]])
+> - H – [[Hypertonie|Hypertensiver Notfall]] (SCAPE)
+> - A – Arrhythmie (oft [[VHF]])
+> - M – Mechanisch (z.B. iatrogene Komplikationen, Vitien)
+> - P – [[LAE|PE]]
+> - I – Infektion ([[Sepsis]], [[Perimyokarditis]])
+> - T – [[Perikarderguss|Tamponade]]
+> - Weitere Komorbiditäten: [[COPD]], [[CKD]]/[[AKI]], [[Anämie]] etc.
 
 > [!anamnese]+ Anamnese
 > - **S:** Dyspnoe (NYHA), Orthopnoe? [[Brustschmerz]] ([[ACS]])? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?

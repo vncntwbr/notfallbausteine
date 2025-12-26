@@ -19,7 +19,7 @@ title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonist
 
 > [!danger] Therapeutische Antikoagulation
 > - **NMH:** Enoxaparin 1 mg/kg 1-0-1 s.c., Kontr. Anti-Xa n. 4d
-> - **UFH:** Heparin 80 IE/kg Bolus + 18 IE/kg/h Perfusor, aPTT q6h Ziel 2x nw
+> - **UFH:** Heparin 80 IE/kg Bolus + 18 IE/kg/h [[Perfusor]], aPTT q6h Ziel 2x nw
 > - **DOAK**
 > 	- *Apixaban:* 5 mg 1-0-1, [TVT/LAE] 10 mg 1-0-1 für 7d
 > 	- [2/3: Ü80, <60 kg, GFR <30] Dosis ½, [GFR <15] KI

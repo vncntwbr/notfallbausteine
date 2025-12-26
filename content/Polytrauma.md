@@ -3,6 +3,8 @@ tags:
   - Probleme/Trauma
   - Status/Started
 ---
+> [!danger] Siehe [[Trauma-CPR]]
+
 - R **Red Flags:** 1./2. Rippe#, Clavicula#, Sternum#, Beckenring#, Makrohämaturie
 - **W**
 	- 

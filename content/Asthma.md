@@ -8,16 +8,16 @@ tags:
   - Literatur/NVL
 title: Asthma bronchiale
 ---
-> [!danger] Resuscitation
+> [!danger] Resuscitation Status Asthmaticus
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 2. **Med:** Prednisolon 50-100 mg i.v., ggf. [[MgSO4]] 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie
 > 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz [[esKETAmin]] 
 > 5. **[[AMAX4]]** bei Sopor/Apnoe
 
-> [!dd]+ DD [[Anaphylaxie]] bedenken, ggf. Adrenalin i.m. empirisch
+> [!dd] DD [[Anaphylaxie]] bedenken, ggf. Adrenalin i.m. empirisch
 
-> [!anamnese]+ Anamnese
+> [!anamnese]- Anamnese
 > - **S:** Dyspnoe (nächtlich)? Giemen? Husten? Enge (≠AP)? Schmerzen? Infekt? Sputum? Allergisch (Juckreiz, Konjunktivitis, Urtikaria, Globusgefühl, GI)? OPQRST+? Frequenz (≥2/Woche tagsüber)? Nächtliches Erwachen durch Symptome? Alltag eingeschränkt?
 > - **A:** Allergisches Asthma? Saisonal? DD [[Anaphylaxie]]?
 > - **M:** Bedarfsmed (≥2x/Woche)? Dauermed (Adhärenz, Handhabung)? ASS/NSAR=Trigger?
@@ -26,7 +26,7 @@ title: Asthma bronchiale
 > - **E:** Auslöser (Belastung, Temp.-Wechsel, Allergene, Med-Inadhärenz)?
 > - **R:** Drogen (Nikotin, THC, Shisha, Vapes)? Asthma-bedingt ZNA, Stationär, ITS, "near fatal"?
 
-> [!workup]+
+> [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz|Asthma cardiale]]
@@ -35,7 +35,7 @@ title: Asthma bronchiale
 > - **[[Urin]]:** [W] β-HCG
 > - **[[Radiologie]]:** ggf. [[Rö Tx]] (V.a. [[Pneumonie]] oder sonografisch [[Pneu]])
 
-> [!stadien]+ Schweregrad Akuter Asthma-Anfall
+> [!stadien]- Schweregrad Akuter Asthma-Anfall
 > - **Leicht/Mittel:** Sprechen normal, AF <25, HF <110, PEF ≥50% persönlicher Bestwert
 > - **Schwer:** Sprechdyspnoe, AF ≥25, HF ≥110, PEF <50%
 > - **Lebensbedrohlich:**
@@ -65,7 +65,7 @@ title: Asthma bronchiale
 > 
 > ![[Pasted image 20251013080659.png]]
 
-> [!management]+
+> [!management]-
 > - **Notfalltherapie** siehe oben
 > - **Dauermedikation:** Bei bislang SABA-Monotherapie Fixkombination Beclomethason/Formoterol 100/6 µg (Foster®) 1-0-1 Hub + 1-2 Hub bei Bedarf bis insg. 8x/d rezeptieren
 > - **Patienteninformation**
@@ -73,7 +73,7 @@ title: Asthma bronchiale
 > 	- [Flyer Warum Rauchstopp bei Asthma hilft](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p6_S3_Asthma_2024-08.pdf), [Online Selbsthilfe Tabak](http://www.selbsthilfetabak.de/Portal) (anonym, kostenlos, Online-Programm über 6 Wochen)
 > 	- Flyer [Asthma-Behandlung mit Kortison-Spray](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p2_S3_Asthma_2024-08.pdf), [Unterschiede bei Inhalatoren](https://register.awmf.org/assets/guidelines/Nationale_Versorgungs-Leitlinie/nvl-002p1_S3_Asthma_2024-08.pdf)
 
-> [!disposition]+
+> [!disposition]-
 > - **Ambulant:**
 > 	- Anbindung Pneumologin/Hausarzt
 > 	- Häusliche Versorgung gesichert

@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Started
+  - Fachübersicht
 ---
 > [!management] Thorax Bildgebung
 > - **Primär CT Thorax Low-Dose:**[^1]

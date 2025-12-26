@@ -3,6 +3,7 @@ tags:
   - Diagnosen
   - Fach/HNO
   - Fach/Neurologie
+  - Status/Done
 title: Benigner Paroxysmaler Lagerungsschwindel (BPLS)
 ---
 > [!dd] Beachte DD/Workup [[Schwindel]]

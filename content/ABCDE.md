@@ -14,3 +14,13 @@ tags:
 > ```
 
 ^8e5ced
+## Schulung
+> [!management]+ xABCDE-Schmea
+> - **S – Szene:** Situation, Sicherheit, Ersteindruck
+> - **x – Exsanguination:** Signifikante äußere Blutung → Blutstillung
+> - **A – Airway:** Offen+Sicher / Gefährdet / Verlegt → [[Atemwegsmanagement]]
+> - **B – Breathing:** AF, TV, Atemarbeit, Oxygenierung → [[O2]], [[Beatmung]], Thoraxentlastung
+> - **C – Circulation:** Recap, Haut, HF, RR, Vorlast → [[CPR]], Medikamente, [[eKV]]/[[Pacing]]
+> - **(STU – Schnelle Trauma Untersuchung):** Kritische Verletzungen?
+> - **D – Disability:** BZ, BEFAST, Pupillen, [[GCS]]
+> - **E – Exposure:** Umgebung, Temp., Schmerzen, [[Anamnese]] → Wärmeerhalt, [[Analgesie]]

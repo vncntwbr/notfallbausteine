@@ -4,9 +4,10 @@ tags:
   - Probleme/Herz-Thorax
 title: Left Ventricular Assist Device (LVAD)
 ---
-> [!danger] Rapid Reference
-> 1. **Auskultation:** Pumpengeräusch?
-> 2. **Batterie:** drin? voll?
-> 3. **Controller:** Alarme? Fluss? Geschwindigkeit? Leistung?
-> 4. **Driveline:** Intakt? Steckverbindungen? H.a. Infekt?
-> 5. **[[TTE|Echo]]:** Herzaktion? Fluss/Kanülen? RHB? Tamponade?
+> [!danger] LVAD Resuscitation
+> 1. **[[ABCDE]]** Assessment insb. AF, Recap, Vigilanz
+> 2. **A – Auskultation:** Pumpengeräusch?
+> 3. **B – Batterie:** drin? voll?
+> 4. **C – Controller:** Alarme? Fluss? Geschwindigkeit? Leistung?
+> 5. **D – Driveline:** Intakt? Steckverbindungen? H.a. Infekt?
+> 6. **E – [[TTE|Echo]]:** Herzaktion? Fluss/Kanülen? RHB? Tamponade?

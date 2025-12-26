@@ -20,6 +20,6 @@ tags:
 - **T**
 	- *Antidot* 
 		- *Ethanol:* Ziel 1.0-1.5 Promille, Loading 0.6/kg = 7.6 ml/kg 10 Vol%, Erhaltung 66-154 mg/kg/h = 0.83-1.93 ml/kg/h 10 Vol%
-		- *Fomepizol:* Loading 15 mg/kg, Perfusor 1 mg/kg/h
+		- *Fomepizol:* Loading 15 mg/kg, [[Perfusor]] 1 mg/kg/h
 	- Thiamin + Pyridoxin je 100 mg/d
 	- [[Dialyse]] bei [[AKI]] / [[Metabolische Azidose]] / >0.5 ml/kg, intermitt. HD effektiver als SLEDD/CVVHD

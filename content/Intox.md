@@ -38,7 +38,7 @@ title: Intoxikation
 
 > [!danger]+ High-Dose-Insulin-Therapie
 > - **Indikation:** Fulminante [[Calciumantagonisten]] → pos. Inotropie
-> - *Insulin:* initial 50-100 IE + Perfusor 25-50 IE/h, alle 20 min +50% LR
+> - *Insulin:* initial 50-100 IE + [[Perfusor]] 25-50 IE/h, alle 20 min +50% LR
 > - *Glucose:* 50-100 g/h + Bolus n.B.
 > - *Kalium:* Substitution bei [[HypoK+]], niedrig-normal anstreben, [[ZVK]]
 

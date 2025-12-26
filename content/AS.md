@@ -11,7 +11,7 @@ aliases:
 > - **Ursachensuche:** AS immer chronisch, d.h. akuten Trigger der Dekompensation finden (z.B. [[VHF]], [[Sepsis]], Medikamente, [[LAE]])
 > - **[[NIV]]**
 > - **Nachlast↓**, MAP 65-70
-> - **Normofrequent SR** anstreben (Tachykardie behindert diastolische Füllung, Bradykardie kann nicht durch Schlagvolumen kompensiert werden)
+> - **Normofrequent SR** anstreben (Tachykardie behindert diastolische Füllung, [[Bradykardie]] kann nicht durch Schlagvolumen kompensiert werden)
 
 > [!dd]- Ursachen
 > - **Senile Kalzifizierung:** 3% in >75 J.[^1]

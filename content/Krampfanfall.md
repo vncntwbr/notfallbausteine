@@ -18,7 +18,7 @@ aliases:
 > 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
 > 4. **[[Alkohol]]?** Thiamin 100 mg i.v.
 
-> [!dd]- DD zum Epileptischen Anfall bei Epilepsie
+> [!dd]- DD zum Epileptischen Anfall bei struktureller Epilepsie
 > - **Konvulsive [[Synkope]]** / Adam-Stokes, [[VT]], [[CPR]]
 > - **[[Hypoglykämie]], [[HypoNa+]]**
 > - **Eklampsie** ([[Schwanger]] >20. SSW / Wochenbett)

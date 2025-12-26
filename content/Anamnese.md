@@ -4,6 +4,8 @@ tags:
   - Status/Done
 aliases:
   - A
+  - OPQRST+
+  - SAMPLER
 title: Anamnese
 ---
 > [!note]- Textbaustein Anamnese
@@ -36,3 +38,22 @@ title: Anamnese
 > ```
 ## Ressourcen
 > [!anamnese] [Fremdsprachige Anamnesebögen](https://medi-bild.de/materialien/)
+
+## Schulung
+> [!anamnese]+ Allgemeine Anamnese (SAMPLER)
+> - **S – Symptome:** Leitsymptom, OPQRST+
+> - **A – Allergien** inkl. Reaktion
+> - **M – Medikation:** Dauermedikation inkl. Pille, Adhärenz, OTC-Präparate, akute Selbstmedikation
+> - **P – Persönliche Vorgeschichte**
+> - **L – Letzte/r/s:** (leitsymptomabhängig) z.B. Stuhlgang, Mahlzeit, Menstruation, HKU, TTE, ÖGD, KH-Aufenthalt, Exazerbation, ABx, ...
+> - **E – Ereignisse**, die den Beschwerden vorausgingen
+> - **R – Risikofaktoren:** (leitsymptomabhängig) z.B. Alkohol, Nikotin, Drogen, [[Schwanger]], Familienanamnese, CVRF
+
+> [!anamnese]+ Schmerzanamnese (OPQRST+)
+> - **O – Onset:** Seit wann? Maximale Intensität innerhalb Sekunden / Minuten / Stunden?
+> - **P – Provokation/Palliation:** Was macht es schlimmer oder besser, z.B. Einatmen, Bewegung, Druck?
+> - **Q – Qualität:** z.B. stechend, drückend, ziehend, reißend, krampfartig, brennend, …
+> - **R – Radiation:** Lokalisation der maximalen Schmerzintensität und Ausstrahlung
+> - **S – Severity:** NRS 0-10
+> - **T – Time:** Konstant oder intermittierend? Kolikartig? Wiederholtes Auftreten? Seit Beginn zunehmend?
+> - **+:** Begleitsymptome?

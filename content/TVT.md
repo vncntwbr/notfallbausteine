@@ -39,7 +39,7 @@ title: Venöse Thrombose (TVT)
 > - **Thrombose Beckenvenen oder V. cava inferior**
 > 	- MR-/CT-Venografie (exakte Ausdehnung?), großzügig +CTPA [[LAE]]
 > 	- Konsil GCh (Thrombektomie?)
-> 	- [[AK]] UFH 80 IE/kg i.v. + Perfusor 1000 IE/h wenn Intervention geplant, sonst Standard
+> 	- [[AK]] UFH 80 IE/kg i.v. + [[Perfusor]] 1000 IE/h wenn Intervention geplant, sonst Standard
 > - **Isoliert Muskelvenenthrombose M. gastrocnemius/soleus**
 > 	- Kompressionsverband, -strumpf via HÄ, Mobilisation
 > 	- [[AK]] NMH für 1 Wo bzw. bei Risikofaktoren NMH/DOAK für 4 Wo[^4]

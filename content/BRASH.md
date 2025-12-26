@@ -6,16 +6,16 @@ tags:
 title: Bradycardia, Renal failure, AV-Block, Shock, Hyperkalemia (BRASH-Syndrom)
 ---
 > [!danger]+ Resuscitation
-> 1. **Volumenmangel:** Isotones [[Bicarbonat]] (HCO3- <22 mM) oder VEL
-> 2. **Bradykardie:** Calciumgluconat 10% 30 ml, ggf. [[EPINEPHrin]]
+> 1. **[[Volumentherapie]]:** Isotones [[Bicarbonat]] (HCO3- <22 mM) oder VEL
+> 2. **[[Bradykardie]]:** Calciumgluconat 10% 30 ml, ggf. [[EPINEPHrin]]
 > 3. **[[HyperK+]] Therapie**
 
 ## Pathophysiologie
-- **Synergistische Bradykardie**
-	- Normalerweise symptomatische Bradykardie nur bei *schwerer* [[HyperK+]] oder *toxischer Dosis* AV-Blocker
+- **Synergistische [[Bradykardie]]**
+	- Normalerweise symptomatische [[Bradykardie]] nur bei *schwerer* [[HyperK+]] oder *toxischer Dosis* AV-Blocker
 	- Jedoch bei Kombination auch *milde* [[HyperK+]] und *therapeutische Dosis* AV-Blocker ([[Betablocker]], [[Calciumantagonisten]]) ausreichend
 - **Teufelskreis**
-	- Bradykardie führt zu Hypoperfusion/[[Schock]], dies verschlechtert die Nierenfunktion ([[AKI]])
+	- [[Bradykardie]] führt zu Hypoperfusion/[[Schock]], dies verschlechtert die Nierenfunktion ([[AKI]])
 	- Dadurch wird die [[HyperK+]] verstärkt
 	- Ggf. akkumulieren auch renal eliminierte [[Betablocker]]
 - **Risikofaktoren**
@@ -25,8 +25,3 @@ title: Bradycardia, Renal failure, AV-Block, Shock, Hyperkalemia (BRASH-Syndrom)
 	- Jeder Grund für [[AKI]] (insb. Exsikkose)
 	- Jeder Grund für [[HyperK+]]
 	- Medikationsänderungen
-
-
----
-- I **Def:** [[Bradykardie]] + Renal ([[AKI]]) + AVB + [[Schock]] + [[HyperK+]]
-- **T:** Primär [[HyperK+]]-Therapie (Ca2+), VEL, [[Adrenalin]]
