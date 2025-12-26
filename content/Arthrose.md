@@ -3,6 +3,7 @@ tags:
   - Fach/Orthopädie
   - Status/Started
   - Diagnosen/Chronisch
+ICD: M15-M19
 ---
 
 - RCT kein Benefit von Arthroskopischer OP vs. Physio/Med[^1]

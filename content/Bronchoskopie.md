@@ -7,6 +7,7 @@ tags:
 title: Bronchoskopie (BSK)
 aliases:
   - BSK
+OPS: 1-62
 ---
 > [!note]+ Textbaustein
 > ```

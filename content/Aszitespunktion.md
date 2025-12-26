@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Interventionen/Punktionen
 ICD: R18
+OPS: 1-853
 ---
 > [!info]+ Indikation
 > - **Diagnostisch** bei jedem V.a. [[SBP]] (=jeder neue/progrediente Aszites, jeder Aszites-Pat. mit AZ-Verschlechterung, Infekt, Leberversagen, [[AKI]] oder V.a. [[HE]])

@@ -5,6 +5,7 @@ tags:
   - Diagnosen
 aliases:
 title: Schultergelenkluxation
+OPS: 8-201.0
 ---
 > [!dd]+ DD
 > - **Anterior:** 95%, bei Außenrotation/Abduktion

@@ -11,6 +11,7 @@ aliases:
   - Akute Nierenschädigung
   - Nierenversagen
   - Kreatinin-Erhöhung
+ICD: N17
 ---
 > [!danger]+ Rapid Reference
 > 1. **MAP** halten

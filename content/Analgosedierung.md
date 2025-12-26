@@ -5,6 +5,7 @@ tags:
 title: |-
   Analgosedierung &
   Prozedurale Sedierung
+OPS: 8-903
 ---
 > [!management] "Ketofol" (Eingriffe, Pacing)
 > - **[[esKETAmin]]** 10 mg-weise i.v. +

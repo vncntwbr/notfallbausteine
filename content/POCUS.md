@@ -3,6 +3,7 @@ tags:
   - Basics
   - Status/Started
 title: Point-of-Care Ultraschall / Sonografie (POCUS)
+OPS: 3-03
 ---
 > [!note]- Textbaustein POCUS RUSH
 > ```

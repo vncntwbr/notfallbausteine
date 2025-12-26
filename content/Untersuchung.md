@@ -5,6 +5,7 @@ tags:
 aliases:
   - U
 title: Körperliche Untersuchung
+OPS: 1-10
 ---
 > [!note]- Textbaustein Untersuchung kompakt
 > ```

@@ -10,6 +10,7 @@ aliases:
   - Arrest
 title: Reanimation / Arrest (CPR)
 ICD: I46
+OPS: 8-771
 ---
 > [!danger] Erstmaßnahmen
 > 1. **KOLLAPS** Zeit? Beobachtet? CPR? AED? No-Flow?

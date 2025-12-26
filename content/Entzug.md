@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Probleme/Kopf-Neuro
 title: Sucht & Entzug
+ICD: F10.3 (Alkohol)
 ---
 > [!danger] Killer
 > **"Kalter" Alkohol-/Benzodiazepin-Entzug** (andere Substanzen ausgeprägte Symptomatik aber ohne vitale Bedrohung) → bei Polyvalentem Substanzgebrauch immer *zuerst* Alkoholentzug unter Fortführung/Substitution Rest

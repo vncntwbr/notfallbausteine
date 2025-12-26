@@ -2,6 +2,7 @@
 tags:
   - Probleme
   - Status/Started
+ICD: F10
 ---
 > [!danger] Rapid Reference
 > - **Screening:** CAGE

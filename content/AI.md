@@ -6,6 +6,7 @@ aliases:
   - Aortenklappeninsuffizienz
   - Aorteninsuffizienz
 title: Aortenklappeninsuffizienz (AI)
+ICD: I35
 ---
 > [!danger]+ Resuscitation
 > - **Chronotropie↑** HF >100 reduziert Diastolendauer und damit Regurgitationszeit, z.B. [[DOBUTamin]]

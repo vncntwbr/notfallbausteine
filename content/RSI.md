@@ -5,6 +5,7 @@ tags:
   - Checkliste
   - Status/Done
 title: Rapid Sequence Induction / Intubation (RSI)
+OPS: 8-701
 ---
 > [!management]+ Vor Intubation
 > - [ ] **INDIKATION**, erwartete **PROBLEME**
