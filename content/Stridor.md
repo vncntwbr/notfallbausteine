@@ -3,6 +3,7 @@ tags:
   - Probleme/Kopf-Neuro
   - Fach/HNO
   - Status/Started
+ICD: R06.1
 ---
 > [!danger] Rapid Reference
 > 1. **Adrenalin p.i.** 5 mg pur

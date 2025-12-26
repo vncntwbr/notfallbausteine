@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Probleme/Herz-Thorax
   - Status/ToDo
+ICD: R05
 ---
 > [!info] Einteilung
 > - **Zeitlich:** Akut <3 Wochen / Chronisch >8 Wochen

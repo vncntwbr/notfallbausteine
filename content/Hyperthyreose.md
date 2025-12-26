@@ -5,6 +5,7 @@ tags:
   - Fach/Endokrinologie
 aliases:
 title: Hyperthyreose (TSH↓)
+ICD: E05
 ---
 
 > [!danger]+ Resuscitation – Thyreotoxische Krise

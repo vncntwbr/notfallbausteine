@@ -8,6 +8,7 @@ title: Akutes Aortensyndrom (inkl. Aortendissektion)
 aliases:
   - Aortensyndrom
   - Aortendissektion
+ICD: I71
 ---
 > [!danger]+ Resuscitation
 > 1. **Kontakt GCh / HCh:** DHZC Tel. 030-4593-2007, [Anfahrtskizze](https://www.dhzc.charite.de/fileadmin/user-upload/pdf/notfall/dhzc-aortentelefon-anfahrt.pdf)

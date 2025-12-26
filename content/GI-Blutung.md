@@ -11,6 +11,7 @@ aliases:
   - Teerstuhl
   - Hämatochezie
   - Hämatemesis
+ICD: K92.2
 ---
 > [!danger] OBERE GI-Blutung
 > 1. **[[Blutungsmanagement]]** allgemein

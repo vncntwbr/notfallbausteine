@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Fach/Labormedizin
 title: Urindiagnostik
+ICD: R80-R82
 ---
 
 ![[U-Status]]

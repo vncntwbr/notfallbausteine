@@ -7,6 +7,7 @@ aliases:
   - Transient Loss of Consciousness
   - Kurzzeitige Bewusstlosigkeit
   - Ohnmacht
+ICD: R55
 ---
 > [!danger]+ Persistierende Störung siehe [[Vigilanzminderung]] bzw. [[Schock]]/[[CPR]]
 

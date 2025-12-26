@@ -5,7 +5,8 @@ tags:
   - Diagnosen
   - Status/Started
 aliases:
-title:
+title: Pneumonie (CAP, HAP, VAP)
+ICD: J18
 ---
 > [!danger]+ Resuscitation
 > 1. **Bla:** Bla

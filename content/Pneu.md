@@ -8,6 +8,7 @@ aliases:
   - Spannungspneumothorax
   - Spannungspneu
 title: Pneumothorax inkl. Spannungspneumothorax
+ICD: J93
 ---
 
 > [!danger]+ Spannungspneumothorax

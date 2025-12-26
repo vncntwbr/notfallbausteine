@@ -7,6 +7,7 @@ tags:
   - Fach/Pneumologie
 aliases:
 title: Lungenarterienembolie (LAE)
+ICD: I26
 ---
 ![[Crashing RV#^957508]]
 

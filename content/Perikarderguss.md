@@ -8,6 +8,7 @@ aliases:
   - Perikardtamponade
   - Tamponade
 title: Perikarderguss inkl. Perikardtamponade
+ICD: I31
 ---
 - **W**
 	- *[[POCUS]]:* Einwärtsbewegung RA/RV in Diastole? Atemabh. Alternans Vmax >25% über Mitralklappe? → hämodynam. Instabilität

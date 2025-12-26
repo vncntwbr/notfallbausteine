@@ -3,6 +3,7 @@ tags:
   - Probleme/Allgemein
   - Status/Started
   - Fach/Intensivmedizin
+ICD: R57
 ---
 > [!workup]
 > - **Organdysfunktionen**

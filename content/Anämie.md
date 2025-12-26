@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Status/Done
 aliases:
+ICD: D50-D64
 ---
 
 > [!danger]+ Rapid Reference

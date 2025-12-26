@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Diagnosen
   - Literatur/S3
+ICD: K85
 ---
 > [!workup]+
 > - **[[Untersuchung|U]]:** 

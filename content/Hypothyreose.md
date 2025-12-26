@@ -3,6 +3,7 @@ tags:
   - Fach/Endokrinologie
   - Diagnosen
   - Status/Empty
+ICD: E00-E07
 ---
 
 ## Literatur

@@ -6,7 +6,7 @@ tags:
 ## Diagnosen
 - **Gefäßchirurgie**
 	- [[Aorta]]
-	- [[Extremitätenischämie]], [[PAVK]]
+	- [[Extremitätenischämie]], [[pAVK]]
 - **Herzchirurgie**
 	- [[Aorta]]
 	- [[Perikarderguss]]

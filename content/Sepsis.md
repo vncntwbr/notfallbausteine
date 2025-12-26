@@ -4,6 +4,7 @@ tags:
   - Fach/Infektiologie
   - Status/Started
   - Fach/Intensivmedizin
+ICD: R57.2
 ---
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges

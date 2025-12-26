@@ -5,6 +5,7 @@ tags:
   - Fach/Labormedizin
   - Status/Done
   - Probleme/Labor
+ICD: E87
 ---
 > [!dd]- DD Respiratorische Alkalose
 > - **Hypoxie-getriggert:** 

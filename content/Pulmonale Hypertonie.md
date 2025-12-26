@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Interventionen/POCUS
   - Diagnosen/Chronisch
+ICD: I27
 ---
 ![[Pasted image 20251124200438.png]][^1]
 

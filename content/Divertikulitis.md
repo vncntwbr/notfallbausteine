@@ -5,6 +5,7 @@ tags:
   - Diagnosen
   - Status/Started
   - Literatur/S3
+ICD: K57
 ---
 > [!stadien]+ Stadien n. CDD
 > - **1°:** akut unkompliziert

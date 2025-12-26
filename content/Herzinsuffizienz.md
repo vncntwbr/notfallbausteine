@@ -7,6 +7,7 @@ tags:
 aliases:
   - Kardiale Dekompensation
 title: Herzinsuffizienz & Kardiale Dekompensation
+ICD: I50
 ---
 ![[Lungenödem#^40f277]] ^633e65
 > [!dd]+ Ursachen akuter Herzinsuffizienz (CHAMPIT) – DD siehe [[Dyspnoe]]

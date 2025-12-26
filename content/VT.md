@@ -7,6 +7,7 @@ title: Ventrikuläre Tachykardie (VT)
 aliases:
   - Ventrikuläre Tachykardie
   - Breitkomplextachykardie
+ICD: I47.2
 ---
 > [!danger] Siehe [[eKV]]
 

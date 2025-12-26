@@ -7,6 +7,7 @@ aliases:
   - AZ-Minderung
   - Liegetrauma
 title: Schwäche & AZ-Minderung inkl. Liegetrauma
+ICD: R53-R54
 ---
 > [!danger] Komplikationen mit hoher Letalität: [[Delir]] + Liegetrauma
 

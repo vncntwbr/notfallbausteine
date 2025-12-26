@@ -13,6 +13,7 @@ cbf:
 zbb:
   - Test ZBB 1
   - Test ZBB 2
+ICD: I20-I25
 ---
 > [!dd]+ ACS-Subtypen – beachte [[Brustschmerz]]-DD und [[Ischämie-EKG]] Mimics
 > - **STEMI/OMI:** siehe [[Ischämie-EKG]]

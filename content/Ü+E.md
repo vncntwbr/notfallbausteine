@@ -6,6 +6,7 @@ tags:
 aliases:
   - Übelkeit & Erbrechen
 title: Übelkeit & Erbrechen
+ICD: R11
 ---
 - K [[Ketoazidose]], [[Ileus]], Bolus, [[GI-Blutung]], [[Urämie]], [[Stroke]], [[ACS]], [[Ösophagusruptur]]
 - **[[Anamnese|A]]:** [R] [[Schwanger]]?

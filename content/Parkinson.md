@@ -3,6 +3,7 @@ tags:
   - Fach/Neurologie
   - Status/Started
   - Diagnosen/Chronisch
+ICD: G20-G22
 ---
 
 > [!danger] Resuscitation – Akinetische Krise

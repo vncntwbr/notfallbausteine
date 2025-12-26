@@ -9,6 +9,7 @@ aliases:
   - Herz-Kreislauf-Stillstand
   - Arrest
 title: Reanimation / Arrest (CPR)
+ICD: I46
 ---
 > [!danger] Erstmaßnahmen
 > 1. **KOLLAPS** Zeit? Beobachtet? CPR? AED? No-Flow?

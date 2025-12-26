@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Probleme/Herz-Thorax
   - Status/Started
+ICD: R00
 ---
 > [!dd]+ Häufige Auslöser Bradykardie (3M)
 > - **M – Myokardinfarkt** (insb. AV-Block 3°)

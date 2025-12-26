@@ -2,6 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Started
+ICD: R51
 ---
 
  - **[[Anamnese|A]]**

@@ -7,6 +7,7 @@ tags:
   - Status/Started
   - Literatur/NVL
 title: Asthma bronchiale
+ICD: J45-J46
 ---
 > [!danger] Resuscitation Status Asthmaticus
 > 1. **O2 + Inhalation** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg

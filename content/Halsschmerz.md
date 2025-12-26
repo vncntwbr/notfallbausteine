@@ -7,6 +7,7 @@ aliases:
   - Nackenschmerz
 cbf:
   - HNO 655 605
+ICD: R07.0
 ---
 
 > [!danger]+ Atemnot, Stridor, Speicheln? → A-Problem

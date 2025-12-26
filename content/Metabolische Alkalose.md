@@ -5,6 +5,7 @@ tags:
   - Probleme
   - Status/Done
 title: Metabolische Alkalose
+ICD: E87
 ---
 > [!dd]- DD Metabolische Alkalose
 > - **H+ Shift n. intrazellulär:** 

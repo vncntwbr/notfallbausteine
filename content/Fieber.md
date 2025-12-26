@@ -5,6 +5,7 @@ tags:
 title: Fieber & Hyperthermie
 aliases:
   - Hyperthermie
+ICD: R50
 ---
 > [!info] Definition
 > - **Fieber:** Endogene Sollwertverschiebung Hypothalamus

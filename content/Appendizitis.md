@@ -4,6 +4,7 @@ tags:
   - Fach/Gastroenterologie
   - Diagnosen
   - Status/Started
+ICD: K35-K38
 ---
 - [[POCUS]] conclusive in 60%, PPW 88%, NPW 95%, bei inconclusive immer follow-up oder [[CT]][^1]
 

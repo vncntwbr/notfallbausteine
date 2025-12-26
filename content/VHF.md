@@ -6,6 +6,7 @@ tags:
 title: |-
   Vorhofflimmern (VHF) &
   Vorhofflattern (VHFla)
+ICD: I48
 ---
 > [!danger]+ Rapid Reference
 > 1. **VHF Ursache der Instabilität?** → [[eKV]] (nicht bei kompensatorischem VHF)
@@ -28,7 +29,7 @@ title: |-
 > 	- Alter >75 J. (2 Pkt.)
 > 	- [[Diabetes]]
 > 	- [[Stroke]] / TIA / Thromboembolie (2 Pkt.)
-> 	- Vaskuläre Vorerkrankung: [[KHK]], [[PAVK]]
+> 	- Vaskuläre Vorerkrankung: [[KHK]], [[pAVK]]
 > 	- Alter 65-75 J. 
 > - **Indikation [[AK]]:** HCM oder kardiale Amyloidose
 > - **Indikation VKA:** Valvuläres [[VHF]] (Mitralklappenstenose ≥2° oder MK-Ersatz)

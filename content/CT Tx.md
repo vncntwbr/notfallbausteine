@@ -2,6 +2,9 @@
 tags:
   - Fach/Radiologie
   - Interventionen/Diagnostik
+title: CT Thorax
+aliases:
+  - CT Thorax
 ---
 ## Fremdkörper
 > [!tip] Am besten via SCOUT

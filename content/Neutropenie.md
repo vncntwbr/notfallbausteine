@@ -5,6 +5,7 @@ tags:
   - Status/Done
 title: Neutropenes Fieber
 aliases:
+ICD: D70
 ---
 > [!workup]+
 > - Fokussuche wie [[Sepsis]]

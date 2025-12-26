@@ -9,6 +9,7 @@ title: |-
 aliases:
   - Luftnot
   - Respiratorische Insuffizienz
+ICD: R06.0, J96
 ---
 
 > [!danger]+ Killer-DD bei Kritisch Kranken (don't miss)
@@ -52,7 +53,7 @@ aliases:
 > 	- [[Intox]] (z.B. CO, Cyanid, Rauchgas)
 > - **Neurogen**
 > 	- ZNS-Atemdepression (z.B. Opioid-[[Intox]], [[Hirndruck]], [[HE]])
-> 	- Neuromuskulär (z.B. ALS, MS, Myasthenie, GBS)
+> 	- Neuromuskulär (z.B. ALS, MS, [[Myasthenie]], GBS)
 > 	- Zwerchfellparese (z.B. iatrogen nach ZVK/Plexusanästhesie)
 > - **Psychogen**
 > 	- Angst, Schmerz, Hyperventilation

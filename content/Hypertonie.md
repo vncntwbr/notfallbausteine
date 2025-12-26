@@ -7,6 +7,7 @@ tags:
 title: Hypertonie / Hypertensive Entgleisung
 aliases:
   - HTN
+ICD: I10-I15
 ---
 
 > [!dd]+ DD

@@ -4,6 +4,7 @@ tags:
   - Lernen
   - Fach/Gastroenterologie
   - Diagnosen/Chronisch
+ICD: K59
 ---
 ## Lernen
 ### Ätiologie 

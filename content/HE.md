@@ -7,6 +7,7 @@ tags:
 title: Hepatische Enzephalopathie (HE)
 aliases:
   - Hepatische Enzephalopathie
+ICD: K72.7
 ---
 > [!dd]+ HE Trigger
 > - **Infekt (#1):** Insb. [[SBP]], nachrangig [[HWI]], [[Pneumonie]]

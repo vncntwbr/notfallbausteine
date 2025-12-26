@@ -4,6 +4,7 @@ tags:
   - Fach/Kardiologie
   - Fach/Intensivmedizin
   - Status/Empty
+ICD: R57.0
 ---
 
 ## Literatur

@@ -3,6 +3,7 @@ tags:
   - Fach/Gastroenterologie
   - Diagnosen/Chronisch
   - Status/Done
+ICD: E80
 ---
 > [!danger] Jede Medikamentengabe prüfen: [drugs-porphyria.org](http://www.drugs-porphyria.org)
 

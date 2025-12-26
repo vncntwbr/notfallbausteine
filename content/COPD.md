@@ -7,6 +7,7 @@ tags:
 title: Chronisch-obstruktive Lungenerkrankung (COPD)
 aliases:
   - aeCOPD
+ICD: J44
 ---
 
 > [!danger]+ Resuscitation

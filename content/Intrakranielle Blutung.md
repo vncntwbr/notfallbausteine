@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Diagnosen
 aliases:
+ICD: I60-I62
 ---
 
 > [!danger] Resuscitation (Diagnose gesichert)

@@ -4,6 +4,7 @@ tags:
   - Status/Done
   - Fach/Kardiologie
 aliases:
+ICD: W87.9!
 ---
 > [!danger]+ Potenziell kritische Stromunfallfolgen
 > 1. **HRST (VF/[[VT]])** direkt nach Stromkontakt (nicht Stunden später)

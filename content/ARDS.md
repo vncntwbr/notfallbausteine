@@ -5,7 +5,8 @@ tags:
   - Fach/Intensivmedizin
   - Status/Started
 aliases:
-title:
+title: ARDS
+ICD: J80
 ---
 > [!danger]+ Resuscitation
 > 1. **Ursachensuche**

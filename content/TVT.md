@@ -7,6 +7,7 @@ tags:
 aliases:
   - Thrombose
 title: Venöse Thrombose (TVT)
+ICD: I80
 ---
 > [!dd]+ DD siehe [[Extremitätenschmerz]] – Cave [[LAE]]
 

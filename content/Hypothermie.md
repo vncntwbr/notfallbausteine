@@ -2,6 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+ICD: T68, R68
 ---
 
 > [!danger] [[CPR]] bei Hypothermie

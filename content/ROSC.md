@@ -3,6 +3,7 @@ tags:
   - Status/Started
   - Probleme/Allgemein
 title: Return of Spontaneous Circulation (ROSC)
+ICD: I46
 ---
 ![[CPR#^e6b7fe]]
 

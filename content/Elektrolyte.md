@@ -3,6 +3,7 @@ tags:
   - Basics
   - Status/Started
   - Fach/Labormedizin
+ICD: E87
 ---
 
 - **Kalium**

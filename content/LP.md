@@ -8,6 +8,7 @@ aliases:
   - Lumbalpunktion
   - Liquorpunktion
 title: Lumbalpunktion / Liquorpunktion (LP)
+ICD: R83
 ---
 > [!info]+ Indikation
 > - **Akut:** V.a. ZNS-Infektion ([[Meningitis]], Encephalitis), V.a. [[SAB]] (kontrovers)

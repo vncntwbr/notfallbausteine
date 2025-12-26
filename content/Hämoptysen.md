@@ -2,6 +2,7 @@
 tags:
   - Probleme/Herz-Thorax
   - Status/Started
+ICD: R04
 ---
 
 > [!danger] Resuscitation ("A vor C!")

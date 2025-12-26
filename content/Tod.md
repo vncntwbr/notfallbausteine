@@ -2,6 +2,7 @@
 tags:
   - Diagnosen
   - Probleme/Allgemein
+ICD: R96-R99
 ---
 
 ## Todesursache

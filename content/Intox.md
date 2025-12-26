@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Druck
 title: Intoxikation
+ICD: X49.9!, R78
 ---
 > [!danger] Rapid Reference
 > - **[[Betablocker]]/[[Calciumantagonisten]]:** Adrenalin, Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+

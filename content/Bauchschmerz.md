@@ -6,6 +6,7 @@ title: Bauchschmerz & Flankenschmerz
 aliases:
   - Flankenschmerz
   - Abdomenschmerz
+ICD: R10.4
 ---
 > [!dd]- DD
 > - **Schock + Bauchschmerz**

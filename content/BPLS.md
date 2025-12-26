@@ -5,6 +5,7 @@ tags:
   - Fach/Neurologie
   - Status/Done
 title: Benigner Paroxysmaler Lagerungsschwindel (BPLS)
+ICD: H81.1
 ---
 > [!dd] Beachte DD/Workup [[Schwindel]]
 

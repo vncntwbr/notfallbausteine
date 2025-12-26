@@ -2,6 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Started
+ICD: R04.0
 ---
 
 > [!danger]+ Resuscitation

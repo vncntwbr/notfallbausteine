@@ -6,6 +6,7 @@ tags:
   - Diagnosen
 aliases:
   - SCAPE
+ICD: J81
 ---
 > [!danger]+ Resuscitation – SCAPE / Kardiales Lungenödem
 > 1. **Lagerung:** Herzbett

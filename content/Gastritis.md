@@ -4,6 +4,7 @@ tags:
   - Status/Done
   - Diagnosen
   - Literatur/S2k
+ICD: K29
 ---
 > [!note]- Textbaustein Gastritis
 > ```

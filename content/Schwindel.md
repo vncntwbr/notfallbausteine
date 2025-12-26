@@ -2,6 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Started
+ICD: R42, H81
 ---
 > [!dd]+ DD
 > - **Anhaltend (AVS)**

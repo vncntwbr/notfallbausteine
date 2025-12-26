@@ -5,6 +5,7 @@ tags:
   - Diagnosen
   - Fach/Kardiologie
   - Fach/Neurologie
+ICD: R55
 ---
 > [!info] Synkope = [[TLOC]] mit unmittelbarer + vollständiger Erholung
 

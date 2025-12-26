@@ -4,7 +4,8 @@ tags:
   - Status/Started
   - Diagnosen
   - Literatur/S3
-title: Stroke / Schlaganfall
+title: Stroke / Ischämischer Schlaganfall
+ICD: I63
 ---
 
 - **[[Anamnese|A]]:** [S] Exakt Onset? Schmerzen? Infekt? [A] Gentamicin (in Metalyse)? [M] [[AK]]/TAH? Letzte Einnahme? [P] Bek. Defizit? [[SHT]]/OP <3 Mo? VHF? Tumor? [L] Last seen well? [E] Trauma? Funktioneller Vorzustand? [R] CVRF

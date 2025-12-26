@@ -5,6 +5,7 @@ tags:
 aliases:
   - Thoraxschmerz
 title: Brustschmerz / Thoraxschmerz
+ICD: R07.4
 ---
 > [!danger]+ Killer-DD bei Kritisch Kranken mit Brustschmerz
 > - **[[ACS]]** ([[Ischämie-EKG]], [[TTE]] [[WBS]])

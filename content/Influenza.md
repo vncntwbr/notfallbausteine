@@ -5,6 +5,7 @@ tags:
   - Status/Done
 aliases:
 title: Influenza A/B / Grippe
+ICD: J10
 ---
 > [!danger] PSA: Schutzkittel + FFP2 + Brille
 

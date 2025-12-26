@@ -8,6 +8,7 @@ aliases:
   - Gürtelrose
   - Herpes zoster
 title: Herpes zoster / Gürtelrose
+ICD: B02
 ---
 > [!workup]-
 > - **[[Untersuchung|U]]:** Meningismus? Läsionen hämorrh./nekrot., Satelliten? Aberr. Bläschen? AZ↓ (assoz.: ZNS, [[Pneumonie]], Hepatitis, DIC)? FND?

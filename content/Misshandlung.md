@@ -2,6 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/Started
+ICD: Y09.9!
 ---
 - R **Red Flags**
 	- *Risikogruppen:* Kinder, Frauen, Pflegebedürftige, Behinderte

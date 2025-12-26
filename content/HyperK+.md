@@ -5,6 +5,7 @@ tags:
 title: Hyperkaliämie (K+↑)
 aliases:
   - Hyperkaliämie
+ICD: E87
 ---
 > [!danger] Resuscitation – Schwere HyperK+ ≥6.5 mM oder [[EKG]]-Changes
 > 1. **[[BGA]]-Kontrolle** (Pseudo?), Monitoring

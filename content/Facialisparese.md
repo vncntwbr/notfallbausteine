@@ -4,6 +4,7 @@ tags:
   - Fach/Neurologie
   - Status/Done
 title: Periphere Facialisparese
+ICD: G51
 ---
 > [!dd]+ Periphere Facialisparese = Stirn mitbetroffen (sonst V.a. [[Stroke]]!)
 > - **Ätiologie periphere Facialisparese:**

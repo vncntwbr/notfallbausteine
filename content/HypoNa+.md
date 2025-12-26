@@ -6,6 +6,7 @@ tags:
 aliases:
   - Hyponatriämie
 title: Hyponatriämie (Na+↓)
+ICD: E87
 ---
 > [!danger]+ Nachweislich akut oder schwere Symptome
 > 1. **NaCl 3% 150 ml Boli i.v.** bis 3x, Ziel +5 mmol/l in 1h, +10 mmol/l in 24h

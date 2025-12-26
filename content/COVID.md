@@ -8,6 +8,7 @@ aliases:
   - COVID-19
   - Corona
   - SARS-CoV-2
+ICD: U07.1!
 ---
 > [!note]- Textbaustein
 > ```

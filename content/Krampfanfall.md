@@ -6,6 +6,7 @@ tags:
 title: Krampfanfall / Epileptischer Anfall
 aliases:
   - Epileptischer Anfall
+ICD: R56.8, G41
 ---
 > [!danger]+ Resuscitation –  Status epilepticus (≥5 min, fokal ≥10 min oder Anfallsserie)
 > 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[Anamnese]]
