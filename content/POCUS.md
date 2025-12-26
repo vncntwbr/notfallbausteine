@@ -13,11 +13,19 @@ OPS: 3-03
 
 ^aa3283
 
-- [[Volumenstatus]]
-- [[Kompressionssonografie]]
-- [[TTE]]
-- [[LUS]]
-- [[TCD]]
-- [[Abdomensonografie]]
+- **Herz + Gefäße**
+	- [[TTE]]
+	- [[TEE]]
+	- [[Volumenstatus]]
+	- [[Kompressionssonografie]]
+- **Lunge**
+	- [[LUS]]
+- **Nerven**
+	- [[TCD]]
+- **MSK**
+	- [[Sonografie Schulter]]
+- **[[Abdomensonografie]]**
+	- [[Sonografie Harnwege]]
+	- [[Sonografie Magen]]
 ## Lernressourcen
 - [5 Minute Sono](https://coreultrasound.com/5ms/)

@@ -28,7 +28,7 @@ OPS: 8-771
 
 > [!management] CPR-Quali optimieren!
 > - **Ziel** etCO2 >20, DBP >35 mmHg (femoral [[Arterie]]), Puls unter CPR
-> - Druckpunkt? Ermüdung? ggf. TEE, Magensonde
+> - Druckpunkt? Ermüdung? ggf. [[TEE]], Magensonde
 > - **CPRIC:** [[esKETAmin]] 0.5 mg/kg
 
 > [!disposition] Siehe [[ROSC]], [[ECMO]] oder [[TOR]]
@@ -91,7 +91,7 @@ OPS: 8-771
 - Carotid Continuous Doppler[^1]
 - [[CPRIC]]
 - Primär Asystolie 0.6% gutes neurolog. Outcome[^2] – Vergleich [[Thorakotomie]] 👀
-- Ohne LVOT-Öffnung im TEE kein ROSC[^3]
+- Ohne LVOT-Öffnung im [[TEE]] kein ROSC[^3]
 - Intra-Arrest Transport erhöht Mortalität[^4]
 - Kleine [[BVM]] Bags helfen nicht[^5]
 - Ventilation matters![^6]

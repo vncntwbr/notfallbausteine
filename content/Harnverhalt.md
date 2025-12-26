@@ -3,10 +3,13 @@ tags:
   - Fach/Urologie
   - Status/Done
   - Diagnosen
+  - Literatur/S2e
 ICD: R33
+title: Harnverhalt (Blase)
 ---
 > [!info] Definition
-> Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (meist >500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
+> - **Harnverhalt:** Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (>500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
+> - **Restharn:** ab >100 ml
 
 > [!dd]- DD
 > - **Killer:** [[Querschnitt]] / Cauda-Equina-Syndrom (siehe [[Rückenschmerz]])
@@ -47,6 +50,4 @@ ICD: R33
 > - [INDIZIERT?] Bei rezidivierende Harnverhalte / Harnverhalte unter antiobstruktiver Medikation / rezidivierende Harnwegsinfekte / rezidivierende Makrohämaturien bei Blutung aus Prostatagefäßen / Harnblasensteine / Pseudodivertikel der Harnblase / konsekutive Hydronephrose ± Niereninsuffizienz ist im Verlauf eine operative Desobstruktion der Prostata zu evaluieren.
 > ```
 
-[^1]
-
-[^1]: [S2e-Leitlinie Diagnostik und Therapie des Benignen Prostatasyndroms (BPS) 2023](https://register.awmf.org/de/leitlinien/detail/043-034)
+- [S2e-Leitlinie Diagnostik und Therapie des Benignen Prostatasyndroms (BPS) 2023](https://register.awmf.org/de/leitlinien/detail/043-034)

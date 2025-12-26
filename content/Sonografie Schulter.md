@@ -1,9 +1,34 @@
 ---
 tags:
-  - Interventionen/POCUS
-  - Status/Started
   - Fach/Orthopädie
+  - Interventionen/POCUS
+aliases:
+  - Schultersonografie
 ---
+> [!pocus]- Anteriore Schulter
+> - **Strukturen:** 
+> 	- Lange Bizepssehne
+> 	- M. subscapularis
+> - **Positionierung:** Ellenbogenflexion 90°
+
+> [!pocus]- Superiore Schulter
+> - **Strukturen:** AC-Gelenk
+
+> [!pocus]- Anterolaterale Schulter
+> - **Strukturen:** 
+> 	- M. supraspinatus
+> 	- subacromial-subdeltoideale Bursa
+
+> [!pocus]- Posteriore Schulter
+> - **Strukturen:** 
+> 	- M. infraspinatus
+> 	- M. teres minor
+> 	- Labrum posterior
+> 	- Spinoglenoidale Rille
+
+
+![[Pasted image 20251226180631.png]]
+
 
 > [!note]- Textbaustein Schultersonografie
 > ```
