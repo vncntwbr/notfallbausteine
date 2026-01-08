@@ -3,6 +3,7 @@ tags:
   - Status/Done
   - Fach/Gastroenterologie
   - Diagnosen
+title: Gastroenteritis (viral)
 ---
 
 > [!note]- Textbaustein Virale Gastroenteritis

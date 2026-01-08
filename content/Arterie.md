@@ -8,7 +8,7 @@ title: |-
   Arterieller Katheter &
   Invasive Blutdruckmessung (IBP)
 ---
-
+## Textbaustein
 > [!note]+ Textbaustein Arterie
 > ```
 > Anlage Arterieller Katheter 20G komplikationslos nach unauffälligem Allen-Test in Seldinger-Technik sonografiegestützt unter Lokalanästhesie via A. radialis links.
@@ -17,8 +17,6 @@ title: |-
 ^76aae9
 
 ^b1ad32
-
----
 ## Schulung
 ### Benötigtes Material
 - NaCl 0,9% 500 ml freeflex-Beutel
@@ -61,7 +59,7 @@ title: |-
     2. **Leitung:** 3-Wege-Hahn schließen, nochmals an blauer Silikonschnur ziehen bis in der Pat.-seitigen Leitung kein Blut mehr zu sehen ist
 5. **Desinfizieren** des 3-Wege-Hahns und **Verschluss** mit neuem <span style="color:red">**roten Kombistopfen**</span>
 
----
+## Literatur
 - In refraktärem, hypotensiven Schock MAP radial im Schnitt 13 mmHg (KI –29 bis +3) niedriger als femoral[^1]
 - Tabatière[^2]
 - Overdaming und Underdamping[^3]

@@ -4,7 +4,7 @@ tags:
   - Interventionen/Meds
   - Status/Empty
 aliases:
-  - Adrenalin
   - Suprarenin
+  - EPINEPHrin
 title: EPINEPHrin / Adrenalin
 ---

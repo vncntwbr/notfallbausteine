@@ -2,6 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+  - Fach/Palliativmedizin
 ---
 > [!danger]+ Ermittlung Patientenwille
 > 1. **Einwilligungsfähiger Pat.:** Aktuell geäußerter Wille

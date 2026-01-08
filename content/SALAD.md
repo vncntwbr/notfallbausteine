@@ -2,6 +2,7 @@
 tags:
   - Interventionen/HALO
   - Status/Started
+  - Fach/Anästhesiologie
 title: Suction-assisted Laryngoscopic Airway Decontamination
 ---
 

@@ -3,6 +3,8 @@ tags:
   - Probleme/Allgemein
   - Status/Started
   - Basics
+  - Fach/Labormedizin
+  - Fachübersicht
 zbb:
   - "Basis: BGA, Kleines BB, Krea, TSH, CRP"
   - "Kardio: Basis + Troponin, CK"

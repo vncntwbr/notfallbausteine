@@ -20,6 +20,8 @@ tags:
 > - **G5:** GFR <15 ([[Dialyse]] oder [[Transplantation]])
 > - **Zusatz Albuminurie:** A1 <30, A2 30-300, A3 >300 mg/24h
 
+^8f0a1a
+
 ^5b5bc5
 > [!info]- Mechanismen
 > - **Hypervolämie**

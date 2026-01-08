@@ -14,7 +14,7 @@ tags:
 - **S**
 	- *ZNS:* Agitation, [[Delir]], Mydriasis, [[Krampfanfall]]
 	- *Cor:* [[Hypertonie]], [[Tachykardie]], [[ACS]]/SCAD/Aneurysma
-	- [[Fieber]], Hyponatriämie, [[Rhabdomyolyse]], ALV, [[AKI]], DIC
+	- [[Fieber]], [[HypoNa+|Hyponatriämie]], [[Rhabdomyolyse]], ALV, [[AKI]], DIC
 ## Management
 - *[[Aktivkohle]]:* <1h bei großen Mengen
 - *ZNS-Symptome:* [[Benzodiazepine]], oft extreme Dosen

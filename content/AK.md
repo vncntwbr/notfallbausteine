@@ -3,6 +3,7 @@ tags:
   - Interventionen/Meds
   - Druck
   - Status/Started
+  - Fach/Hämatologie
 aliases:
   - DOAK
   - VKA
@@ -11,6 +12,7 @@ aliases:
   - NMH
   - UFH
   - Antikoagulation
+  - OAK
 title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonisten (VKA, Marcumar)
 ---
 > [!danger] Prophylaktische Antikoagulation
@@ -28,11 +30,8 @@ title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonist
 > 	- *I:* Valv. VHF, [[Antiphospholipid]], Mech. Herzklappe (Ak INR 2.5, Mk 3.0)
 
 Antagonisierung siehe [[Blutungsmanagement]]
-
----
-- Circadianer Rhythmus bis +50% PTT nachts unter Heparin[^1]
-
 ## Literatur
 - [S3-Leitlinie Prophylaxe der venösen Thromboembolie (VTE)](https://register.awmf.org/de/leitlinien/detail/003-001)
+- Circadianer Rhythmus bis +50% PTT nachts unter Heparin[^1]
 
 [^1]: [Circadian changes in anticoagulant effect of heparin infused at a constant rate](https://pmc.ncbi.nlm.nih.gov/articles/PMC1417335/)

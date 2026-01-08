@@ -2,6 +2,8 @@
 tags:
   - Status/Started
   - Interventionen/Punktionen
+  - Fach/Anästhesiologie
+  - Fach/Intensivmedizin
 title: Zentraler Venenkatheter (ZVK)
 ---
 - **Insertionstiefe** (160-180 cm)

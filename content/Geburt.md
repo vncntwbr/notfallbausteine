@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Status/ToDo
   - Status/Started
+  - Fach/Gynäkologie
 aliases:
 title:
 ---

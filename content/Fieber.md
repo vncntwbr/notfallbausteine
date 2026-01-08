@@ -2,6 +2,10 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+  - Fach/Infektiologie
+  - Fach/Hämatologie
+  - Fach/Toxikologie
+  - Fach/Endokrinologie
 title: Fieber & Hyperthermie
 aliases:
   - Hyperthermie

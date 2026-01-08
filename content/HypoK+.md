@@ -2,6 +2,9 @@
 tags:
   - Status/Started
   - Probleme/Labor
+  - Fach/Labormedizin
+  - Fach/Nephrologie
+  - Fach/Kardiologie
 title: Hypokaliämie (K+↓)
 aliases:
   - Hypokaliämie

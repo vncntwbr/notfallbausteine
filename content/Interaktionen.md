@@ -3,6 +3,7 @@ tags:
   - Basics
   - Interventionen/Meds
   - Status/Started
+  - Fach/Pharmakologie
 ---
 
 - [CYP450 Tabelle](https://drug-interactions.medicine.iu.edu/MainTable.aspx)

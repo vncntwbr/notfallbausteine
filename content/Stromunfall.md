@@ -19,7 +19,7 @@ ICD: W87.9!
 > [!workup]- Workup
 > "Standard" Haushaltsstromunfall (<1000 Volt) ohne Risikofaktoren → nur A+U und [[EKG]]
 > - **[[Untersuchung|U]]:** VP? Haut (Strommarken)? Neuro-Screen?
-> - **[[EKG]]:** HRST? AV-Block? RSB/LSB? STE? QTc?
+> - **[[EKG]]:** HRST? [[AV-Block]]? RSB/LSB? STE? QTc?
 > - **[[Labor]]:** ggf. [[BGA]], ggf. Profil "Brustschmerz" (bei AP, Palpitationen, Hochspannung, [[TLOC]], [[EKG]]-Veränderungen)
 > - **[[Urin]]:** ggf. [[U-Status]] (Myoglobinurie Erys+)?
 

@@ -7,6 +7,7 @@ tags:
 title: Cholinerges Syndrom
 aliases:
   - Cholinerges Syndrom
+  - Cholinerges Toxidrom
 ---
 
 > [!danger] Resuscitation

@@ -2,6 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Kardiologie
 ---
 > [!warning]+ KI
 > - [[Long-QT]], verlängert QT → [[eKV]] oder [[MgSO4]]

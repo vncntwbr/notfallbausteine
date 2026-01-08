@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Interventionen/Meds
   - Status/Done
+  - Fach/Infektiologie
 title: Postexpositionsprophylaxe (PEP) nach Sexualkontakt oder Nadelstichverletzung
 aliases:
 ---

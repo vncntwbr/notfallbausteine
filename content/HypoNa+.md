@@ -25,7 +25,7 @@ ICD: E87
 > 	- *Hyperglykämie* → Korrektur
 > - **[[Urin]]:** Urinstatus, Osmolalität, Na+, Albumin/Krea, Protein/Krea, HST, ggf. Urinkultur
 > - **[[POCUS]]:** [[Volumenstatus]]? Ergüsse?
-> - **[[Radiologie]]:** Rö/CT Thorax bei H.a. SIADH
+> - **[[Radiologie]]:** Rö/[[CT Tx|CT Thorax]] bei H.a. SIADH
 
 > [!dd]- DD
 > 1. **Serum-Osmolalität** [nw 285-295] Hyperlipidämie, Multiples Myelom, Ig-Therapie [erhöht >295] ==[[Hyperglykämie]]==, Mannitol [vermindert <285] weiter
@@ -51,5 +51,8 @@ ICD: E87
 > ```
 ---
 - Schnelle Korrektur (≥8-10 mM/24h) 3.2% bzw. 22.1% weniger KH-Mortalität vs. langsame (<8/6-10 mM/24h) und sehr langsame (<4-6 mM/24h) Korrektur[^1]
+- Hitze[^2]
 
 [^1]: Ayus. JAMA Internal Med 2024. [Correction Rates and Clinical Outcomes in Hospitalized Adults With Severe Hyponatremia: A Systematic Review and Meta-Analysis](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2826087)
+
+[^2]: Prpic M, Hoffmann C, Bauer W, Hoffmann P, Kappert K. JAMA Netw Open. 2024. [Urban Heat and Burden of Hyponatremia.](https://doi.org/10.1001/jamanetworkopen.2024.50280)

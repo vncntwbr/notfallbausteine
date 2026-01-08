@@ -2,6 +2,8 @@
 tags:
   - Interventionen/HALO
   - Status/Started
+  - Fach/Intensivmedizin
+  - Fach/Kardiologie
 title: Extrakorporale Membranoxygenierung (ECMO)
 ---
 

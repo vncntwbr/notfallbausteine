@@ -14,7 +14,7 @@ ICD: E80
 > - Fasten, Zyklus, Alkohol
 
 > [!anamnese]-
-> - **S:** Schmerzen/OPQRST+? Übelkeit? [[Obstipation]]? Infektsymptome? Schwäche? Idem zu früheren Schüben oder anders? Neuropsychiatrische Symptome (Psychose, [[Delir]], Vigilanzminderung, Krampfanfall, Paresen, Sensibilitätsstörungen, …)?
+> - **S:** Schmerzen/OPQRST+? Übelkeit? [[Obstipation]]? Infektsymptome? Schwäche? Idem zu früheren Schüben oder anders? Neuropsychiatrische Symptome (Psychose, [[Delir]], [[Vigilanzminderung]], Krampfanfall, Paresen, Sensibilitätsstörungen, …)?
 > - **M:** [Trigger-Medikamente](http://www.drugs-porphyria.org)? Spezifische Therapie (Givosiran)? Neue Hormone/Pille?
 > - **P:** Welche Porphyrieform? Anbindung? Bisherige Schübe? Hämarginat-Therapie (Normosang) in der Vergangenheit? 
 > - **L:** Schub? Mahlzeit (Fasten)? Stuhlgang (paralyt. Ileus)? Menstruation (zyklusabhängig)?

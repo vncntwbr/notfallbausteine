@@ -14,7 +14,7 @@ ICD: J45-J46
 > 2. **Med:** Prednisolon 50-100 mg i.v., ggf. [[MgSO4]] 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie
 > 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz [[esKETAmin]] 
-> 5. **[[AMAX4]]** bei Sopor/Apnoe
+> 5. **[[AMAX4]]** bei [[Vigilanzminderung|Sopor]]/Apnoe
 
 > [!dd] DD [[Anaphylaxie]] bedenken, ggf. Adrenalin i.m. empirisch
 
@@ -113,13 +113,9 @@ ICD: J45-J46
 > - Lassen Sie sich von ihrer Hausärztin oder Lungenärztin bezüglich einer Desensibilisierungsbehandlung beraten.
 > ```
 
----
-[^3]
-
-- Unter ASS-sensiblen Asthmatikern haben 20-50% Urtikaria allerg. Reaktion auf Tartrazin (gelbes Färbemittel für Lebensmittel)[^1]
-
 ## Literatur
 - [S3-Leitlinie NVL Asthma](https://register.awmf.org/de/leitlinien/detail/nvl-002)
+- Unter ASS-sensiblen Asthmatikern haben 20-50% Urtikaria allerg. Reaktion auf Tartrazin (gelbes Färbemittel für Lebensmittel)[^1]
 
 [^1]: https://x.com/nickmmark/status/1719199281608061248
 

@@ -7,8 +7,8 @@ OPS: 8-800
 ---
 
 > [!danger]+ Indikation EK
-> - **Hb >8 g/dl** keine Transfusion außer Schock/[[Blutungsmanagement]]
-> - **Hb 7-8 g/dl** bei eingeschränkter Kompensation (KHK, HFrEF, Stroke etc.) oder ==[[Anämie|Anämische Hypoxie]]==
+> - **Hb >8 g/dl** keine Transfusion außer [[Schock]]/[[Blutungsmanagement]]
+> - **Hb 7-8 g/dl** bei eingeschränkter Kompensation ([[KHK]], HFrEF, [[Stroke]] etc.) oder ==[[Anämie|Anämische Hypoxie]]==
 > - **Hb <7 g/dl** grundsätzlich, außer chronische Anämie / Hämatolog. (z.B. [[Sichelzell]] bis <5 g/dl toleriert)
 > - Außerhalb akuter Blutung nur 1 EK gleichzeitig, nicht automatisch "2 EK"
 ^05ff50

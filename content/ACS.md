@@ -23,7 +23,7 @@ ICD: I20-I25
 > 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxämie]]
 > 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
 > 	- SCAD
-
+## Workup
 > [!anamnese]-
 > - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
 > - **A:** Analgetika-Asthma?
@@ -44,7 +44,7 @@ ICD: I20-I25
 > - **[[POCUS]]:** [[LUS]] (Pneu? Erguss? Lungeninfarkte? B-Lines?), [[TTE]], ggf. [[Aorta]], ggf. [[TVT]]
 > - **ggf. Koronar-CT** (Indikation kritisch prüfen)
 > - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
-
+## Management
 > [!Management]- Allgemeines ACS-Management
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel SpO2 >90%[^4]
@@ -95,7 +95,7 @@ ICD: I20-I25
 > 	- [[Troponin]] negativ
 > 	- [HEART](https://www.mdcalc.com/calc/3975/heart-pathway-early-discharge-acute-chest-pain) 0-3 Pkt.
 > 	- Nicht-kardiale [[Brustschmerz]]-DD bedacht
-
+## Textbausteine
 > [!note]+ Formulierung
 > "Ausschluss ACS" nicht durch [[EKG]]+Trop mögl. (instabile AP), stattdessen "Ausschluss Myokardinfarkt"
 
@@ -121,7 +121,7 @@ ICD: I20-I25
 
 ![[Brustschmerz#^e34c74]]
 
----
+## Literatur
 - STEMI(–)OMI(+) haben Delays bis [[HKU]][^2]
 - [^1]
 

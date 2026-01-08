@@ -4,6 +4,8 @@ tags:
   - Druck
   - Checkliste
   - Status/Done
+  - Fach/Hämatologie
+  - Fach/Anästhesiologie
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 zbb: Test ZBB hier anrufen
 ---
@@ -44,9 +46,7 @@ zbb: Test ZBB hier anrufen
 > 	- *[[Hämoptysen]]:* TXA 1 g p.i., [[Bronchoskopie]], [[RSI]] zurückhaltend
 > 	- *[[GI-Blutung]]:* Terlipressin 1-2 mg i.v., ÖGD, alternativ Ballontamponade
 > 	- *[[Intrakranielle Blutung]]:* RRsys <140 ([[SAB]]), <160 ([[ICB]])
-> - **Gyn/Geburt**
-> 	- *1. Trimester* = [[EUG]] → 
-> 	- TODO
+> - **Gyn/Geburt** siehe [[PPH]]
 > - **Päd**
 > 	- EK, FFP, TK, Cryo je 10-20 ml/kg
 > 	- TXA 15 mg/kg

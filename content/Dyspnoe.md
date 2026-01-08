@@ -3,6 +3,8 @@ tags:
   - Probleme
   - Probleme/Herz-Thorax
   - Status/Done
+  - Fach/Pneumologie
+  - Fach/Kardiologie
 title: |-
   Dyspnoe / Luftnot &
   Respiratorische Insuffizienz
@@ -33,7 +35,7 @@ ICD: R06.0, J96
 > 	- Shunting (angeborene Herzfehler, intrapulmonal, AVM)
 > - **Obere Atemwege**
 > 	- [[Anaphylaxie]] / [[Angioödem]]
-> 	- HNO (z.B. Polypen, Tracheomalazie, PTA, Abszess)
+> 	- HNO (z.B. Polypen, Tracheomalazie, PTA, [[Abszess]])
 > 	- Tumor (Larynx-Ca, Mundboden-Ca)
 > 	- Kinder: Pseudokrupp/Epiglottitis
 > - **Untere Atemwege**
@@ -60,7 +62,7 @@ ICD: R06.0, J96
 
 > [!workup]-
 > - **[[EKG]]:** [[Ischämie-EKG]]? HRST? [[Tachykardie]]+[[RHB]]? Niedervoltage/Alternans?
-> - **[[POCUS]]:** RUSH oder min. [[TTE]] + [[LUS]]
+> - **[[POCUS]]:** [[RUSH]] oder min. [[TTE]] + [[LUS]]
 > - **[[Labor]]:** [[BGA]] (Säure-Basen), Profil "Pneumonie" ± [[D-Dimer]] (s. [[LAE]]) ± [[Troponin]] (ohne [[Brustschmerz]] nur wenn ACS plausible DD + [[EKG]]-Veränderungen)
 > - ggf. [A-a-Gradient](https://www.mdcalc.com/calc/243/a-a-o2-gradient) (erniedrigt=intrapulmonal, normal=Hypoventilation)
 

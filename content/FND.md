@@ -2,6 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/ToDo
+  - Fach/Neurologie
 title: Fokalneurologisches Defizit (FND)
 ---
 - K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aorta]]

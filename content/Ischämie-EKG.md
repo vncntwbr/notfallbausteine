@@ -2,7 +2,8 @@
 tags:
   - Probleme
   - Status/Started
-  - Basics
+  - Interventionen/EKG
+  - Fach/Kardiologie
 title: Ischämie-EKG
 ---
 - *Klassischer STEMI:* STE ≥1 mm in ≥2 benachbarten Abltg., außer:

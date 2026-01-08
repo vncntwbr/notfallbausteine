@@ -2,6 +2,8 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Toxikologie
+  - Fach/Pharmakologie
 ---
 
 - **D:** 0.5-1.0 g/kg, gut suspendieren (UAW Ileus)

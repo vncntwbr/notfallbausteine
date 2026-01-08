@@ -2,6 +2,8 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+  - Fach/Pneumologie
+  - Fach/Intensivmedizin
 ---
 
 > [!danger]+ Rapid Reference

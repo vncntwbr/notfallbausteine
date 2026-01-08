@@ -2,6 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Infektiologie
 title: Antibiotika (ABx)
 ---
 > [!danger] Kalkulierte ABx
@@ -17,7 +18,7 @@ title: Antibiotika (ABx)
 	- *HWI, unkompl.:* Pivmecillinam 400 mg q8h 3d, alt. W Fosfomycin 3g 1x abends, alt. M Nitrofurantoin 100 mg q12h 5d
 	- *Pyelonephritis:* W Cefpodoxim 200 mg q12h 10d, alt. Ciprofloxacin 500 mg q12h 7-10d
 	- *CAP leicht:* Amoxicillin 1g q8h 5-7d, alt. Moxifloxacin 400mg/d 5-7d
-	- *Wundinfekt/Abszess:* Cefalexin 1g q8h 5-7d, tiefergelegen Clindamycin 600 mg q8h 7-10d
+	- *Wundinfekt/[[Abszess]]:* Cefalexin 1g q8h 5-7d, tiefergelegen Clindamycin 600 mg q8h 7-10d
 	- *HNO-Infekt:* Amoxi/Clav 1g q8h 5-7d, alt. Cefpodoxim 200 mg q12h 5-7d
 	- *Appendizitis:* Cefpodoxim 200 mg q12h + Metronidazol 500 mg q8h 7d
 	- *Bakt. GI-Infekt:* Azithromycin 500 mg/d 3d
@@ -34,7 +35,7 @@ title: Antibiotika (ABx)
 	- *Peritonitis/Perforation:* Pip/Taz 4.5g q8h
 	- *SBP:* Ceftriaxon 2g/d (Sepsis wie Peritonitis)
 	- *Erysipel:* Penicillin G 10 M IE q8h, alt. Clindamycin 600 mg q8h
-	- *Abszess:* Cefazolin 2g q8h 1d, dann 1g q8h
+	- *[[Abszess]]:* Cefazolin 2g q8h 1d, dann 1g q8h
 	- *Wundinfekt:* Ampicillin/Sulb 3g q8h (Sepsis wie Nekr. Fasziitis), V.a. MRSA + Linezolid 600 mg q8h
 	- *Nekrotisierende Fasziitis/Phlegmone:* Pip/Taz 4.5g q8h + Clindamycin 600 mg q8h + OP
 	- *Meningitis:* Dexamethason 10 mg q6h vorab + Ceftriaxon 2g q12h + Ampicillin 2g q4h + Aciclovir 10 mg/kg q8h

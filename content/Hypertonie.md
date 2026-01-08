@@ -4,6 +4,7 @@ tags:
   - Status/Done
   - Literatur/NVL
   - Diagnosen/Chronisch
+  - Fach/Kardiologie
 title: Hypertonie / Hypertensive Entgleisung
 aliases:
   - HTN

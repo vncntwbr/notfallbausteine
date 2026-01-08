@@ -2,6 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Pharmakologie
 title: Magnesiumsulfat (MGSO4)
 ---
 

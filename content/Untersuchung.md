@@ -60,6 +60,23 @@ OPS: 1-10
 > **Rö Schulter p/a + Neer:** ###
 > **Labor:** CRP # mg/l, Leukos # G/l, INR # ```
 
+> [!note]- Textbaustein Wirbelsäule
+> Inspektion: 
+
+> [!note]- Textbaustein Knie
+> ```
+> Inspektion: Stand+Gang sicher, Einbeinstand möglich. Keine Schwellung, keine Rötung, keine Überwärmung, keine sichtbare Fehlstellung.
+> Palpation: Keine Krepitation, keine Stufenbildung. Patella nicht übermäßig verschieblich. Sehnenansätze nicht druckdolent. 
+> Funktion:
+> - Extension/Flexion 0-5°/0°/120-150°
+> - Abduktion/Adduktion 5°/0°/10° bei flektiertem Knie, keine vermehrte mediale oder laterale Aufklappbarkeit
+> - Innen-/Außenrotation 10°/0°/30° bei flektiertem Knie
+> pDMS: intakt
+> - Lachman-Test (vorderes Kreuzband): Harter Anschlag
+> - Gravity-Sign (hinteres Kreuzband): Keine Dellenbildung
+> - Steinmann-I (Menisken): negativ (Schmerzen lateral bei Innenrotation = Außenmeniskus + umgekehrt)
+> ```
+
 ## Volle Untersuchung
 
 - AZ gut (aktuell ECOG 0-4), EZ eutroph (XXX kg, XXX cm, BMI XXX). Freundlich zugewandt. Normotherm (XX °C aurikulär).

@@ -2,6 +2,8 @@
 tags:
   - Probleme
   - Status/Started
+  - Fach/Toxikologie
+  - Fach/Psychiatrie
 ICD: F10
 ---
 > [!danger] Rapid Reference

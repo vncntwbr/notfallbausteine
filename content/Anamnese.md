@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Done
+  - Fach/Allgemeinmedizin
 aliases:
   - A
   - OPQRST+

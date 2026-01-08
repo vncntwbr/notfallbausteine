@@ -5,6 +5,7 @@ tags:
   - Literatur/S2k
   - Literatur/S3
   - Fachübersicht
+  - Fach/Psychiatrie
 title: Psychiatrischer Notfall
 aliases:
   - Psychiatrischer Notfall

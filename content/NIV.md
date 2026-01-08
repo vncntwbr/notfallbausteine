@@ -3,6 +3,9 @@ tags:
   - Interventionen
   - Status/Started
   - Literatur/S2k
+  - Fach/Pneumologie
+  - Fach/Anästhesiologie
+  - Fach/Intensivmedizin
 title: Nicht-invasive Ventilation (NIV)
 ---
 > [!note]+ Textbaustein

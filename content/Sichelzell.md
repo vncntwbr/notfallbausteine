@@ -21,7 +21,7 @@ aliases:
 > - **[[Sepsis]]/OPSI** (funktionelle Asplenie)
 > - **Hämolyse**, bei Virusinfekt aplastische Krisen
 > - **Vasookklusive Schmerzkrisen**
-> - **Thromboemobilien** (D-Dimer Baseline 1.0 mg/l, bei Krisen 2.5 mg/l, CTPA nur bei klarem Verdacht), insb. [[Stroke]] in jungem Alter
+> - **Thromboemobilien** ([[D-Dimer]] Baseline 1.0 mg/l, bei Krisen 2.5 mg/l, CTPA nur bei klarem Verdacht), insb. [[Stroke]] in jungem Alter
 > - **[[Ileus]]** ([[Opioide]])
 > - **[[Gallenerkrankungen]]**
 > - **[[Priapismus]]**

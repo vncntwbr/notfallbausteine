@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Probleme/Herz-Thorax
   - Status/ToDo
+  - Fach/Pneumologie
 ICD: R05
 ---
 > [!info] Einteilung

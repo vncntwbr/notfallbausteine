@@ -2,6 +2,9 @@
 tags:
   - Probleme/Herz-Thorax
   - Status/Done
+  - Fach/Kardiologie
+  - Fach/Orthopädie
+  - Fach/Pneumologie
 aliases:
   - Thoraxschmerz
 title: Brustschmerz / Thoraxschmerz
@@ -60,7 +63,7 @@ ICD: R07.4
 > 2. **[[EKG]]** #1 <10 min, #2 <60 min (V.a. [[ACS]]: +V7-V9, +V1R-V3R)
 > 	- [[Ischämie-EKG]]?
 > 	- [[RHB]]?
-> 3. **[[POCUS]]:** RUSH/[[TTE]]
+> 3. **[[POCUS]]:** [[RUSH]]/[[TTE]]
 > 4. **[[Labor]]:** Profil "Brustschmerz" (inkl. CRP, Trop, [[CK]]), [[BGA]]
 > 	- [[D-Dimer]] nur gezielt, siehe [[LAE]]
 > 	- #2 Trop 1h/2h siehe [[ACS]]

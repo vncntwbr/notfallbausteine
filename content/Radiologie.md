@@ -3,9 +3,10 @@ tags:
   - Basics
   - Status/Started
   - Fachübersicht
+  - Fach/Radiologie
 ---
 > [!management] Thorax Bildgebung
-> - **Primär CT Thorax Low-Dose:**[^1]
+> - **Primär [[CT Tx|CT Thorax]] Low-Dose:**[^1]
 > 	- V.a. Atypische [[Pneumonie]]
 > 	- [[COVID]]/Influenza [[Pneumonie]]
 > 	- [[Immunsupp.]]

@@ -12,27 +12,28 @@ aliases:
 
 | Häufige Probleme   |                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                    |
+| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                             |
 | **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                               |
 | **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanzminderung\|Vigilanz]] |
 | **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |
 | **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                   |
 | **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |
-| **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]]                                                                                                    |
+| **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]] [[Wunden]]                                                                                         |
 
 | Häufige Diagnosen  |                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------- |
 | **Neuro**          | [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]                               |
 | **Kardiovask.**    | [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]                                 |
 | **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]                           |
-| **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis (viral)]] [[Gastritis]] [[Pankreatitis]] |
+| **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]] |
 | **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                               |
 ## Auswahl häufiger Textbausteine
 ![[Untersuchung#^82651c]]
 ![[Untersuchung#^e8bff0]]
-![[ABCDE#^8e5ced]]
+![[ABCDE#^7e23c5]]
 ![[Anamnese#^db877f]]
 ![[EKG#^1b04ab]]
-![[POCUS#^aa3283]]
+![[rush#^4ce91d]]
 ![[TTE#^1fb4f0]]
 ![[TTE#^88177b]]
+![[wunden#^1d8711]]

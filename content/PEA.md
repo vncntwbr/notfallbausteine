@@ -3,6 +3,7 @@ tags:
   - Probleme/Allgemein
   - Status/Started
   - Interventionen/EKG
+  - Fach/Intensivmedizin
 title: Pulslose elektrische Aktivität (PEA)
 ---
 

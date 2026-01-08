@@ -28,7 +28,7 @@ ICD: I71
 - **Ä:** 50-70 J., M, [[Hypertonie]] (70%), Bindegewebserkrankung[^1][^2], Vaskulitis
 - **[[Anamnese|A]]:** [S] abrupt (LR+ 2.6)[^3], reißend (LR+ 10), wandernd (LR+ 7.6), stärkst (90%), evtl. schmerzlos[^4], "+1"/ischäm ([[Synkope]][^5], Stroke, periph. Paraplegie, Horner-Syndr., [[Mesenterialischämie]], Extremitätenischämie, [[ACS]])
 - **[[Untersuchung|U]]:** [[RR]]-Seitendiff. kein Stellenwert, 1% STE inferior, 25% Troponinämie (Typ A), Diastolikum/AI
-- **W:** [ADD-RS](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs) + D-Dimer
+- **W:** [ADD-RS](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs) + [[D-Dimer]]
 - **[[POCUS]]**
 	- *TTE:* AI[^6], dilat. Aortenwurzel, Flap, Erguss/Tamponade, bikuspide AK
 

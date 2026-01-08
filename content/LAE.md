@@ -16,7 +16,7 @@ ICD: I26
 > - **[[Untersuchung|U]]:** VP, Halsvenenstauung? TVT?
 > - **[[EKG]]:** RV-Strain (Sinustachy, T-Neg III + V1-V4, SIQIIITIII, RSB)
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?
-> - **[[Labor]]:** BGA ([[Respiratorische Alkalose]]), Basis-Labor ± D-Dimer, [W] β-HCG
+> - **[[Labor]]:** BGA ([[Respiratorische Alkalose]]), Basis-Labor ± [[D-Dimer]], [W] β-HCG
 
 > [!stadien]-
 > - **High-Risk:** Schock
@@ -74,5 +74,6 @@ ICD: I26
 
 ## Literatur
 - [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
+- [Thrombosis Canada: Diagnosis of DVT and PE in Pregnancy](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=83)
 
 [^1]: [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)

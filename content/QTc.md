@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Interventionen/EKG
+  - Fach/Kardiologie
 title: Korrigierte QT-Zeit (QTc)
 ---
 

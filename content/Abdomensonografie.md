@@ -2,6 +2,7 @@
 tags:
   - Interventionen/POCUS
   - Status/ToDo
+  - Fach/Radiologie
 ---
 > [!note]- Textbaustein Abdomensonografie
 > ```

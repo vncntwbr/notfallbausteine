@@ -25,7 +25,7 @@ ICD: R83
 > 1. **Aufklärung**
 > 2. **Lokalanästhesie** Lidocain 1%
 > 3. **Steriles Abdecken**
-> 4. **Punktion** mit Spinalkanüle (Standard 20G gelb, ggf. 21G grün bei Adipositas/Verkalkung)
+> 4. **Punktion** mit Spinalkanüle (Standard 20G gelb, ggf. 21G grün bei [[Adipositas]]/Verkalkung)
 > 5. **Röhrchen abnehmen** je 20 Tropfen = 2ml → #1 verwerfen, 1x Liquorstatus, 1x Kultur, bei V.a. Meningitis/SAB 1x 5 ml für Zelldiff./Zytopatho
 
 > [!workup]- Liquordiagnostik

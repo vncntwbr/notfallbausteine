@@ -2,6 +2,7 @@
 tags:
   - Interventionen/HALO
   - Status/Done
+  - Fach/Anästhesiologie
 title: Emergency Front of Neck Access (eFONA) & Koniotomie
 ---
 >[!danger]+ Koniotomie

@@ -9,7 +9,7 @@ title: Transthorakale Echokardiografie (TTE)
 > [!danger] FATE Protocol
 > 1. **S4C** 
 > 2. **IVC**
-> 3. **A4C:** [[TAPSE]], LVOT VTI
+> 3. **A4C:** [[TAPSE]], LVOT [[VTI]]
 > 4. **PLAX:** [[EPSS]], LVOT Ø 
 > 5. **PSAX** 
 > 6. **Pleura bds.**

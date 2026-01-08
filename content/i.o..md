@@ -1,7 +1,7 @@
 ---
 tags:
-  - Interventionen
   - Status/Started
+  - Interventionen/Punktionen
 title: Intraossärer Zugang (i.o.)
 ---
 

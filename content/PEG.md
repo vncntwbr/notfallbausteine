@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Interventionen
   - Status/Started
+  - Fach/Gastroenterologie
 title: Perkutane endoskopische Gastrostomie (PEG)
 ---
 - **T PEG disloziert**

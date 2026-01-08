@@ -3,6 +3,7 @@ tags:
   - Literatur/BF-SOP
   - Probleme/Herz-Thorax
   - Status/Done
+  - Fach/Pneumologie
 ---
 > [!danger]+ Resuscitation Obstruktive Atemnot
 > 1. **[[O2]] + Inhalation:** Salbutamol 2.5 mg + Ipratropiumbromid 0.5 mg

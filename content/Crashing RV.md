@@ -3,6 +3,8 @@ tags:
   - Checkliste
   - Status/Done
   - Diagnosen
+  - Fach/Kardiologie
+  - Fach/Intensivmedizin
 ---
 >[!danger]+ Crashing RV
 > 1. **FiO2 100%** (pulmonale Vasodilatation), a.e. HFNC, minimal PEEP

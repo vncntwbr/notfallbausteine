@@ -17,7 +17,7 @@ ICD: I80
 > - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[AK]]?
 > - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? [[CKD]] (DANI)?
 > - **E:** Immobilisation? Trauma?
-> - **R:** Familie (TVT, [[LAE]], Thrombophilie)? Adipositas?
+> - **R:** Familie (TVT, [[LAE]], Thrombophilie)? [[Adipositas]]?
 
 > [!workup]+
 > 1. **Direkt [[Kompressionssonografie]]** bei [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2 Pkt., [[Schwanger]], V.a. Armvenenthrombose[^2]
@@ -92,6 +92,7 @@ ICD: I80
 
 ## Literatur
 - [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
+- [Thrombosis Canada: Diagnosis of DVT and PE in Pregnancy](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=83)
 
 [^1]: nur wenn Sono nicht verfügbar, LL 2.7
 

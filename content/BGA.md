@@ -3,6 +3,7 @@ tags:
   - Basics
   - Druck
   - Status/Done
+  - Fach/Labormedizin
 title: Blutgasanalyse (BGA)
 ---
 > [!danger]+ BGA Rapid Reference

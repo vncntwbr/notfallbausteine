@@ -2,15 +2,33 @@
 tags:
   - Probleme/Trauma
   - Status/ToDo
+  - Fach/Orthopädie
 title: Wunden & Wundversorgung
 ---
 > [!danger]+ Rapid Reference
-> 1. **Invasive WV indiziert?** Pflaster/Kleber ausreichend? OP-Indikation?
-> 2. **[[Analgesie]]:** Lokalanästhesie? Block? Systemisch?
-> 3. **[[ABx]]?**
-> 4. **Tetanus-Impfschutz?**
+> 1. **pDMS!**
+> 2. **Invasive WV indiziert?** Pflaster/Kleber ausreichend? OP-Indikation?
+> 3. **Bildgebung:** Fremdkörper, Fraktur, Luxation?
+> 4. **[[Analgesie]]:** Lokalanästhesie? Block? Systemisch?
+> 5. **[[ABx]]?**
+> 6. **Tetanus-Impfschutz?**
 
-> [!management]+ Tetanus-Impfschutz
+> [!dd]- Siehe: [[Nadelstichverletzung]]
+
+> [!management]+ Wundversorgung
+> 1. **Wundspülung:** NaCl (unkompliziert) oder Octenidin (z.B. Octenisept) / Polihexanid (z.B. Lavasept, Prontosan), ggf. Iod (sehr hohes Infektionsrisiko)
+> 2. **Primärnaht** (KI: >12-48h ± Kontamination)
+> 
+> 
+> 
+> |Lokalisation     |Faden     |Zug
+> | --- | --- |---|
+> |Behaarte Kopfhaut     |3-0     |7d|
+> |Gesicht/Hals|5-0|5d|
+> |Rumpf/Extremitäten|4-0|10d|
+> 
+
+> [!management]- Tetanus-Impfschutz
 > - **Saubere, oberflächtliche Wunde**
 > 	- *Impfung unklar/keine:* Simultan aktiv + passiv
 > 	- *1-2 Impfungen[^1] oder ≥3 Impfungen mit letzter >10 J.:* aktiv
@@ -20,25 +38,29 @@ title: Wunden & Wundversorgung
 > 	- *≥3 Impfungen mit letzter >5 J.:* aktiv
 > 	- *≥3 Impfungen mit letzter <5 J.:* keine
 
-> [!disposition]+
+> [!disposition]-
 > - **Wundkontrolle Ambulant:** Üblich 2 + 7 + 10 Tage, WV bei Entzündung
 > - **Nahtentfernung:** Kopf/Hals 5d, Rumpf 7d, Extremitäten 14d
-> - **ABx-Prophylaxe:** z.B. Cefalexin 500 mg q8h für 3d (bei Verschmutzung, Biss, älterer Wunde, großem Weichteildefekt, Hand/Fuß)
+> - **ABx-Prophylaxe:** z.B. Cefalexin 500 mg q8h für 3d (bei Verschmutzung, [[Biss]], älterer Wunde, großem Weichteildefekt, Hand/Fuß)
 
 > [!note]- Textbaustein Wundversorgung/KoPlaWu
 > ```
 > Lokalbefund: Ca. ### cm lange, klaffende Platzwunde an ###LOKALISATION. Wundränder sauber. Keine aktive Blutung. Umgebend leichte Weichteilschwellung. Keine Frakturzeichen.
-> 
-> Wundversorgung: Gründliche Wundreinigung (Spülen mit NaCl, oberflächliche Desinfektion). Lokale Infiltrationsanästhesie mit Lidocain 1%. Spannungsfreie Wundrandadaption und primärer Wundverschluss ###KI? mit 5-0 nicht-resorbierbarem Faden in Einzelknopftechnik. 
-> 
-> Tetanusimpfung zuletzt ###, somit keine Prophylaxe indiziert.
-> 
-> Empfehlungen:
-> - Wunde sauber und trocken halten, Spannung/Belastung auf dem Hautareal vermeiden
-> - Möglichst für 3 Tage nicht mit Wasser in Kontakt bringen (Stelle beim Duschen z.B. mit Duschverband abdecken)
-> - Fadenzug frühestens in 5 Tagen, z.B. beim Hausarzt
-> - Bei lokalen Entzündungszeichen (Rötung, Schwellung, zunehmende Schmerzen, eitriger Ausfluss) umgehende ärztliche Vorstellung
 > ```
+> ```
+> Wundversorgung: Gründliche Wundreinigung (Spülen mit NaCl, oberflächliche Desinfektion). Lokale Infiltrationsanästhesie mit Lidocain 1%. Spannungsfreie Wundrandadaption und primärer Wundverschluss ###KI? mit 5-0 nicht-resorbierbarem Faden in ###Anzahl Einzelknopfnähten. 
+> ```
+> ```
+> Tetanusimpfung zuletzt ###, somit keine Prophylaxe indiziert.
+> ```
+> ```
+> Empfehlungen:
+> - Wunde sauber und trocken halten, Spannung/Belastung auf dem Hautareal vermeiden. Möglichst für 3 Tage nicht mit Wasser in Kontakt bringen (Stelle beim Duschen z.B. mit Duschverband abdecken)
+> - Fadenzug frühestens in 5 Tagen, z.B. beim Hausarzt.
+> - Bei lokalen Entzündungszeichen (Rötung, Schwellung, zunehmende Schmerzen, eitriger Ausfluss) umgehende ärztliche Vorstellung.
+> ```
+
+^1d8711
 
 ## Literatur
 - [S3-Leitlinie Lokaltherapie schwerheilender und/oder chronischer Wunden aufgrund von peripherer arterieller Verschlusskrankheit, Diabetes Mellitus oder chronischer venöser Insuffizienz](https://register.awmf.org/de/leitlinien/detail/091-001)

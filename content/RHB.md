@@ -3,9 +3,10 @@ aliases:
   - Rechtsherzbelastung
 tags:
   - Basics
-  - Interventionen/POCUS
   - Status/Started
   - Interventionen/EKG
+  - Fach/Kardiologie
+  - Interventionen/POCUS/TTE
 title: Rechtsherzbelastung (RHB)
 ---
 - **RHB im [[EKG]]**

@@ -2,6 +2,7 @@
 tags:
   - Status/Done
   - Probleme/Labor
+  - Fach/Nephrologie
 aliases:
   - Hypercalcämie
 title: Hypercalcämie (Ca2+↑)

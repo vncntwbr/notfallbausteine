@@ -49,7 +49,7 @@ ICD: R55
 > [!ekg]- EKG bei Synkope (WOBBLERR)
 > - Allgemein: [[Tachykardie]]/[[Bradykardie]]? [[Ischämie-EKG]]?
 > - W – WPW-Syndrom?
-> - O – Obstruktion (AV-Block)?
+> - O – Obstruktion ([[AV-Block]])?
 > - B – Blockbild?
 > - B – Brugada-Syndrom?
 > - L – [[LVH]]?

@@ -2,6 +2,8 @@
 tags:
   - Status/Started
   - Probleme/Extremitäten
+  - Fach/Chirurgie
+  - Fach/Angiologie
 aliases:
 ---
 > [!danger]+ Rapid Reference

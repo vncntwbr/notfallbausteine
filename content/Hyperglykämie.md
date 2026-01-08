@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Probleme/Labor
+  - Fach/Endokrinologie
 ---
 - **DD**
 	- Kritisch Kranke

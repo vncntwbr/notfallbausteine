@@ -20,7 +20,7 @@ ICD: K57
 > - 🚩 [[Immunsupp.]], AZ↓, [[IFP]]
 > - 
 > - **E:** Prävalenz Divertikulose 60% Ü70
-> - **Ä:** Rotes Fleisch, Rauchen, Adipositas, Motilität↓, Med
+> - **Ä:** Rotes Fleisch, Rauchen, [[Adipositas]], Motilität↓, Med
 > - **[[Anamnese|A]]:** 
 > - **[[Untersuchung|U]]:**
 > - **[[EKG]]:**

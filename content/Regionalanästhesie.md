@@ -1,7 +1,8 @@
 ---
 tags:
-  - Interventionen
   - Status/Started
+  - Fach/Anästhesiologie
+  - Interventionen/Punktionen
 ---
 
 - Dexamethason i.v. als Adjuvanz verlängert Block um 4h, reduziert post-OP [[Opioide]] um 19 mg Morphin[^1]

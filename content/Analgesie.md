@@ -2,17 +2,24 @@
 tags:
   - Basics
   - Status/Started
+  - Fach/Pharmakologie
+  - Fach/Anästhesiologie
 ---
-> [!note]+ Textbaustein Entlassung Analgesie
+> [!note]- Textbaustein Entlassung Analgesie
 > ```
-> - Bedarfsgerechte Schmerztherapie [individuell auswählen]
-> 	- z.B. mit Metamizol (Novalgin) 500-1000 mg als Tabletten oder 20-40 Tropfen bei Bedarf (###Rezept ausgehändigt), maximal 4g in 24 Stunden. In extrem seltenen Fällen kann das Medikament als Nebenwirkung eine gefährliche Störung der Blutbildung (Agranulozytose) auslösen. Bei Neuauftreten von Halsschmerzenen, Schluckbeschwerden, Entzündungen der Mundschleimhaut oder Fieber Einnahme pausieren und sofort ärztlich vorstellen.
-> 	- z.B. mit Paracetamol 500-1000 mg als Tabletten bei Bedarf für maximal 7 Tage (rezeptfrei in der Apotheke erhältlich). Eine maximale Tagesdosis von 4g in 24 Stunden darf keinesfalls überschritten werden, sonst drohen schwere, dauerhafte Leberschäden.
-> 	- z.B. mit Ibuprofen 200-400 mg als Tabletten bei Bedarf (rezeptfrei in der Apotheke erhältlich). Einzeldosen >400 mg wirken nicht stärker gegen Schmerzen als 400 mg, es empfiehlt sich die maximale Tagesdosis auf mehrere Einnahmen bis 400 mg zu verteilen anstatt mehr als 400 mg auf einmal einzunehmen. Eine maximale Dosis von 1600 mg (4x 400 mg) pro 24h sollte keinesfalls überschritten werden, sonst drohen schwere Nierenschäden. Einnahme von Ibuprofen möglichst nicht auf nüchternen Magen und für höchstens 7 Tage, bei Risikofaktoren (häufiges Sodbrennen, Blutverdünnung, Neigung zu Magenschleimhautentzündung oder Magengeschwüren, längere Einnahme) sollte zusätzlich ein Magenschutz (z.B. Pantoprazol 20 mg 1-0-0, rezeptfrei in der Apotheke erhältlich) eingenommen werden.
-> 	- ###ASS: Das ASS ("Aspirin") aus der Dauermedikation muss mindestens 30 min vor den Schmerzmitteln eingenommen werden, ansonsten wird seine Wirkung abgeschwächt.
+> Bedarfsgerechte Schmerztherapie z.B. mit Metamizol (Novalgin) 500-1000 mg als Tabletten oder 20-40 Tropfen bei Bedarf (###Rezept ausgehändigt), maximal 4g in 24 Stunden. In extrem seltenen Fällen kann das Medikament als Nebenwirkung eine gefährliche Störung der Blutbildung (Agranulozytose) auslösen. Bei Neuauftreten von Halsschmerzenen, Schluckbeschwerden, Entzündungen der Mundschleimhaut oder Fieber Einnahme pausieren und sofort ärztlich vorstellen.
+> ```
+> ```
+> Bedarfsgerechte Schmerztherapie z.B. mit Paracetamol 500-1000 mg als Tabletten bei Bedarf für maximal 7 Tage (rezeptfrei in der Apotheke erhältlich). Eine maximale Tagesdosis von 4g in 24 Stunden darf keinesfalls überschritten werden, sonst drohen schwere, dauerhafte Leberschäden.
+> ```
+> ```
+> Bedarfsgerechte Schmerztherapie z.B. mit Ibuprofen 200-400 mg als Tabletten bei Bedarf (rezeptfrei in der Apotheke erhältlich). Einzeldosen >400 mg wirken nicht stärker gegen Schmerzen als 400 mg, es empfiehlt sich die maximale Tagesdosis auf mehrere Einnahmen bis 400 mg zu verteilen anstatt mehr als 400 mg auf einmal einzunehmen. Eine maximale Dosis von 1600 mg (4x 400 mg) pro 24h sollte keinesfalls überschritten werden, sonst drohen schwere Nierenschäden. Einnahme von Ibuprofen möglichst nicht auf nüchternen Magen und für höchstens 7 Tage, bei Risikofaktoren (häufiges Sodbrennen, Blutverdünnung, Neigung zu Magenschleimhautentzündung oder Magengeschwüren, längere Einnahme) sollte zusätzlich ein Magenschutz (z.B. Pantoprazol 20 mg 1-0-0, rezeptfrei in der Apotheke erhältlich) eingenommen werden.
+> ```
+> ```
+> Das ASS ("Aspirin") aus der Dauermedikation muss mindestens 30 min vor den Schmerzmitteln eingenommen werden, ansonsten wird seine Wirkung abgeschwächt.
 > ```
 
-> [!management]+
+> [!management]- Grundsätzliches Schmerzmanagement
 > - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
 > 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], Antikonvulsiva, ggf. Schmerzdienst
@@ -27,15 +34,14 @@ tags:
 
 ## Analgetika-Optionen
 
-
-> [!management] Nicht-Opioid-Analgetika
+> [!management]- Nicht-Opioid-Analgetika
 > - **ASS:** Cave Salicylatintoxikation ([[Metabolische Azidose]]), GI-Ulcera
 > - **[[PCM]]:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit [[Esketamin]]/[[Opioide]]
 > - **Ibuprofen:** Ceiling-Effekt 400 mg p.o. Einzeldosis, Cave Nephrotox. (KI bei [[AKI]]/[[CKD]]), Kardiotox. (KI bei HFrEF, kann Dekomp. triggern), GI-Ulcera
 > - **Metamizol:** 500-1000 mg p.o. > i.v.[^1], = 20-40 Tropfen, Ceiling-Effekt 1g, Cave [[Anaphylaxie]], [[Neutropenie]]/Agranulozytose
 > - **[[esKETAmin]]**
 
-> [!management] [[Opioide]]
+> [!management]- [[Opioide]]
 > - **Tramadol (Tramal®):** Nein, Cave [[Serotonin-Syndrom]], UAW Übelkeit
 > - **Tilidin/Naloxon** 50 mg retard p.o. 1-0-1, max. 600 mg/d, unretardiert 50 mg b.B., kaum [[Obstipation]], Cave Abhängigkeit, [[Serotonin-Syndrom]]/WW
 > - **Piritramid (Dipidolor®)** 7.5 mg KI i.v., max. Wirkung in 20 min
@@ -46,7 +52,7 @@ tags:
 > - **Buprenorphin**
 > - Siehe [[Opioide]]
 
-> [!management] Co-Analgetika
+> [!management]- Co-Analgetika
 > - **Bei Neuropathischen Schmerzen:**
 > 	- *Pregabalin (Lyrica®):* 0-0-50 mg p.o., alle 3d +50 mg, max. 600 mg/d, Cave Abhängigkeit, QTc
 > 	- *Gabapentin:* 0-0-100/200 mg p.o., alle 3d +100 mg, max. 1200 mg/d, Cave Abhängigkeit, UAW Müde, Schwindel, Ödeme
@@ -56,6 +62,7 @@ tags:
 > 	- *Methocarbamol (Ortoton®)* 750 mg p.o. 1-1-1, max. 2-2-2, Cave Sturzgefahr, eingeschränkte Fahrtauglichkeit
 > 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]
 
+- Penthrox[^3]
 ## Literatur
 - [EUSEM: Guidelines for the management of acute pain in emergency situations - 2025 Update](https://eusem.org/images/251210_EUSEM_European_Pain_Initiative_Guidelines_Updated_Oct_2025.pdf)
 - [S3-Leitlinie Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen (LONTS)](https://register.awmf.org/de/leitlinien/detail/145-003)
@@ -64,3 +71,5 @@ tags:
 [^1]: Metamizol Aktivierung durch Hydrolyse im Darmepithel, p.o. Wirkung > i.v.
 
 [^2]: [LONTS Leitlinie](https://register.awmf.org/assets/guidelines/145-003k_S3_LONTS_2024-03.pdf)
+
+[^3]: Simensen, Randi et al. [Comparison of inhalational methoxyflurane, intranasal fentanyl, and intravenous morphine for treatment of prehospital acute pain in Norway (PreMeFen): a randomised, non-inferiority, three-arm, phase 3 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01575-2/abstract) The Lancet, Volume 406, Issue 10522, 2957 - 2967

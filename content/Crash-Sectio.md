@@ -2,6 +2,7 @@
 tags:
   - Interventionen/HALO
   - Status/Done
+  - Fach/Gynäkologie
 title: Perimortale Crash-Sectio
 ---
 > [!danger]+ Schwangere >20. SSW in Arrest >4 min

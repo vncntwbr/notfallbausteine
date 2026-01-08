@@ -2,6 +2,7 @@
 tags:
   - Probleme
   - Status/Done
+  - Fach/Hämatologie
 aliases:
 ICD: D50-D64
 ---
@@ -10,14 +11,14 @@ ICD: D50-D64
 > -  **Hämorrhagischer Schock?** → [[Blutungsmanagement]]
 > - **Def:** [W] Hb <12 g/dl ≈ <7.5 mM, [M] Hb <13 g/dl ≈ <8.0 mM
 > - **Klassifikation:** mikro/hypo MCV↓ MCH↓ | makro/hyper MCV↑ MCH↑
-
+## DD
 > [!dd]- DD
 > - *Hämolyse:* AIHA (dCoombs+, Predinsolon 1mg/kg), Ery-Morphologie, TTP/HUS (ggf. FFP, stat. Nephro)
 > - *Myelosuppression:* stat./amb. Häma
 > - *Eisenmangel:* DD okkult [[GI-Blutung]]
 > - *Folsäuremangel:* Immer Ausschluss B12↓ vor Subst. 4 mg p.o. 1-0-0
 > - *Vitamin-B12-Mangel:* Hydroxycobalamin 1 mg/d i.m. (nicht i.v.) für 1 Wo, dann red.
-
+## Workup
 > [!workup]-
 > - **[[Anamnese|A]]:** [S] [[Dyspnoe]]? AP? [[Synkope]]? Urin? Stuhl? Hämoptysen? Epistaxis? Menorrhoe? B-Sympt.? [A] Transfusion? [M] AK/TAH? NSAR? Cortison? CTX? Myelotox.? [P] [[CKD]]? Onko? GI? Herzklappen? Aorta? Z.n. OP? [L] Menstruation? Stuhl? [E] Trauma? Infekt? [R] Alkohol? Reisen? Familie?
 > - **[[Untersuchung|U]]:** Ikterus? Blutungsstigmata? Konjunktiven? DRU? Splenomegalie?
@@ -29,7 +30,7 @@ ICD: D50-D64
 > 	- *Hämolyse?* fHb, LDH, Haptoglobin, direkter Coombs-Test
 > 	- *V.a. Mangel:* Holo-TC, Folsäure, Ferritin (Routine)
 > 	- *V.a. TTP/HUS:* Fragmentozyten Blutausstrich
-
+## Management
 > [!management]-
 > - **Akute Blutung / Hämorrhagischer Schock?** [[Blutungsmanagement]]
 > - **O2-Gabe** bei Hb <8 g/dl
@@ -37,7 +38,7 @@ ICD: D50-D64
 > - **Disposition:** 
 
 ![[Transfusion#^05ff50]]
-
+## Textbausteine
 > [!note]- Textbaustein Anämie allgemein
 > ```
 > Laborchemisch HYPO/HYPERchrome MIKRO/MAKROcytäre Anämie mit Hb ### g/dl. Retikulozyten nw. Restliche Zellreihen nw. Kein H.a. Hämolyse. BSG nw. Urinstatus unauffällig. Bei klinisch kein H.a. anämische Hypoxie und Hb >7.0 g/dl keine Transfusionsindikation. Ursächlich vermuten wir a.e. ###.

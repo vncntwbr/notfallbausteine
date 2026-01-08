@@ -2,6 +2,8 @@
 tags:
   - Probleme/Abdomen
   - Status/Done
+  - Fach/Gastroenterologie
+  - Fach/Chirurgie
 title: Bauchschmerz & Flankenschmerz
 aliases:
   - Flankenschmerz
@@ -23,7 +25,7 @@ ICD: R10.4
 > 	- [[Gallenerkrankungen]]
 > 	- [[Pankreatitis]]
 > 	- [[Gastritis]]
-> 	- [[Gastroenteritis (viral)]]
+> 	- [[Gastroenteritis]]
 > 	- Flanken: [[Urolithiasis]]
 > 	- Unterlappenpneumonie u.ä.
 > - **Mittel-/Unterbauch**

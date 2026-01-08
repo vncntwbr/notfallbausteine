@@ -1,7 +1,8 @@
 ---
 tags:
-  - Probleme
   - Status/Done
+  - Fach/Labormedizin
+  - Probleme/Labor
 aliases:
   - Laktatazidose
 title: Lactatazidose / Laktatazidose

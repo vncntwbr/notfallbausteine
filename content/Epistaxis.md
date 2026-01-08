@@ -2,6 +2,7 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Started
+  - Fach/HNO
 ICD: R04.0
 ---
 

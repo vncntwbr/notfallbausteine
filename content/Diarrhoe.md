@@ -51,7 +51,7 @@ title: Diarrhoe / Durchfall
 > 3. **Antiemetika:** Primär Ondansetron 4 mg i.v. (Cave: kein MCP!)
 > 4. **Antidiarrhotika:** ggf. Loperamid 2x2 mg p.o. (wenn kein V.a. infektiöse Ursache)
 > 5. **Differenziert**
-> 	- *Viral/Norovirus (i.d.R. [[Ü+E]]):* [[Gastroenteritis (viral)]]
+> 	- *Viral/Norovirus (i.d.R. [[Ü+E]]):* [[Gastroenteritis]]
 > 	- *Schwere bakterielle Infektion (>38.5°C, blutig, voluminös, >6x/d, >7d):* Salmonellen, Shigellen, Campylobacter, E. coli, Yersinien, Vibrionen/Cholera, C. diff. → Stuhldiagnostik, ggf. ABx, bei V.a. C. diff. Vancomycin 125 mg p.o. (nicht i.v.)
 > 	- *Reise-assoziiert:* 80% bakteriell, anhaltend oft Protozoen → ABx, z.B. Rifaximin
 > 	- *ABx-assoziiert / hospitalisiert:* C. diff. → Stuhldiagnostik, Vancomycin 125 mg p.o. (nicht i.v.)

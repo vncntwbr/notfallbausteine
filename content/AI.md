@@ -15,6 +15,6 @@ ICD: I35
 
 > [!dd]+ DD \*Akute* AI
 > - [[Endokarditis]]
-> - *Iatrogen:* Klappenersatz-Versagen, [[HKU]]-Komplikationen
+> - Iatrogen (Klappenersatz-Versagen, [[HKU]]-Komplikationen)
 > - [[Aorta|Aortendissektion]]
 > - [[Thoraxtrauma]]

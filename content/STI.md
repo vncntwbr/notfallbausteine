@@ -3,6 +3,7 @@ tags:
   - Probleme/Abdomen
   - Status/ToDo
   - Probleme/Haut
+  - Fach/Infektiologie
 title: Sexuell-übertragbare Infektionen (STI/STD)
 ---
 ## Literatur

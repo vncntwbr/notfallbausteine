@@ -13,7 +13,7 @@ ICD: J10
 
 > [!anamnese]-
 > - **S:** Symptombeginn <48h?
-> - **P:** [[Immunsupp.]] (auch Diabetes, Sucht, ...)? Herz, Lunge, Leber, Neurologie? Adipositas?
+> - **P:** [[Immunsupp.]] (auch Diabetes, Sucht, ...)? Herz, Lunge, Leber, Neurologie? [[Adipositas]]?
 > - **L:** Impfung?
 > - **R:** [[Schwanger]]/Wochenbett? 
 > - **Sozial:** Kontaktpersonen mit Indikation Oseltamivir-PEP? Häusliche Versorgung? Pflegeheim?
@@ -31,7 +31,7 @@ ICD: J10
 > 	2. *Risikofaktoren:* 
 > 		- Alter >65 J. oder Kinder <2 J.
 > 		- Pflegeheim
-> 		- Adipositas III° mit BMI >40
+> 		- [[Adipositas]] III° mit BMI >40
 > 		- [[Schwanger]]/Wochenbett (Oseltamivir safe)
 > 		- [[Immunsupp.]] (auch: Diabetes, Onko, Sucht, HIV, ...)
 > 		- Chronische Herz-, Lungen-, Leber-, Stoffwechsel-, Neurologische Erkrankung

@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Probleme/Herz-Thorax
+  - Fach/Kardiologie
 title: Left Ventricular Assist Device (LVAD)
 ---
 > [!danger] LVAD Resuscitation

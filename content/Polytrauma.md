@@ -2,6 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/Started
+  - Fach/Orthopädie
 ---
 > [!danger] Siehe [[Trauma-CPR]]
 

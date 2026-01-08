@@ -3,7 +3,9 @@ tags:
   - Status/Started
   - Fach/Kardiologie
   - Interventionen/POCUS/TTE
-title: Velocity Time Integral (VTI)
+title: LVOT Velocity Time Integral (VTI)
+aliases:
+  - LVOT VTI
 ---
 
 - Es reicht einfach nur VTI ohne LVOT Diameter

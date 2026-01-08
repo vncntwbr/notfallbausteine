@@ -3,6 +3,8 @@ tags:
   - Interventionen
   - Druck
   - Status/Done
+  - Fach/Pharmakologie
+  - Fach/Intensivmedizin
 ---
 
 | **Med**                                                                                                                                      | **Konz./50**         | **Konz./ml** | Dosis                                      | Start-LR  |

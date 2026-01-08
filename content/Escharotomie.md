@@ -2,6 +2,8 @@
 tags:
   - Interventionen/HALO
   - Status/Done
+  - Fach/Chirurgie
+  - Fach/Intensivmedizin
 ---
 > [!danger]+ Rapid Reference
 > 1. **Indikation:** Beatmung unmöglich bei schwerst. zirkulärer [[Verbrennung]] Thorax

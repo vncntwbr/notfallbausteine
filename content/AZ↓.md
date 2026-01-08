@@ -2,6 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/Done
+  - Fach/Notfallmedizin
 aliases:
   - Schwäche
   - AZ-Minderung
@@ -28,7 +29,7 @@ ICD: R53-R54
 > [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)? Vollständiger Status (Herz, Lunge, Abd., Beine, Haut, Neuro), [Delir-Screening 4AT](https://www.mdcalc.com/calc/3982/4-test-delirium-assessment)
 > - **[[EKG]]** 
-> - **[[POCUS]]:** RUSH
+> - **[[POCUS]]:** [[RUSH]]
 > - **[[Labor]]:** Profil "Unklar", [[CK]], [[BGA]]
 > - **[[Urin]]:** [[U-Status]]
 

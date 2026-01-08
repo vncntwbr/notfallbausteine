@@ -2,6 +2,8 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Anästhesiologie
+  - Fach/Pharmakologie
 title: Muskelrelaxans
 ---
 

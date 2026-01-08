@@ -3,8 +3,10 @@ tags:
   - Checkliste
   - Interventionen/HALO
   - Status/Done
+  - Fach/Pneumologie
+  - Fach/Intensivmedizin
 ---
-> [!danger]+ AMAX4: Lebensbedrohliches [[Asthma]] / [[Anaphylaxie]] (==Sopor oder Apnoe==)
+> [!danger]+ AMAX4: Lebensbedrohliches [[Asthma]] / [[Anaphylaxie]] (==[[Vigilanzminderung|Sopor]] oder Apnoe==)
 > 1. **Adrenalin** 0.5 mg i.m. (Wdh.) + [[Push-Dose]] Adrenalin 50-100 μg i.v./[[i.o.]]
 > 2. **Muskelrelaxans zur [[RSI]]** 100 mg [[ROCuronium]]
 > 3. **Atemweg:** ITN mit VL + Apnoe-Ox 1 Versuch, sonst direkt [[eFONA]], [[BVM]]/SGA insuffizient

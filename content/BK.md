@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Started
+  - Fach/Infektiologie
 aliases:
   - Blutkultur
   - Blutkulturen

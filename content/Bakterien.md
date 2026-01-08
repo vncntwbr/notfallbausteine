@@ -1,0 +1,88 @@
+---
+tags:
+  - Fach/Infektiologie
+---
+- **Grampositiv**
+	- **Grampositive Kokken**
+		- **Staphylokokken**
+			- Staph. aureus ([[Abszess]], [[Phlegmone]], [[Endokarditis]], Impetigo contagiosa, [[Toxic Shock]], Bakteriämie)
+			- Staph. epidermidis (Fremdkörper-Infektionen)
+			- Staph. saprophyticus ([[HWI]])
+		- **Streptokokken**
+			- Strep. pneumoniae / Pneumokokken ([[Pneumonie]], [[Meningitis]], [[Otitis media]], [[Sinusitis]], OPSI)
+			- Viridans-Strep. (Karies, [[Endokarditis]])
+			- Strep. pyogenes (Tonsillitis, Scharlach, [[Erysipel]])
+			- Strep. agalactiae (Neugeborenen-Meningitis)
+		- **Enterokokken** ([[HWI]], Cholezystitis, [[Endokarditis]])
+	- **Grampositive Stäbchen**
+		- **Chlostridien**
+			- C. difficile (Pseudomembranöse Colitis)
+			- C. perfringens (Gasbrand, Lebensmittelvergiftung)
+			- C. tetani (Tetanus)
+			- C. botolinum (Botulismus)
+		- **Listerien**
+			- L. monocytogenes (Listeriose)
+		- **Corynebakterien**
+			- C. diphtheriae (Diphtherie)
+		- **Bacillus**
+			- B. anthracis (Milzbrand)
+			- B. cereus (Lebensmittelvergiftung)
+		- **Actinomyces**
+			- A. israelii (Aktinomykose)
+- **Atypiker**
+	- **Mykobakterien**
+		- M. tuberculosis ([[Tbc]])
+		- M. leprae (Lepra)
+		- MOTT
+	- **Mykoplasmen**
+		- Mycoplasma pneumoniae (Atypische Pneumonie)
+		- Ureaplasma urealyticum (Urocystitis)
+	- **Spirochäten**
+		- Treponema pallidum (Syphilis)
+		- Treponema vincentii (Angina Plaut-Vincenti)
+		- Borrelia burgdorferi ([[Borreliose]])
+		- Leptospira (Leptospirose)
+	- **Obligat intrazelluläre Erreger**
+		- **[[Chlamydien]]**
+- **Gramnegativ**
+	- **Gramnegative Kokken**
+		- Neisseria meningitidis / Meningokokken ([[Meningitis]])
+		- Neisseria gonorrhoea / Gonokokken ([[Gonorrhoe]])
+	- **Gramnegative kokkoide Stäbchen**
+		- **Haemophilus**
+			- H. influenzae (Otitis media, [[Meningitis]], [[Epiglottitis]], [[Pneumonie]])
+			- H. ducreyi (Ulcus molle)
+		- **Brucellen** (Brucellose)
+		- **Bordetellen**
+			- B. pertussis (Pertussis)
+		- **Stenotrophomonas**
+	- **Gramnegative Stäbchen**
+		- **Enterobakterien**
+			- **E. coli**
+				- EPEC / Enteropathogene E. coli
+				- ETEC / Enterotoxische E. coli
+				- EIEC / Enteroinvasive E. coli
+				- EAEC / Enteroaggregative E. coli
+				- EHEC / Enterohämorrhagische E. coli (HUS)
+				- UPEC / Uropathogene E. coli
+			- **Salmonellen**
+				- Salmonella enterica (Salmonellose, Reaktive Arthritis, Typhus, Paratyphus)
+			- **Klebsiellen**
+				- Klebsiella pneumoniae (Nosokomiale [[HWI]]+[[Pneumonie]])
+			- **Shigellen** (Shigellose, Reaktive Arthritis)
+			- **Yersinien**
+				- Y. pestits (Pest)
+				- Y. enterocolitica (Yersiniose, Reaktive Arthritis)
+			- **Proteus** (Nosokomiale [[HWI]])
+	- **Gramnegative Stäbchen**
+		- **Helicobacter**
+			- H. pylori ([[Gastritis]])
+		- **Legionellen** (Legionellose)
+		- **Bartonellen**  (Katzenkratzkrankheit)
+		- **Campylobacter** (Enterocolitis, Reaktive Arthritis, GBS)
+		- **Pseudomonaden**
+			- P. aeruginosa (Nosokomiale [[HWI]]+[[Pneumonie]], [[Endokarditis]] bei IVDU)
+			- Burkholderia (CF Pneumonie)
+		- **Vibrionen**
+			- V. cholerae (Cholera)
+		- **Bacteroidaceae** ([[Abszess]])

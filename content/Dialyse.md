@@ -2,6 +2,8 @@
 tags:
   - Interventionen
   - Status/Started
+  - Fach/Nephrologie
+  - Fach/Intensivmedizin
 ---
 > [!management]- Indikationen Akutdialyse (AEIOU)
 > - **Azidämie** pH <7.1, therapierefraktär

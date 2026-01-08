@@ -10,7 +10,7 @@ ICD: R57.2
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges
 - **DD Sepsis Mimics**
 	- ! [[Anaphylaxie]] (im Zweifel beides anbehandeln)
-	- ! Kardiogener Schock (RUSH/TTE)
+	- ! Kardiogener Schock ([[RUSH]]/TTE)
 	- *Infektiös:* Infekt ohne MOV, PJP, Aspergillose, Candidose
 	- *Endokrin:* [[DKA]], Thyreotoxikose, Addison-Krise
 	- *GI:* Mesenterialischämie, Ileus, [[Pankreatitis]], Leberversagen

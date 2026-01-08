@@ -2,6 +2,8 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Pharmakologie
+  - Fach/Anästhesiologie
 aliases:
   - Ketamin
 ---

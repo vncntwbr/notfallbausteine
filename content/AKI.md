@@ -15,10 +15,11 @@ ICD: N17
 ---
 > [!danger]+ Rapid Reference
 > 1. **MAP** halten
-> 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. NaBic bei urämischer [[Metabolische Azidose]])
+> 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. [[Bicarbonat|NaBic]] bei urämischer [[Metabolische Azidose]])
 > 3. **Dx:** [[POCUS]] postrenal? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 
+## DD
 > [!dd]- Prärenal
 > - **Perfusion↓:** Hypovolämie, [[Schock]] jeder Ätiologie
 > - **Vaskulär:** Nierenarterieninfarkt/-stenose
@@ -47,7 +48,7 @@ ICD: N17
 > - **CTx:** Viele Biologika, Checkpoint-Inhibitoren, Platin, Cyclophosphamid, MTX
 > - **Immunsuppressiva:** Calcineurin-Inhibitoren (Cyclosporin, Tacrolimus)
 > - Sulfasalazin, IVIG, Mannitol, [[NSAR]]
-
+## Workup
 > [!anamnese]- Anamnese
 > - **S:** Dyspnoe? Infekt?
 > - **M:** Nephrotox. Meds/Drogen?
@@ -67,8 +68,8 @@ ICD: N17
 > - **AKIN 2:** Krea x2-2.9, Oligurie <0.5 ml/kg/h für 12-24h
 > - **AKIN 3:** Krea x3, Krea >4 mg/dl, Dialyse, Oligurie <0.3 ml/kg/h >24h, Anurie >12h
 
-![[CKD#^5b5bc5]]
-
+![[CKD#^8f0a1a]]
+## Management
 > [!management]-
 > 1. **[[HyperK+]] Therapie**
 > 2. **Nach Art:**
@@ -80,14 +81,11 @@ ICD: N17
 ![[Dialyse#^666546]]
 
 ![[HRS#^529493]]
-
-> [!note]- Textbaustein AKI
+## Textbaustein
+> [!note]+ Textbaustein AKI
 > ```
 > ToDo
 > ```
-
-
----
 ## Recherche
 - Phosphatbindner ab P >6 mg/dl ?
 

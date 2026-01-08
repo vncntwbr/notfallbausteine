@@ -2,6 +2,7 @@
 tags:
   - Interventionen/Meds
   - Status/Started
+  - Fach/Psychiatrie
 ---
 
 - Clozapin induzierte [[Obstipation]]/GI-Hypomotilität in 60% und hohe Mortalität[^1]

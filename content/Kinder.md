@@ -3,6 +3,7 @@ tags:
   - Basics
   - Probleme/Kinder
   - Status/Started
+  - Fach/Pädiatrie
 title: Kindernotfall
 ---
 > [!danger] Resuscitation

@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Probleme/Allgemein
+  - Fach/Intensivmedizin
 title: Return of Spontaneous Circulation (ROSC)
 ICD: I46
 ---

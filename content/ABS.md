@@ -56,7 +56,7 @@ tags:
 		- Weiter Fieber, Tachypnoe AF >24, Hypoxie, [[Schock]]
 		- Immunsuppression
 		- Bakteriämie
-		- Komplikationen (z.B. Empyem, Abszess, septische Streuung)
+		- Komplikationen (z.B. Empyem, [[Abszess]], septische Streuung)
 		- Legionellen, Pseudomonas, Staph. aureus
 	- **[[HWI]]**
 		- Kompliziert 7d (selbst bei gram-neg. Bakteriämie)

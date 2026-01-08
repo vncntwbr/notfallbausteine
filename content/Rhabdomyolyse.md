@@ -47,4 +47,4 @@ tags:
 
 ## Harnalkalisierung
 - Keine Evidenz
-- *Urinalkalisierung:* Wenn Urin-pH <6.5, Serum-pH <7.5, HCO3- <30, Ca2+ nw: Isotones NaBic 1L 200 ml/h über extra Zugang
+- *Urinalkalisierung:* Wenn Urin-pH <6.5, Serum-pH <7.5, HCO3- <30, Ca2+ nw: Isotones [[Bicarbonat|NaBic]] 1L 200 ml/h über extra Zugang

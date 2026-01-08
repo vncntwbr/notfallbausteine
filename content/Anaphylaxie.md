@@ -2,13 +2,15 @@
 tags:
   - Probleme/Allgemein
   - Status/Started
+  - Fach/Intensivmedizin
+  - Fach/Dermatologie
 ---
 > [!danger] Resuscitation
 > 1. **EXPOSITION stoppen**
 > 2. **ADRENALIN** 0.5 mg **I.M.** (Wdh. alle 5 min), Kinder 0.01 mg/kg
 > 3. **ADRENALIN** 5 mg pur **INHALATIV** + **SAUERSTOFF**
 > 4. **I.V.:** [[Volumentherapie]], ggf. Adrenalin 10-20 μg
-> 5. **[[AMAX4]]** bei Sopor/Apnoe
+> 5. **[[AMAX4]]** bei [[Vigilanzminderung|Sopor]]/Apnoe
 > 6. **Adjunktiv:** Clemastin 2-4 mg i.v., Prednisolon 250 mg i.v.
 
 - **Ä:** Kinder Nahrungsmittel, Erwachsene Meds, beide Insekten

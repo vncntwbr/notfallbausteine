@@ -2,8 +2,10 @@
 aliases:
   - Met Alk
 tags:
-  - Probleme
   - Status/Done
+  - Fach/Labormedizin
+  - Fach/Nephrologie
+  - Probleme/Labor
 title: Metabolische Alkalose
 ICD: E87
 ---

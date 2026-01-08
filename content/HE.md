@@ -18,7 +18,7 @@ ICD: K72.7
 > - **Vaskulär:** TIPS oder spontane portosystemische Shunts, Pfortaderthrombose
 
 > [!anamnese]- Anamnese
-> - **S:** Orientierung/Delir? OPQRST+? Stuhl? H.a. [[GI-Blutung]]? Infekt?
+> - **S:** Orientierung/[[Delir]]? OPQRST+? Stuhl? H.a. [[GI-Blutung]]? Infekt?
 > - **M:** Therapieadhärenz? Lactulose, Rifaximin, Propranolol, Spironolacton?
 > - **P:** Varizen? Z.n. HE? TIPS?
 > - **L:** Stuhl? ÖGD?
@@ -38,8 +38,8 @@ ICD: K72.7
 > [!stadien]- Stadien n. West-Haven
 > - **1:** Verdeckt
 > - **2:** Lethargisch / Desorientiert
-> - **3:** Somnolenz / Sopor
-> - **4:** Koma
+> - **3:** [[Vigilanzminderung|Somnolenz]] / [[Vigilanzminderung|Sopor]]
+> - **4:** [[Vigilanzminderung|Koma]]
 
 > [!management]+
 > - ...

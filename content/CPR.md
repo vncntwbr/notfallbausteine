@@ -4,6 +4,7 @@ tags:
   - Probleme/Allgemein
   - Status/Started
   - Druck
+  - Fach/Intensivmedizin
 aliases:
   - Reanimation
   - Herz-Kreislauf-Stillstand
@@ -23,7 +24,7 @@ OPS: 8-771
 > [!workup] Reversible Ursachen
 > - **AB:** Hypoxie? [[Pneu]]?
 > - **C:** Tamponade? Hypovolämie? [[LAE]] ([[Lyse]])? OMI ([[ECMO]])?
-> - **[[BGA]]:** [[HyperK+]] (CalcGluc 10% 30 ml + Insulin 10 IE + G10% 250ml + NaBic 8.4% 100 ml, spülen)? [[HypoK+]] (KCl 40 mmol + [[MgSO4]] 2g als KI)? [[Hypoglykämie]]? [[Intox]]?
+> - **[[BGA]]:** [[HyperK+]] (CalcGluc 10% 30 ml + Insulin 10 IE + G10% 250ml + [[Bicarbonat|NaBic]] 8.4% 100 ml, spülen)? [[HypoK+]] (KCl 40 mmol + [[MgSO4]] 2g als KI)? [[Hypoglykämie]]? [[Intox]]?
 > - **E:** [[Fieber]] (kühlen, NaCl 3%)? [[Hypothermie]] (<30° Ø Epi, <35° q8min)?
 
 > [!management] CPR-Quali optimieren!

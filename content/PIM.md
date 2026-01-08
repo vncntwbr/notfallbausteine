@@ -4,6 +4,8 @@ tags:
   - Basics
   - Interventionen/Meds
   - Status/Started
+  - Fach/Pharmakologie
+  - Fach/Geriatrie
 title: Potenziell inadäquate Medikation im Alter (PIM)
 ---
 - **Avoid**[^1]

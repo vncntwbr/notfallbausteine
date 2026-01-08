@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Done
+  - Fach/Allgemeinmedizin
 ---
 > [!management] Kein Hausarzt/Kinderarzt
 > - **KV Vermittlung** via 116117 oder [eterminservice.de](https://www.eterminservice.de)

@@ -2,6 +2,8 @@
 tags:
   - Interventionen/POCUS
   - Status/Done
+  - Fach/Radiologie
+  - Fach/Angiologie
 ---
 > [!note]- Textbaustein Kompressionssonografie
 > ```

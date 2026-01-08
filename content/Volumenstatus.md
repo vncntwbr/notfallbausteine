@@ -12,7 +12,7 @@ tags:
 ---
 
 - Passive Leg Raise
-- Fluid Responsiveness (Benefit?) → LVOT VTI
+- Fluid Responsiveness (Benefit?) → LVOT [[VTI]]
 - Fluid Tolerance (Harm?) → [[VExUS]]
 
 ![[Pasted image 20250722180050.png]][^1]

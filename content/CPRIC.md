@@ -2,6 +2,7 @@
 tags:
   - Probleme
   - Status/Started
+  - Fach/Intensivmedizin
 title: CPR-induziertes Bewusstsein (CPRIC)
 ---
 

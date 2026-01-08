@@ -2,6 +2,9 @@
 tags:
   - Probleme/Herz-Thorax
   - Status/Started
+  - Fach/Pneumologie
+  - Fach/HNO
+  - Fach/Anästhesiologie
 ICD: R04
 ---
 

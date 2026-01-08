@@ -62,7 +62,7 @@ ICD: I48
 
 [^2]: CHADS-65: Chron. HFrEF, [[Hypertonie]], Alter ≥65, Diabetes
 
-[^4]: HF 120-180 normalerweise maximal ohne AV-Block / neg. Dromotropie, bei >200/FBI DD VHF + WPW
+[^4]: HF 120-180 normalerweise maximal ohne [[AV-Block]] / neg. Dromotropie, bei >200/FBI DD VHF + WPW
 
 
 [^5]: Wong CX. Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation: The DECAF Randomized Clinical Trial. JAMA. 2025 Nov 9:e2521056. doi: 10.1001/jama.2025.21056. Epub ahead of print. PMID: 41206802; PMCID: PMC12598581.

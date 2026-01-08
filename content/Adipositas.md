@@ -2,6 +2,7 @@
 tags:
   - Literatur/S3
   - Diagnosen/Chronisch
+  - Fach/Allgemeinmedizin
 ICD: E66
 ---
 ## Literatur

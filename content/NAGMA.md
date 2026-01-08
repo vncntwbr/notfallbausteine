@@ -2,6 +2,8 @@
 tags:
   - Probleme/Labor
   - Status/Done
+  - Fach/Nephrologie
+  - Fach/Labormedizin
 aliases:
 title: Non-Anionenlücke Metabolische Azidose
 ---

@@ -2,6 +2,7 @@
 tags:
   - Probleme/Allgemein
   - Status/ToDo
+  - Fach/Toxikologie
 ---
 > [!danger] Rapid Reference
 > - **Kemler Gefahren-Nr. (obere Zahl):** 2 Gas, 3 entzündl. Flüss., 4 entzündl. Fest, 5 brandfördernd, 6 giftig/ansteckend, 7 radioaktiv, 8 ätzend, 9 Spontanreaktion, X Wasserkontakt, erste/doppelte Zahl = Haupt-/mehr Gefahr

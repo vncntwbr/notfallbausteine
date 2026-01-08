@@ -2,6 +2,9 @@
 tags:
   - Probleme/Kopf-Neuro
   - Status/Started
+  - Fach/Neurologie
+  - Fach/Kardiologie
+  - Fach/HNO
 ICD: R42, H81
 ---
 > [!dd]+ DD

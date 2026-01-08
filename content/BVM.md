@@ -2,6 +2,7 @@
 tags:
   - Interventionen
   - Status/Started
+  - Fach/Anästhesiologie
 title: Maskenbeatmung (BVM)
 ---
 

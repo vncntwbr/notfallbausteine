@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Done
+  - Fach/Notfallmedizin
 ---
 > [!note]- Textbaustein ABCDE
 > ```
@@ -13,10 +14,12 @@ tags:
 > E: Bodycheck unauffällig, alle großen Gelenke frei beweglich. Schmerz tolerabel NRS []/10. Normotherm [] °C aurikulär.
 > ```
 
+^7e23c5
+
 ^8e5ced
 ## Schulung
-> [!management]+ xABCDE-Schmea
-> - **S – Szene:** Situation, Sicherheit, Ersteindruck
+> [!management]+ S+xABCDE-Schema
+> - **S – Szene:** Situation, Sicherheit, Ersteindruck (kritisch/unkritisch + Leitsymptom)
 > - **x – Exsanguination:** Signifikante äußere Blutung → Blutstillung
 > - **A – Airway:** Offen+Sicher / Gefährdet / Verlegt → [[Atemwegsmanagement]]
 > - **B – Breathing:** AF, TV, Atemarbeit, Oxygenierung → [[O2]], [[Beatmung]], Thoraxentlastung
