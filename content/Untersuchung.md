@@ -82,8 +82,7 @@ OPS: 1-10
 > A frei, Schleimhäute rosig, Zahnstatus unauffällig. 
 > Calotte und Gesichtsschädel stabil. Pupillen PERRLA. HWS indolent ohne Stufen.
 > Thorax und Claviculae stabil, Atemexkursionen symmetrisch. Abdomen weich ohne AWS oder Druckdolenz. Becken stabil.
-> Obere Extremitäten in allen Gelenken frei indolent seitengleich beweglich, Sensibilität+Durchblutung intakt.
-> Untere Extremitäten in allen Gelenken frei indolent seitengleich beweglich, Sensibilität+Durchblutung intakt.
+> Obere und untere Extremitäten seitengleich in allen Gelenken frei indolent beweglich, KG 5/5 n. Janda proximal+distal, Sensibilität+Durchblutung intakt.
 > Keine äußeren Wunden oder Effloreszenzen ersichtlich.
 > ```
 
