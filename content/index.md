@@ -5,6 +5,23 @@ aliases:
 ---
 > [!warning] Cave: Alles außer ```#status/done``` mit besonderer Vorsicht zu genießen
 
+## Auswahl häufiger Textbausteine
+### Ortho
+![[Wunden#^1d8711]]
+![[Radiusfraktur#^7034f2]]
+![[Untersuchung#^55c8f1]]
+### Normales
+![[Untersuchung#^82651c]]
+![[Untersuchung#^e8bff0]]
+![[ABCDE#^7e23c5]]
+![[Anamnese#^db877f]]
+### Diagnostik
+![[EKG#^1b04ab]]
+![[RUSH#^4ce91d]]
+![[TTE#^1fb4f0]]
+![[TTE#^88177b]]
+## Navigation
+
 | Willkommen         |                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------ |
 | **Basics**         | [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]] [[U-Status]] |
@@ -27,13 +44,3 @@ aliases:
 | **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]                           |
 | **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]] |
 | **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                               |
-## Auswahl häufiger Textbausteine
-![[Untersuchung#^82651c]]
-![[Untersuchung#^e8bff0]]
-![[ABCDE#^7e23c5]]
-![[Anamnese#^db877f]]
-![[EKG#^1b04ab]]
-![[rush#^4ce91d]]
-![[TTE#^1fb4f0]]
-![[TTE#^88177b]]
-![[wunden#^1d8711]]

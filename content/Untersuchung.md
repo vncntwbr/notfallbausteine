@@ -77,6 +77,18 @@ OPS: 1-10
 > - Steinmann-I (Menisken): negativ (Schmerzen lateral bei Innenrotation = Außenmeniskus + umgekehrt)
 > ```
 
+> [!note]- Textbaustein Bodycheck
+> ```
+> A frei, Schleimhäute rosig, Zahnstatus unauffällig. 
+> Calotte und Gesichtsschädel stabil. Pupillen PERRLA. HWS indolent ohne Stufen.
+> Thorax und Claviculae stabil, Atemexkursionen symmetrisch. Abdomen weich ohne AWS oder Druckdolenz. Becken stabil.
+> Obere Extremitäten in allen Gelenken frei indolent seitengleich beweglich, Sensibilität+Durchblutung intakt.
+> Untere Extremitäten in allen Gelenken frei indolent seitengleich beweglich, Sensibilität+Durchblutung intakt.
+> Keine äußeren Wunden oder Effloreszenzen ersichtlich.
+> ```
+
+^55c8f1
+
 ## Volle Untersuchung
 
 - AZ gut (aktuell ECOG 0-4), EZ eutroph (XXX kg, XXX cm, BMI XXX). Freundlich zugewandt. Normotherm (XX °C aurikulär).

@@ -10,7 +10,7 @@ title: Wunden & Wundversorgung
 > 2. **Invasive WV indiziert?** Pflaster/Kleber ausreichend? OP-Indikation?
 > 3. **Bildgebung:** Fremdkörper, Fraktur, Luxation?
 > 4. **[[Analgesie]]:** Lokalanästhesie? Block? Systemisch?
-> 5. **[[ABx]]?**
+> 5. **Älter/Kontaminiert:** KI Primärverschluss? [[ABx]]? 
 > 6. **Tetanus-Impfschutz?**
 
 > [!dd]- Siehe: [[Nadelstichverletzung]]
@@ -18,15 +18,9 @@ title: Wunden & Wundversorgung
 > [!management]+ Wundversorgung
 > 1. **Wundspülung:** NaCl (unkompliziert) oder Octenidin (z.B. Octenisept) / Polihexanid (z.B. Lavasept, Prontosan), ggf. Iod (sehr hohes Infektionsrisiko)
 > 2. **Primärnaht** (KI: >12-48h ± Kontamination)
-> 
-> 
-> 
-> |Lokalisation     |Faden     |Zug
-> | --- | --- |---|
-> |Behaarte Kopfhaut     |3-0     |7d|
-> |Gesicht/Hals|5-0|5d|
-> |Rumpf/Extremitäten|4-0|10d|
-> 
+> 	- *Behaarte Kopfhaut:* 3-0 Faden für 7d
+> 	- *Gesicht/Hals:* 5-0 Faden für 5d
+> 	- *Rumpf/Extremitäten:* 4-0 Faden für 10d
 
 > [!management]- Tetanus-Impfschutz
 > - **Saubere, oberflächtliche Wunde**
