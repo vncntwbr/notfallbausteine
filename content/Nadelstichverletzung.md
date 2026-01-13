@@ -15,4 +15,11 @@ title: Nadelstichverletzung (NSV)
 > 5. **Siehe [[PEP]]**
 > 6. **Betriebsarzt Kontrollen:** 6 Wochen, 3 Monate, 6 Monate
 
-> [!info]+ Übertragungsrisiko: 30% Hepatitis B, 3% Hepatitis C, 0.3% HIV
+> [!info] Übertragungsrisiko: 30% Hepatitis B, 3% Hepatitis C, 0.3% HIV
+
+> [!note]- Textbaustein Nadelstichverletzung
+> ```
+> Selbstvorstellung bei Nadelstichverletzung mit ###Hohlnadel? bei ###Tätigkeit am ###Finger. 
+> Impfstatus: Hepatitis B aktuell, Tetanus aktuell.
+> Status der Indexperson unbekannt, Blutentnahme erfolgt bei entsprechendem Einverständnis durch Stationspersonal.
+> ```
