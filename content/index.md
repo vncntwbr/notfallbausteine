@@ -10,8 +10,10 @@ aliases:
 ![[Wunden#^1d8711]]
 ![[Radiusfraktur#^7034f2]]
 ![[Untersuchung#^55c8f1]]
+![[eFAST#^e18d27]]
 ### Normales
 ![[Untersuchung#^82651c]]
+![[Untersuchung#^944f17]]
 ![[Untersuchung#^e8bff0]]
 ![[ABCDE#^7e23c5]]
 ![[Anamnese#^db877f]]

@@ -6,6 +6,11 @@ tags:
 aliases:
   - Armtrauma
 ---
+- [[Schultertrauma]]
+- [[Ellenbogentrauma]]
+- [[Handgelenktrauma]]
+- [[Fingertrauma]]
+
 ## Schulter und Oberarm
 - **Claviculafraktur**
 	- i.d.R. konservativ Gilchrist

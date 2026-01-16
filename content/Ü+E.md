@@ -5,6 +5,8 @@ tags:
   - Fach/Gastroenterologie
 aliases:
   - Übelkeit & Erbrechen
+  - Erbrechen
+  - Übelkeit
 title: Übelkeit & Erbrechen
 ICD: R11
 ---

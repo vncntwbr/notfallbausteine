@@ -20,12 +20,13 @@ OPS: 1-10
 > [!note]- Textbaustein Untersuchung ausführlich
 > ```
 > - Allg: AZ gut, EZ normosom. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Normotherm (<37.5 °C aurikulär). Orientiert zu ZOSP. Stand+Gang sicher.
-> - Neuro: Sprache opB. Mimik sgl., OE+UE bds. KG 5/5. Bulbi konjugiert. Pupillen mw, isokor, prompt konsensuell lichtreagibel. Gesichtsfeld intakt, FFV metrisch. Kein Tremor. Kein Meningismus. 
+> - Neuro: Sprache opB. Mimik sgl., OE+UE sgl. KG 5/5 proximal+distal. Bulbi konjugiert. Pupillen mw, isokor, prompt konsensuell lichtreagibel. Gesichtsfeld intakt, FFV metrisch. Kein Tremor. Kein Meningismus. 
 > - Kopf/Hals: MSH feucht, Zunge nicht belegt, Rachenring reizlos, Zahnstatus blande. Konjunktiven rosig. SD + cerv. LK nicht vergrößert palpabel.
 > - Pulmo: Sgl. VAG ohne RG/NG. Eupnoe (AF ca. 12-18/min), Normoxie (SpO2 ###% unter RL).
 > - Cor: HT r/r, nf (HF ###bpm). Recap prompt (<2s). Pulse radial kräftig. Normoton (RR ### mmHg). VJI nicht gestaut. Keine Ödeme.
 > - Abd: Weich, keine Resistenz, keine Druckdolenz. Murphy neg, McBurney+Lanz+Blumberg neg. Peristaltik regelrecht. Kein KS über WS + Nierenlagern.
 > - Haut/Extr: Warm. Kolorit rosig. Kein Ikterus. Keine Effloreszenzen. Keine Wunden. Keine Thrombosezeichen (Meyer+Payr+Homans neg).
+> - Bodycheck: Calotte+Gesichtsschädel stabil, orale Inspektion ohne H.a. Zahnschäden, HWS indolent ohne Stufen. Thorax+Claviculae stabil, Atemexkursionen symmetrisch. Abdomen weich ohne AWS. Becken stabil. OE+UE sgl. in allen Gelenken frei, KG 5/5 proximal+distal, Durchblutung+Sensibilität intakt.
 > ```
 ^944f17
 
@@ -79,8 +80,7 @@ OPS: 1-10
 
 > [!note]- Textbaustein Bodycheck
 > ```
-> A frei, Schleimhäute rosig, Zahnstatus unauffällig. 
-> Calotte und Gesichtsschädel stabil. Pupillen PERRLA. HWS indolent ohne Stufen.
+> AZ gut, GCS 15 (A4/V5/M6). A frei, Schleimhäute rosig, Zahnstatus unauffällig. Calotte und Gesichtsschädel stabil. Pupillen PERRLA. HWS indolent ohne Stufen. Mundöffnung unbehindert, Zungenmotorik symmetrisch, kein H.a. Zahnschäden.
 > Thorax und Claviculae stabil, Atemexkursionen symmetrisch. Abdomen weich ohne AWS oder Druckdolenz. Becken stabil.
 > Obere und untere Extremitäten seitengleich in allen Gelenken frei indolent beweglich, KG 5/5 n. Janda proximal+distal, Sensibilität+Durchblutung intakt.
 > Keine äußeren Wunden oder Effloreszenzen ersichtlich.

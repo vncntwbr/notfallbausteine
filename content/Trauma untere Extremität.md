@@ -6,3 +6,7 @@ tags:
 aliases:
   - Beintrauma
 ---
+- [[Knietrauma]]
+- [[Unterschenkeltrauma]]
+- [[OSG-Trauma]]
+- [[Fußtrauma]]
