@@ -8,7 +8,7 @@ aliases:
 ## Auswahl häufiger Textbausteine
 ### Ortho
 ![[Wunden#^1d8711]]
-![[Radiusfraktur#^7034f2]]
+![[Distale Radiusfraktur#^7034f2]]
 ![[Untersuchung#^55c8f1]]
 ![[eFAST#^e18d27]]
 ### Normales
