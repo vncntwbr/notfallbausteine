@@ -24,7 +24,7 @@ zbb: Test ZBB hier anrufen
 > 6. **GERINNUNGsmanagement**
 > 	- **Calciumgluconat** 10% 10 ml langs. i.v., Ziel iCa2+ ≥1 mmol/l
 > 	- **Aktiver Wärmeerhalt** (Lampe, Bairhugger)
-> 	- **TXA** 1-2 g
+> 	- **[[TXA]]** 1-2 g
 > 	- **Fibrinogen** 1 g je –5 BE und 1 g je 2 g/dl Hb <12, Ziel ≥2.0-2.5 g/l
 > 7. **MTP** (ab 5. EK + fortges. Blutverlust) → Info Blutbank + Hilfe holen
 > 	-  **Startpaket:** 1 [[TK]] + 4 EK + 2 FFP + PPSB 25 IE/kg
@@ -36,20 +36,20 @@ zbb: Test ZBB hier anrufen
 > - **Kopf/Hals**
 > 	- *Skalpierung:* Tacker, Naht, Lidocain+Adrenalin, Druckverband
 > 	- *[[Epistaxis]]:*
-> 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+Adrenalin, TXA p.i.
+> 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+Adrenalin, [[TXA]] p.i.
 > - **Trauma**
 > 	- *Penetr. Junktional:* DK blocken+klemmen, Naht
 > 	- *Becken/Extremitäten Fx:* Beckenschlinge, Traction Splint
 > 	- *Arteriell Extremitäten:* Druck, hoch, TQ
 > 	- *MaxFax Fx:* Reponieren, [[RSI]] [[SALAD]], Epistats, Bite Blocks, Collar
 > - **Medizinisch**
-> 	- *[[Hämoptysen]]:* TXA 1 g p.i., [[Bronchoskopie]], [[RSI]] zurückhaltend
+> 	- *[[Hämoptysen]]:* [[TXA]] 1 g p.i., [[Bronchoskopie]], [[RSI]] zurückhaltend
 > 	- *[[GI-Blutung]]:* Terlipressin 1-2 mg i.v., ÖGD, alternativ Ballontamponade
 > 	- *[[Intrakranielle Blutung]]:* RRsys <140 ([[SAB]]), <160 ([[ICB]])
 > - **Gyn/Geburt** siehe [[PPH]]
 > - **Päd**
 > 	- EK, FFP, TK, Cryo je 10-20 ml/kg
-> 	- TXA 15 mg/kg
+> 	- [[TXA]] 15 mg/kg
 > 	- Calciumgluconat 10% 0.3 ml/kg
 
 

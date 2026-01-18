@@ -13,23 +13,25 @@ aliases:
   - UFH
   - Antikoagulation
   - OAK
-title: Antikoagulation (AK) inkl. Heparin (UFH/NMH), DOAK & Vitamin-K-Antagonisten (VKA, Marcumar)
+  - Thromboseprophylaxe
+title: Antikoagulation (AK) & Thromboseprophylaxe inkl. Heparin (UFH/NMH), DOAK & VKA
 ---
-> [!danger] Prophylaktische Antikoagulation
+> [!management]+ Prophylaktische Antikoagulation
 > - **Standard:** Enoxaparin 40 mg/d s.c., DANI 20 mg/d
-> - **GFR <15:** Heparin 7.500 IE s.c. 1-0-1
+> - **GFR <15:** Heparin 7.500 IE s.c. 1-0-1, aPTT q6h
 
-> [!danger] Therapeutische Antikoagulation
+> [!management]+ Therapeutische Antikoagulation
 > - **NMH:** Enoxaparin 1 mg/kg 1-0-1 s.c., Kontr. Anti-Xa n. 4d
 > - **UFH:** Heparin 80 IE/kg Bolus + 18 IE/kg/h [[Perfusor]], aPTT q6h Ziel 2x nw
 > - **DOAK**
-> 	- *Apixaban:* 5 mg 1-0-1, [TVT/LAE] 10 mg 1-0-1 für 7d
-> 	- [2/3: Ü80, <60 kg, GFR <30] Dosis ½, [GFR <15] KI
+> 	- *Apixaban:* 5 mg 1-0-1, ([[TVT]]/[[LAE]]) 10 mg 1-0-1 für 7d
+> 	- *Dosisreduktion ½:* bei 2/3 (Ü80, <60 kg, GFR <30)
+> 	- *KI:* GFR <15
 > 	- *Cave:* HIV-Meds, Carbamazepin, Verapamil, Clarithromycin, Dronedaron
 > - **VKA:** Initial UFH-Bridging, d1: 9 mg, d2: 6 mg, d3: 3 mg, INR-Kontr. Ziel 2-3
-> 	- *I:* Valv. VHF, [[Antiphospholipid]], Mech. Herzklappe (Ak INR 2.5, Mk 3.0)
+> 	- *Indikation:* Valv. VHF, [[Antiphospholipid]], Mech. Herzklappe (Ak INR 2.5, Mk 3.0)
 
-Antagonisierung siehe [[Blutungsmanagement]]
+> [!danger] Antagonisierung siehe [[Blutungsmanagement]]
 ## Literatur
 - [S3-Leitlinie Prophylaxe der venösen Thromboembolie (VTE)](https://register.awmf.org/de/leitlinien/detail/003-001)
 - Circadianer Rhythmus bis +50% PTT nachts unter Heparin[^1]

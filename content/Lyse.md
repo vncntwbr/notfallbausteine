@@ -4,15 +4,15 @@ tags:
   - Fach/Neurologie
   - Fach/Kardiologie
   - Status/Started
-title: Medikamentöse Thrombolyse
+title: Medikamentöse Thrombolyse/Lyse
 ---
-> [!danger] Rapid Reference Lyse bei [[Stroke]]
+> [!danger]+ Rapid Reference Lyse bei [[Stroke]]
 > 1. **Ausschluss KI** s.u.
 > 2. **Mündl. Aufklärung** (je geringer Defizit, desto ausführlicher)
 > 3. **VP:** Monitoring, RRsys <180 (Urapidil 5 mg-weise i.v.)
 > 4. **Tenecteplase (Metalyse®)** 0.25 mg/kg bis max. 25 mg Bolus i.v.
 
-> [!workup] Checkliste KI vor Lyse bei [[Stroke]] (alles "nein")
+> [!workup]+ Checkliste KI vor Lyse bei [[Stroke]] (alles "nein")
 > - [ ] Onset sicher >4.5h (ggf. bis 9h indiv. Heilversuch bei Mismatch)
 > - [ ] [[Intrakranielle Blutung]] in Bildgebung oder klinisch V.a. [[SAB]] bei unauffälligem CT
 > - [ ] [[RR]] >185/110 (→Urapidil)

@@ -11,8 +11,6 @@ tags:
 > 	- Unfähigkeit, 4 Schritte zu gehen ("Humpeln" ok)
 > 	- Druckschmerz Malleolus medialis/lateralis Hinterkante
 > 	- Druckschmerz Mittelfuß medial (Os naviculare) / lateral (Os metatarsale 5)
-> 	
-> ![[Pasted image 20260117110204.png]]
 > - **Syndesmosenverletzung?**
 > 	- Druckschmerz proximale Fibula (Maisonneuve)
 > 	- Druckschmerz M. tibialis anterior distales Drittel

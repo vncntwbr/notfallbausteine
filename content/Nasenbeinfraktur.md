@@ -6,10 +6,10 @@ tags:
   - Status/Done
 aliases:
 ---
-> [!workup]-
+> [!workup]+
 > - **[[Untersuchung|U]]:** Septumhämatom?
 
-> [!management]-
+> [!management]+
 > - **Kühlen**, Oberkörperhochlagerung
 > - **[[Analgesie]]**
 > - **Abschwellende Nasentropfen:** z.B. Otriven® 1-0-1 für max. 7d
