@@ -3,7 +3,7 @@ title: Home
 aliases:
   - Home
 ---
-> [!warning] Cave: Alles außer #status/done mit besonderer Vorsicht zu genießen
+> [!warning] Cave: Alles außer #Status/Done mit besonderer Vorsicht zu genießen
 
 ## Auswahl häufiger Textbausteine
 ### Ortho
