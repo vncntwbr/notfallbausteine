@@ -8,25 +8,25 @@ tags:
   - Fach/Pharmakologie
 ---
 
-> [!management]+ Inopressoren
-> |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
-> | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
-> | **Noradrenalin**     | ⍺⍺⍺>β    | ↑           | ↑↑↑   | =        | [[Schock]] |
-| **[[Adrenalin]]**      | ⍺<βββ     | ↑↑↑           | ↑  | =       | [[Bradykardie]], [[Kardiogener Schock]], [[Anaphylaxie]]        |
-| **Dopamin** | ?      | ?         |    ?| ?         | Zombieapokalypse        |
+### Inopressoren
+|                   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation                                               |
+| ----------------- | -------- | ------------- | --- | -------- | -------------------------------------------------------- |
+| **Noradrenalin**  | ⍺⍺⍺>β    | ↑             | ↑↑↑ | =        | Undifferenzierter [[Schock]], [[Sepsis]]                 |
+| **[[Adrenalin]]** | ⍺<βββ    | ↑↑↑           | ↑   | =        | [[Bradykardie]], [[Kardiogener Schock]], [[Anaphylaxie]] |
+| **Dopamin**       | ?        | ?             | ?   | ?        | Zombieapokalypse                                         |
 
 
-> [!management]+ Inodilatoren
-> |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
-> | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
-> | **Dobutamin**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
+### Inodilatoren
+|   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
+| ------------- | -------- | ------------- | --- | -------- | ---------------------- |
+| **Dobutamin**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
 | **Milrinon**      | cAMP     | ↑↑↑           | ↓↓  | ↓↓       | [[Crashing RV]]        |
 | **Isoproterenol** | βββ      | ↑↑↑↑↑         | ↓   |          | [[Bradykardie]]        |
 
-> [!management]+ Reine Vasopressoren
-> |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
-> | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
-> | **Vasopressin**     | V1+V2    | ↓           | ↑↑↑   | ↓        | Distributiver Schock, [[Crashing RV]] |
+### Reine Vasopressoren
+|   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
+| ------------- | -------- | ------------- | --- | -------- | ---------------------- |
+| **Vasopressin**     | V1+V2    | ↓           | ↑↑↑   | ↓        | Distributiver Schock, [[Crashing RV]] |
 | **Phenylephrin**      | ⍺⍺⍺     | ↓           | ↑↑↑  | ↑↑       | Distributiver Schock        |
 
 ![[Pasted image 20251227185946.png]]

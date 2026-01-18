@@ -13,7 +13,7 @@ tags:
 			- Viridans-Strep. (Karies, [[Endokarditis]])
 			- Strep. pyogenes (Tonsillitis, Scharlach, [[Erysipel]])
 			- Strep. agalactiae (Neugeborenen-Meningitis)
-		- **Enterokokken** ([[HWI]], Cholezystitis, [[Endokarditis]])
+		- **Enterokokken** ([[HWI]], [[Gallenerkrankungen|Cholezystitis]], [[Endokarditis]])
 	- **Grampositive Stäbchen**
 		- **Chlostridien**
 			- C. difficile (Pseudomembranöse Colitis)

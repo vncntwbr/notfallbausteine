@@ -32,7 +32,7 @@ ICD: R10.4
 > 	- [[Appendizitis]] vs. [W] Salpingitis (bds. Druckschmerz LR+ 17)
 > 	- [[Ovarialtorsion]]
 > 	- [[Divertikulitis]]
-> 	- Hernie
+> 	- [[Hernie]]
 > 	- [[Hodentorsion]], [[STI]]
 > - **Ileus, [[Obstipation]]**
 

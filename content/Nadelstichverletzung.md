@@ -3,6 +3,7 @@ tags:
   - Fach/Orthopädie
   - Fach/Infektiologie
   - Probleme/Trauma
+  - Status/Done
 aliases:
   - NSV
 title: Nadelstichverletzung (NSV)
