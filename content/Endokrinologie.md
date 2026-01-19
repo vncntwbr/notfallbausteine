@@ -5,6 +5,7 @@ tags:
   - Fach/Endokrinologie
   - Fachübersicht
 ---
+- https://endo-cases.com/
 ## Diagnosen
 - **Nebenniere**
 	- [[NNR-Insuffizienz]]

@@ -18,6 +18,8 @@ tags:
 > - **Kreuzbänder:** Vordere/Hintere Schublade in 90° Flexion = vorderes/hinteres Kreuzband
 > - **Meniskus:** Schmerzen bei ruckartiger Innen-/Außenrotation in 90° Flexion = Außen-/Innenmeniskus (Steinmann I)
 
+> [!bildgebung] Röntgen Knie in 2 Ebenen + Patella axial
+
 > [!management]- Patellaluxation
 > 1. **Reposition:** 
 > 	- [[Analgosedierung]]

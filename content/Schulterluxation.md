@@ -15,9 +15,10 @@ OPS: 8-201.0
 
 > [!workup]+
 > - **[[Anamnese|A]]:** Habituell?
-> - **[[Untersuchung|U]]:** pDMS (N. axillaris?)
-> - **Röntgen:** Röntgen a/p + Y-Aufnahme Skapula
-> 	- *Rim Sign:* H.a. posteriore Luxation in a/p (Überlappung vorderer Pfannenrand mit Humeruskopf >6mm)
+> - **[[Untersuchung|U]]:** Gelenkkopf palpabel? pDMS (N. axillaris)?
+
+> [!bildgebung] Röntgen Schulter a.p. + Y-Aufnahme
+> - **Rim Sign:** H.a. posteriore Luxation in a/p (Überlappung vorderer Pfannenrand mit Humeruskopf >6mm)
 
 > [!management]+
 > 1. **Reposition (Milch):** 

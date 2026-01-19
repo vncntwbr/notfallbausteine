@@ -10,6 +10,8 @@ title: Schultertrauma inkl. Clavicula & Humerus
 > 	- **Nackengriff:** Außenrotation, Anteversion, Abduktion
 > 	- **Schürzengriff:** Innenrotation, Retroversion, Adduktion
 
+> [!bildgebung] Röntgen Schulter a.p. + Y-Aufnahme
+
 > [!management]- Claviculafraktur und SC-/AC-Gelenk-Verletzung
 > - **Bildgebung:** Röntgen a.p.+schräg
 > 	- *Dorsale SC-Gelenk-Luxation:* CT-A mediastinale Gefäße!
