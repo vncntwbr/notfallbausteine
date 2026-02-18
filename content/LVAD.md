@@ -6,7 +6,7 @@ tags:
 title: Left Ventricular Assist Device (LVAD)
 ---
 > [!danger] LVAD Resuscitation
-> 1. **[[ABCDE]]** Assessment insb. AF, Recap, Vigilanz
+> 1. **[[ABCDE]]** Assessment insb. AF, [[Recap]], Vigilanz
 > 2. **A – Auskultation:** Pumpengeräusch?
 > 3. **B – Batterie:** drin? voll?
 > 4. **C – Controller:** Alarme? Fluss? Geschwindigkeit? Leistung?
