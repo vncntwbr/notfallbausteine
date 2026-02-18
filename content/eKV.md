@@ -9,7 +9,7 @@ aliases:
 title: Elektrische Kardioversion (eKV)
 ---
 > [!danger]+ Notfall-Kardioversion
-> 1. **Indikation:** Instabilitäskriterien ([[Schock]], [[Vigilanzminderung]], Akute [[Herzinsuffizienz]], Myokardiale Ischämie = [[ACS]]-Sympt. oder [[EKG]])
+> 1. **Indikation:** Instabilitäskriterien ([[Schock]], [[Vigilanz↓]], Akute [[Herzinsuffizienz]], Myokardiale Ischämie = [[ACS]]-Sympt. oder [[EKG]])
 > 2. **ABC:** Schockraum, Monitoring, [[BVM]], Absaugung
 > 3. **Patches:** [[VT]] und [[VHF]] anterolateral[^2], SVT anteroposterior
 > 4. **[[Analgosedierung]]**

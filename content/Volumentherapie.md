@@ -15,6 +15,12 @@ aliases:
 > - **Akute [[Metabolische Alkalose]]:** [[NaCl 0.9%]] 
 > - **Andere pH-Störungen:** Keine spezifische Therapie, VEL Erhalt
 
+> [!management]- Weitere Erwägungen bzgl. Volumenauswahl
+> - **Concern: Azidose?** Nein → [[NaCl 0.9%]] i.d.R. safe
+> - **Concern: [[HypoNa+]] oder [[Hirndruck]]/-schwellung?** Ja → Plasmalyte
+> - **Concern: [[Leberversagen]]?** Ja → Plasmalyte
+> - Alles Nein → Hartmann's
+
 
 ## Notizen
 - VEL > NaCl in Delayed Graft Function bei NTX[^1]

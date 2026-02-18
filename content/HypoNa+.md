@@ -37,7 +37,7 @@ ICD: E87
 > - +10 mmol/l in 24h, bis auf 130 mmol/l, Diagnostik immer vor Therapie abnehmen
 > - **Nachweislich akut:** NaCl 3% in 150 ml Boli, Ziel +5 mmol/l in 1h
 > - **Asymptomatisch/Milde Sympt:** Volumenstatus anpassen, Triggermedikamente pausieren, bei moderaten Sympt. (Ü ohne E, Kopfschmerz, Verwirrt) ggf. + einmalig NaCl 3% 150 ml
-> - **Schwere Sympt** (Erbrechen, [[Vigilanzminderung]], [[Krampfanfall]], kardiopulmonal): NaCl 3% 150 ml Boli bis 4x, [[BGA]]-Kontrolle nach #1 während #2 läuft, ITS-/IMC-Indikation unabhängig von Na+ Wert
+> - **Schwere Sympt** (Erbrechen, [[Vigilanz↓]], [[Krampfanfall]], kardiopulmonal): NaCl 3% 150 ml Boli bis 4x, [[BGA]]-Kontrolle nach #1 während #2 läuft, ITS-/IMC-Indikation unabhängig von Na+ Wert
 
 > [!note]- Textbaustein Hyponatriämie
 > ```

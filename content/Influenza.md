@@ -62,3 +62,7 @@ ICD: J10
 > - Bei akuter Verschlechterung jederzeit Wiedervorstellung bei uns, ansonsten Verlaufskontrolle beim Hausarzt nach vorheriger telefonischer Terminabsprache (Infektsprechstunde).
 > - Eine überstandene Grippe-Erkrankung schützt nicht vor einer erneuten Infektion. Eine Schutzimpfung ist verfügbar und effektiv, die Kosten trägt in der Regel die Krankenkasse. Die jährliche Grippeschutzimpfung wird für Schwangere (einziger verfügbarer Schutz für Säuglinge bis 6 Monate ist die Impfung der Mutter in der Schwangerschaft), Mitarbeitende im Gesundheitssystem und Menschen mit Risikofaktoren (ab 60 Jahre, stationäre Pflege, relevante Vorerkrankungen z.B. Krebs, Diabetes oder Erkrankungen von Herz, Lunge oder Immunsystem) empfohlen.
 > ```
+
+
+## Literatur
+- Duwe SC et al. Prophylaxis and treatment of influenza: options, antiviral susceptibility, and existing recommendations. GMS Infect Dis. 2021 Apr 30;9:Doc02. doi: 10.3205/id000071

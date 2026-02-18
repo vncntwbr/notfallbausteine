@@ -34,6 +34,11 @@ ICD: E87
 > [!workup]
 > - [[Schock]] + [[Bradykardie]] + [[Betablocker]] + [[AKI]] = Sonderfall [[BRASH]]-Syndrom
 > - **[[EKG]]:** QRS verbreitert? [[Bradykardie]]/HRST? P-Verlust/AVB? Spitzes T? Pseudo-STE? Sinuswellen?
+> 	- Peaked T (RR 0.7 KH-Mortalität[^2])
+> 	- AVB 1° (RR 4.1)
+> 	- Breite QRS (RR 4.7)
+> 	- AVB 2°/3° (RR 6.7)
+> 	- [[Bradykardie]] (RR 12.3)
 > - **[[POCUS]]:** [[Volumenstatus]]? [[Harnstau]]/[[Harnverhalt]]?
 > - **[[Labor]]:** BGA (repetitiv), Basis, bei V.a. NNR-Insuffizienz 1x Serum (Cortisol)
 > - **[[Urin]]:** [[U-Status]]
@@ -60,3 +65,5 @@ ICD: E87
 > ```
 
 [^1]: https://x.com/DrKanaris/status/1267132907367383047
+
+[^2]: Durfey 2017

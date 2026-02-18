@@ -15,12 +15,14 @@ ICD: R50
 > - **Fieber:** Endogene Sollwertverschiebung Hypothalamus
 > - **Hyperthermie:** Exogener unkontrollierter Temp.-Anstieg (Hitze, Meds) → Antipyretika wirkungslos
 
-> [!dd]+ DD
->  - **HÄUFIG: Infektion/[[Sepsis]]**
->  - **[[Intox]]:** [[MNS|Maligne Neurleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Maligne Hyperthermie|MH]]
+> [!dd]+ DD Hyperthermie
+>  - **FIEBER:** Infektion/[[Sepsis]]
+>  - **[[Intox]]:** [[MNS|Maligne Neuroleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Sympathomimetisch]], [[Maligne Hyperthermie|MH]]
 >  - **[[Hitzschlag]]**
 >  - **[[Thyreotoxische Krise]]**
 >  - Sympathikus-Erregung / körperliche Belastung
+
+^e41d98
 
 > [!anamnese]+ Anamnese
 > - **S:** 

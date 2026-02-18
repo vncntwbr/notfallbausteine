@@ -60,7 +60,7 @@ tags:
 > 	- *Amitriptylin:* 0-0-0-10 mg p.o., +25 mg/Wo, max. 150 mg/d, Cave QTc, [[Anticholinerg]] (Glaukom, Mundtrockenheit), KI Geriatrie, Aufklärung Einsatz als Analgetikum nicht Antidepressivum
 > - **Muskelrelaxanzien bei MSK/[[Rückenschmerz]]:**
 > 	- *Methocarbamol (Ortoton®)* 750 mg p.o. 1-1-1, max. 2-2-2, Cave Sturzgefahr, eingeschränkte Fahrtauglichkeit
-> 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanzminderung]]
+> 	- *Baclofen* 5 mg p.o. 1-1-1, max. 80 mg/d, Cave Wirkverstärkung Sedativa bis [[Vigilanz↓]]
 
 - Penthrox[^3]
 ## Literatur

@@ -39,7 +39,7 @@ ICD: R55
 
 > [!workup]-
 > - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
-> 	- Persistierende Hypotonie/Tachykardie?
+> 	- Persistierende [[Hypotonie]]/Tachykardie?
 > 	- Kein Schellong-Test (nicht sinnvoll)
 > - **[[EKG]]** (s.u.)
 > - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolyte]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
@@ -111,4 +111,4 @@ ICD: R55
 
 [^1]: [Carotid Sinus Massage in Syncope Evaluation: A Nonspecific and Dubious Diagnostic Method](https://www.scielo.br/j/abc/a/zWkKJ5fSYmvrWNmCYQ3hRND/?lang=en)
 
-[^2]:  Tachykardie ohne Hypotonie
+[^2]:  Tachykardie ohne [[Hypotonie]]

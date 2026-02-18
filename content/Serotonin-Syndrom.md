@@ -9,7 +9,7 @@ aliases:
   - Serotonin
 ---
 > [!danger]+ Rapid Reference
-> - **Symptome:** Neuromuskuläre Übererregbarkeit (Hyperreflexie, Cloni) + Sympathomimetisch ([[Tachykardie]], Schwitzen, [[Diarrhoe]], Hyperthermie, Mydriasis) + Bewusstseinsstörung (Agitation, [[Delir]], Vigilanzminderung)
+> - **Symptome:** Neuromuskuläre Übererregbarkeit (Hyperreflexie, Cloni) + Sympathomimetisch ([[Tachykardie]], Schwitzen, [[Diarrhoe]], Hyperthermie, Mydriasis) + Bewusstseinsstörung (Agitation, [[Delir]], [[Vigilanz↓]])
 > - **Killer:** Hyperthermie, Kombination mit MAO-Hemmern (inkl. Linezolid)
 > - **Therapie:**
 > 	- *Symptomatisch*
@@ -51,6 +51,6 @@ aliases:
 > [!stadien]-
 > - **Mild:** Induzierbare Cloni + Tachykardie, Hypertonie + Angst
 > - **Moderat:** Okuläre Cloni, Tremor + Hyperthermie <38.5°C, Flush, Mydriasis + Agitation
-> - **Schwer:** Muskelrigidität + Hyperthermie >39-40°C + [[Vigilanzminderung]], [[Krampfanfall]]
+> - **Schwer:** Muskelrigidität + Hyperthermie >39-40°C + [[Vigilanz↓]], [[Krampfanfall]]
 ## Literatur
 - [Toxinfo: Serotonerges Syndrom](https://www.toxinfo.de/kategorien/toxidrome/artikel/serotonerges-toxidrom)

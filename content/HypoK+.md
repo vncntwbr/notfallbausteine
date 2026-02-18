@@ -10,7 +10,7 @@ aliases:
   - Hypokaliämie
 ICD: E87
 ---
-> [!danger] Reanimation / Peri-Arrest
+> [!danger] Reanimation / [[Periarrest|Peri-Arrest]]
 > 1. **Kaliumchlorid** 20 mmol (20 ml 7.45%) als KI über 10 min i.v. unter Monitoring
 > 2. Wdh. **Kaliumchlorid** 20 mmol + **[[MgSO4|Magnesiumsulfat]]** 4 g in 500 ml über 30 min i.v.
 

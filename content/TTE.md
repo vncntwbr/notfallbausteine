@@ -33,7 +33,10 @@ title: Transthorakale Echokardiografie (TTE)
 
 - https://www.pocus101.com/pocket-cards/ #Status/ToDo
 
-### Complete 2D Imaging Protocol[^1]
+## Schnitte
+![[Pasted image 20260218063208.png]][^2]
+
+## Complete 2D Imaging Protocol[^1]
 1. **PLAX:** increased depth, LV, zoomed AV, zoomed MV, RVOT, RV inflow
 2. **PSAX:** level great vessels AV + TV + PV/PA, level MV, level papillary muscles, level apex
 3. **A4C:** LV, RV, coronary sinus, pulmonary veins
@@ -47,3 +50,5 @@ title: Transthorakale Echokardiografie (TTE)
 - [S2k-Leitlinie Transthorakale Echokardiographie](https://register.awmf.org/de/leitlinien/detail/085-004)
 
 [^1]: Mitchell. American Society of Echocardiography 2018. [Guidelines for Performing a Comprehensive Transthoracic Echocardiographic Examination in Adults: Recommendations from the American Society of Echocardiography](https://onlinejase.com/article/S0894-7317(18)30318-3/fulltext)
+
+[^2]: Herzzentrum Bonn, Prof. Nickenig

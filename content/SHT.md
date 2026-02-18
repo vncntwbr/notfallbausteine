@@ -11,7 +11,7 @@ title: Schädel-Hirn-Trauma (SHT)
 ICD: S06
 ---
 > [!danger]+ Schweres SHT
-> 1. **"Normo" ABCDE:** Normotonie RRsys >90, Normoxie, Normokapnie, Normothermie, Normoglykämie
+> 1. **"Normo" [[ABCDE]]:** Normotonie RRsys >90, Normoxie, Normokapnie, Normothermie, Normoglykämie
 > 2. **[[RSI]]** bei [[GCS]] ≤8 / beeinträchtigten Schutzreflexen mit tiefer Narkose
 > 3. **Venöser Abfluss:** Stifneck entfernen, OK-Hochlage, VJI meiden
 > 4. **[[Hirndruck]]-Management**
@@ -53,8 +53,8 @@ ICD: S06
 	- [[Hirnödem]]
 	- Diffuse axonale Schädigung
 - **Sekundärer Hirnschaden** (z.B.)
-	- Hypoxämie
-	- Hyperkapnie, lang anhaltende Hypokapnie
+	- [[Hypoxie]]
+	- Hyperkapnie, lang anhaltende [[Respiratorische Alkalose|Hypokapnie]]
 	- [[Hypoglykämie]]
 	- [[HypoNa+]]
 

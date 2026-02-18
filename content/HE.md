@@ -38,8 +38,8 @@ ICD: K72.7
 > [!stadien]- Stadien n. West-Haven
 > - **1:** Verdeckt
 > - **2:** Lethargisch / Desorientiert
-> - **3:** [[Vigilanzminderung|Somnolenz]] / [[Vigilanzminderung|Sopor]]
-> - **4:** [[Vigilanzminderung|Koma]]
+> - **3:** [[Vigilanz↓|Somnolenz]] / [[Vigilanz↓|Sopor]]
+> - **4:** [[Vigilanz↓|Koma]]
 
 > [!management]+
 > - ...

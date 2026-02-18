@@ -11,17 +11,17 @@ aliases:
 ICD: I10-I15
 ---
 
-> [!dd]+ DD
+> [!dd]+ DD Hypertonie
 > - **Kritische Endorganschäden (= hypertensiver Notfall):**
 > 	- [[ACS]]
 > 	- [[Aorta]]
 > 	- [[Herzinsuffizienz]]
-> 	- [[(Prä-)Eklampsie]] (ab RR >170/110)
+> 	- [[Hypertensive Schwangerschaftserkrankungen]] (ab RR >170/110)
 > 	- [[Hirndruck]] bzw. [[Intrakranielle Blutung]] (insb. [[SAB]])
 > 	- PRES
 > 	- Maligne Hypertonie (Visusminderung + [[AKI]] + RR >200/120)
-> - **Häufig:** Schmerzen ([[Analgesie]]), Stress (Beruhigung), Fehlmessung
-> - **Weiteres:** [[Intox]], [[Entzug]], [[Harnverhalt]], [[Delir]], [[AKI]], Hyperaldosteronismus
+> - **Häufig:** ==Schmerzen==, ==Stress==, Fehlmessung
+> - **Weitere:** [[Intox]], [[Entzug]], [[Harnverhalt]], [[Delir]], [[AKI]], Hyperaldosteronismus
 
 > [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? Ödeme? Infekt? [[TLOC]]? [[Ü+E]] (nüchtern)?

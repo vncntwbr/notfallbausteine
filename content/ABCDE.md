@@ -1,9 +1,23 @@
 ---
 tags:
-  - Basics
   - Status/Done
   - Fach/Notfallmedizin
+  - Basics/ABCDE
 ---
+- **Suche nach "Poisoned Arrows":** Zeitkritische Probleme/Muster, die auch ohne Kenntnis des "Bigger Picture" therapiert werden können und müssen
+- **Generisches ABCDE** unabhängig von Trauma / Non-Trauma, da nicht immer klar abgrenzbar
+
+|                       | Primary Survey                                      | Secondary Survey      | Interventionen                                                 |
+| --------------------- | --------------------------------------------------- | --------------------- | -------------------------------------------------------------- |
+| **X**                 | Kritische äußere Blutung?                           |                       | Blutstillung                                                   |
+| **[[A–Airway]]**      | Offen+sicher?<br>Gefährdet?<br>Verlegt?             | [[etCO2]]             | [[Atemwegsmanagement]]<br>Absaugung<br>[[Adrenalin]] inhalativ |
+| **[[B–Breathing]]**   | Atemarbeit, AF?<br>Zyanose?<br>Auskultation?        | [[SpO2]]              | [[O2]]-Gabe<br>[[Beatmung]]<br>Thoraxentlastung                |
+| **[[C–Circulation]]** | Recap?<br>Puls?<br>Vorlast?                         | [[RR]], 4k-[[EKG]]    | Zugang, Medis, Volumen<br>[[Pacing]]/[[eKV]], [[CPR]]          |
+| **[[D–Disability]]**  | AVPU?<br>BEFAST?<br>pDMS Extremitäten?<br>Pupillen? | BZ/[[BGA]]<br>[[GCS]] | Glucose<br>Benzodiazepine                                      |
+| **[[E–Exposure]]**    | Haut?<br>Bodycheck?                                 | [[Anamnese]]<br>Temp. | Wärmeerhalt<br>[[Analgesie]]                                   |
+
+
+
 > [!note]- Textbaustein ABCDE
 > ```
 > Ersteindruck: [potenziell kritisch]
@@ -17,13 +31,3 @@ tags:
 ^7e23c5
 
 ^8e5ced
-## Schulung
-> [!management]+ S+xABCDE-Schema
-> - **S – Szene:** Situation, Sicherheit, Ersteindruck (kritisch/unkritisch + Leitsymptom)
-> - **x – Exsanguination:** Signifikante äußere Blutung → Blutstillung
-> - **A – Airway:** Offen+Sicher / Gefährdet / Verlegt → [[Atemwegsmanagement]]
-> - **B – Breathing:** AF, TV, Atemarbeit, Oxygenierung → [[O2]], [[Beatmung]], Thoraxentlastung
-> - **C – Circulation:** Recap, Haut, HF, RR, Vorlast → [[CPR]], Medikamente, [[eKV]]/[[Pacing]]
-> - **(STU – Schnelle Trauma Untersuchung):** Kritische Verletzungen?
-> - **D – Disability:** BZ, BEFAST, Pupillen, [[GCS]]
-> - **E – Exposure:** Umgebung, Temp., Schmerzen, [[Anamnese]] → Wärmeerhalt, [[Analgesie]]

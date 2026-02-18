@@ -9,7 +9,7 @@ aliases:
   - Ohnmacht
 ICD: R55
 ---
-> [!danger]+ Persistierende Störung siehe [[Vigilanzminderung]] bzw. [[Schock]]/[[CPR]]
+> [!danger]+ Persistierende Störung siehe [[Vigilanz↓]] bzw. [[Schock]]/[[CPR]]
 
 > [!dd]+ DD
 > - **[[Synkope]]:** HZV↓ kurzzeitig → rasche, vollständige Erholung

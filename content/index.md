@@ -33,7 +33,7 @@ aliases:
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                             |
 | **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                               |
-| **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanzminderung\|Vigilanz]] |
+| **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanz↓\|Vigilanz]] |
 | **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |
 | **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                   |
 | **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |

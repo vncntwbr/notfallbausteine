@@ -7,7 +7,7 @@ tags:
 - [[EEG]]
 - [[TCD]]
 ## Diagnosen
-- **[[Vigilanzminderung]]**
+- **[[Vigilanz↓]]**
 - **[[Delir]]**
 - **[[Hirndruck]]**
 - **[[Hirntod]]**

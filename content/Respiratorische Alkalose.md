@@ -1,14 +1,16 @@
 ---
 aliases:
   - Resp Alk
+  - Hypokapnie
 tags:
   - Fach/Labormedizin
   - Status/Done
   - Probleme/Labor
 ICD: E87
+title: Respiratorische Alkalose (Hypokapnie)
 ---
 > [!dd]- DD Respiratorische Alkalose
-> - **Hypoxie-getriggert:** 
+> - **[[Hypoxie]]-getriggert:** 
 > 	- True Hypoxia (z.B. [[Lungenödem]], [[Pneumonie]], [[LAE]], Aspiration)
 > 	- V/Q-Mismatch
 > - **Sonst. Atemzentrum-Stimulation:**

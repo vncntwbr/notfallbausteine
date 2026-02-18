@@ -15,6 +15,6 @@ title: Tranexamsäure (TXA)
 	- Kinder: 15 mg/kg
 - **KI**: [[Sepsis]], [[DIC]], [[TVT]]/[[LAE]]
 - **Verdünnung**: 1g / 10ml
-	- Immer als KI; bei Bolusgabe UAW Hypotonie, [[Krampfanfall]]
+	- Immer als KI; bei Bolusgabe UAW [[Hypotonie]], [[Krampfanfall]]
 
 [^1]: HALT-IT

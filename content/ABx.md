@@ -29,7 +29,7 @@ title: Antibiotika (ABx)
 	- *HAP:* Ampicillin/Sulb 3g q8h, alt. Ceftriaxon 2g/d
 	- *sHAP/MRE:* Pip/Taz 4.5g q8h
 	- *ssHAP:* Meropenem 2g q8h
-	- *Pneumocystis:* Cotrimoxazol 40 mg/kg q8h ± Prednisolon 40 mg q12h bei HIV oder Hypoxie
+	- *Pneumocystis:* Cotrimoxazol 40 mg/kg q8h ± Prednisolon 40 mg q12h bei HIV oder [[Hypoxie]]
 	- *Urosepsis:* Ceftriaxon 2g/d (bei Sepsis 1d 4g/d), alt. Pip/Taz 4.5g q8h
 	- *[[Gallenerkrankungen]]/[[Appendizitis]]/[[Divertikulitis]]:* Ceftriaxon 2g/d + Metronidazol 500 mg q8h
 	- *Peritonitis/Perforation:* Pip/Taz 4.5g q8h

@@ -79,7 +79,7 @@ ICD: J44
 
 > [!disposition]-
 > - **Stationär:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥1 Pkt., [[Dyspnoe]] unzureichend gebessert, relevante Infektion, stark red. AZ, unzureichende häusliche Versorgung, dekompensierte Begleiterkrankung (Ödeme, TAA bei [[VHF]], ...)
-> - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanzminderung]], [[Hypoxämie]] (PaO2 <40 mmHg), anhaltend/progredient [[Respiratorische Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
+> - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanz↓]], [[Hypoxie]] (PaO2 <40 mmHg), anhaltend/progredient [[Respiratorische Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
 
 > [!note]- Textbaustein aeCOPD Ambulant
 > ```

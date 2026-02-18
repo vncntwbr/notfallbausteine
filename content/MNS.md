@@ -9,8 +9,8 @@ aliases:
 title: Malignes Neuroleptisches Syndrom (MNS)
 ---
 > [!danger]+ Rapid Reference
-> - **Symptome:** Schwere [[Fieber|Hyperthermie]] >40°C, Muskelrigidität, [[Delir]], Mutismus, [[Vigilanzminderung]]
-> - **Killer:** Respiratorische Insuffizienz, [[Vigilanzminderung]], [[Rhabdomyolyse]], Hitzschlag(!)
+> - **Symptome:** Schwere [[Fieber|Hyperthermie]] >40°C, Muskelrigidität, [[Delir]], Mutismus, [[Vigilanz↓]]
+> - **Killer:** Respiratorische Insuffizienz, [[Vigilanz↓]], [[Rhabdomyolyse]], Hitzschlag(!)
 > - **Therapie:**
 > 	- *[[Elektrolyte]]:* insb. [[Hypocalcämie]] therapieren
 > 	- *Dopaminerg:* Amantadin 200-400 mg/d, Dopamin-Blocker absetzen
@@ -37,7 +37,7 @@ title: Malignes Neuroleptisches Syndrom (MNS)
 > [!untersuchung]- Klinik
 > - **Vegetative Dysregulation:**
 > 	- Sinustachykardie
-> 	- Fluktuierend [[Hypertonie]]/Hypotonie
+> 	- Fluktuierend [[Hypertonie]]/[[Hypotonie]]
 > 	- Feucht (Hypersalivation, Diaphorese)
 > - **[[Fieber|Hyperthermie]] bis Hitzschlag**
 > - **Muskelrigidität:**
@@ -45,7 +45,7 @@ title: Malignes Neuroleptisches Syndrom (MNS)
 > 	- [[Rhabdomyolyse]] (85%)
 > 	- Tremor (30%)
 > 	- Dysarthrie, Dysphagie
-> - **[[Delir]], [[Vigilanzminderung]], Katatonie**
+> - **[[Delir]], [[Vigilanz↓]], Katatonie**
 > - **Weitere Symptome:**
 > 	- Leukozytose (85%)
 > 	- [[AKI]] (10%)

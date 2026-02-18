@@ -15,7 +15,7 @@ ICD: R07.0
 > 1. **Ruhe!** (AF↓), ggf. Morphin
 > 2. **Adrenalin** 5 mg pur p.i. mit O2
 > 3. **Dexamethason** 10 mg i.v. KI
-> 4. **Vigilanz↓/Erschöpfung:** [[RSI]] in [[eFONA]]-Bereitschaft
+> 4. **[[Vigilanz↓]]/Erschöpfung:** [[RSI]] in [[eFONA]]-Bereitschaft
 > 5. **[[Kinder]]:** keine enorale Manipulation, kein Spatel, kein Endoskop
 
 > [!anamnese]-

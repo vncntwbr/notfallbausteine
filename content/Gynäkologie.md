@@ -6,5 +6,5 @@ tags:
   - Fach/Gynäkologie
 ---
 ## Diagnosen
-- [[(Prä-)Eklampsie]]
+- [[Hypertensive Schwangerschaftserkrankungen]]
 - [[Hypertensive Schwangerschaftserkrankungen]]

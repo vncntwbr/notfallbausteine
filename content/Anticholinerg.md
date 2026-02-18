@@ -9,7 +9,7 @@ aliases:
   - Anticholinerges Syndrom
 ---
 > [!danger]+ Rapid Reference
-> - **Symptome:** Mydriasis, Trocken, Hyperthermie, [[Delir]]/[[Vigilanzminderung|Koma]]
+> - **Symptome:** Mydriasis, Trocken, Hyperthermie, [[Delir]]/[[Vigilanz↓|Koma]]
 > - **Killer:** Andere Toxinwirkungen! (z.B. bei [[Na+ Kanal Blocker]])
 > - **Therapie:**
 > 	- *Supportiv:* [[Volumentherapie]], Kühlung, DK bei Harnverhalt, ggf. Benzos
@@ -48,13 +48,13 @@ aliases:
 > 	- Sinustachykardie (70%)
 > 	- [[Obstipation]] (50%), [[Harnverhalt]]
 > 	- [[Fieber|Hyperthermie]] (5%)
-> - **ZNS:** Agitiertes [[Delir]] (50%), Halluzinationen bis [[Vigilanzminderung|Koma]]
+> - **ZNS:** Agitiertes [[Delir]] (50%), Halluzinationen bis [[Vigilanz↓|Koma]]
 
 > [!stadien]-
 > - **0°:** Relaxed, kooperativ
 > - **1°:** Ängstlich, reizbar, zittrig
 > - **2°:** Desorientiert, verwirrt, halluzinierend, psychomotorische Unruhe
 > - **3°:** Ausgeprägte Agitation (Fixierung nötig), unverständliche Sprache
-> - **4°:** [[Krampfanfall]], [[Vigilanzminderung|Koma]]
+> - **4°:** [[Krampfanfall]], [[Vigilanz↓|Koma]]
 ## Literatur
 - [Toxinfo: Anticholinerges Syndrom](https://www.toxinfo.de/kategorien/toxidrome/artikel/anticholinerges-syndrom)

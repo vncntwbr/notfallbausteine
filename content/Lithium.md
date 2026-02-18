@@ -9,7 +9,7 @@ title: Lithium inkl. Intoxikation
 aliases:
 ---
 > [!anamnese]- Symptome
-> - **ZNS:** [[Vigilanzminderung]], Ataxie, Tremor, Faszikulationen
+> - **ZNS:** [[Vigilanz↓]], Ataxie, Tremor, Faszikulationen
 > - **GI:** [[Ü+E]], [[Diarrhoe]], Mundtrockenheit
 > - **Kardial:** [[Bradykardie]], [[Long-QT]], breite QRS, selten HRST
 

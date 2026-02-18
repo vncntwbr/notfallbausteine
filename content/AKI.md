@@ -73,7 +73,7 @@ ICD: N17
 > [!management]-
 > 1. **[[HyperK+]] Therapie**
 > 2. **Nach Art:**
-> 	- *Prärenal:* [[Volumenstatus]] optimieren, bei Schock MAP halten(!)
+> 	- *Prärenal:* [[Volumenstatus]] optimieren, bei [[Schock]] MAP halten(!)
 > 	- *V.a. Intrarenal:* Konsil Nephrologie
 > 	- *Postrenal:* Blasenkatheter, Konsil Urologie
 > 3. **Medikation:** Nephrotox. Meds pausieren (insb. NSAR, Metformin, umstritten ACEi), [DANI]([dosing.de](http://dosing.de/)) (insb. ABx), bei [[BRASH]] bradykardisierende Meds pausieren

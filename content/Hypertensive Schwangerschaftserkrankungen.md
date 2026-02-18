@@ -2,6 +2,7 @@
 tags:
   - Fach/Gynäkologie
   - Status/Empty
+aliases:
 ---
 
 ## Literatur

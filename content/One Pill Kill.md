@@ -5,13 +5,13 @@ tags:
   - Basics
 ---
 - **In geringer Dos gefährliche Substanzen**
-	- *⍺2-Agonisten (Clonidin):* Hypotonie/[[Bradykardie]], [[Vigilanzminderung]]
-	- *[[Antipsychotika]]:* ≥1 Tbl. [[Vigilanzminderung]], oft Retard
+	- *⍺2-Agonisten (Clonidin):* [[Hypotonie]]/[[Bradykardie]], [[Vigilanz↓]]
+	- *[[Antipsychotika]]:* ≥1 Tbl. [[Vigilanz↓]], oft Retard
 	- *Babypuder Aspiration:* "Austrocknen" AW, symptomfreies Intervall 24h → Prednisolon i.v., BAL, Surfactant p.i.
 	- *Backofen-/Rohrreiniger:* Massive Verätzungen → Notfall-ÖGD
 	- *[[Betablocker]]:* insb. Propanolol u.a. lipophile BB
 	- *[[Calciumantagonisten]]:* <4 J.
 	- *[[Ethylenglykol]] (Kühlpacks, Frostschutzmittel)*
 	- *Chloroquin:* ≥20 mg/kg, ZNS-Sympt., [[HypoK+]]
-	- *Kampfer (Tiger Balsam):* ≥30 mg/kg, Krampfanfall, [[Vigilanzminderung]]
+	- *Kampfer (Tiger Balsam):* ≥30 mg/kg, Krampfanfall, [[Vigilanz↓]]
 	- 

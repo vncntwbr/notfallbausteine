@@ -53,7 +53,7 @@ tags:
 - Traditionelle Therapiedauer für die meisten Infektionen sind exzessiv lang[^3]
 	- **[[COPD|aeCOPD]]** ≤5d[^3]
 	- **[[Pneumonie]] (CAP+HAP)** meist ≤7d, außer[^3]
-		- Weiter Fieber, Tachypnoe AF >24, Hypoxie, [[Schock]]
+		- Weiter Fieber, Tachypnoe AF >24, [[Hypoxie]], [[Schock]]
 		- Immunsuppression
 		- Bakteriämie
 		- Komplikationen (z.B. Empyem, [[Abszess]], septische Streuung)

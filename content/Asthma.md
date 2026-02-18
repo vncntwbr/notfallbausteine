@@ -14,7 +14,7 @@ ICD: J45-J46
 > 2. **Med:** Prednisolon 50-100 mg i.v., ggf. [[MgSO4]] 2 g (2 Amp. 10 ml 10%) als KI i.v., ggf. in DD [[Anaphylaxie]] empirisch Adrenalin 0.5 mg i.m.
 > 3. **[[NIV]]** bei Erschöpfung/Hyperkapnie
 > 4. **Med erweitert:** Terbutalin (Bricanyl®) 0.25-0.5 mg s.c., Reproterol (Bronchospasmin®) 90 μg *langsam* i.v., ggf. DSI/Toleranz [[esKETAmin]] 
-> 5. **[[AMAX4]]** bei [[Vigilanzminderung|Sopor]]/Apnoe
+> 5. **[[AMAX4]]** bei [[Vigilanz↓|Sopor]]/Apnoe
 
 > [!dd] DD [[Anaphylaxie]] bedenken, ggf. Adrenalin i.m. empirisch
 
@@ -42,10 +42,10 @@ ICD: J45-J46
 > - **Lebensbedrohlich:**
 > 	- Silent Lung
 > 	- Flache Atmung / frustrane Atemarbeit (Inhalation kommt nicht mehr an)
-> 	- [[Bradykardie]] (hypoxischer Periarrest)
+> 	- [[Bradykardie]] (hypoxischer [[Periarrest]])
 > 	- SpO2 <92% / PaO2 <60 mmHg arteriell
 > 	- PaCO2 normal oder erhöht arteriell
-> 	- [[Vigilanzminderung]] (inkl. Verwirrtheit, hypoxische Agitation)
+> 	- [[Vigilanz↓]] (inkl. Verwirrtheit, hypoxische Agitation)
 
 > [!stadien]- Chronischer Schweregrad + Kontrolle
 > - **Asthma-Kontrolle:** [0/4] gut, [1-2/4] teilweise, [3-4/4] unkontrolliert

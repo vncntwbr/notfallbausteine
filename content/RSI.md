@@ -48,6 +48,7 @@ OPS: 8-701
 > Invasive Beatmung mit Hamilton T1 (DuoPAP, TV ___ ml, AF __/min, AMV __ l/min, Pinsp ____ mbar, PEEP __ mbar, FiO2 __, I:E __).
 > ```
 
+Siehe auch [[Cold Intubation]]
 ## Literatur
 - Ketamin vs. Etomidat, NEJM RCT, n=2365, 30d-Mortalität 28.1% vs. 29.1% (gleich), jedoch hämodynamische Instabilität 22.1% Ketamin vs. 17.0% Etomidat (95%KI 1.9-8.3)[^1]
 

@@ -13,11 +13,13 @@ aliases:
 > 1. **Abfluss:** OberkörperHOCHlagerung 30°, kein Stifneck
 > 2. **[[RSI]]** mit tiefer Narkose
 > 3. **Milde HYPERVENTILATION:** AF 20/min, Ziel-pCO2 ≈30 mmHg
-> 4. **OSMO:** Mannitol 15% 250-500 ml oder NaCl 3% 100-200 ml
-> 5. **HYPOtonie meiden:** Ziel-RRsys >120 (CPP=MAP-ICP, ICP <20, CPP >60)
+> 4. **OSMO:** Mannitol 15% 250-500 ml oder NaCl 3% 300 ml
+> 5. **[[HYPOtonie]] meiden:** Ziel-RRsys >120 (CPP=MAP-ICP, ICP <20, CPP >60)
 > 6. **[[Blutungsmanagement]]:** ANTAgonisierung [[AK]]
 > 7. **Sonderfall VP-SHUNT:** Reservoirpunktion mit Butterfly 23G blau (NCh)
 > 8. **ENTLASTUNG:** [[EVD]], Bohrloch o.a. (NCh)
+
+^b44f14
 
 > [!workup]-
 > - **[[POCUS]]:** [[Opticusdurchmesser]]
@@ -26,7 +28,7 @@ aliases:
 > [!management]-
 > 1. **Akute Einklemmung:** s.o.
 > 2. **[[Intrakranielle Blutung]] unter [[AK]]:** [[Blutungsmanagement|Antagonisierung]]
-> 3. **Hypotonie aggressiv verhindern:** Ziel-RRsys >120, [[Hypertonie]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
+> 3. **[[Hypotonie]] aggressiv verhindern:** Ziel-RRsys >120, [[Hypertonie]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
 > 4. **Frühzeitig [[RSI]]** mit tiefer Narkose (Normoxie, Normokapnie)
 > 5. **[[Krampfanfall]]** sofort durchbrechen
 > 6. **Normothermie:** Antipyrese ab 37.7°C mit [[PCM]], Metamizol, physikalisch

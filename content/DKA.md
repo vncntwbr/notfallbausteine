@@ -51,8 +51,8 @@ title: Diabetische Ketoazidose (DKA)
 > 	1. z.B. KCl 40 mval in 1000 ml VEL i.v. in 1h + zzgl. p.o.
 > 	2. *K+ nicht >3.5 haltbar:* ggf. Insulin reduzieren/pausieren
 > 4. **Atemminutenvolumen ist heilig**
-> 	1. [[RSI]] unbedingt vermeiden, auch bei [[Vigilanzminderung]] ([[Physiologisch schwieriger Atemweg]])
-> 	2. Keine Pufferung mit HCO3-, wenn dann TRIS (pH <7.0 [[CPR]]/Periarrest)
+> 	1. [[RSI]] unbedingt vermeiden, auch bei [[Vigilanz↓]] ([[Physiologisch schwieriger Atemweg]])
+> 	2. Keine Pufferung mit HCO3-, wenn dann TRIS (pH <7.0 [[CPR]]/[[Periarrest]])
 
 > [!note]- Textbausteine
 > ```

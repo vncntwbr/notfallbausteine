@@ -7,6 +7,8 @@ aliases:
   - NaBic
 title: Bicarbonat (NaBic)
 ---
+> [!danger] Isotones [[Bicarbonat|NaBic]] 1 L anmischen: [[Bicarbonat|NaBic]] 8.4% 150 ml + G5% 850 ml
+
 > [!warning]+ UAW & KI
 > - [[Metabolische Alkalose]]
 > - Exazerbation bestehender [[Hypocalcämie]] (pH↑ → mehr anionisches Albumin → mehr Ca2+ Bindung)

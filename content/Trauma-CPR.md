@@ -17,5 +17,5 @@ title: Trauma-Reanimation
 > [!dd]+ Reversible Ursachen bei traumatischem Arrest
 > - **[[Pneu|Spannungspneumothorax]]**
 > - **Hypovolämie** (Exsanguination)
-> - **Oxygenierung** (Hypoxie)
+> - **Oxygenierung** ([[Hypoxie]])
 > - **[[Perikarderguss|Tamponade]]**

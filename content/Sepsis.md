@@ -6,6 +6,8 @@ tags:
   - Fach/Intensivmedizin
 ICD: R57.2
 ---
+> "Sepsis kills! ... but it doesn't kill Patients who don't have Sepsis."
+
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges
 - **DD Sepsis Mimics**

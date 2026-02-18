@@ -15,7 +15,7 @@ aliases:
 > 	- Leberzirrhose mit Aszites
 > 	- [[AKI]]
 > 	- Euvolämie (bzw. fehlendes Ansprechen auf Volumenchallenge)
-> 	- Chronische Hypotonie, Baseline-MAP <65[^2]
+> 	- Chronische [[Hypotonie]], Baseline-MAP <65[^2]
 > 	- Keine alleinige andere Erklärung für [[AKI]]
 
 > [!management]- [[HRS]] Management zusätzlich zu allg. [[AKI]]

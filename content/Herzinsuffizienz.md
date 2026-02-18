@@ -51,7 +51,7 @@ ICD: I50
 > - **[[O2]]**, Oberkörperhochlagerung, low-threshold für CPAP ([[Herzinsuffizienz#^633e65|SCAPE s.o.]])
 > - **Primär hypervoläm:** Furosemid 40 mg i.v. (bei Diuretika-Dauertherapie min. Tagesdosis), evtl. + Nitro 1-2 Hub s.l.
 > - **Primär hypertensiv:** Nitro min. 2 Hub s.l., evtl. + Furosemid
-> - **Hypoperfusion:** Inotropika+Vasopressor, [[Arterie]], bei RR >90 Nitro, bei Periarrest [[ECMO]]/Impella
+> - **Hypoperfusion:** Inotropika+Vasopressor, [[Arterie]], bei RR >90 Nitro, bei [[Periarrest]] [[ECMO]]/Impella
 
 > [!management]- Dauermedikation bei HFrEF nach DGK/ESC
 > - **Medikamentöse 4 Säulen, prognoseverbessernd, ab NYHA II:**

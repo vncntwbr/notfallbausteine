@@ -1,11 +1,13 @@
 ---
 aliases:
   - Resp Azi
+  - Hyperkapnie
 tags:
   - Fach/Labormedizin
   - Status/Done
   - Probleme/Labor
 ICD: E87
+title: Respiratorische Azidose (Hyperkapnie)
 ---
 > [!dd]- DD Respiratorische Azidose (siehe auch [[Dyspnoe]])
 > - **Neurologisch:** 

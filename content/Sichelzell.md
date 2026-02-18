@@ -10,7 +10,7 @@ aliases:
 ---
 > [!danger]+ Akutes Thoraxsyndrom (ATS) – lebensbedrohlich, häufigste Todesursache
 > 1. **Erkennen**
-> 	- *Symptome:* [[Brustschmerz]], Tachypnoe, Hypoxie, [[Husten]], [[Fieber]] +
+> 	- *Symptome:* [[Brustschmerz]], Tachypnoe, [[Hypoxie]], [[Husten]], [[Fieber]] +
 > 	- *[[POCUS]] / [[Rö Tx]]:* Neue Konsolidierung, typisch basal + Randwinkelergüsse
 > 2. **Info** Häma, ITS avisieren
 > 3. **Kreuzblut** abnehmen, in RS ggf. [[Transfusion]] bei Hb <7 g/dl bzw. Austauschtransfusion bei Hb >7 g/dl
