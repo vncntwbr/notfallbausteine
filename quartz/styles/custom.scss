@@ -15,7 +15,10 @@
 [data-slug="Adrenalin"] .page-header{
 	background: linear-gradient(to bottom, #000 49%, #debfd9 51%);
 }
-[data-slug="Adrenalin"] .breadcrumb-element, [data-slug="Adrenalin"] .article-title{
+[data-slug="Adrenalin"] .breadcrumb-element *, [data-slug="Adrenalin"] .article-title{
+		color: white !important;
+}
+[data-slug="Adrenalin"] .content-meta *, [data-slug="Adrenalin"] .tags *{
 		color: white !important;
 }
 
