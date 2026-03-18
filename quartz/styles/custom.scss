@@ -21,7 +21,8 @@
 [data-slug="Amiodaron"] .article-title,
 [data-slug="Calciumantagonisten"] .article-title,
 [data-slug="Digitalis"] .article-title,
-[data-slug="MgSO4"] .article-title{
+[data-slug="MgSO4"] .article-title,
+[data-slug="Inhalaltive-Pulmodilatatoren"] .article-title{
 	color: white !important;
 }
 
@@ -31,15 +32,14 @@
 [data-slug="AK"] .page-header,
 [data-slug="Lyse"] .page-header,
 [data-slug="DAPT"] .page-header{
-	border: 3px dashed #000;
+	border: 10px dashed #000;
 }
 [data-slug="Inhalaltive-Pulmodilatatoren"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
-	color: white;
 }
 [data-slug="Lokalanästhetika"] .page-header{
 	background-color: #C2B8AB;
 }
 [data-slug="Nitrate"] .page-header{
-	border: 3px dashed #debfd9;
+	border: 10px dashed #debfd9;
 }
