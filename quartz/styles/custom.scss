@@ -12,14 +12,17 @@
 
 
 // Anästhesiologie
-[data-slug="esKETAmin"] .page-header{
+[data-slug="esKETAmin"] .page-header *{
 	background-color: #ffff00;
+	color: black !important;
 }
 [data-slug="Lokalanästhetika"] .page-header{
 	background-color: #C2B8AB;
+	color: black !important;
 }
 [data-slug="Opioide"] .page-header{
 	background-color: #85c7e3;
+	color: black !important;
 }
 [data-slug="Relaxans"] .page-header{
 	background: linear-gradient(to bottom, #fff 49%, #F54029 51%);
