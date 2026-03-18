@@ -13,7 +13,7 @@ tags:
 - **W:** Einnahme + 2 von
 	- [[AGMA]] (ab 3h, bei Alkohol später)
 	- [[Osmolalitätslücke]] >10 mOsm/kg
-	- [[Lactatazidose]] mit Diff. [[BGA]] | Zentrallabor
+	- [[Lactat]] mit Diff. [[BGA]] | Zentrallabor
 	- [[AKI]]
 	- Oxalatkristalle im [[Urin]] (ab 4-8h, nur in 33%, falsch-pos. u.a. Spinat)
 	- Ethylenglykol, Glykolat im Serum ≥20 mg/dl

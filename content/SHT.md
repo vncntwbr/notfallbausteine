@@ -60,3 +60,8 @@ ICD: S06
 
 ## Literatur
 - [S2e-Leitlinie Schädel-Hirn-Trauma im Erwachsenenalter](https://register.awmf.org/de/leitlinien/detail/008-001)
+- Post-[[RSI]] Hypotonie tötet (30d-Mortalität 43% vs. 27%)[^1]
+
+[^1]: Price J, Lachowycz K, Major R, McLachlan S, Keeliher C, Finbow B, et al. Prehospital postintubation hypotension and survival in severe traumatic brain injury. JAMA Netw Open. 2025;8(11):e2544057. doi:10.1001/jamanetworkopen.2025.44057.
+	
+	

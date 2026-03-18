@@ -25,7 +25,7 @@ ICD: J81
 - Ziel RR sys ≈ 140 mmHg oder –20-30%
 - Ideal kombinieren mit CPAP
 
-| RR sys  | Bolus langsam i.v. | Perfusor initial |
+| RR sys  | Bolus langsam i.v. | [[Perfusor]] initial |
 | ------- | ------------------ | ---------------- |
 | >200    | 2 mg               | 400 μg/min       |
 | 180-200 | 1 mg               | 200 μg/min       |

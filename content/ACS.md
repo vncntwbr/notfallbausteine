@@ -45,7 +45,7 @@ ICD: I20-I25
 > - **ggf. Koronar-CT** (Indikation kritisch prüfen)
 > - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 ## Management
-> [!Management]- Allgemeines ACS-Management
+> [!Management]+ Allgemeines ACS-Management
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel SpO2 >90%[^4]
 > 3. **[[Analgesie]]:** [[PCM]] 1 g i.v. ± Morphin 3 mg-weise i.v.
@@ -61,7 +61,7 @@ ICD: I20-I25
 > 	- ==Anhaltende, rezidivierende oder therapierefraktäre AP==
 > 	- [[Herzinsuffizienz]]/[[Lungenödem]]
 > 	- Arrhythmie/[[VT]]
-> 	- Dynamisches [[Ischämie-EKG]]
+> 	- Dynamisches [[Ischämie-EKG]] (wiederholen!)
 > 	- Mechanische Komplikationen (z.B. [[MI]] durch Mitralsegelausriss)
 > - **Management zur PCI**
 > 	- Defibrillationsbereitschaft (Patches kleben)
@@ -129,6 +129,6 @@ ICD: I20-I25
 
 [^2]: Pendell Meyers. J Emerg Med 2021. [Comparison of the ST-Elevation Myocardial Infarction (STEMI) vs. NSTEMI and Occlusion MI (OMI) vs. NOMI Paradigms of Acute MI](https://pubmed.ncbi.nlm.nih.gov/33308915/)
 
-[^3]: “Im geeigneten klinischen Kontext, wenn eine andere Erklärung für die erhöhten Troponin-Werte identifiziert wurde (z.B. TAA bei VHF, schwere Anämie, hypertensiver Notfall), kann eine weiterführende Diagnostik (d.h. Koronarangiografie) nicht nötig sein.” ESC ACS 2023
+[^3]: “Im geeigneten klinischen Kontext, wenn eine andere Erklärung für die erhöhten Troponin-Werte identifiziert wurde (z.B. TAA bei VHF, schwere [[Anämie]], hypertensiver Notfall), kann eine weiterführende Diagnostik (d.h. Koronarangiografie) nicht nötig sein.” ESC ACS 2023
 
 [^4]: Bei SpO2 >90% kein Benefit durch O2-Gabe aber auch kein Harm! ESC Empfehlung ist lediglich “keine Routine-Gabe” bei SpO2 >90%

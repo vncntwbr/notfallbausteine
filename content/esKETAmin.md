@@ -6,6 +6,9 @@ tags:
   - Fach/Anästhesiologie
 aliases:
   - Ketamin
+cssclasses:
+  - med
+  - medHypnotika
 ---
 
 - **[[Analgesie]]**

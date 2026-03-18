@@ -8,6 +8,26 @@ aliases:
   - Hypotonie
 title: Schock & Hypotonie
 ---
+> [!danger]+ Therapierefraktärer Schock Checkliste
+> 1. **Ursache adressiert?** Source Control für [[Sepsis]], [[Thrombektomie]] für [[LAE]] etc.
+> 2. **Metabolisch?** 
+> 	1. *[[Metabolische Azidose|Azidose]]:* Isotones Bicarb, ggf. +Vasopressin
+> 	2. *[[NNR-Insuffizienz|NNR]]:* Empirisch Hydrocortison 200 mg i.v.
+> 	3. *[[Hypocalcämie]]:* Ca2+ Subst.
+> 	4. *[[Hypothyreose]]:* ggf. auch empirisch T4 400 μg i.v.
+> 	5. *[[Hypothermie]]:* Wärmen
+> 3. **[[Anaphylaxie]]?** a) von Beginn an, b) auf ABx → empirisch [[Adrenalin]] i.m./i.v.
+> 4. **[[Intox|Toxine]]?** inkl. reguläre Dosis [[Calciumantagonisten]]/[[Betablocker]]/[[Digitalis]]
+> 5. **Blutung?** z.B. [[GI-Blutung]], retroperitoneal, [[SHT]]
+> 6. **Obstruktiv?**
+> 	1. *Klassiker/[[RUSH]]:* [[Pneu]], [[Perikarderguss]], [[LAE]]
+> 	2. *PEEP* reduzieren
+> 	3. *Abdominelles Kompartment:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
+> 	4. *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
+> 7. **[[Kardiogener Schock]]:** [[TTE]] → Intropie (a.e. [[Adrenalin]])
+> 8. **Zweite Diagnose:** Premature Closure / "The patient can have as many diagnoses as they damn well please"
+> 9. **Fancy Therapien?** [[ECMO]], IABP, LAVD, etc.
+
 > [!dd]+ DD Schock (Hypoperfusion) / Hypotonie
 > - **Distributiv:**
 > 	- [[Anaphylaxie]]
@@ -33,7 +53,7 @@ title: Schock & Hypotonie
 > - **Warm**
 > - **Wake**
 > - **Weeing** (keine [[AKI]])
-> - **Wactate normal** (keine [[Lactatazidose]])
+> - **Wactate normal** (keine [[Lactat]])
 
 > [!stadien]+ Stadien (SCAI)[^1]
 > 1. **At risk:** Hämodynamisch stabil ohne Schock aber mit Risiko dafür (z.B. dekompensierte [[Herzinsuffizienz]])
@@ -52,6 +72,7 @@ title: Schock & Hypotonie
 
 ## Literatur
 - [ESICM guidelines on circulatory shock and hemodynamic monitoring 2025](https://link.springer.com/article/10.1007/s00134-025-08137-z)
+- [First 10 EM: Refractory Shock](https://first10em.com/refractory-shock/)
 
 [^1]: [SCAI SHOCK Stages Classification Expert Consensus Update: A Review and Incorporation of Validation Studies](https://www.scai.org/publications/clinical-documents/scai-shock-stages-classification-expert-consensus-update-review-and)
 

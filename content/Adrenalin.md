@@ -7,6 +7,9 @@ aliases:
   - Suprarenin
   - EPINEPHrin
 title: EPINEPHrin / Adrenalin
+cssclasses:
+  - med
+  - medEpi
 ---
 - **Wirkung**: Adrenerge Rezeptoren (β2 > β1 > ⍺1) → Bronchodilatation; positive Inotropie + Chronotropie; Schleimhaut-abschwellend, Mastzellen-stabilisierend
 - **Dosis**:

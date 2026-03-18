@@ -14,7 +14,7 @@ title: Kindernotfall
 > - **Defibrillation:** 4 J/kg
 > - **ETT cuffed:** Alter/4 + 3.5 = ID
 
-> [!stadien] Tabelle
+> [!stadien] Normwerte
 > |Alter|Gewicht|AF|HF|RRsys|LMA|
 > |-|-|-|-|-|-|
 > |NG|3-5 kg|30-50|100-180|70-100|#1|
@@ -23,3 +23,28 @@ title: Kindernotfall
 
 
 [Kinderformularium](https://www.kinderformularium.de/)
+
+# PedsWA
+## Meds
+
+| Medication               | App.    | Dose       | 0 Y / 3 kg | 1 Y / 10 kg | 3 Y / 15 kg | 5 Y / 20 kg | 7 Y / 25 kg | 9 Y / 30 kg |
+| ------------------------ | ------- | ---------- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Adrenaline (Anaphlyaxis) | i.m.    | 0.01 mg/kg | 0.1 mg     | 0.1 mg      | 0.2 mg      | 0.2 mg      | 0.3 mg      | 0.3 mg      |
+| Adrenaline (Stridor)     | inhaled | 5 mg       | 5 mg       | 5 mg        | 5 mg        | 5 mg        | 5 mg        | 5 mg        |
+| Fluid Bolus              | i.v.    | 10 ml/kg   | 30 ml      | 100 ml      | 150 ml      | 200 ml      | 250 ml      | 300 ml      |
+## Equipment
+
+| Equipment  | Unit  | 0 Y / 3 kg | 1 Y / 10 kg | 3 Y / 15 kg | 5 Y / 20 kg | 7 Y / 25 kg | 9 Y / 30 kg |
+| ---------- | ----- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| LMA        | #     | 1          | 1.5         | 2           | 2           | 2.5         | 3           |
+| ETT cuffed | ID mm | 3          | 3.5         | 4           | 4.5         | 5           | 5.5         |
+| ETT Deph   | cm    | 9          | 12          | 14          | 15          | 16          | 17          |
+| NGT        | Ch    | 6          | 6           | 6           | 10          | 10          | 10          |
+
+## CPR only
+
+| Medication       | App. | Dose       | 0 Y / 3 kg | 1 Y / 10 kg | 3 Y / 15 kg | 5 Y / 20 kg | 7 Y / 25 kg | 9 Y / 30 kg |
+| ---------------- | ---- | ---------- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Adrenaline (CPR) | i.v. | 0.01 mg/kg | 0.1 mg     | 0.1 mg      | 0.2 mg      | 0.2 mg      | 0.3 mg      | 0.3 mg      |
+| Amiodarone       | i.v. | 5 mg/kg    | 15 mg      | 50 mg       | 75 mg       | 100 mg      | 125 mg      | 150 mg      |
+| Defib            |      | 4 J/kg     | 20 J       | 40 J        | 60 J        | 80 J        | 100 J       | 120 J       |

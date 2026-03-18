@@ -56,6 +56,9 @@ zbb: Test ZBB hier anrufen
 
 ---
 - PPSB und Andexanet-alfa gleichwertig[^1]
+- Fibrinogen+PPSB vs. FFP gleichwertig in Blutprodukte-Verbrauch[^2]
 
 [^1]: Nederpelt, Charlie J. Andexanet Alfa or Prothrombin Complex Concentrate for Factor Xa Inhibitor Reversal in Acute Major Bleeding: A Systematic Review and Meta-Analysis. Critical Care Medicine 49(10):p e1025-e1036, October 2021. DOI: 10.1097/CCM.0000000000005059
 	 
+
+[^2]: da Luz LT, Karkouti K, Carroll J, Grewal D, Jones M, Altmann J, _et al._ Factors in the initial resuscitation of patients with severe trauma: the FiiRST-2 randomized clinical trial. **JAMA Netw Open**. 2025;8(9):e2532702. doi:10.1001/jamanetworkopen.2025.32702.

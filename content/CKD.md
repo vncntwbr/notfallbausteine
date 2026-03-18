@@ -41,8 +41,8 @@ tags:
 > 	- Hyperphosphatämie
 > 	- [[Hypocalcämie]]
 > 	- [[Metabolische Azidose]]
-> - **Renale Anämie**
-> 	- EPO-Mangel → normochrome, normozytäre Anämie
+> - **Renale [[Anämie]]**
+> 	- EPO-Mangel → normochrome, normozytäre [[Anämie]]
 > - **Renale Osteopathie**
 > 	- Sekundärer Hyperparathyreoidismus
 ## Literatur

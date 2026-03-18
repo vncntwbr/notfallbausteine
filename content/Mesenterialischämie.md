@@ -15,7 +15,7 @@ tags:
 > - **L:** Mahlzeit? Stuhlgang? OAK?
 
 > [!workup]+
-> - **Labor:** [[BGA]] ([[Metabolische Azidose]]), [[Lactatazidose|Lactat]] (Wertigkeit überschätzt), ggf. [[D-Dimer]] (normwertig ≈ Ausschluss bei geringer Prätestwahrscheinlichkeit)
+> - **Labor:** [[BGA]] ([[Metabolische Azidose]]), [[Lactat|Lactat]] (Wertigkeit überschätzt), ggf. [[D-Dimer]] (normwertig ≈ Ausschluss bei geringer Prätestwahrscheinlichkeit)
 > - **CT-A** arterielle+venöse Phase
 
 > [!management]+

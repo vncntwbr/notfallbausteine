@@ -5,6 +5,8 @@ tags:
   - Probleme/Labor
 aliases:
   - Laktatazidose
+  - Lactatazidose
+  - Laktat
 title: Lactatazidose / Laktatazidose
 ---
 > [!DD]- DD Lactatazidose

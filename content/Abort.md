@@ -2,6 +2,8 @@
 tags:
   - Diagnosen
   - Fach/Gynäkologie
+  - Status/Empty
+  - Literatur/S2k
 ---
 
 ## Literatur

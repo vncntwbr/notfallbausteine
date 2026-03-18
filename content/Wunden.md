@@ -1,8 +1,8 @@
 ---
 tags:
   - Probleme/Trauma
-  - Status/ToDo
   - Fach/Orthopädie
+  - Status/Done
 title: Wunden & Wundversorgung
 ---
 > [!danger]+ Rapid Reference
@@ -13,7 +13,7 @@ title: Wunden & Wundversorgung
 > 5. **Älter/Kontaminiert:** KI Primärverschluss? [[ABx]]? 
 > 6. **Tetanus-Impfschutz?**
 
-> [!dd]- Siehe: [[Nadelstichverletzung]]
+> [!dd] Siehe: [[Nadelstichverletzung]]
 
 > [!management]+ Wundversorgung
 > 1. **Wundspülung:** NaCl (unkompliziert) oder Octenidin (z.B. Octenisept) / Polihexanid (z.B. Lavasept, Prontosan), ggf. Iod (sehr hohes Infektionsrisiko)
@@ -22,7 +22,7 @@ title: Wunden & Wundversorgung
 > 	- *Gesicht/Hals:* 5-0 Faden für 5d
 > 	- *Rumpf/Extremitäten:* 4-0 Faden für 10d
 
-> [!management]- Tetanus-Impfschutz
+> [!management]+ Tetanus-Impfschutz
 > - **Saubere, oberflächtliche Wunde**
 > 	- *Impfung unklar/keine:* Simultan aktiv + passiv
 > 	- *1-2 Impfungen[^1] oder ≥3 Impfungen mit letzter >10 J.:* aktiv
@@ -32,7 +32,7 @@ title: Wunden & Wundversorgung
 > 	- *≥3 Impfungen mit letzter >5 J.:* aktiv
 > 	- *≥3 Impfungen mit letzter <5 J.:* keine
 
-> [!disposition]-
+> [!disposition]+
 > - **Wundkontrolle Ambulant:** Üblich 2 + 7 + 10 Tage, WV bei Entzündung
 > - **Nahtentfernung:** Kopf/Hals 5d, Rumpf 7d, Extremitäten 14d
 > - **ABx-Prophylaxe:** z.B. Cefalexin 500 mg q8h für 3d (bei Verschmutzung, [[Biss]], älterer Wunde, großem Weichteildefekt, Hand/Fuß)

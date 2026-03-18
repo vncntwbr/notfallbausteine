@@ -63,3 +63,7 @@ tags:
 > 
 > ![[Pasted image 20251123182149.png]]
 > ![[Pasted image 20251123182201.png]]
+
+
+## Literatur
+- Katzenschlager, S., Kaltschmidt, N., Dietrich, M. _et al._ Prehospital transesophageal echocardiography versus conventional advanced life support in out-of-hospital cardiac arrest (PHTEE–OHCA) – a randomized controlled pilot study. _Crit Care_ **30**, 45 (2026). https://doi.org/10.1186/s13054-025-05805-w

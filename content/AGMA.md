@@ -13,11 +13,11 @@ aliases:
 > - **Top Ursachen (KULT):**
 > 	- Ketoazidose ([[DKA]], [[Alkohol]], katabol)
 > 	- Urämie
-> 	- [[Lactatazidose]]
+> 	- [[Lactat]]
 > 	- [[Intox|Tox]]
 > - **Weitere Ursachen:**
 > 	- D-Lactat (Kurzdarmsyndrom, gemessenes Lactat nw), Methanol
-> 	- Metformin ([[Lactatazidose]])
+> 	- Metformin ([[Lactat]])
 > 	- Propylenglykol (Frostschutzmittel, Lorazepam-Zusatz)
 > 	- Pyroglutaminsäure (Kosmetika, akkum. b. Gluthation-Mangel)
 > 	- Eisen
@@ -27,7 +27,7 @@ aliases:
 > 	- Hyperphosphatämie
 > 	- GHB
 
-![[Lactatazidose#^961d37]]
+![[Lactat#^961d37]]
 
 ^8e3868
 

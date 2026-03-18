@@ -6,7 +6,7 @@ tags:
   - Fach/Intensivmedizin
 ICD: R57.2
 ---
-> "Sepsis kills! ... but it doesn't kill Patients who don't have Sepsis."
+> "Sepsis kills! ... but it doesn't kill Patients who don't have Sepsis." – Cliff Reid
 
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges
@@ -17,6 +17,14 @@ ICD: R57.2
 	- *Endokrin:* [[DKA]], Thyreotoxikose, Addison-Krise
 	- *GI:* Mesenterialischämie, Ileus, [[Pankreatitis]], Leberversagen
 	- *Sonst.:* [[HLH]]
+- **Secondary Questions for Sepsis (ALPACA):**
+	- Actual hypotension? Check transducers.
+	- Lines (pressors going in)?
+	- [[POCUS]] ([[Kardiogener Schock|kardiogen]]/obstruktiv)?
+	- Adrenal Insufficiency ([[NNR-Insuffizienz]])? Erwäge Hydrocortison
+	- Calcium (ionisiert)?
+	- [[Anaphylaxie]]?
+
 ---
 Patients with septic shock can have any of the following patterns hemodynamics (which we will explore in more detail): 1. Distributive shock with high cardiac output and low filling pressures (‘warm’) 2. Distributive shock with low cardiac output and low filling pressures (‘cold’ or sometimes referred to as ‘hypovolemic’ à not a volume issue but rather a low filling pressure) 3. Distributive shock with high cardiac output and HIGH filling pressures (‘high output failure’) 4. RV failure (high or low CO) 5. LV failure (high or low CO) 6. Biventricular failure (high or low CO) 7. Pericardial Effusions 8. Venous Congestion (this can be layered on to any of the phenotypes with higher filling pressures)
 
