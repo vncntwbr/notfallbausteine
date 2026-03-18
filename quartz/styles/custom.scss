@@ -5,9 +5,27 @@
 	border-radius: 5px !important;
 }
 
+
+// ---
+// MEDIKAMENTE
+// ---
+
+
+// Anästhesiologie
 [data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
 }
+[data-slug="Lokalanästhetika"] .page-header{
+	background-color: #C2B8AB;
+}
+[data-slug="Opioide"] .page-header{
+	background-color: #85c7e3;
+}
+[data-slug="Relaxans"] .page-header{
+	background: linear-gradient(to bottom, #fff 49%, #F54029 51%);
+}
+
+// Katecholamine
 [data-slug="Katecholamine"] .page-header,
 [data-slug="Push-Dose"] .page-header{
 	background-color: #debfd9;
@@ -22,11 +40,8 @@
 		color: black !important;
 }
 
-[data-slug="Relaxans"] .page-header{
-	background: linear-gradient(to bottom, #fff 49%, #F54029 51%);
-}
 
-
+// Vasoaktiva
 [data-slug="Betablocker"] .page-header,
 [data-slug="Amiodaron"] .page-header,
 [data-slug="Calciumantagonisten"] .page-header,
@@ -34,8 +49,14 @@
 [data-slug="MgSO4"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 }
+[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header{
+	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
+}
+[data-slug="Nitrate"] .page-header{
+	border: 10px dashed #debfd9;
+}
 
-// Make Color White
+// Text Color White
 [data-slug="Betablocker"] .page-header *,
 [data-slug="Amiodaron"] .page-header *,
 [data-slug="Calciumantagonisten"] .page-header *,
@@ -45,21 +66,9 @@
 	color: white !important;
 }
 
-
+// Gerinnung
 [data-slug="AK"] .page-header,
 [data-slug="Lyse"] .page-header,
 [data-slug="DAPT"] .page-header{
 	border: 10px dashed #000;
-}
-[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header{
-	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
-}
-[data-slug="Lokalanästhetika"] .page-header{
-	background-color: #C2B8AB;
-}
-[data-slug="Nitrate"] .page-header{
-	border: 10px dashed #debfd9;
-}
-[data-slug="Opioide"] .page-header{
-	background-color: #85c7e3;
 }
