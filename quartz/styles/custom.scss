@@ -18,20 +18,19 @@
 [data-slug="Amiodaron"] .page-header,
 [data-slug="Calciumantagonisten"] .page-header,
 [data-slug="Digitalis"] .page-header,
-[data-slug="MgSO4"] .page-header *{
+[data-slug="MgSO4"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
-	color: white !important;
-}
-[data-slug="Betablocker"] .article-title,
-[data-slug="Amiodaron"] .article-title,
-[data-slug="Calciumantagonisten"] .article-title,
-[data-slug="Digitalis"] .article-title,
-[data-slug="MgSO4"] .article-title,
-[data-slug="Inhalaltive-Pulmodilatatoren"] .article-title{
-	color: white !important;
 }
 
-
+// Make Color White
+[data-slug="Betablocker"] .page-header *,
+[data-slug="Amiodaron"] .page-header *,
+[data-slug="Calciumantagonisten"] .page-header *,
+[data-slug="Digitalis"] .page-header *,
+[data-slug="MgSO4"] .page-header *,
+[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header *{
+	color: white !important;
+}
 
 
 [data-slug="AK"] .page-header,
