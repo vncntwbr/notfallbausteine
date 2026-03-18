@@ -1,13 +1,13 @@
 @use "./base.scss";
 
-[data-slug="esKETAmin"] .popover-hint{
+[data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
 }
-[data-slug="Katecholamine"] .popover-hint{
+[data-slug="Katecholamine"] .page-header{
 	background-color: #debfd9;
 }
-[data-slug="Betablocker"] .popover-hint,
-[data-slug="Amiodaron"] .popover-hint{
+[data-slug="Betablocker"] .page-header,
+[data-slug="Amiodaron"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 	color: white;
 }
