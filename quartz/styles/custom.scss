@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-.page-header{padding: 10px;}
+.page-header{padding: 10px; !important}
 
 [data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
@@ -33,7 +33,7 @@
 [data-slug="DAPT"] .page-header{
 	border: 3px dashed #000;
 }
-[data-slug="Inhalaltive Pulmodilatatoren"] .page-header{
+[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
 	color: white;
 }
