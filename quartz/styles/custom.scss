@@ -2,15 +2,18 @@
 
 [data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
+	padding: 10px;
 }
 [data-slug="Katecholamine"] .page-header,
-[data-slug="Adrenalin"] .page-header{
+[data-slug="Adrenalin"] .page-header,
+[data-slug="Push-Dose"] .page-header{
 	background-color: #debfd9;
 }
 [data-slug="Betablocker"] .page-header,
 [data-slug="Amiodaron"] .page-header,
 [data-slug="Calciumantagonisten"] .page-header,
-[data-slug="Digitalis"] .page-header{
+[data-slug="Digitalis"] .page-header,
+[data-slug="MgSO4"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 	color: white !important;
 }
@@ -25,4 +28,7 @@
 }
 [data-slug="Lokalanästhetika"] .page-header{
 	background-color: #C2B8AB;
+}
+[data-slug="Nitrate"] .page-header{
+	border: 3px dashed #debfd9;
 }
