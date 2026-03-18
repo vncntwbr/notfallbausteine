@@ -3,3 +3,11 @@
 [data-slug="esKETAmin"] .popover-hint{
 	background-color: #ffff00;
 }
+[data-slug="Katecholamine"] .popover-hint{
+	background-color: #debfd9;
+}
+[data-slug="Betablocker"] .popover-hint,
+[data-slug="Amiodaron"] .popover-hint{
+	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
+	color: white;
+}
