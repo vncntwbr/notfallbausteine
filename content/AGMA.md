@@ -18,7 +18,7 @@ aliases:
 > - **Weitere Ursachen:**
 > 	- D-Lactat (Kurzdarmsyndrom, gemessenes Lactat nw), Methanol
 > 	- Metformin ([[Lactat]])
-> 	- Propylenglykol (Frostschutzmittel, Lorazepam-Zusatz)
+> 	- Propylenglykol (Frostschutzmittel, [[Benzos|Lorazepam]]-Zusatz)
 > 	- Pyroglutaminsäure (Kosmetika, akkum. b. Gluthation-Mangel)
 > 	- Eisen
 > 	- Isoniazid (Tbc)

@@ -21,7 +21,7 @@ tags:
 		- Zehen, Vorfuß → Fußblock
 	- *Rumpf*
 		- Laparotomie, Sectio wenn PDK KI → Transversus Abdominis Plane Block
-		- Rippen, TDx Bülau → Erector spinae
-		- Mamma, Port, TDx Monaldi → Pectoralis Block 1
+		- Rippen, [[TDx]] Bülau → Erector spinae
+		- Mamma, Port, [[TDx]] Monaldi → Pectoralis Block 1
 
 [^1]: Metaanalyse nach Desai et al. aus 2021

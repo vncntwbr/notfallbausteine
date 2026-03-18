@@ -9,6 +9,7 @@ aliases:
 cssclasses:
   - med
   - medHypnotika
+title: esKETAmin / KETAmin
 ---
 
 - **[[Analgesie]]**

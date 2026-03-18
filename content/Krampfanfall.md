@@ -11,9 +11,9 @@ ICD: R56.8, G41
 > [!danger]+ Resuscitation –  Status epilepticus (≥5 min, fokal ≥10 min oder Anfallsserie)
 > 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[Anamnese]]
 > 2. **Stufentherapie ab 5 min:** 
-> 	1. ==**Midazolam** 10 mg i.m.== (1x wiederholen)
-> 	   oder Midazolam 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
-> 	   oder Lorazepam (Tavor®) 2-4 mg i.v. (max. 2x4 mg = ∑8 mg)
+> 	1. ==**[[Benzos|Midazolam]]** 10 mg i.m.== (1x wiederholen)
+> 	   oder [[Benzos|Midazolam]] 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
+> 	   oder [[Benzos|Lorazepam]] (Tavor®) 2-4 mg i.v. (max. 2x4 mg = ∑8 mg)
 > 	2. **[[Levetiracetam]]** 4.5 g i.v. als KI (<15 min)
 > 	3. **[[RSI]]** mit Propofol 100-200 mg ± [[esKETAmin]] 100-200 mg (<60 min)
 > 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
@@ -76,4 +76,4 @@ ICD: R56.8, G41
 
 [^4]: Schlafentzug zählt nicht als Provokationsfaktor
 
-[^7]: Gewichtsadaptiert: Midazolam 0.2 mg/kg i.v.
+[^7]: Gewichtsadaptiert: [[Benzos|Midazolam]] 0.2 mg/kg i.v.

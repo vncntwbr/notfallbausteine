@@ -16,7 +16,7 @@ ICD: E05
 > 5. **Prednisolon** 250 mg i.v.
 > 6. **[[POCUS]]:** EF?
 > 7. **[[Betablocker]]:** Metoprolol 2.5-5.0 mg-weise titriert i.v., ggf. Esmolol-[[Perfusor]]
-> 8. **ggf. leichte [[Analgosedierung]]:** Midazolam 1-2 mg i.v.
+> 8. **ggf. leichte [[Analgosedierung]]:** [[Benzos|Midazolam]] 1-2 mg i.v.
 > 9. **[[Sepsis]]-Workup** (häufiger Trigger)
 > 10. **Keine Jodexposition** (kein [[Amiodaron]], kein [[KM]])
 > 11. **ITS** (Letalität ≈80%)

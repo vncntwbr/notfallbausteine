@@ -12,7 +12,7 @@ tags:
 > [!management] Symptomkontrolle
 > - **[[Dyspnoe]]:** Opioidnaiv Morphin 5-10 mg i.v.
 > - **Schmerzexazerbation**
-> - **Angst, Unruhe, [[Delir]]:** Lorazepam 1 mg s.l., alternativ Midazolam 1-2 mg-weise i.v. oder 2-5 mg s.c., psychotisch Haloperidol 5 mg s.c.
+> - **Angst, Unruhe, [[Delir]]:** [[Benzos|Lorazepam]] 1 mg s.l., alternativ [[Benzos|Midazolam]] 1-2 mg-weise i.v. oder 2-5 mg s.c., psychotisch Haloperidol 5 mg s.c.
 > - **"Todesrasseln":** physiologisch, Angehörige aufklären, ggf. Butylscopolamin 20 mg s.c. q4h "Kosmetik"
 > - **[[Ü+E]]**
 > 	- *Chemo/[[Opioide]]/Meds:* Ondansetron 4-8 mg i.v./s.l.

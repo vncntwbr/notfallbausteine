@@ -13,6 +13,6 @@ aliases:
 ## Management
 - Haloperidol 2.5-5.0 mg i.m.
 - Capsaicin-Salbe 0.05% epigastrisch
-- ggf. Lorazepam 1-2 mg i.v. (Cave Drogen)
+- ggf. [[Benzos|Lorazepam]] 1-2 mg i.v. (Cave Drogen)
 - Dimenhydrinat 62 mg i.v. ± Ondansetron 8 mg i.v.
 - *Prophylaxe:* Cannabis-Abstinenz, Wirkung erst nach 6 Mo
