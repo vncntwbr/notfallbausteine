@@ -9,7 +9,7 @@
 [data-slug="Push-Dose"] .page-header{
 	background-color: #debfd9;
 }
-[data-slug="Adrenalin"] .page-header *{
+[data-slug="Adrenalin"] .page-header{
 	background: linear-gradient(to bottom, #000 49%, #debfd9 51%);
 	color: white !important;
 }
@@ -18,8 +18,9 @@
 [data-slug="Amiodaron"] .page-header,
 [data-slug="Calciumantagonisten"] .page-header,
 [data-slug="Digitalis"] .page-header,
-[data-slug="MgSO4"] .page-header{
+[data-slug="MgSO4"] .page-header *{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
+	color: white !important;
 }
 [data-slug="Betablocker"] .article-title,
 [data-slug="Amiodaron"] .article-title,
@@ -46,4 +47,7 @@
 }
 [data-slug="Nitrate"] .page-header{
 	border: 10px dashed #debfd9;
+}
+[data-slug="Opioide"] .page-header{
+	background-color: #85c7e3;
 }
