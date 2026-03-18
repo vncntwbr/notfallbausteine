@@ -3,11 +3,16 @@
 [data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
 }
-[data-slug="Katecholamine"] .page-header{
+[data-slug="Katecholamine"] .page-header,
+[data-slug="Adrenalin"] .page-header{
 	background-color: #debfd9;
 }
 [data-slug="Betablocker"] .page-header,
 [data-slug="Amiodaron"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
-	color: white;
+	color: white !important;
+}
+[data-slug="AK"] .page-header,
+[data-slug="Lyse"] .page-header{
+	border: 3px dashed #000;
 }
