@@ -6,10 +6,13 @@
 	background-color: #ffff00;
 }
 [data-slug="Katecholamine"] .page-header,
-[data-slug="Adrenalin"] .page-header,
 [data-slug="Push-Dose"] .page-header{
 	background-color: #debfd9;
 }
+[data-slug="Adrenalin"] .page-header{
+	background: linear-gradient(to bottom, #000 49%, #debfd9 51%);
+}
+
 [data-slug="Betablocker"] .page-header,
 [data-slug="Amiodaron"] .page-header,
 [data-slug="Calciumantagonisten"] .page-header,
