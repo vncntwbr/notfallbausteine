@@ -1,8 +1,9 @@
 @use "./base.scss";
 
+.page-header{padding: 10px;}
+
 [data-slug="esKETAmin"] .page-header{
 	background-color: #ffff00;
-	padding: 10px;
 }
 [data-slug="Katecholamine"] .page-header,
 [data-slug="Adrenalin"] .page-header,
