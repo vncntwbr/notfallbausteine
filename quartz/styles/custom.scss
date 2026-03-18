@@ -8,11 +8,21 @@
 	background-color: #debfd9;
 }
 [data-slug="Betablocker"] .page-header,
-[data-slug="Amiodaron"] .page-header{
+[data-slug="Amiodaron"] .page-header,
+[data-slug="Calciumantagonisten"] .page-header,
+[data-slug="Digitalis"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 	color: white !important;
 }
 [data-slug="AK"] .page-header,
-[data-slug="Lyse"] .page-header{
+[data-slug="Lyse"] .page-header,
+[data-slug="DAPT"] .page-header{
 	border: 3px dashed #000;
+}
+[data-slug="Inhalaltive Pulmodilatatoren"] .page-header{
+	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
+	color: white;
+}
+[data-slug="Lokalanästhetika"] .page-header{
+	background-color: #C2B8AB;
 }
