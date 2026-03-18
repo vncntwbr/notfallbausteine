@@ -11,8 +11,11 @@
 }
 [data-slug="Adrenalin"] .page-header{
 	background: linear-gradient(to bottom, #000 49%, #debfd9 51%);
-	color: white !important;
 }
+[data-slug="Adrenalin"] .breadcrumb-container, [data-slug="Adrenalin"] .article-title{
+		color: white !important;
+}
+
 
 [data-slug="Betablocker"] .page-header,
 [data-slug="Amiodaron"] .page-header,
