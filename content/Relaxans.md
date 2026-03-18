@@ -4,7 +4,7 @@ tags:
   - Status/Started
   - Fach/Anästhesiologie
   - Fach/Pharmakologie
-title: Muskelrelaxans
+title: Muskelrelaxanzien / Relaxans / ROCuronium
 ---
 
 - Quotes von Anesthesiologists Volunteers mit Wach-Relaxierung[^1]
