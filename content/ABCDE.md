@@ -13,7 +13,7 @@ tags:
 | **[[A–Airway]]**       | Offen+sicher?<br>Gefährdet?<br>Verlegt?             | [[etCO2]]             | [[Atemwegsmanagement]]<br>Absaugung<br>[[Adrenalin]] inhalativ |
 | **[[B–Breathing]]**    | Atemarbeit, AF?<br>Zyanose?<br>Auskultation?        | [[SpO2]]              | [[O2]]-Gabe<br>[[Beatmung]]<br>Thoraxentlastung                |
 | **[[C–Circulation]]**  | [[Recap]]?<br>Puls?<br>Vorlast?                     | [[RR]], 4k-[[EKG]]    | Zugang, Medis, Volumen<br>[[Pacing]]/[[eKV]], [[CPR]]          |
-| **[[D–Disability]]**   | AVPU?<br>BEFAST?<br>pDMS Extremitäten?<br>Pupillen? | BZ/[[BGA]]<br>[[GCS]] | Glucose<br>Benzodiazepine                                      |
+| **[[D–Disability]]**   | AVPU?<br>BEFAST?<br>pDMS Extremitäten?<br>Pupillen? | BZ/[[BGA]]<br>[[GCS]] | Glucose<br>[[Benzos]]                                      |
 | **[[E–Exposure]]**     | Haut?<br>Bodycheck?                                 | [[Anamnese]]<br>Temp. | Wärmeerhalt<br>[[Analgesie]]                                   |
 
 

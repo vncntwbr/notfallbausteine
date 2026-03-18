@@ -16,7 +16,7 @@ tags:
 > - **Perfusion:** MAP halten, Hb, Venöser Abfluss (Stifneck ab!)
 > - **Kontrollierter ICP:** Na+/Osmolalität, PaCO2 normal/niedrig, Ödem/Blutung kontrolliert, Stimuli reduziert
 > - **[[Hypoglykämie]]:** Glucose
-> - **[[Krampfanfall]]:** Benzodiazepine
+> - **[[Krampfanfall]]:** [[Benzos]]
 > - **Metabolismus:** Normothermie, Elimination ([[Leberversagen]]/[[AKI]])
 
 

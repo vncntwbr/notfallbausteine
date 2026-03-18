@@ -13,7 +13,7 @@ title: Potenziell inadäquate Medikation im Alter (PIM)
 	- Antidepressiva mit anticholinerger Aktivität, z.B. Amitriptylin, Paroxetin
 	- Antihistaminika 1st Gen
 	- [[Antipsychotika]]
-	- Benzodiazepine
+	- [[Benzos]]
 	- Clonidin
 	- Marcumar®
 	- MCP (EPMS) → <12 Wochen für Gastroparese

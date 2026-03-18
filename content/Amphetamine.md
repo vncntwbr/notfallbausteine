@@ -17,4 +17,4 @@ tags:
 	- [[Fieber]], [[HypoNa+|Hyponatriämie]], [[Rhabdomyolyse]], ALV, [[AKI]], DIC
 ## Management
 - *[[Aktivkohle]]:* <1h bei großen Mengen
-- *ZNS-Symptome:* [[Benzodiazepine]], oft extreme Dosen
+- *ZNS-Symptome:* [[Benzos]], oft extreme Dosen

@@ -17,7 +17,7 @@ aliases:
 > - **Respiratorisch:** [[Hypoxie]], [[Respiratorische Alkalose|Hyperkapnie]]
 > - **[[Schock]]:** div. Genese, u.a. [[Sepsis]]
 > - **Hirneigen:** [[Hirndruck]], [[Intrakranielle Blutung]], [[Stroke]] (Basilaristhrombose), [[Meningitis]], [[Krampfanfall]] (non-konvulsiv), [[Parkinson|Akinetische Krise]]
-> - **[[Intox]]:** insb. [[Opioide]], [[Benzodiazepine]], [[Alkohol]]
+> - **[[Intox]]:** insb. [[Opioide]], [[Benzos]], [[Alkohol]]
 > - **Psychogen**
 
 > [!stadien]- FOUR (Full Outline of Unresponsiveness) 0-16 Pkt.

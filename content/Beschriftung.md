@@ -9,7 +9,7 @@ tags:
 | Gruppe                               | Art           | Pantone MS       | RGB          | CMYK           | Schrift    | Anmerkungen                     |
 | ------------------------------------ | ------------- | ---------------- | ------------ | -------------- | ---------- | ------------------------------- |
 | Hypnotika                            | monochrom     | Process yellow C | 255.255.0    | 0.0.100.0      | Schwarz    | Ziffern in "warm red"           |
-| Benzodiazepine                       | monochrom     | Orange 151       | 255.102.0    | 0.60.40.0      | Schwarz    | Für "Midazolam" Schrift weiß    |
+| [[Benzos]]                       | monochrom     | Orange 151       | 255.102.0    | 0.60.40.0      | Schwarz    | Für "Midazolam" Schrift weiß    |
 | Benzodiazepin-Anagonisten            | Hintergrund   |                  |              |                | Schwarz    |                                 |
 |                                      | Randschraffur | Orange 151       | 255.102.0    | 0.60.40.0      |            |                                 |
 | Muskelrelaxantien                    | obere Hälfte  | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
@@ -18,11 +18,11 @@ tags:
 |                                      | untere Hälfte | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    |                                 |
 | MR-Antagonisten                      | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    | schwarzer Querbalken            |
-| Opiate/[[Opioide]]                       | monochrom     | Blue 297         | 133.199.227  | 37.11.0.11     | Schwarz    | Für "Piritramid" Schrift weiß   |
+| Opiate/[[Opioide]]                   | monochrom     | Blue 297         | 133.199.227  | 37.11.0.11     | Schwarz    | Für "Piritramid" Schrift weiß   |
 | Opiat-Antagonisten                   | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Blue 297         | 133.199.227  | 37.11.0.11     |            |                                 |
 | Vasopressoren                        | monochrom     | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |
-| Ausnahme: [[Adrenalin]]                 | obere Hälfte  | Black            | 0.0.0        |                | Violet 256 |                                 |
+| Ausnahme: [[Adrenalin]]              | obere Hälfte  | Black            | 0.0.0        |                | Violet 256 |                                 |
 |                                      | untere Hälfte | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |
 | Vasodilatatoren                      | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Violet 256       | 222.191.217  | 0.12.2.13      |            |                                 |
