@@ -13,7 +13,7 @@ ICD: J81
 > 2. **[[O2]], erwäge CPAP/[[NIV]]:** FiO2 100%, high PEEP 5-15
 > 3. **Vasoaktiva nach RR**
 > 	- *RRsys >110:* Nitrat 1mg Bolus + 1 μg/kg/min i.v., hochtitrieren nach RR
-> 	- *[[Hypotonie]]:* Dobutamin 5 μg/kg/min, ggf. Adrenalin
+> 	- *[[Hypotonie]]:* [[Dobutamin]] 5 μg/kg/min, ggf. Adrenalin
 > 4. **Ursachensuche:** [[EKG]], [[TTE]], [[BGA]]
 > 5. **[[Arterie]]**, bei [[Schock]] ggf. [[ECMO]]/Impella
 > 6. **Volumenoptimierung:** bei Phänotyp "warm" Furosemid i.v.

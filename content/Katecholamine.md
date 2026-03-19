@@ -19,7 +19,7 @@ tags:
 ### Inodilatoren
 |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
 | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
-| **Dobutamin**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
+| **[[Dobutamin]]**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
 | **Milrinon**      | cAMP     | ↑↑↑           | ↓↓  | ↓↓       | [[Crashing RV]]        |
 | **Isoproterenol** | βββ      | ↑↑↑↑↑         | ↓   |          | [[Bradykardie]]        |
 
