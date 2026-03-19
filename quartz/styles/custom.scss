@@ -67,7 +67,8 @@
 [data-slug="MgSO4"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 }
-[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header{
+[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header,
+[data-slug="DOBUTamin"] .page-header{
 	background: linear-gradient(10deg, #bf1237 50%, #63cc96 50%); 
 }
 [data-slug="Nitrate"] .page-header{
@@ -80,7 +81,8 @@
 [data-slug="Calciumantagonisten"] .page-header *,
 [data-slug="Digitalis"] .page-header *,
 [data-slug="MgSO4"] .page-header *,
-[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header *{
+[data-slug="Inhalaltive-Pulmodilatatoren"] .page-header *,
+[data-slug="DOBUTamin"] .page-header *{
 	color: white !important;
 }
 
