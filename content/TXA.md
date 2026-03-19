@@ -16,6 +16,8 @@ title: Tranexamsäure (TXA)
 
 > [!warning] KI: [[Sepsis]], [[DIC]], [[TVT]]/[[LAE]]
 
+> [!warning] UAW: [[Schock|Hypotonie]] bei Bolusgabe
+
 
 > [!info]- Info
 > - **Wirkung:** Plasmin-Bildung↓ → Fibrinolyse↓ (jedoch nicht gerinnungsfördernd)
