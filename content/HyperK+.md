@@ -13,13 +13,13 @@ ICD: E87
 > 1. **[[BGA]]-Kontrolle** (Pseudo?), Monitoring
 > 2. **Calciumgluconat** 10% 30 ml, bei persistierenden [[EKG]]-Changes q5min
 > 3. **Insulin** 10 IE in G10% 250 ml (25 g)
-> 4. **[[Bradykardie]]:** Adrenalin 20 μg-weise, ggf. Salbutamol 20 mg p.i. (4 Vernebler)
+> 4. **[[Bradykardie]]:** [[Adrenalin]] 20 μg-weise, ggf. Salbutamol 20 mg p.i. (4 Vernebler)
 > 5. **Azidose:** Isotones [[Bicarbonat|NaBic]] 1 L ([[Bicarbonat|NaBic]] 8.4% 150 ml + G5% 850 ml)
 > 6. **Niere:** Euvolämie anstreben / Furosemid / [[Nephron-Bomb]] / [[Dialyse]] / siehe [[AKI]]
 
 > [!danger]- HyperK+ unter Reanimation
 > 7. **Calciumgluconat** 10% 30 ml, ggf. q5min
-> 8. **[[Bicarbonat|NaBic]] 8.4%** 50-100 mmol Bolus i.v. (Cave: Zugang spülen, fällt aus mit Adrenalin)
+> 8. **[[Bicarbonat|NaBic]] 8.4%** 50-100 mmol Bolus i.v. (Cave: Zugang spülen, fällt aus mit [[Adrenalin]])
 > 9. **Insulin** 10 IE + G40% 50 ml (20 g)
 > 10. Erwäge [[ECMO]] / [[Dialyse]] unter mCPR
 

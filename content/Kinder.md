@@ -9,7 +9,7 @@ title: Kindernotfall
 > [!danger] Resuscitation
 > - **Gewicht:**
 > - **Volumen:** 10 ml/kg, 1x wiederholen
-> - **Adrenalin:** 10 μg/kg i.v. ([[CPR]]) / i.m. ([[Anaphylaxie]])
+> - **[[Adrenalin]]:** 10 μg/kg i.v. ([[CPR]]) / i.m. ([[Anaphylaxie]])
 > - **Glucose:** G10% 3 ml/kg
 > - **Defibrillation:** 4 J/kg
 > - **ETT cuffed:** Alter/4 + 3.5 = ID

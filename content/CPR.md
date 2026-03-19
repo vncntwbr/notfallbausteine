@@ -19,7 +19,7 @@ OPS: 8-771
 > 3. **ECPR?** <65-75 J., nicht frail, beobachtet, VT/VF, ggf. Ursache
 > 4. **SCHOCKS:** Vector Change? DSED?
 > 5. **MEDS:** *Lidocain* #3: 100 mg, #5: 50 mg
->    *Adrenalin-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
+>    *[[Adrenalin]]-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
 
 > [!workup] Reversible Ursachen (DD: [[Trauma-CPR]])
 > - **AB:** Hypoxie? [[Pneu]]?

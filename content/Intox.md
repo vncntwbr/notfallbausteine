@@ -8,7 +8,7 @@ title: Intoxikation
 ICD: X49.9!, R78
 ---
 > [!danger] Rapid Reference
-> - **[[Betablocker]]/[[Calciumantagonisten]]:** Adrenalin, Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
+> - **[[Betablocker]]/[[Calciumantagonisten]]:** [[Adrenalin]], Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
 > - **[[TCA]]:** [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
 > - **Cyanid/CO:** Hydroxycobalamin (Cyanokit®) 5 g KI
 > - **[[Anticholinerg]]:** [[Physostigmin]] 2 mg

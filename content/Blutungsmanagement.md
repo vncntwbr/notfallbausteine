@@ -34,9 +34,9 @@ zbb: Test ZBB hier anrufen
 
 > [!danger]+ Blutungskontrolle spezifisch
 > - **Kopf/Hals**
-> 	- *Skalpierung:* Tacker, Naht, Lidocain+Adrenalin, Druckverband
+> 	- *Skalpierung:* Tacker, Naht, Lidocain+[[Adrenalin]], Druckverband
 > 	- *[[Epistaxis]]:*
-> 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+Adrenalin, [[TXA]] p.i.
+> 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+[[Adrenalin]], [[TXA]] p.i.
 > - **Trauma**
 > 	- *Penetr. Junktional:* DK blocken+klemmen, Naht
 > 	- *Becken/Extremitäten Fx:* Beckenschlinge, Traction Splint

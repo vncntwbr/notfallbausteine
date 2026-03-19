@@ -26,6 +26,6 @@ title: Neugeborenen-Reanimation / Newborn-Life-Support (NLS)
 
 > [!management] Prolongierte Reanimation
 > 9. **NABELVENENKATHETER:** 1 gr. Vene, 2 kl. Arterien
-> 10. **ADRENALIN** 10-30 μg/kg i.v.
+> 10. **[[ADRENALIN]]** 10-30 μg/kg i.v.
 > 11. **GLUCOSE** G10% 2 ml/kg empirisch i.v.
 > 12. **VEL** oder **EK** 0–/CMV– 10 ml/kg

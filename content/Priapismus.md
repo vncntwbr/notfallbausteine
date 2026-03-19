@@ -32,7 +32,7 @@ title: Priapismus / Erektion >4h
 > 3. **[[BGA]] aus Schwellkörper:** pO2 <50 mmHg, Azidose, pCO2 >60 mmHg = ischämischer low-flow Priapismus
 > 4. **Low-Flow:**
 > 	1. **Schwellkörperpunktion** mit 2 Butterflys, passives Ablassen von 150 ml Blut (ggf. bis 500 ml)
-> 	2. **Injektion** von Phenylephrin (50 µg-weise, max. ∑500 μg) oder Adrenalin (20 µg-weise, max. ∑200 μg), max. 5 Injektionen/Schwellkörper
+> 	2. **Injektion** von Phenylephrin (50 µg-weise, max. ∑500 μg) oder [[Adrenalin]] (20 µg-weise, max. ∑200 μg), max. 5 Injektionen/Schwellkörper
 > 	3. Darunter keine Detumeszenz → OP Urologie
 > 	4. Detumeszenz erreicht: Druckverband, Kühlen
 > 5. **High-Flow:** Kühlen, lokale Kompression, Ruhe, Geduld

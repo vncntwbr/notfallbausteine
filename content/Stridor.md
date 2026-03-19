@@ -6,7 +6,7 @@ tags:
 ICD: R06.1
 ---
 > [!danger] Rapid Reference
-> 1. **Adrenalin p.i.** 5 mg pur
+> 1. **[[Adrenalin]] p.i.** 5 mg pur
 > 2. **CPAP** zum Offenhalten obere AW
 > 3. **Endoskopie** N0
 > 4. **[[RSI]]** primär wachfiberoptisch/VAFI in [[eFONA]]-Bereitschaft
