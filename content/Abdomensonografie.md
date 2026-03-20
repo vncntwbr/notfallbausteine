@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/POCUS
+  - POCUS
   - Status/ToDo
   - Fach/Radiologie
 ---

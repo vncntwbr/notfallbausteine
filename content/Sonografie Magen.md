@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/POCUS
+  - POCUS
   - Fach/Gastroenterologie
 ---
 - **Lagerung:** (1) Rückenlage, (2) Rechtsseitenlage

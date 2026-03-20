@@ -1,7 +1,7 @@
 ---
 tags:
   - Status/Started
-  - Basics/Meta
+  - Meta
 title: Notaufnahme-Organisation
 ---
 

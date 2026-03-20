@@ -25,7 +25,7 @@ ICD: E87
 > 	- *Hyperglykämie* → Korrektur
 > - **[[Urin]]:** Urinstatus, Osmolalität, Na+, Albumin/Krea, Protein/Krea, HST, ggf. Urinkultur
 > - **[[POCUS]]:** [[Volumenstatus]]? Ergüsse?
-> - **[[Radiologie]]:** Rö/[[CT Tx|CT Thorax]] bei H.a. SIADH
+> - **[[Radiologie]]:** Rö/[[CT]] Thorax bei H.a. SIADH
 
 > [!dd]- DD
 > 1. **Serum-Osmolalität** [nw 285-295] Hyperlipidämie, Multiples Myelom, Ig-Therapie [erhöht >295] ==[[Hyperglykämie]]==, Mannitol [vermindert <285] weiter

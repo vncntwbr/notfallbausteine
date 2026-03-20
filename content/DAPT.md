@@ -2,7 +2,7 @@
 aliases:
   - Duale Thrombozytenaggregationshemmung
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Fach/Kardiologie
   - Status/Done
 title: Duale Thrombozytenaggregationshemmung (DAPT)

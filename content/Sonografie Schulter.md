@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Orthopädie
-  - Interventionen/POCUS
+  - POCUS
 aliases:
   - Schultersonografie
 ---

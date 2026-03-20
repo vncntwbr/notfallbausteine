@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Pharmakologie
-  - Interventionen/Meds
+  - Medikamente
   - Status/Empty
 aliases:
   - Suprarenin

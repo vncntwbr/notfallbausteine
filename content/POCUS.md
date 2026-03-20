@@ -2,7 +2,7 @@
 tags:
   - Status/Started
   - Fach/Radiologie
-  - Interventionen/POCUS
+  - POCUS
 title: Point-of-Care Ultraschall / Sonografie (POCUS)
 OPS: 3-03
 ---

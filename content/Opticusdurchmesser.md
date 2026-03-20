@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Neurologie
-  - Interventionen/POCUS
+  - POCUS
   - Status/Started
 ---
 - **Ä:** [[Hirndruck]] → Schwellung Subarachnoidalraum → Durchmesser↑ Opticus-Scheide

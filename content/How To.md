@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
   - Status/Started
 aliases:
 title: How To Notfallbausteine – Contribution Guide

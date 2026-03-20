@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Basics
-  - Interventionen/Meds
+  - Medikamente
   - Status/Started
   - Fach/Pharmakologie
   - Fach/Geriatrie

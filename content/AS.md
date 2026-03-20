@@ -2,7 +2,7 @@
 tags:
   - Diagnosen
   - Fach/Kardiologie
-  - Interventionen/POCUS
+  - POCUS
 title: Aortenklappenstenose (AS)
 aliases:
   - Aortenklappenstenose

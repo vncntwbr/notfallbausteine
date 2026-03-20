@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Kardiologie
-  - Interventionen/POCUS/TTE
+  - POCUS/TTE
 title: Wandbewegungsstörungen (WBS)
 ---
 

@@ -3,7 +3,7 @@ tags:
   - Fach/Toxikologie
   - Fach/Psychiatrie
   - Status/Done
-  - Interventionen/Meds
+  - Medikamente
   - Diagnosen
 title: Lithium inkl. Intoxikation
 aliases:

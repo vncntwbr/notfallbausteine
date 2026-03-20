@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 ---
 - Team-Funktionen Etikettierung, z.B. Pro-Patientensicherheit[^2]
 - DIVI Spritzenetiketten[^1]

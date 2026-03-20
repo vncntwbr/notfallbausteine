@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Druck
   - Status/Started
   - Fach/Hämatologie

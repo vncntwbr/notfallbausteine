@@ -2,8 +2,9 @@
 tags:
   - Basics
   - Status/Started
-  - Interventionen/Diagnostik
   - Fach/Kardiologie
+  - Interventionen/Diagnostik
+  - Interventionen/EKG
 title: Elektrokardiogramm (EKG)
 ---
 ## Ableitungen

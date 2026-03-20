@@ -1,7 +1,7 @@
 ---
 tags:
   - Basics
-  - Interventionen/Meds
+  - Medikamente
   - Fach/Radiologie
   - Fach/Nephrologie
   - Fach/Endokrinologie

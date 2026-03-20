@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Pharmakologie
-  - Interventionen/Antidote
+  - Medikamente/Antidote
 aliases:
   - Bicarb
   - NaBic

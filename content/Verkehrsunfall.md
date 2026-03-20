@@ -2,7 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/ToDo
-  - Basics/Meta
+  - Meta
   - Fach/Orthopädie
 ICD: V99!
 ---

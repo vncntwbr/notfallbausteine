@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Status/Done
   - Fach/Pharmakologie
 aliases:

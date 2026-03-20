@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Status/Started
   - Fach/Psychiatrie
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
   - Literatur/G-BA
 ---
 ## Literatur

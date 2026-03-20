@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Kardiologie
-  - Interventionen/POCUS
+  - POCUS
   - Diagnosen
 title: Mitralklappeninsuffizienz (MI)
 ---

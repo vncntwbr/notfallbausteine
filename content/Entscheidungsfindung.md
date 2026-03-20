@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 aliases:
   - Heuristik
 title: Heuristik & Entscheidungsfindung

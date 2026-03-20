@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 title: Dokumentation
 aliases:
   - Dokumentation

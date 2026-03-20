@@ -1,6 +1,6 @@
 ---
 tags:
   - Fach/Toxikologie
-  - Interventionen/Meds
+  - Medikamente
 title: Calciumantagonisten inkl. Intoxikation
 ---

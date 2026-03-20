@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/POCUS
+  - POCUS
   - Fach/Kardiologie
   - Status/Done
 title: Cardiac Output (CO)

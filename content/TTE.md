@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/POCUS
+  - POCUS
   - Status/Started
   - Fach/Kardiologie
 title: Transthorakale Echokardiografie (TTE)

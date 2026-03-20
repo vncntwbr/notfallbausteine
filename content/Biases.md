@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 ---
 - Biases werden häufiger erkannt, wenn am Ende das Outcome schlecht war / es eine [[Fehldiagnose]] war[^1]
 ### Rassismus

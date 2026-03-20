@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 ---
 - Stuhl im Raum in <1 m Richtung Patientenbett erhöht Patientenzufriedenheit, Ärzte sitzen häufiger, NNT 1.8[^2]
 

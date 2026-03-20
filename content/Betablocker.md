@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Toxikologie
-  - Interventionen/Meds
+  - Medikamente
 aliases:
 title: Betablocker inkl. Intoxikation
 ---

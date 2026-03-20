@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Antidote
+  - Medikamente/Antidote
   - Fach/Toxikologie
   - Fach/Anästhesiologie
 ---

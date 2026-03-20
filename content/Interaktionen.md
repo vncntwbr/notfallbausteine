@@ -1,7 +1,7 @@
 ---
 tags:
   - Basics
-  - Interventionen/Meds
+  - Medikamente
   - Status/Started
   - Fach/Pharmakologie
 ---

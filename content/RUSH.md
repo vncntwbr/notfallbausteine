@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/POCUS
+  - POCUS
   - Fach/Radiologie
 ---
 > [!pocus]+ RUSH-Protokoll

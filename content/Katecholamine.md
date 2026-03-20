@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Fach/Anästhesiologie
   - Fach/Kardiologie
   - Fach/Intensivmedizin

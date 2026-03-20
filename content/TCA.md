@@ -2,7 +2,7 @@
 tags:
   - Fach/Toxikologie
   - Status/Started
-  - Interventionen/Meds
+  - Medikamente
   - Diagnosen
 title: Trizyklische Antidepressiva (TCA) inkl. Intoxikation
 aliases:

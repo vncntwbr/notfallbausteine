@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Fach/Kardiologie
   - Fach/Intensivmedizin
 ---

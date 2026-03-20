@@ -3,19 +3,44 @@ title: Home
 aliases:
   - Home
 ---
-> [!warning] Cave: Alles außer #Status/Done mit besonderer Vorsicht zu genießen
-
-## Catalogue
-- ⚙️ [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]]
-- 💉 [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[TDx]] [[ZVK]]
-- 🚨 [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Delir]] [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]
-- 🧠 [[Epistaxis]] [[Facialisparese|Facialis]] [[FND]] [[Halsschmerz\|Hals/Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]
-- 🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]
-- 🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]
-- 🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[HWI]] [[Rückenschmerz\|Rückensz.]] [[STI]] [[Ü+E]] [[Urolithiasis]]
-- 🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]]
-- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
-
+- **Basics:** [[ABCDE]] [[Anamnese]] [[Entscheidungsfindung]] [[Obdachlosigkeit|Obdachlos]] [[Übergabe]] [[Tod]]
+- **Diagnostik:** [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Radiologie]]
+- **Interventionen:** [[Analgesie]] [[Analgosedierung]] [[Arterie]] [[Blutungsmanagement|Blutungsmgmt.]] [[Bronchoskopie|BSK]] [[eKV]] [[Fixierung]] [[HALO]] [[NIV]] [[Pacing]] [[Perfusor]] [[PEP]] [[Punktionen]] [[Push-Dose]] [[RSI]] [[TDx]] [[ZVK]]
+- **Probleme**
+	- 🚨 [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Delir]] [[Fieber]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]
+	- 🧠 [[Epistaxis]] [[Facialisparese|Facialis]] [[FND]] [[Delir]] [[Halsschmerz\|Hals/Nacken]] [[Intox]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]
+	- 🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[LVAD]] [[Stromunfall]] [[Tachykardie\|Tachy]]
+	- 🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Rauchgas]] [[Sepsis]]
+	- 🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[Ikterus]] [[Obstipation]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]
+	- 🦩 [[Geburt]] [[Hämaturie]] [[Hodenschmerz]] [[PEP]] [[Pille danach]] [[Schwanger]] [[Vaginale Blutung]] 
+	- 🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]] [[Tollwut]]
+	- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
+	- 🔬 [[AKI]] [[Anämie]] [[CK]] [[HyperK+]] [[HypoK+]] [[HyperNa+]] [[HypoNa+]] [[Leberwerte]] [[Neutropenie]]
+- **Akute Diagnosen**
+	- [[Abszess]] [[ACS]] [[Anaphylaxie]] [[Angioödem]] [[Aorta]] [[Appendizitis]] [[Arthrose]] [[Asthma]]
+	- [[Bakterielle Vaginose]] [[Balanitis]] [[Bettwanzen]] [[Borreliose]] [[BPLS]] [[BRASH]]
+	- [[Cannabis-Hyperemesis]] [[COPD]] [[COVID]]
+	- [[Demenz]] [[Depression]] [[Diabetes]] [[DKA]] [[Distale Radiusfraktur]] [[Divertikulitis]]
+	- [[Endokarditis]] [[Epididymitis]] [[Extremitätenischämie]]
+	- [[Facialisparese]] [[FSME]]
+	- [[Gallenerkrankungen|Galle]] [[Gastritis]] [[Gastroenteritis]] [[Gastroparese]] [[GI-Blutung]] [[Grippaler Infekt]] [[Influenza|Grippe]]
+	- [[Harnstau]] [[Harnverhalt]] [[HE]] [[Hepatitis]] [[HHS]] [[Hodentorsion]] [[HRS]] [[HWI]] [[Hyperthyreose]] [[Hypothyreose]]
+	- [[Ileus]] [[Influenza]] [[Intox]] [[Intrakranielle Blutung]]
+	- [[LAE]] [[Läuse]] [[Leberversagen]] [[Lungenödem]] [[Lymphödem]]
+	- [[Meningitis]] [[Mesenterialischämie]] [[Perimyokarditis|Myokarditis]] 
+	- [[Nasenbeinfraktur]] [[Neuritis vestibularis]]
+	- [[Obstipation]] [[Ösophagusruptur]]
+	- [[Pankreatitis]] [[Perikarderguss]] [[Perimyokarditis|Perikarditis]] [[Pneumonie]] [[Pneu]] [[Porphyrie]] [[PPH]] [[Priapismus]] [[Prostatitis]] [[Psychosomatisch]] [[PTA]] 
+	- [[Rhabdomyolyse]]
+	- [[SBP]] [[Scabies]] [[Schulterluxation]] [[Sepsis]] [[SHT]] [[Sichelzell]] [[Sinusitis]] [[Sinusvenenthrombose]] [[STI]] [[Stroke]] [[SVT]] [[Synkope]]
+	- [[Tbc]] [[TGA]] [[Tonsillopharyngitis]] [[Trigeminusneuralgie]] [[Tod]] [[Tumorlyse]] [[TVT]]
+	- [[Urolithiasis]] [[Urtikaria]]
+	- [[VHF]] [[Vitien]] [[VT]]
+	- [[Zecken]] [[Zoster]]
+- **Chronisch relevante Diagnosen**
+	- [[Adipositas]]
+	- [[Myasthenie]] 
+	- [[Parkinson]] [[pAVK]]
 
 
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Interventionen/Meds
+  - Medikamente
   - Probleme
   - Status/Started
   - Fach/Gynäkologie

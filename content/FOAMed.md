@@ -1,6 +1,6 @@
 ---
 tags:
-  - Basics/Meta
+  - Meta
 ---
 
 - [IBCC](https://emcrit.org/ibcc/toc/).
