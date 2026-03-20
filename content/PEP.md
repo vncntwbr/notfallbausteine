@@ -21,7 +21,7 @@ aliases:
 > 	- *Kosten:* Bei leitliniengerechter PEP = GKV-Leistung
 > 	- *Follow-up:* Infektiologische Anbindung
 > 	- *Patienteninformation:* [Deutsch](https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Patienteninformation_HIV_PEP_deutsch.pdf) [Englisch](https://intranet.charite.de/fileadmin/user_upload/portal/service/service_02_centren/service_02_13_charitecentrum13/Patienteninformation_HIV_PEP_englisch.pdf)
-> - **Hepatitis B Impfung**
+> - **[[Hepatitis]] B Impfung**
 > 	- *HBsAg pos.:* Aktive HepB, keine Impfung, Therapie in RS Infektio
 > 	- *Anti-HBs >100 IE/l:* keine Impfung in ZNA, wenn >5 J. Impfung HÄ
 > 	- *Anti-HBs 10-100 IE/l:* keine Impfung in ZNA, unabh. von Zeitraum Impfung HÄ

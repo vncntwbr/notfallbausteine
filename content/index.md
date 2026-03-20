@@ -6,15 +6,15 @@ aliases:
 > [!warning] Cave: Alles außer #Status/Done mit besonderer Vorsicht zu genießen
 
 ## Catalogue
-⚙️ [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]]
-💉 [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[TDx]] [[ZVK]]
-🚨 [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Delir]] [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]
-🧠 [[Epistaxis]] [[Facialisparese|Facialis]] [[FND]] [[Halsschmerz\|Hals/Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]
-🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]
-🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]
-🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[HWI]] [[Rückenschmerz\|Rückensz.]] [[STI]] [[Ü+E]] [[Urolithiasis]]
-🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]]
-🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
+- ⚙️ [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]]
+- 💉 [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[TDx]] [[ZVK]]
+- 🚨 [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Delir]] [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]
+- 🧠 [[Epistaxis]] [[Facialisparese|Facialis]] [[FND]] [[Halsschmerz\|Hals/Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]
+- 🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]
+- 🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]
+- 🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[HWI]] [[Rückenschmerz\|Rückensz.]] [[STI]] [[Ü+E]] [[Urolithiasis]]
+- 🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]]
+- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
 
 
 

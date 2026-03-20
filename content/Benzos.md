@@ -2,11 +2,14 @@
 tags:
   - Interventionen/Meds
   - Fach/Anästhesiologie
+  - Status/Done
 aliases:
   - Benzodiazepine
   - Midazolam
   - Lorazepam
-title: Benzodiazepine
+  - Diazepam
+  - Clonazepam
+title: Benzodiazepine (Midazolam, Lorazepam, Diazepam, Clonazepam)
 ---
 - **Wirkmechanismus:** Indirekt GABA(a)-Agonisten
 - **Wirkung & Indikationen**

@@ -48,3 +48,7 @@ title: Kindernotfall
 | Adrenaline (CPR) | i.v. | 0.01 mg/kg | 0.1 mg     | 0.1 mg      | 0.2 mg      | 0.2 mg      | 0.3 mg      | 0.3 mg      |
 | Amiodarone       | i.v. | 5 mg/kg    | 15 mg      | 50 mg       | 75 mg       | 100 mg      | 125 mg      | 150 mg      |
 | Defib            |      | 4 J/kg     | 20 J       | 40 J        | 60 J        | 80 J        | 100 J       | 120 J       |
+## Literatur
+- Kinderatemwege HEMS 86% FPS, von Vor-Rettungsmitteln 8.4% Fehlintubation[^1]
+
+[^1]: Rudolph, 2026: [Evaluation of Prehospital Endotracheal Intubation in Pediatric Patients in a German Helicopter Emergency Medical Service: An Analysis of 920 Cases](https://www.airmedicaljournal.com/article/S1067-991X%2826%2900056-8/fulltext)

@@ -11,7 +11,7 @@ title: Herpes zoster / Gürtelrose
 ICD: B02
 ---
 > [!workup]-
-> - **[[Untersuchung|U]]:** Meningismus? Läsionen hämorrh./nekrot., Satelliten? Aberr. Bläschen? AZ↓ (assoz.: ZNS, [[Pneumonie]], Hepatitis, DIC)? FND?
+> - **[[Untersuchung|U]]:** Meningismus? Läsionen hämorrh./nekrot., Satelliten? Aberr. Bläschen? AZ↓ (assoz.: ZNS, [[Pneumonie]], [[Hepatitis]], DIC)? FND?
 > 	- *Betr. Dermatome:* Multisegmental? Generalisiert?
 > 	- *Zoster ophtalmicus (V1):* Stirn, Nasenspitze/Hutchinson → Konsil Auge
 > 	- *Zoster oticus (VII/VIII):* [[Facialisparese]], Hören/Gleichgewicht → Konsil HNO
