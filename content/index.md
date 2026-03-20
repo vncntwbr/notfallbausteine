@@ -5,6 +5,22 @@ aliases:
 ---
 > [!warning] Cave: Alles außer #Status/Done mit besonderer Vorsicht zu genießen
 
+## Catalogue
+⚙️ [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]]
+💉 [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[TDx]] [[ZVK]]
+🚨 [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Delir]] [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]
+🧠 [[Epistaxis]] [[Facialisparese|Facialis]] [[FND]] [[Halsschmerz\|Hals/Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]
+🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]
+🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]
+🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[HWI]] [[Rückenschmerz\|Rückensz.]] [[STI]] [[Ü+E]] [[Urolithiasis]]
+🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]]
+🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
+
+
+
+
+
+
 ## Auswahl häufiger Textbausteine
 ### Ortho
 ![[Wunden#^1d8711]]
@@ -29,20 +45,14 @@ aliases:
 | **Basics**         | [[ABCDE]] [[Analgesie]] [[Anamnese]] [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Untersuchung]] [[U-Status]] |
 | **Interventionen** | [[Arterie]] [[Blutungsmanagement]] [[eKV]] [[HALO]] [[Perfusor]] [[Punktionen]] [[ZVK]]                |
 
-| Häufige Probleme   |                                                                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                             |
-| **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                               |
+| Häufige Probleme   |                                                                                                                                        |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Allgemein**      | [[AZ↓]] [[CPR]] [[ROSC]] [[Delir]]  [[Fieber]] [[Intox]] [[Kinder]] [[Palliativ\|Palliativ]] [[Schock]] [[Sepsis]]                     |
+| **Labor**          | [[Anämie]] [[AKI]] [[HyperK+]] [[HypoK+]] [[HypoNa+]] [[Hyperglykämie\|Hyper-]]/[[Hypoglykämie]] [[Neutropenie]]                       |
 | **Kopf**           | [[Epistaxis]] [[FND]] [[Halsschmerz\|Hals & Nacken]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[TLOC]] [[Vigilanz↓\|Vigilanz]] |
-| **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                                 |
-| **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                   |
-| **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                                 |
-| **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]] [[Wunden]]                                                                                         |
+| **Thorax**         | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[Tachykardie\|Tachy]]                         |
+| **Bauch/Rücken**   | [[Bauchschmerz\|Bauchsz.]]  [[Diarrhoe]] [[GI-Blutung]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                           |
+| **Haut/Extremit.** | [[Anaphylaxie]] [[Extremitätenschmerz\|Extremitätensz.]] [[Hautveränderungen]]                                                         |
+| **Trauma**         | [[Polytrauma]] [[Schulterluxation]] [[SHT]] [[Wunden]]                                                                                 |
 
-| Häufige Diagnosen  |                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------- |
-| **Neuro**          | [[Facialisparese]] [[Intrakranielle Blutung]] [[SHT]] [[Stroke]]                               |
-| **Kardiovask.**    | [[ACS]] [[Aorta]] [[Herzinsuffizienz]] [[LAE]] [[TVT]] [[VHF]]                                 |
-| **Pulmo/Infektio** | [[Asthma]] [[COPD]] [[COVID]] [[Pneumonie]] [[Influenza]] [[Sepsis]]                           |
-| **Gastro**         | [[Appendizitis]] [[Divertikulitis]] [[Gastroenteritis]] [[Gastritis]] [[Pankreatitis]] |
-| **Nephro/Uro**     | [[HWI]] [[Harnverhalt]] [[Urolithiasis]] [[STI]]                                               |
+

@@ -22,7 +22,7 @@ tags:
 > [!management]- Grundsätzliches Schmerzmanagement
 > - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard
-> 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], Antikonvulsiva, ggf. Schmerzdienst
+> 	- *Neuropath. (einschießend, kribbelnd etc.):* [[esKETAmin]], [[Antikonvulsiva]], ggf. Schmerzdienst
 > - **Grundsätzlich:**
 > 	- *WHO-Stufenschema:* Stufe I ± Stufe II oder Stufe III
 > 	- *Physikalische Maßnahmen* ausreizen (Kühlung/Wärme, Schienung etc.)

@@ -9,7 +9,7 @@ tags:
 | Gruppe                               | Art           | Pantone MS       | RGB          | CMYK           | Schrift    | Anmerkungen                     |
 | ------------------------------------ | ------------- | ---------------- | ------------ | -------------- | ---------- | ------------------------------- |
 | Hypnotika                            | monochrom     | Process yellow C | 255.255.0    | 0.0.100.0      | Schwarz    | Ziffern in "warm red"           |
-| [[Benzos]]                       | monochrom     | Orange 151       | 255.102.0    | 0.60.40.0      | Schwarz    | Für "Midazolam" Schrift weiß    |
+| [[Benzos]]                           | monochrom     | Orange 151       | 255.102.0    | 0.60.40.0      | Schwarz    | Für "Midazolam" Schrift weiß    |
 | Benzodiazepin-Anagonisten            | Hintergrund   |                  |              |                | Schwarz    |                                 |
 |                                      | Randschraffur | Orange 151       | 255.102.0    | 0.60.40.0      |            |                                 |
 | Muskelrelaxantien                    | obere Hälfte  | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
@@ -35,7 +35,7 @@ tags:
 | Zusätzliche Farben für DIVI-Standard |               |                  |              |                |            |                                 |
 | Antiarrhythmika                      | ▲ links unten | Red 193          | 191. 18. 56  | 3. 90. 49. 9   | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Process Blue     | 0. 140. 204  | 100. 4. 1. 9   | Weiß $     |                                 |
-| Antikonvulsiva                       | ▲ links unten | Grey 431         | 99.107.112   | 45.24.14.44    | Weiß $     |                                 |
+| [[Antikonvulsiva]]                   | ▲ links unten | Grey 431         | 99.107.112   | 45.24.14.44    | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Purple           | 186. 31. 181 | 25. 59. 0. 0   | Weiß $     |                                 |
 | Antikoagulantien                     | Hintergrund   | Cool Grey 3      | 207.201.196  | 7.4.6.14       | Schwarz $  |                                 |
 |                                      | Rand          | Black            | 0.0.0        |                |            |                                 |

@@ -31,7 +31,7 @@ ICD: R56.8, G41
 > [!anamnese]- Anamnese
 > - **S:** Semiologie (falls beobachtet)? Infekt? [[Fieber]]? [[Kopfschmerz]]? Palpitationen? AP? [[FND]]? [[TLOC]]? Enuresis/Enkopresis? Schmerzen?
 > 	- *Semiologie:* Tonische Haltung? Myoklonien der Extremitäten? Fokal eingeleitet? Augen offen/zu? Blickwendung? Zyanose? Dauer? Postiktale Desorientiertheit?
-> - **M:** Antikonvulsiva? Adhärenz? Änderungen?
+> - **M:** [[Antikonvulsiva]]? Adhärenz? Änderungen?
 > - **P:** Epilepsie? Strukt. ZNS-Erkrankung? Sucht? [[Schwanger]]/Wochenbett? Tumor?
 > - **L:** Anfall? Frequenz?
 > - **E:** Trauma? Schlafentzug? Reizüberflutung? Stress?
@@ -45,7 +45,7 @@ ICD: R56.8, G41
 > 	- Neuro-Screen (Meningismus? [[FND]]?)
 > - **[[EKG]]:** Adam-Stokes / konvulsive [[Synkope]]? H.a. [[Hirndruck]]?
 > - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? [[AGMA]] → [[Intox]]?), Profil "Krampfanfall"
-> 	- *Spiegelbestimmung Antikonvulsiva:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
+> 	- *Spiegelbestimmung [[Antikonvulsiva]]:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
 > - **[[LP]]:** nur bei V.a. autoimmune Genese oder DD [[Meningitis]]/Encephalitis
 > - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG
 > - **[[Radiologie]]:** cCT nativ bei Erst-Anfall; bei [[FND]], V.a. Encephalitis, V.a. [[Sinusvenenthrombose]] +CTA

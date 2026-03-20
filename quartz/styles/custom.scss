@@ -12,7 +12,9 @@
 
 
 // Anästhesiologie
-[data-slug="esKETAmin"] .page-header{
+[data-slug="esKETAmin"] .page-header,
+[data-slug="Propofol"] .page-header,
+[data-slug="Etomidat"] .page-header{
 	background-color: #ffff00;
 }
 [data-slug="Benzos"] .page-header{
@@ -34,11 +36,14 @@
 [data-slug="Relaxans"] .page-header *,
 [data-slug="Lokalanästhetika"] .page-header *,
 [data-slug="esKETAmin"] .page-header *,
+[data-slug="Propofol"] .page-header *,
+[data-slug="Etomidat"] .page-header *,
 [data-slug="Opioide"] .page-header *,
 [data-slug="Benzos"] .page-header *,
 [data-slug="AK"] .page-header *,
 [data-slug="Lyse"] .page-header *,
 [data-slug="DAPT"] .page-header *,
+[data-slug="TXA"] .page-header *,
 [data-slug="Katecholamine"] .page-header *,
 [data-slug="NA"] .page-header *,
 [data-slug="Push-Dose"] .page-header *{
@@ -77,6 +82,11 @@
 }
 [data-slug="Nitrate"] .page-header{
 	border: 10px dashed #debfd9;
+}
+
+// Antikonvulsiva
+[data-slug="MgSO4"] .page-header{
+	background: linear-gradient(10deg, #bf1237 50%, #008bcc 50%);
 }
 
 // Text Color White
