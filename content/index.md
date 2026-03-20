@@ -17,32 +17,17 @@ aliases:
 	- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
 	- 🔬 [[AKI]] [[Anämie]] [[CK]] [[HyperK+]] [[HypoK+]] [[HyperNa+]] [[HypoNa+]] [[Leberwerte]] [[Neutropenie]]
 - **Akute Diagnosen**
-	- [[Abszess]] [[ACS]] [[Anaphylaxie]] [[Angioödem]] [[Aorta]] [[Appendizitis]] [[Arthrose]] [[Asthma]]
-	- [[Bakterielle Vaginose]] [[Balanitis]] [[Bettwanzen]] [[Borreliose]] [[BPLS]] [[BRASH]]
-	- [[Cannabis-Hyperemesis]] [[COPD]] [[COVID]]
-	- [[Demenz]] [[Depression]] [[Diabetes]] [[DKA]] [[Distale Radiusfraktur]] [[Divertikulitis]]
-	- [[Endokarditis]] [[Epididymitis]] [[Extremitätenischämie]]
-	- [[Facialisparese]] [[FSME]]
-	- [[Gallenerkrankungen|Galle]] [[Gastritis]] [[Gastroenteritis]] [[Gastroparese]] [[GI-Blutung]] [[Grippaler Infekt]] [[Influenza|Grippe]]
-	- [[Harnstau]] [[Harnverhalt]] [[HE]] [[Hepatitis]] [[HHS]] [[Hodentorsion]] [[HRS]] [[HWI]] [[Hyperthyreose]] [[Hypothyreose]]
-	- [[Ileus]] [[Influenza]] [[Intox]] [[Intrakranielle Blutung]]
-	- [[LAE]] [[Läuse]] [[Leberversagen]] [[Lungenödem]] [[Lymphödem]]
-	- [[Meningitis]] [[Mesenterialischämie]] [[Perimyokarditis|Myokarditis]] 
-	- [[Nasenbeinfraktur]] [[Neuritis vestibularis]]
-	- [[Obstipation]] [[Ösophagusruptur]]
-	- [[Pankreatitis]] [[Perikarderguss]] [[Perimyokarditis|Perikarditis]] [[Pneumonie]] [[Pneu]] [[Porphyrie]] [[PPH]] [[Priapismus]] [[Prostatitis]] [[Psychosomatisch]] [[PTA]] 
-	- [[Rhabdomyolyse]]
-	- [[SBP]] [[Scabies]] [[Schulterluxation]] [[Sepsis]] [[SHT]] [[Sichelzell]] [[Sinusitis]] [[Sinusvenenthrombose]] [[STI]] [[Stroke]] [[SVT]] [[Synkope]]
-	- [[Tbc]] [[TGA]] [[Tonsillopharyngitis]] [[Trigeminusneuralgie]] [[Tod]] [[Tumorlyse]] [[TVT]]
-	- [[Urolithiasis]] [[Urtikaria]]
-	- [[VHF]] [[Vitien]] [[VT]]
-	- [[Zecken]] [[Zoster]]
-- **Chronisch relevante Diagnosen**
-	- [[Adipositas]]
-	- [[Myasthenie]] 
-	- [[Parkinson]] [[pAVK]]
+	- **A-C:** [[Abszess]] [[ACS]] [[Anaphylaxie]] [[Angioödem]] [[Aorta]] [[Appendizitis]] [[Arthrose]] [[Asthma]] [[Bakterielle Vaginose]] [[Balanitis]] [[Bettwanzen]] [[Borreliose]] [[BPLS]] [[BRASH]] [[Cannabis-Hyperemesis]] [[COPD]] [[COVID]]
+	- **D-F:** [[Diabetes]] [[DKA]] [[Distale Radiusfraktur]] [[Divertikulitis]] [[Endokarditis]] [[Epididymitis]] [[Extremitätenischämie]] [[Facialisparese]] [[FSME]]
+	- **G-H:** [[Gallenerkrankungen|Galle]] [[Gastritis]] [[Gastroenteritis]] [[Gastroparese]] [[GI-Blutung]] [[Grippaler Infekt]] [[Influenza|Grippe]] [[Harnstau]] [[Harnverhalt]] [[HE]] [[Hepatitis]] [[HHS]] [[Hodentorsion]] [[HRS]] [[HWI]] [[Hyperthyreose]] [[Hypothyreose]]
+	- **I-L:** [[Ileus]] [[Influenza]] [[Intox]] [[Intrakranielle Blutung]] [[LAE]] [[Läuse]] [[Leberversagen]] [[Lungenödem]] [[Lymphödem]]
+	- **M-O:** [[Meningitis]] [[Mesenterialischämie]] [[Perimyokarditis|Myokarditis]] [[Nasenbeinfraktur]] [[Neuritis vestibularis]] [[Obstipation]] [[Ösophagusruptur]]
+	- **P-R:** [[Pankreatitis]] [[Perikarderguss]] [[Perimyokarditis|Perikarditis]] [[Pneumonie]] [[Pneu]] [[Porphyrie]] [[PPH]] [[Priapismus]] [[Prostatitis]] [[Psychosomatisch]] [[PTA]] [[Rhabdomyolyse]]
+	- **S-T:** [[SBP]] [[Scabies]] [[Schulterluxation]] [[Sepsis]] [[SHT]] [[Sichelzell]] [[Sinusitis]] [[Sinusvenenthrombose|Sinusvenen]] [[STI]] [[Stroke]] [[SVT]] [[Synkope]] [[Tbc]] [[TGA]] [[Tonsillopharyngitis]] [[Trigeminusneuralgie]] [[Tod]] [[Tumorlyse]] [[TVT]]
+	- **U-Z:** [[Urolithiasis]] [[Urtikaria]] [[VHF]] [[Vitien]] [[VT]] [[Zecken]] [[Zoster]]
+- **Chronisch relevante Diagnosen:** [[Adipositas]] [[Demenz]] [[Depression]] [[Myasthenie]] [[Parkinson]] [[pAVK]]
 
-
+---
 
 
 
