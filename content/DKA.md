@@ -14,9 +14,9 @@ title: Diabetische Ketoazidose (DKA)
 > 	- **3.5-4.5 mmol/L:** [[ZVK]] KCl [[Perfusor]] 15-20 mmol/h + 2 g Mg KI + Insulin max. 2 IE/h 
 > 	- **<3.5 mmol/L:** [[ZVK]] KCl [[Perfusor]] 25 mmol/h + 2 g Mg KI + *kein* Insulin
 > 
-> 4. **[[BGA]]-Kontrollen:** Anionenlücke muss zugehen, BZ >250 mg/dl halten
+> 4. **[[BGA]]-Kontrollen:** [[Met. Azidose|Anionenlücke]] muss zugehen, BZ >250 mg/dl halten
 
-> [!dd]+ DD: [[Hyperglykämie]], [[Metabolische Azidose|nicht-diabetische Ketoazidose]] (z.B. Alkohol, Fasten, SGLTi)
+> [!dd]+ DD: [[Hyperglykämie]], [[Met. Azidose|nicht-diabetische Ketoazidose]] (z.B. Alkohol, Fasten, SGLTi)
 
 > [!anamnese]+
 > - **S:** Schmerzen/OPQRST+? [[Ü+E]]? Diarrhoe? [[Fieber]], Schüttelfrost? Polyurie, Algurie? Husten? Wunden? Gewichtsverlust? Polydipsie? AP? [[Dyspnoe]]? [[TLOC]]? [[FND]]?
@@ -27,13 +27,13 @@ title: Diabetische Ketoazidose (DKA)
 > - **R:** Alkohol? Drogen?
 
 > [!workup]
-> 1. **Nachweis Ketoazidose:** [[AGMA]], Ketone in [[U-Status]]
-> 	- *Okkulte DKA:* nw pH + nw HCO3-, da durch Erbrechen [[Metabolische Alkalose]] (∆∆-AG berechnen), euglykäm (SGLT2i)
+> 1. **Nachweis Ketoazidose:** [[Met. Azidose]], Ketone in [[U-Status]]
+> 	- *Okkulte DKA:* nw pH + nw HCO3-, da durch Erbrechen [[Met. Alkalose]] (∆∆-AG berechnen), euglykäm (SGLT2i)
 > 2. **Ätiologie:** Infekt? ED Diabetes? Incompliance/Fehlfunktion Insulin? Meds? Drogen? Sonstige schwere Akuterkrankung?
 > - **[[Untersuchung|U]]:** VP (insb. AF, Temp.)? Infektzeichen?
 > - **[[EKG]]**
 > - **[[Urin]]:** Ketonurie?[^4] HWI? ggf. Urinkultur
-> - **[[Labor]]:** [[BGA]] (Anionenlücke?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes), [[BK]], ideal + β-Hydroxybutyrat, Phosphat
+> - **[[Labor]]:** [[BGA]] ([[Met. Azidose|Anionenlücke]]?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes), [[BK]], ideal + β-Hydroxybutyrat, Phosphat
 > - **[[POCUS]]/[[Radiologie]]:** Fokussuche
 
 > [!stadien]

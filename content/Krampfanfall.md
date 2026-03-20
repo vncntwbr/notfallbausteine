@@ -44,7 +44,7 @@ ICD: R56.8, G41
 > 	- Vitien? Leberhautzeichen? Infektzeichen? 
 > 	- Neuro-Screen (Meningismus? [[FND]]?)
 > - **[[EKG]]:** Adam-Stokes / konvulsive [[Synkope]]? H.a. [[Hirndruck]]?
-> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? [[AGMA]] → [[Intox]]?), Profil "Krampfanfall"
+> - **[[Labor]]:** [[BGA]] (BZ? Lactat? Na+? [[Met. Azidose]] → [[Intox]]?), Profil "Krampfanfall"
 > 	- *Spiegelbestimmung [[Antikonvulsiva]]:* bei H.a. Inadhärenz oder Z.n. längerer Anfallsfreiheit
 > - **[[LP]]:** nur bei V.a. autoimmune Genese oder DD [[Meningitis]]/Encephalitis
 > - **[[Urin]]:** [[U-Status]], ggf. Tox-Screen, ggf. β-HCG

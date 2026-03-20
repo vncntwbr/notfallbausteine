@@ -1,6 +1,7 @@
 ---
 tags:
   - Meta
+  - Fach/Notfallmedizin
 ---
 - Berliner Qualifikationsmodell[^1]
 - Bei ACS mit Notarzt nur in 2.5% notärztliche Maßnahmen[^2]

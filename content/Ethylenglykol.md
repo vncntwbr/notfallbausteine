@@ -11,7 +11,7 @@ tags:
 	- [<12h] abdominal/neurolog., [<24h] kardiopulmonal, [<72h] [[AKI]]
 	- Sympt. bei Alkohol-Cointox ggf. um 48-72h verzögert
 - **W:** Einnahme + 2 von
-	- [[AGMA]] (ab 3h, bei Alkohol später)
+	- [[Met. Azidose]] (ab 3h, bei Alkohol später)
 	- [[Osmolalitätslücke]] >10 mOsm/kg
 	- [[Lactat]] mit Diff. [[BGA]] | Zentrallabor
 	- [[AKI]]
@@ -22,4 +22,4 @@ tags:
 		- *Ethanol:* Ziel 1.0-1.5 Promille, Loading 0.6/kg = 7.6 ml/kg 10 Vol%, Erhaltung 66-154 mg/kg/h = 0.83-1.93 ml/kg/h 10 Vol%
 		- *Fomepizol:* Loading 15 mg/kg, [[Perfusor]] 1 mg/kg/h
 	- Thiamin + Pyridoxin je 100 mg/d
-	- [[Dialyse]] bei [[AKI]] / [[Metabolische Azidose]] / >0.5 ml/kg, intermitt. HD effektiver als SLEDD/CVVHD
+	- [[Dialyse]] bei [[AKI]] / [[Met. Azidose]] / >0.5 ml/kg, intermitt. HD effektiver als SLEDD/CVVHD

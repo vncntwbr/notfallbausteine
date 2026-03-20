@@ -5,10 +5,10 @@ tags:
 ---
 ## Basics
 - [[BGA]]
-	- [[Metabolische Azidose]]
-	- [[Metabolische Alkalose]]
-	- [[Respiratorische Azidose]]
-	- [[Respiratorische Alkalose]]
+	- [[Met. Azidose]]
+	- [[Met. Alkalose]]
+	- [[Resp. Azidose]]
+	- [[Resp. Alkalose]]
 - [[Diuretika]]
 - [[Dialyse]]
 - [[Volumenstatus]]

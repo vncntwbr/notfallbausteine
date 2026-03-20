@@ -24,7 +24,7 @@ tags:
 	- Ultrafiltration 0 ml/h
 - **Probleme**
 	- *Clotting:* Na+↑, HCO3-↑ → DF erhöhen, Filter wechseln
-	- *Citrat-Akkum.:* ALV/PaO2↓, Ca2+/iCa2+ >2.25[^2], [[Metabolische Azidose]]
+	- *Citrat-Akkum.:* ALV/PaO2↓, Ca2+/iCa2+ >2.25[^2], [[Met. Azidose]]
 
 ## Literatur
 - [S3-Leitlinie Nierenersatztherapie in der Intensivmedizin](https://register.awmf.org/de/leitlinien/detail/040-017)

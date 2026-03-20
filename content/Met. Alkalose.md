@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Met Alk
+  - Metabolische Alkalose
 tags:
   - Status/Done
   - Fach/Labormedizin

@@ -50,7 +50,7 @@ ICD: E87
 >     - Meds: Kalium-sparende Diuretika (Thiazide, Spironolacton), ACEi, Sartane, NSAR, [[Betablocker]], Cotrimoxazol, Heparin
 >     - Aldosteron-Mangel (NNR-Insuffizienz/Addison)
 > - **Kalium-Shift intra- nach extrazellulär**
->     - [[Metabolische Azidose]]
+>     - [[Met. Azidose]]
 >     - Gewebszerfall: Rhabdomyolyse, Hämolyse, [[Tumorlyse]], ischämischer Gewebsuntergang, Gewebetrauma, exzessive körperliche Belastung
 >     - Hemmung der Na-K-ATPase: Insulinmangel, [[Digitalis]]-Intoxikation
 > - **Pseudo-Hyperkaliämie**

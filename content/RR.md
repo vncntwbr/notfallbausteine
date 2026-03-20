@@ -2,6 +2,8 @@
 tags:
   - Basics
   - Status/Started
+  - Fach/Kardiologie
+  - Fach/Nephrologie
 title: Blutdruck (RR)
 aliases:
   - Blutdruck

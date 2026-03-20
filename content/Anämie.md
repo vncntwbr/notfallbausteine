@@ -48,7 +48,7 @@ ICD: D50-D64
 > - **[[EKG]]:** [[Ischämie-EKG]]? HRST?
 > - **[[POCUS]]:** [[Volumenstatus]], [[eFAST]], Splenomegalie?
 > - **[[Urin]]:** Hämoglobinurie? [W] β-HCG?
-> - **[[BGA]]:** [[Lactat]]? [[Metabolische Azidose]]?
+> - **[[BGA]]:** [[Lactat]]? [[Met. Azidose]]?
 > - **[[Labor]]:** 2x EDTA, BSG, Profil "Bauchschmerz", Blutgruppe, ggf. Kreuzblut
 > 	- *Hämolyse?* fHb, LDH, Haptoglobin, direkter Coombs-Test
 > 	- *V.a. Mangel:* Holo-TC, Folsäure, Ferritin (Routine)

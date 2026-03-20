@@ -11,7 +11,7 @@ title: Schock & Hypotonie
 > [!danger]+ Therapierefraktärer Schock Checkliste
 > 1. **Ursache adressiert?** Source Control für [[Sepsis]], [[Thrombektomie]] für [[LAE]] etc.
 > 2. **Metabolisch?** 
-> 	1. *[[Metabolische Azidose|Azidose]]:* Isotones Bicarb, ggf. +Vasopressin
+> 	1. *[[Met. Azidose|Azidose]]:* Isotones Bicarb, ggf. +Vasopressin
 > 	2. *[[NNR-Insuffizienz|NNR]]:* Empirisch Hydrocortison 200 mg i.v.
 > 	3. *[[Hypocalcämie]]:* Ca2+ Subst.
 > 	4. *[[Hypothyreose]]:* ggf. auch empirisch T4 400 μg i.v.
@@ -68,7 +68,7 @@ title: Schock & Hypotonie
 > 	- *Niere:* Oligurie
 > 	- *Hautperfusion:* Kalte Extremitäten, [[Mottling]], [[Recap]]-Zeit
 > 	- *Gehirn:* [[Delir]]
-> 	- *[[BGA]]:* Lactatämie, jumping Anionenlücke
+> 	- *[[BGA]]:* Lactatämie, jumping [[Met. Azidose|Anionenlücke]]
 
 ## Literatur
 - [ESICM guidelines on circulatory shock and hemodynamic monitoring 2025](https://link.springer.com/article/10.1007/s00134-025-08137-z)

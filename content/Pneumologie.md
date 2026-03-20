@@ -36,6 +36,6 @@ tags:
 - **Vaskulär**
 	- [[LAE]]
 	- [[Pulmonale Hypertonie]]
-	- [[Crashing RV]]
+	- [[RV-Failure]]
 	- [[Sichelzell]]
 - [[OSAS]]

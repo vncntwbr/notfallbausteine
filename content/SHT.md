@@ -54,7 +54,7 @@ ICD: S06
 	- Diffuse axonale Schädigung
 - **Sekundärer Hirnschaden** (z.B.)
 	- [[Hypoxie]]
-	- Hyperkapnie, lang anhaltende [[Respiratorische Alkalose|Hypokapnie]]
+	- [[Resp. Azidose|Hyperkapnie]], lang anhaltende [[Resp. Alkalose|Hypokapnie]]
 	- [[Hypoglykämie]]
 	- [[HypoNa+]]
 

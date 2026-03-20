@@ -12,7 +12,7 @@ tags:
 | [[Benzos]]                           | monochrom     | Orange 151       | 255.102.0    | 0.60.40.0      | Schwarz    | Für "Midazolam" Schrift weiß    |
 | Benzodiazepin-Anagonisten            | Hintergrund   |                  |              |                | Schwarz    |                                 |
 |                                      | Randschraffur | Orange 151       | 255.102.0    | 0.60.40.0      |            |                                 |
-| Muskelrelaxantien                    | obere Hälfte  | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
+| [[Relaxans]]                         | obere Hälfte  | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | untere Hälfte | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    |                                 |
 | Ausnahme: Suxamethonium              | obere Hälfte  | Black            | 0.0.0        |                | Weiß       |                                 |
 |                                      | untere Hälfte | Warm red         | 245.64.41    | 0.75.90.0      | Schwarz    |                                 |
@@ -26,7 +26,7 @@ tags:
 |                                      | untere Hälfte | Violet 256       | 222.191.217  | 0.12.2.13      | Schwarz    |                                 |
 | Vasodilatatoren                      | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz    |                                 |
 |                                      | Randschraffur | Violet 256       | 222.191.217  | 0.12.2.13      |            |                                 |
-| Lokalanästhetika                     | monochrom     | Grey 401         | 194.184.171  | 0.4.9.24       | Schwarz    |                                 |
+| [[Lokalanästhetika]]                 | monochrom     | Grey 401         | 194.184.171  | 0.4.9.24       | Schwarz    |                                 |
 | Anticholinergika                     | monochrom     | Green 367        | 163.217.99   | 21.0.46.15     | Schwarz    |                                 |
 | Cholinergika                         | Hintergrund   |                  |              |                | Schwarz    | Gruppe von der DIVI eingef.     |
 |                                      | Randschraffur | Green 367        | 163.217.99   | 21.0.46.15     |            |                                 |
@@ -37,7 +37,7 @@ tags:
 |                                      | ▼ rechts oben | Process Blue     | 0. 140. 204  | 100. 4. 1. 9   | Weiß $     |                                 |
 | [[Antikonvulsiva]]                   | ▲ links unten | Grey 431         | 99.107.112   | 45.24.14.44    | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Purple           | 186. 31. 181 | 25. 59. 0. 0   | Weiß $     |                                 |
-| Antikoagulantien                     | Hintergrund   | Cool Grey 3      | 207.201.196  | 7.4.6.14       | Schwarz $  |                                 |
+| [[AK]]                               | Hintergrund   | Cool Grey 3      | 207.201.196  | 7.4.6.14       | Schwarz $  |                                 |
 |                                      | Rand          | Black            | 0.0.0        |                |            |                                 |
 | Ausnahme:Heparin                     | Hintergrund   | White            | 255.255.255  | 0.0.0.0.       | Schwarz $  | Ziffern in "warm red"           |
 |                                      | Rand          | Black            | 0.0.0        |                |            |                                 |

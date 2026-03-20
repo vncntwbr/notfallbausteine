@@ -22,7 +22,7 @@ ICD: R06.0, J96
 > - [[LAE]]
 > - [[Herzinsuffizienz]] / [[Lungenödem]]
 > - [[Pneumonie]] / [[Sepsis]]
-> - [[Schock]] / [[Metabolische Azidose]]
+> - [[Schock]] / [[Met. Azidose]]
 
 > [!dd]- DD
 > - **Kardiovaskulär**
@@ -49,7 +49,7 @@ ICD: R06.0, J96
 > 	- [[Pleuraerguss]]
 > 	- ILD (eher chronisch)
 > - **Systemisch**
-> 	- [[Metabolische Azidose]] (kompensatorische Tachypnoe)
+> 	- [[Met. Azidose]] (kompensatorische Tachypnoe)
 > 	- [[Sepsis]] oder [[Schock]] anderer Genese
 > 	- [[Anämie]]
 > 	- [[Intox]] (z.B. CO, Cyanid, Rauchgas)

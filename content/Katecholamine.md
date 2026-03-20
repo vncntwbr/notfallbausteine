@@ -20,13 +20,13 @@ tags:
 |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
 | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
 | **[[Dobutamin]]**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
-| **Milrinon**      | cAMP     | ↑↑↑           | ↓↓  | ↓↓       | [[Crashing RV]]        |
+| **Milrinon**      | cAMP     | ↑↑↑           | ↓↓  | ↓↓       | [[RV-Failure]]        |
 | **Isoproterenol** | βββ      | ↑↑↑↑↑         | ↓   |          | [[Bradykardie]]        |
 
 ### Reine Vasopressoren
 |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |
 | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
-| **Vasopressin**     | V1+V2    | ↓           | ↑↑↑   | ↓        | Distributiver Schock, [[Crashing RV]] |
+| **Vasopressin**     | V1+V2    | ↓           | ↑↑↑   | ↓        | Distributiver Schock, [[RV-Failure]] |
 | **Phenylephrin**      | ⍺⍺⍺     | ↓           | ↑↑↑  | ↑↑       | Distributiver Schock        |
 
 ![[Pasted image 20251227185946.png]]

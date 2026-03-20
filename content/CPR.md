@@ -2,9 +2,9 @@
 tags:
   - Basics
   - Probleme/Allgemein
-  - Status/Started
   - Druck
   - Fach/Intensivmedizin
+  - Status/Done
 aliases:
   - Reanimation
   - Herz-Kreislauf-Stillstand

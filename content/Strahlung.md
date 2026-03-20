@@ -2,6 +2,7 @@
 tags:
   - Basics
   - Status/Started
+  - Fach/Radiologie
 title: Röntgenstrahlung
 ---
 

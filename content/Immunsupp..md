@@ -3,6 +3,7 @@ tags:
   - Basics
   - Status/Started
   - Probleme/Allgemein
+  - Fach/Infektiologie
 title: Immunsuppression
 aliases:
   - Immunsuppression

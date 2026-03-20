@@ -9,14 +9,14 @@ aliases:
 title: Lungenarterienembolie (LAE)
 ICD: I26
 ---
-![[Crashing RV#^957508]]
+![[RV-Failure#^957508]]
 
 > [!workup]-
 > - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? [[Fieber]]? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
 > - **[[Untersuchung|U]]:** VP, Halsvenenstauung? TVT?
 > - **[[EKG]]:** RV-Strain (Sinustachy, T-Neg III + V1-V4, SIQIIITIII, RSB)
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?
-> - **[[Labor]]:** BGA ([[Respiratorische Alkalose]]), Basis-Labor ± [[D-Dimer]], [W] β-HCG
+> - **[[Labor]]:** BGA ([[Resp. Alkalose]]), Basis-Labor ± [[D-Dimer]], [W] β-HCG
 
 > [!stadien]-
 > - **High-Risk:** Schock

@@ -10,8 +10,8 @@ title: Blutgasanalyse (BGA)
 > 1. **Umrechnen V→A:** pH +0.03, pCO2 –5 mmHg
 > 2. **Azid./Alkal.:** HCO3- 22-26 mmol/l, SBE proport. zu metab. Schwere
 > 3. **Adäquate Kompensation?**
-> 	- *[[Metabolische Azidose|Met Azi]]:* ∆pCO2 = SBE, max. bis 10 mmHg
-> 	- *[[Metabolische Alkalose|Met Alk]]:* ∆pCO2 = SBE * 0.5
+> 	- *[[Met. Azidose|Met Azi]]:* ∆pCO2 = SBE, max. bis 10 mmHg
+> 	- *[[Met. Alkalose|Met Alk]]:* ∆pCO2 = SBE * 0.5
 > 	- *Akut Resp. (<2-5 d):* SBE = 0
 > 	- *Chron. Resp.:* SBE = ∆pCO2 * 0.33
 > 4. **AG** = [Na+] – [Cl-] – [act. HCO3-], nw 8±4 mmol/l
@@ -26,7 +26,7 @@ title: Blutgasanalyse (BGA)
 <div style="page-break-after: always;"></div>
 ---
 
-![[Metabolische Azidose]]
-![[Metabolische Alkalose]]
-![[Respiratorische Azidose]]
-![[Respiratorische Alkalose]]
+![[Met. Azidose]]
+![[Met. Alkalose]]
+![[Resp. Azidose]]
+![[Resp. Alkalose]]

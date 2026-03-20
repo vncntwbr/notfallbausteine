@@ -38,7 +38,7 @@ ICD: J44
 > - **[[Untersuchung|U]]:** VP (Monitoring), Auskultation (Silent Lung?), Atemhilfsmuskulatur, Tidalvolumen visuell, Sprechdyspnoe?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz]]?
-> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Respiratorische Azidose]]), Profil "[[Pneumonie]]" ±[[PCT]] ±[[D-Dimer]], [[BK]]
+> - **[[Labor]]:** [[BGA]] (chronische vs. akute [[Resp. Azidose]]), Profil "[[Pneumonie]]" ±[[PCT]] ±[[D-Dimer]], [[BK]]
 > - **Abstrich:** Sputum/TBS auf E+R, PCR ([[COVID]], [[Influenza]], ±RSV)
 > - **[[Urin]]:** Legionellen-/Pneumokokken-Ag
 > - **[[Radiologie]]:** CT-Thorax lowdose (atypisch? ±[[LAE]]?)[^1]
@@ -79,7 +79,7 @@ ICD: J44
 
 > [!disposition]-
 > - **Stationär:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥1 Pkt., [[Dyspnoe]] unzureichend gebessert, relevante Infektion, stark red. AZ, unzureichende häusliche Versorgung, dekompensierte Begleiterkrankung (Ödeme, TAA bei [[VHF]], ...)
-> - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanz↓]], [[Hypoxie]] (PaO2 <40 mmHg), anhaltend/progredient [[Respiratorische Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
+> - **ITS:** [Ottawa](https://www.mdcalc.com/calc/10188/ottawa-copd-risk-scale) ≥5 Pkt. (hierfür nicht validiert), [[Vigilanz↓]], [[Hypoxie]] (PaO2 <40 mmHg), anhaltend/progredient [[Resp. Azidose]], [[NIV]], [[Schock]], erwägen bei anhaltend Tachypnoe >26/min bzw. respiratorische Erschöpfung
 
 > [!note]- Textbaustein aeCOPD Ambulant
 > ```

@@ -14,7 +14,7 @@ aliases:
 ---
 > [!dd]+ DD
 > - **Metabolisch:** [[Hypoglykämie]], [[Hyperthyreose]]
-> - **Respiratorisch:** [[Hypoxie]], [[Respiratorische Alkalose|Hyperkapnie]]
+> - **Respiratorisch:** [[Hypoxie]], [[Resp. Alkalose|Hyperkapnie]]
 > - **[[Schock]]:** div. Genese, u.a. [[Sepsis]]
 > - **Hirneigen:** [[Hirndruck]], [[Intrakranielle Blutung]], [[Stroke]] (Basilaristhrombose), [[Meningitis]], [[Krampfanfall]] (non-konvulsiv), [[Parkinson|Akinetische Krise]]
 > - **[[Intox]]:** insb. [[Opioide]], [[Benzos]], [[Alkohol]]

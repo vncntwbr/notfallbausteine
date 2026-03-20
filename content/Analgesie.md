@@ -35,7 +35,7 @@ tags:
 ## Analgetika-Optionen
 
 > [!management]- Nicht-Opioid-Analgetika
-> - **ASS:** Cave Salicylatintoxikation ([[Metabolische Azidose]]), GI-Ulcera
+> - **ASS:** Cave Salicylatintoxikation ([[Met. Azidose]]), GI-Ulcera
 > - **[[PCM]]:** i.v. > p.o., Maximaldosis 4 g/d, Cave Leberschädigung, schwache Analgesie alleine, Synergie mit [[Esketamin]]/[[Opioide]]
 > - **Ibuprofen:** Ceiling-Effekt 400 mg p.o. Einzeldosis, Cave Nephrotox. (KI bei [[AKI]]/[[CKD]]), Kardiotox. (KI bei HFrEF, kann Dekomp. triggern), GI-Ulcera
 > - **Metamizol:** 500-1000 mg p.o. > i.v.[^1], = 20-40 Tropfen, Ceiling-Effekt 1g, Cave [[Anaphylaxie]], [[Neutropenie]]/Agranulozytose

@@ -15,7 +15,7 @@ ICD: N17
 ---
 > [!danger]+ Rapid Reference
 > 1. **MAP** halten
-> 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. [[Bicarbonat|NaBic]] bei urämischer [[Metabolische Azidose]])
+> 2. **[[BGA]]:** [[HyperK+]]? pH (ggf. [[Bicarbonat|NaBic]] bei urämischer [[Met. Azidose]])
 > 3. **Dx:** [[POCUS]] postrenal? [[U-Status]] intrarenal? [[Volumenstatus]] prärenal?
 > 4. **Meds:** Nephrotox >, [DANI](https://dosing.de)
 

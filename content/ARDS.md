@@ -13,7 +13,7 @@ ICD: J80
 > 2. **Steroid**
 > 3. **Negativbilanz**
 > 4. **Lungenprotektive Beatmung**
-> 5. **Permissive Hyperkapnie**
+> 5. **Permissive [[Resp. Azidose|Hyperkapnie]]**
 > 6. **Tiefe Sedierung**
 > 7. **[[Inhalaltive Pulmodilatatoren]]**
 > 8. **Bauchlagerung**

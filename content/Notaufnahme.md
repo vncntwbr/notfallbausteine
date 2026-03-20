@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Meta
+  - Fach/Notfallmedizin
 title: Notaufnahme-Organisation
 ---
 

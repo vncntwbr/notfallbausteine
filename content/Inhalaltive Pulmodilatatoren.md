@@ -9,7 +9,7 @@ tags:
 > - **Milrinon** 5 mg p.i. q3h
 > - **iNO** 20 ppm ITN, 50 ppm nasal
 
-- **I:** Crashing RV ([[LAE]], pHTN, RV-Infarkt), [[ARDS]]
+- **I:** [[RV-Failure]] ([[LAE]], pHTN, RV-Infarkt), [[ARDS]]
 - **KI:** verschlechtert kardiogenes Lungenödem, NO wirkt antikoagulatorisch
 - **WM:** Pulmonale Vasodilatation, V/Q-Matching[^1], Shuntvolumen↓[^2]
 

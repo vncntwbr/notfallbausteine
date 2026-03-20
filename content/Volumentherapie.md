@@ -10,9 +10,9 @@ aliases:
 > [!stadien] [Bicarbonat-Defizit](https://www.mdcalc.com/calc/27/bicarbonate-deficit)
 
 > [!management]+ pH-guided Volumentherapie
-> - **[[NAGMA]]** = HCO3- Defizit → Isotones [[Bicarbonat]]
-> - ==**Urämische [[Metabolische Azidose]]:** Isotones [[Bicarbonat]] reduziert [[Dialyse]]-Pflichtigkeit, NNT=6[^3]==
-> - **Akute [[Metabolische Alkalose]]:** [[NaCl 0.9%]] 
+> - **[[Met. Azidose]]** = HCO3- Defizit → Isotones [[Bicarbonat]]
+> - ==**Urämische [[Met. Azidose]]:** Isotones [[Bicarbonat]] reduziert [[Dialyse]]-Pflichtigkeit, NNT=6[^3]==
+> - **Akute [[Met. Alkalose]]:** [[NaCl 0.9%]] 
 > - **Andere pH-Störungen:** Keine spezifische Therapie, VEL Erhalt
 
 > [!management]- Weitere Erwägungen bzgl. Volumenauswahl

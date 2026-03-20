@@ -40,7 +40,7 @@ tags:
 > 	- [[HyperK+]]
 > 	- Hyperphosphatämie
 > 	- [[Hypocalcämie]]
-> 	- [[Metabolische Azidose]]
+> 	- [[Met. Azidose]]
 > - **Renale [[Anämie]]**
 > 	- EPO-Mangel → normochrome, normozytäre [[Anämie]]
 > - **Renale Osteopathie**

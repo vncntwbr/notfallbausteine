@@ -2,6 +2,7 @@
 tags:
   - Status/Started
   - Interventionen/Punktionen
+  - Fach/Anästhesiologie
 title: Intraossärer Zugang (i.o.)
 ---
 

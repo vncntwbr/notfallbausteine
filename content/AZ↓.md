@@ -27,7 +27,10 @@ ICD: R53-R54
 > - **Sozial:** Therapieziel ([[Palliativ]])?
 
 > [!workup]-
-> - **[[Untersuchung|U]]:** VP (insb. AF, HF)? Vollständiger Status (Herz, Lunge, Abd., Beine, Haut, Neuro), [Delir-Screening 4AT](https://www.mdcalc.com/calc/3982/4-test-delirium-assessment)
+> - **[[Untersuchung|U]]:** 
+> 	- VP (insb. AF, HF)? 
+> 	- Vollständiger Status (Herz, Lunge, Abd., Beine, Haut, Neuro)
+> 	- [Delir-Screening 4AT](https://www.mdcalc.com/calc/3982/4-test-delirium-assessment)
 > - **[[EKG]]** 
 > - **[[POCUS]]:** [[RUSH]]
 > - **[[Labor]]:** Profil "Unklar", [[CK]], [[BGA]]
