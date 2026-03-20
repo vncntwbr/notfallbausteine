@@ -17,11 +17,11 @@ aliases:
 	- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
 	- 🔬 [[AKI]] [[Anämie]] [[CK]] [[HyperK+]] [[HypoK+]] [[HyperNa+]] [[HypoNa+]] [[Leberwerte]] [[Neutropenie]]
 - **Akute Diagnosen**
-	- **A-C:** [[Abszess]] [[ACS]] [[Anaphylaxie]] [[Angioödem]] [[Aorta]] [[Appendizitis]] [[Arthrose]] [[Asthma]] [[Bakterielle Vaginose]] [[Balanitis]] [[Bettwanzen]] [[Borreliose]] [[BPLS]] [[BRASH]] [[Cannabis-Hyperemesis]] [[COPD]] [[COVID]]
+	- **A-C:** [[Abszess]] [[ACS]] [[AI]] [[Anaphylaxie]] [[Angioödem]] [[Aorta]] [[Appendizitis]] [[Arthrose]] [[AS]] [[Asthma]] [[Bakterielle Vaginose]] [[Balanitis]] [[Bettwanzen]] [[Borreliose]] [[BPLS]] [[BRASH]] [[Cannabis-Hyperemesis]] [[COPD]] [[COVID]] [[Crashing RV]]
 	- **D-F:** [[Diabetes]] [[DKA]] [[Distale Radiusfraktur]] [[Divertikulitis]] [[Endokarditis]] [[Epididymitis]] [[Extremitätenischämie]] [[Facialisparese]] [[FSME]]
 	- **G-H:** [[Gallenerkrankungen|Galle]] [[Gastritis]] [[Gastroenteritis]] [[Gastroparese]] [[GI-Blutung]] [[Grippaler Infekt]] [[Influenza|Grippe]] [[Harnstau]] [[Harnverhalt]] [[HE]] [[Hepatitis]] [[HHS]] [[Hodentorsion]] [[HRS]] [[HWI]] [[Hyperthyreose]] [[Hypothyreose]]
 	- **I-L:** [[Ileus]] [[Influenza]] [[Intox]] [[Intrakranielle Blutung]] [[LAE]] [[Läuse]] [[Leberversagen]] [[Lungenödem]] [[Lymphödem]]
-	- **M-O:** [[Meningitis]] [[Mesenterialischämie]] [[Perimyokarditis|Myokarditis]] [[Nasenbeinfraktur]] [[Neuritis vestibularis]] [[Obstipation]] [[Ösophagusruptur]]
+	- **M-O:** [[Meningitis]] [[Mesenterialischämie]] [[MI]] [[Perimyokarditis|Myokarditis]] [[Nasenbeinfraktur]] [[Neuritis vestibularis]] [[Obstipation]] [[Ösophagusruptur]]
 	- **P-R:** [[Pankreatitis]] [[Perikarderguss]] [[Perimyokarditis|Perikarditis]] [[Pneumonie]] [[Pneu]] [[Porphyrie]] [[PPH]] [[Priapismus]] [[Prostatitis]] [[Psychosomatisch]] [[PTA]] [[Rhabdomyolyse]]
 	- **S-T:** [[SBP]] [[Scabies]] [[Schulterluxation]] [[Sepsis]] [[SHT]] [[Sichelzell]] [[Sinusitis]] [[Sinusvenenthrombose|Sinusvenen]] [[STI]] [[Stroke]] [[SVT]] [[Synkope]] [[Tbc]] [[TGA]] [[Tonsillopharyngitis]] [[Trigeminusneuralgie]] [[Tod]] [[Tumorlyse]] [[TVT]]
 	- **U-Z:** [[Urolithiasis]] [[Urtikaria]] [[VHF]] [[Vitien]] [[VT]] [[Zecken]] [[Zoster]]
