@@ -4,7 +4,8 @@ tags:
   - Fach/Labormedizin
 aliases:
   - Infektparameter
-title: Infektparameter (IFP)
+  - Entzündungszeichen
+title: Infektparameter (IFP) / laborchem. Entzündungszeichen
 ---
 ## Limitationen
 ![[PCT#^6d9b70]]

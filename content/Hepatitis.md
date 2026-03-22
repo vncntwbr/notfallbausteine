@@ -20,6 +20,6 @@ tags:
 > 	- *Anti-HBs-Ak:* Ausgeheilt oder Impfung
 > 	- *HBeAg, HBV-DNA:* Prognostisch ungünstig
 > - **Weitere Diagnostik**
-> 	- [[Abdomensonografie]]
+> 	- [[Sonografie Abdomen]]
 > 	- Leberelastografie
 > 	- Leberbiopsie

@@ -1,14 +1,14 @@
 ---
 tags:
   - Basics
-  - Status/Started
   - Fach/Kardiologie
   - Interventionen/Diagnostik
   - Interventionen/EKG
+  - Status/Done
 title: Elektrokardiogramm (EKG)
 ---
 > [!danger]+ Schnellbefundung EKG Checkliste
-> 1. **Kontext:** [[ABCDE]]-Kritisch? Alter, Vorerkrankungen, Pacer? Beschwerden?
+> 1. **Kontext:** [[ABCDE]]-Kritisch? Alter, Vorerkrankungen, Pacer? Klinik?
 > 2. **Technik:** 25 mm/s (1K = 200 ms) vs. 50 mm/s (1K = 100 ms)
 > 3. **Rhythmus**
 > 	1. [[Bradykardie]] < nf < [[Tachykardie]] (300 / RR = HF bei 25 mm/s)

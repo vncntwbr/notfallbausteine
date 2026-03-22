@@ -1,23 +1,45 @@
 ---
 tags:
   - Probleme/Allgemein
-  - Status/Started
   - Basics
   - Fach/Labormedizin
   - Fachübersicht
+  - Status/Done
 zbb:
   - "Basis: BGA, Kleines BB, Krea, TSH, CRP"
   - "Kardio: Basis + Troponin, CK"
 ---
 - **[[BGA]]**
+	- *Azidose:* [[Met. Azidose]] / [[Resp. Azidose]]
+	- *Alkalose:* [[Met. Alkalose]] / [[Resp. Alkalose]]
 - **[[Elektrolyte]]**
+	- *Kalium:* [[HyperK+]] / [[HypoK+]]
+	- *Natrium:* [[HyperNa+]] / [[HypoNa+]]
+	- *Calcium:* [[HyperCa2+]] / [[Hypocalcämie]]
 - **Blutbild**
+	- [[Anämie]]
+	- [[Thrombopenie]]
+	- [[Leukozytose]]
+	- [[Neutropenie]] / Pan-/Bizytopenie
 - **Niere**
-- **Leber**
+	- [[AKI]] / [[CKD]]
+- **[[Leberwerte]]**
+	- Hepatozellulär (ALT/AST↑), [[Hepatitis]]
+	- Cholestatisch (gGT/AP↑), [[Ikterus]] / Bilirubin
+	- Leberfunktion (INR↑)
 - **Schilddrüse**
+	- [[Hyperthyreose]] / [[Hypothyreose]]
 - **Herz**
+	- [[Troponin]]
+	- NT-proBNP
 - **Glucose**
-- **Gerinnung**
-- **Entzündungszeichen**
+	- [[Hyperglykämie]]/[[Diabetes]]/[[DKA]] / [[Hypoglykämie]]
+- **[[Gerinnungsdiagnostik]]**
+	- INR (VKA, Leberversagen, DOAK, DIC)
+	- PTT (UFH, Hämophilie, vWS, [[Antiphospholipid]], 15% Laborfehler)
+	- Fibrinogen (schwere Hämorrhagie)
+	- Anti-Xa-Aktivität
+	- [[ROTEM]]
+- **[[IFP]]**
 - **[[Rhabdomyolyse]]**
 - **[[Urin]]**
