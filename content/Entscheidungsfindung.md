@@ -1,11 +1,12 @@
 ---
 tags:
   - Meta
+  - Status/Started
 aliases:
   - Heuristik
 title: Heuristik & Entscheidungsfindung
 ---
-> [!workup]
+> [!workup]+ Regeln
 > 1. Gründliche [[Anamnese]]+[[Untersuchung]] ohne Interpretation
 > 2. Killer-DD erwägen, dann häufige DD
 > 3. Decision-Rules nutzen

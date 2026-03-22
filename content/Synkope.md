@@ -46,7 +46,7 @@ ICD: R55
 > - ggf. [[TTE]] (bei V.a. kardiogen oder rezidiverende unklare Synkopen)
 > - ggf. weiteres Workup nach DD
 
-> [!ekg]- EKG bei Synkope (WOBBLERR)
+> [!ekg]- [[EKG]] bei Synkope (WOBBLERR)
 > - Allgemein: [[Tachykardie]]/[[Bradykardie]]? [[Ischämie-EKG]]?
 > - W – WPW-Syndrom?
 > - O – Obstruktion ([[AV-Block]])?

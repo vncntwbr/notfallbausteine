@@ -10,7 +10,7 @@ tags:
 > - **Bodycheck?**
 > - **[[Anamnese]]?**
 
-> [!management]+ 
+> [!management]+ Ungezielte Interventionen
 > - **[[Analgesie]]**
 > - **Temperaturmanagement:** Wärmeerhalt bzw. Kühlung/[[TTM]]
 > - **[[Immobilisation]]**

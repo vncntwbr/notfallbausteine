@@ -27,3 +27,5 @@ ICD: I47.2
 > - Drugs ==([[Na+ Kanal Blocker|Natriumkanalblocker]], insb. [[TCA]])==
 > - [[Elektrolyte]] ==([[HyperK+]])==
 > - Raised STE ([[Ischämie-EKG]] Tombstones)
+
+---

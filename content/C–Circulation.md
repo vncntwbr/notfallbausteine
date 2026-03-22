@@ -6,7 +6,7 @@ tags:
 - **Physiologisches Ziel:** Perfusion lebenswichtiger Organe (vgl. Pathophysiologie [[Schock]])
 - **Anatomisches Korrelat:** Herz ("Pump"), Blut ("Tank"), Gefäße ("Pipes")
 
-> [!workup]- Assessment
+> [!workup]+ Assessment
 > - **Blutung?**
 > - **[[Recap]]?**
 > - **[[Puls]]?**
@@ -14,6 +14,10 @@ tags:
 > - **[[RR]]?**
 > - **4k-[[EKG]] (HF, [[QRS]]-Breite)?**
 
-> [!management]- Ungezielte Interventionen
+> [!management]+ Ungezielte Interventionen
+> - **i.v./[[i.o.]]-Zugang**
+> - **[[eKV]] / [[Pacing]]**
+> - **[[Volumentherapie]] / [[Katecholamine]]**
+> - **[[CPR]]**
 
 ![[Schock#^e10a61]]

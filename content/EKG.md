@@ -7,18 +7,21 @@ tags:
   - Interventionen/EKG
 title: Elektrokardiogramm (EKG)
 ---
-## Ableitungen
-## Rhythmus
-- [[Bradykardie]]
-	- [[BRASH]]
-- [[Tachykardie]]
-	- [[VHF]]
-	- [[SVT]]
-	- [[VT]]
-
-
-
-
+> [!danger]+ Schnellbefundung EKG Checkliste
+> 1. **Kontext:** [[ABCDE]]-Kritisch? Alter, Vorerkrankungen, Pacer? Beschwerden?
+> 2. **Technik:** 25 mm/s (1K = 200 ms) vs. 50 mm/s (1K = 100 ms)
+> 3. **Rhythmus**
+> 	1. [[Bradykardie]] < nf < [[Tachykardie]] (300 / RR = HF bei 25 mm/s)
+> 	2. Rhythmisch / Arrhythmisch (SR, [[VHF|VHF/VHFla]])
+> 	3. QRS Schmal < 110 ms < Breitkomplex ([[VT]], [[Blockbild]])
+> 4. **P:** Pos. I/II + neg. aVR + biphas. V1 (SR)? Fehlend ([[VHF]], SA-Block)? P:QRS ([[AV-Block]], [[VHF|VHFla]])? Betont? Wandernd? Invert ([[WPW]])?
+> 5. **Achse:** I+, II+, III+ (IT/ST) / III neg. (LT) / I neg. (RT)
+> 6. **Q:** [[Pathologisches Q]] >40 ms / > 0.2 mV / >25% des QRS
+> 7. **R:** Groß V1/V2 (RVH) / V5/V6 (LVH)? Verzögerter Progress R/S >V3/V4 ([[KHK]])?
+> 8. **Block:** QRS 110-120 (inkompl.) / >120 ms (kompl.)? OUP V1 >30 ms (RSB) / V6 >60 ms (LSB)? üLT + S-Pers. V6 (LAHB)?
+> 9. **ST / [[Ischämie-EKG]]** 
+> 10. **T:** Pos. exkl. V1/aVR (norm.) / Neg. ([[KHK]])? Peaked ([[HyperK+]]) / Fläche↑ (Hyperakut)?
+> 11. **QT:** >1/2 RR ([[Long-QT]])? in Abltg. mit längster QT → [QTc](https://www.mdcalc.com/calc/48/corrected-qt-interval-qtc)
 
 > [!note]- Textbaustein EKG
 > ```
@@ -27,71 +30,14 @@ title: Elektrokardiogramm (EKG)
 
 ^1b04ab
 
-- **QRS**
-	- **[[Pathologisches Q]]**
-- **QT**
-	- Es zählt immer die Abltg. mit längster QTc
-
-- [[VT]]
-- [3D-Visualisierung Lagebeziehungen](https://www.3decgleads.com/3d-leads)
-- Ärzte sind schlecht in EKGs[^1]
-
-- **Kontext**
-- **Tech:** Schreibgeschwindigkeit 25-50 mm/s, Skala 1 mV = 10 mm, Eichzacke 1 mV x 200 ms
-- **HF schätz:** 300 (25 mm/s) / RR-Kästchen = HF
-- **P**
-	- *P:QRS:* 1:1 [SR/VHFla], 2-4:1 [AVB2b/VHFla], zunehmend [AVB2a], unabh. [AVB3], nein [VHFli, SA-Block]
-	- *Morph:* gleich und pos. I/II + neg. aVR + biphas. V1 [SR], wechselnd [wandernde Err.], Anfang/Ende betont [RVH/LVH], invertiert/postQRS [retrograd/WPW]
-	- *Lewis (I):* rot Manubrium, gelb 5. ICR parast. re., grün Rippenbogen re. VAL
-- **Q**
-	- *Morph:* keine/klein, >40 ms od. >0.2 mV od. >25% QRS [Ischämie alt/neu]
-- **R**
-	- *Achse:* 
-	- *Morph:* groß V1/V2 [RVH], groß V5/V6 [LVH]
-	- *Progress:* V1 < V6 kont., S-Persist od. R-Verlust [KHK]
-- **Block**
-	- QRS 110-120 [inkompl.] / >120 [kompl.]
-	- OUP V1 >30 ms [RSB], OUP V6 >60 ms [LSB]
-	- üLT + S-Persist. V6 [LAHB]
-- **ST**
-- **T:** pos. exkl. V1/aVR [norm], neg. [KHK]
-
-
-##### Lewis-Leads
-- **Rot:** Manubrium sterni
-- **Gelb:** 5. ICR parasternal rechts
-- **Grün:** Rippenbogenrand rechts VAL
-
-### OMI
-- Posterior [[MI]]
-- Mainstem
-- LBB
-- RBB
-- De Winter
-- Wellens
-- Shark Fin
-- Hyperacute T
-- Aslanger Pattern
-- South African Flag Sign
-- Semi STEMI
+> [!workup]- Ableitungen
+> **Lewis:** rot Manubrium, gelb 5. ICR parast. re., grün Rippenbogen re. VAL
 
 ---
-- **VT?**
-	- aVR pos.
-	- R-Wave-to-Peak >50 ms in II
-	- Capture Beat, Fusion Beat oder AV-Diss.
-	- Konkordanz V1-V6
-	- VE (KHK o.ä.), Alter
-	- Ugly looking
-	- Rabbits ear links > rechts
-- DD VT (WIDER)
-	- WPW
-	- Intraventr. conduction delay (Block, abberant, Pacemaker)
-	- Drugs (I-Antiarrhy., [[TCA]])
-	- [[Elektrolyte]] ([[HyperK+]])
-	- Raised STE
 
-[^2]
+- [3D-Visualisierung Lagebeziehungen](https://www.3decgleads.com/3d-leads)
+- Ärzte sind schlecht in EKGs[^1]
+- Checkliste[^2]
 
 
 [^1]: Cook DA, Oh S, Pusic MV. Accuracy of Physicians’ Electrocardiogram Interpretations: A Systematic Review and Meta-analysis. _JAMA Intern Med._ 2020;180(11):1461–1471. doi:10.1001/jamainternmed.2020.3989
