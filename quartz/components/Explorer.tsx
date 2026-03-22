@@ -60,7 +60,7 @@ export default ((userOpts?: Partial<Options>) => {
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
   const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
-    return (
+    return (<div></div>
       /*<div
         class={classNames(displayClass, "explorer")}
         data-behavior={opts.folderClickBehavior}
