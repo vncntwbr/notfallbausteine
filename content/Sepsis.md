@@ -8,6 +8,11 @@ ICD: R57.2
 ---
 > "Sepsis kills! ... but it doesn't kill Patients who don't have Sepsis." – Cliff Reid
 
+> [!workup]+
+> - **Fokussuche:**
+> 	- Lunge
+> 	- Uro
+
 - **W**
 	- *Fokussuche:* Lunge, Urogenital, Cardiac, CNS, Abdomen, Arthritis, Spine, Skin, Sonstiges
 - **DD Sepsis Mimics**
