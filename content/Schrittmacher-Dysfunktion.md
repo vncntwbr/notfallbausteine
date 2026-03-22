@@ -14,5 +14,5 @@ title: Herzschrittmacher-Dysfunktion
 
 > [!workup]+
 > - [[EKG]]
-> - Labor: [[BGA]] (Elektrolyte), Troponin, [[IFP]]
+> - Labor: [[BGA]] ([[Elektrolyte]]), Troponin, [[IFP]]
 > - [[Rö Tx]] (Sondenlage?)

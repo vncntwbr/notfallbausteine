@@ -1,8 +1,8 @@
 ---
 tags:
   - Basics
-  - Status/Started
   - Fach/Labormedizin
+  - Status/Done
 ICD: E87
 ---
 

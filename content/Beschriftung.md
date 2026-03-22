@@ -47,7 +47,7 @@ tags:
 |                                      | Randschraffur | Black            | 0.0.0        |                |            |                                 |
 | Bronchodilatatoren                   | ▲ links unten | Blue 72          | 41. 5. 161   | 78. 56. 0. 0   | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Brown 464        | 130. 89. 31  | 12. 34. 87. 29 | Weiß $     |                                 |
-| Elektrolyte                          | ▲ links unten | Green 349        | 0. 99. 56    | 82. 5. 95. 33  | Weiß $     |                                 |
+| [[Elektrolyte]]                          | ▲ links unten | Green 349        | 0. 99. 56    | 82. 5. 95. 33  | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Pink 227         | 171. 3. 92   | 18. 88. 4. 3   | Weiß $     |                                 |
 | Ausnahme:Kalium                      | ▲ links unten | Green 349        | 0. 99. 56    | 82. 5. 95. 33  | Weiß $     |                                 |
 |                                      | ▼ rechts oben | Process Blue     | 0. 140. 204  | 100. 4. 1. 9   | Weiß $     |                                 |

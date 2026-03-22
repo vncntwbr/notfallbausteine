@@ -7,6 +7,11 @@ aliases:
   - Entzündungszeichen
 title: Infektparameter (IFP) / laborchem. Entzündungszeichen
 ---
+- [[CRP]]
+- [[PCT]]
+- [[NLR]]
+- [[BSG]]
+
 ## Limitationen
 ![[PCT#^6d9b70]]
 

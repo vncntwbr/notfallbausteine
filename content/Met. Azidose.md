@@ -11,7 +11,7 @@ aliases:
   - Anionenlücke
   - NAGMA
 ICD: E87
-title: Metabolische Azidose (AGMA, NAGMA, Anionenlücke)
+title: Metabolische Azidose (AGMA/NAGMA) ± Anionenlücke
 ---
 > [!dd]- DD Erhöhte Anionenlücke (AGMA)
 > - **Cave:** 
