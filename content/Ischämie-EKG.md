@@ -31,7 +31,7 @@ title: Ischämie-EKG
 > 	- [[Intrakranielle Blutung]]/[[Hirndruck]] insb. [[SAB]] (ausgeprägt T-Neg.)
 > 	- [[Aorta]]
 > 	- [[HyperK+]] (peaked T, QRS breit)
-> 	- [[LAE]] ([[Tachykardie]], ==T-Neg. V1-V4 + III==[^1])
+> 	- [[LAE]] ([[Tachykardie]], ==T-Neg. V1-V4 + III==, ohne III eher [[ACS]][^1])
 > - **Dringlich:**
 > 	- [[HyperCa2+]]
 > 	- [[Brugada]]
@@ -44,7 +44,7 @@ title: Ischämie-EKG
 > 	- [[Blockbild]]
 > 	- Schrittmacher-EKG
 > 	- Ventrikel-Aneurysma, myokardialer Tumor
-> - **Benign Early Repolarisation (BER):**
+> - **Benign Early Repolarisation (BER):**[^2]
 > 	- Generalisiert insb. präkordial ==konkave== STE, max. in V2-V5
 > 	- Keine reziproke STD
 > 	- Notching/Slurring J-Punkt ("fish hook", oft V4)
@@ -56,3 +56,5 @@ title: Ischämie-EKG
 - [OMI Pocket Guide](https://omiguide.org)
 
 [^1]: Kombi T-Neg. V1-V4 + III = LAE, ohne III eher [[ACS]]
+
+[^2]: [LITFL: BER](https://litfl.com/benign-early-repolarisation-ecg-library/)
