@@ -3,6 +3,31 @@ title: Home
 aliases:
   - Home
 ---
+
+| Basics             |                                                                                                                                                                                                                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Grundlagen**     | [[ABCDE]] [[Anamnese]] [[CRM]] [[Entscheidungsfindung]] [[Obdachlosigkeit\|Obdachlos]] [[Übergabe]] [[Tod]]                                                                                                                                                                   |
+| **Diagnostik**     | [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Radiologie]] [[Urin]]                                                                                                                                                                                                                   |
+| **Interventionen** | [[Analgesie]] [[Analgosedierung]] [[Arterie]] [[Blutungsmanagement\|Blutungsmgmt.]] [[Bronchoskopie\|BSK]] [[eKV]] [[Fixierung]] [[HALO]] [[NIV]] [[Pacing]] [[Perfusor]] [[PEP]] [[Punktionen]] [[Push-Dose]] [[Regionalanästhesie]] [[RSI]] [[TDx]] [[Transfusion]] [[ZVK]] |
+### Probleme
+
+| **Probleme**  |                                                                                                                                                                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Allgemein** | [[Anaphylaxie]] [[AZ↓]] [[CPR]] [[Fieber]] [[Kinder]] [[Palliativ]] [[ROSC]] [[Schock]] [[Sepsis]] [[TLOC]]                                                                                                                                   |
+| **Kopf**      | [[Epistaxis]] [[Facialisparese\|Facialis]] [[FND]] [[Delir]] [[Halsschmerz\|Hals/Nacken]] [[Intox]] [[Kopfschmerz\|Kopfsz.]] [[Psych]] [[Schwindel]] [[Vigilanz↓]]                                                                            |
+| **Thorax**    | [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[LVAD]] [[Pleuraerguss]] [[Stromunfall]] [[Tachykardie\|Tachy]]                                                                                      |
+| **Abdomen**   | [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[Ikterus]] [[Obstipation]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]                                                                                                       |
+| **Gyn/Uro**   | [[Geburt]] [[Hämaturie]] [[Hodenschmerz]] [[PEP]] [[Pille danach]] [[Schwanger]] [[Vaginale Blutung]]                                                                                                                                         |
+| **Trauma**    | [[Polytrauma]] [[SHT]] [[Gesichtsverletzung\|Gesicht]] [[Halstrauma\|Hals]] [[Thoraxtrauma\|Thorax]] [[Abdominaltrauma\|Abdominal]] [[Beckentrauma\|Becken]] [[Trauma obere Extremität\|OE]] [[Trauma untere Extremität\|UE]] [[Verbrennung]] |
+| **Labor**     | [[AKI]] [[Anämie]] [[CK]] [[HyperK+]] [[HypoK+]] [[HyperNa+]] [[HypoNa+]] [[Lactat]] [[Leberwerte]] [[Met. Alkalose]] [[Met. Azidose]] [[Neutropenie]] [[Resp. Alkalose]] [[Resp. Azidose]]                                                   |
+
+
+
+
+
+---
+
+
 - **Basics:** [[ABCDE]] [[Anamnese]] [[CRM]] [[Entscheidungsfindung]] [[Obdachlosigkeit|Obdachlos]] [[Übergabe]] [[Tod]]
 - **Diagnostik:** [[BGA]] [[EKG]] [[Labor]] [[POCUS]] [[Radiologie]] [[Urin]]
 - **Interventionen:** [[Analgesie]] [[Analgosedierung]] [[Arterie]] [[Blutungsmanagement|Blutungsmgmt.]] [[Bronchoskopie|BSK]] [[eKV]] [[Fixierung]] [[HALO]] [[NIV]] [[Pacing]] [[Perfusor]] [[PEP]] [[Punktionen]] [[Push-Dose]] [[Regionalanästhesie]] [[RSI]] [[TDx]] [[Transfusion]] [[ZVK]]
@@ -12,7 +37,7 @@ aliases:
 	- 🫀 [[Brustschmerz\|Brustsz.]] [[Bradykardie\|Brady]] [[Dyspnoe]] [[Husten]] [[Hypertonie]] [[LVAD]] [[Stromunfall]] [[Tachykardie\|Tachy]]
 	- 🫁 [[Asthma]] [[COPD]] [[COVID]] [[Pleuraerguss]] [[Pneumonie]] [[Influenza]] [[Rauchgas]] [[Sepsis]]
 	- 🫘 [[Bauchschmerz\|Bauchsz.]] [[Diarrhoe]] [[GI-Blutung]] [[Harnverhalt]] [[Ikterus]] [[Obstipation]] [[Rückenschmerz\|Rückensz.]] [[Ü+E]]
-	- 🦩 [[Geburt]] [[Hämaturie]] [[Hodenschmerz]] [[PEP]] [[Pille danach]] [[Schwanger]] [[Vaginale Blutung]] 
+	- 🦩 [[Geburt]] [[Hämaturie]] [[Hodenschmerz]] [[PEP]] [[Pille danach]] [[Schwanger]] [[Vaginale Blutung]]
 	- 🦵 [[Abszess]] [[Anaphylaxie]] [[Extremitätenschmerz|Extremitätensz.]] [[Hautveränderungen]] [[Tollwut]]
 	- 🩸 [[Polytrauma]] [[SHT]] [[Gesichtsverletzung|Gesicht]] [[Halstrauma|Hals]] [[Thoraxtrauma|Thorax]] [[Abdominaltrauma|Abdominal]] [[Beckentrauma|Becken]] [[Trauma obere Extremität|OE]] [[Trauma untere Extremität|UE]] [[Verbrennung]]
 	- 🔬 [[AKI]] [[Anämie]] [[CK]] [[HyperK+]] [[HypoK+]] [[HyperNa+]] [[HypoNa+]] [[Lactat]] [[Leberwerte]] [[Met. Alkalose]] [[Met. Azidose]] [[Neutropenie]] [[Resp. Alkalose]] [[Resp. Azidose]]
