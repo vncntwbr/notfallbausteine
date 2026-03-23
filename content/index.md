@@ -31,5 +31,7 @@ aliases:
 | **S**                                                   | [[SBP]] [[Scabies]] [[Schulterluxation]] [[Seltene Erkrankungen]] [[Sepsis]] [[SHT]] [[Sichelzell]] [[Sinusitis]] [[Sinusvenenthrombose\|Sinusvenen]] [[STI]] [[Stroke]] [[SVT]] [[Synkope]]                                                                             |
 | **TUVW<br>XYZ**                                         | [[Tbc]] [[TGA]] [[Tonsillopharyngitis]] [[Trigeminusneuralgie]] [[Tod]] [[Tumorlyse]] [[TVT]] [[Urolithiasis]] [[Urtikaria]] [[VHF]] [[Vitien]] [[VT]] [[Zecken]] [[Zoster]]                                                                                             |
 | <span style="white-space: nowrap;">**Chronisch**</span> | [[Adipositas]] [[CKD]] [[Demenz]] [[Depression]] [[Myasthenie]] [[Parkinson]] [[pAVK]]                                                                                                                                                                                   |
+
+---
 Hitlist ToDos: [[Urin]], [[TDx]], Trauma, 
 fast fertige fertig machen!
