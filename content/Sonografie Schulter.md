@@ -2,6 +2,7 @@
 tags:
   - Fach/Orthopädie
   - POCUS
+  - Status/Started
 aliases:
   - Schultersonografie
 ---

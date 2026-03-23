@@ -87,7 +87,8 @@ ICD: R07.4
 
 ^e34c74
 
-
+## Diagnosen
+![[ACS]]
 ## Literatur
 - [S3-Leitlinie Brustschmerz – DEGAM-Leitlinie für die primärärztliche Versorgung](https://register.awmf.org/de/leitlinien/detail/053-023)
 
