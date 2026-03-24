@@ -5,6 +5,7 @@ tags:
   - Checkliste
   - Status/Done
   - Fach/Anästhesiologie
+  - Favourites
 title: Rapid Sequence Induction / Intubation (RSI)
 OPS: 8-701
 ---

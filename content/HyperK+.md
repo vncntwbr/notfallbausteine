@@ -33,7 +33,7 @@ ICD: E87
 
 > [!workup]
 > - [[Schock]] + [[Bradykardie]] + [[Betablocker]] + [[AKI]] = Sonderfall [[BRASH]]-Syndrom
-> - **[[EKG]]:** QRS verbreitert? [[Bradykardie]]/HRST? P-Verlust/AVB? Spitzes T? Pseudo-STE? Sinuswellen?
+> - **[[EKG]]:** [[QRS-Verbreiterung]]? [[Bradykardie]]/HRST? P-Verlust/AVB? Spitzes T? Pseudo-[[Ischämie-EKG|STE]]? Sinuswellen?
 > 	- Peaked T (RR 0.7 KH-Mortalität[^2])
 > 	- AVB 1° (RR 4.1)
 > 	- Breite QRS (RR 4.7)

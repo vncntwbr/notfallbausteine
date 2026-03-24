@@ -11,6 +11,8 @@ aliases:
   - Sopor
   - Somnolenz
   - Vigilanzminderung
+  - FOUR
+  - GCS
 ---
 > [!dd]+ DD
 > - **Metabolisch:** [[Hypoglykämie]], [[Hyperthyreose]]

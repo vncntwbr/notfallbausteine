@@ -12,7 +12,7 @@ tags:
 > - **[[Puls]]?**
 > - **Vorlastzeichen?**
 > - **[[RR]]?**
-> - **4k-[[EKG]] (HF, [[QRS]]-Breite)?**
+> - **4k-[[EKG]] (HF, [[QRS-Verbreiterung]]-Breite)?**
 
 > [!management]+ Ungezielte Interventionen
 > - **i.v./[[i.o.]]-Zugang**

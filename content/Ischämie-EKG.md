@@ -4,7 +4,13 @@ tags:
   - Interventionen/EKG
   - Fach/Kardiologie
   - Status/Done
+  - Favourites
 title: Ischämie-EKG
+aliases:
+  - STE
+  - STD
+  - ST-Hebung
+  - ST-Senkung
 ---
 > [!danger]+ Klassische STEMI-Kriterien
 > - STE ≥1 mm in ≥2 benachbarten Abltg., außer:
@@ -16,7 +22,7 @@ title: Ischämie-EKG
 > - **Hyperakutes T:** AUC-Fläche↑ in DD zu [[HyperK+]]
 > - **De Winter:** Prominentes T in V1-V6 + aszend. STD ≥1 mm = RIVA-Stenose
 > - **Wellens:** [Typ A] Biphas. T in V2/V3, [Typ B] tief invert. T = RIVA-Stenose, oft intermittierend / nach sistierter AP / ohne [[Troponin]](!)
-> - **Shark Fin:** Verschmelzung QRS + massive STE, oft Periarrest DD [[HyperK+]]
+> - **Shark Fin:** Verschmelzung [[QRS-Verbreiterung|QRS]] + massive STE, oft Periarrest DD [[HyperK+]]
 > - **LSB (neu/anders + Klinik) od. mod. Sgarbossa-Kriterien:**
 > 	- Konkordante STE ≥1 mm irgendwo
 > 	- Konkordante STD ≥1 mm V1-V3 (bei Pacer: V1-V6)

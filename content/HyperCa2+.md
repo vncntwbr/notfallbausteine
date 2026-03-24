@@ -23,4 +23,4 @@ title: Hypercalcämie (Ca2+↑)
 
 > [!workup]-
 > - **[[Labor]]:** [[BGA]], Niere, Phosphat, Mg2+, PTH, Elektrophorese, VitD, TSH
-> - **[[EKG]]:** AVB, breite QRS, STE, Short-QT
+> - **[[EKG]]:** [[AV-Block]], [[QRS-Verbreiterung]], [[Ischämie-EKG|STE]], Short-QT

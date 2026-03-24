@@ -11,6 +11,7 @@ OPS: 3-03
 	- [[eFAST]]
 - **Herz + Gefäße**
 	- [[TTE]]
+		- [[RHB]]
 	- [[TEE]]
 	- [[Volumenstatus]]
 	- [[Kompressionssonografie]]

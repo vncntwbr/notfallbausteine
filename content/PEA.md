@@ -9,7 +9,7 @@ title: Pulslose elektrische Aktivität (PEA)
 
 - **Simplifizierter Algorithmus**[^1]
 	- **QRS schmal = mechanisch / RV Problem:** [[POCUS]] LV hyperdynam, Pseudo-PEA (Tamponade, Spannungspneumothorax, [[LAE]], OMI)
-	- **QRS breit = metabolisch / LV Problem:** [[POCUS]] LV akinetisch, "echte" PEA ([[HyperK+]], [[Na+ Kanal Blocker|Natriumkanalblocker]], OMI)
+	- **[[QRS-Verbreiterung]] = metabolisch / LV Problem:** [[POCUS]] LV akinetisch, "echte" PEA ([[HyperK+]], [[Na+ Kanal Blocker|Natriumkanalblocker]], OMI)
 - QRS <120ms und HF >60 beneficial[^2]
 - Outcome PEA besser als ASY (OR+ 2.1, OHCA sogar OR+ 4.2)[^3]
 - Pseudo-PEA mit Vasopressoren behandeln ist besser als drauf rumdrücken[^4]

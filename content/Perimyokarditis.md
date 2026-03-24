@@ -6,7 +6,7 @@ tags:
 ICD: I30, I41
 ---
 - **Ä:** Idiopath./viral, TBC, autoimmun, Urämie, Med/Drogen, Tumor, Trauma
-- **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave STE, PR-Depr., [[POCUS]]
+- **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave [[Ischämie-EKG|STE]], PR-Depr., [[POCUS]]
 	- *Myokarditis-Beteiligung:* Troponin, EF↓
 - **T:** [[Analgesie]], Antiinflammation, Rezidiv↓
 	- ASS 1g 1-1-1 p.o.

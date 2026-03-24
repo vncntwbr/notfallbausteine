@@ -6,6 +6,7 @@ tags:
 title: Volumentherapie (VEL)
 aliases:
   - VEL
+  - NaCl
 ---
 > [!stadien] [Bicarbonat-Defizit](https://www.mdcalc.com/calc/27/bicarbonate-deficit)
 

@@ -3,6 +3,9 @@ tags:
   - Diagnosen
   - Fach/Chirurgie
   - Status/Done
+aliases:
+  - Arterieller Verschluss
+title: Extremitätenischämie / Arterieller Verschluss
 ---
 > [!dd]- DD
 > - [[Aorta]]

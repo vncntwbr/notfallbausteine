@@ -2,15 +2,16 @@
 tags:
   - POCUS
   - Fach/Radiologie
+  - Favourites
 ---
 > [!pocus]+ RUSH-Protokoll
 > 1. **[[LUS]] apikal:** [[Pneu]]? B-Lines?
 > 2. **[[TTE|fTTE]]:** [[Perikarderguss]]? EF-Eyeballing? [[RHB]]? [[WBS]]?
 > 3. **IVC:** [[Volumenstatus]]?
-> 4. **[[Aorta]]**
-> 5. **FAST:** Freie Flüssigkeit thorakal/abdominell?
-> 6. (**[[Kompressionssonografie]]:** TVT?)
-> 7. (Ektopie?)
+> 4. **[[Aorta]]:** Dissektion/Aneurysma?
+> 5. **[[eFAST|FAST]]:** Freie Flüssigkeit thorakal/abdominell?
+> 6. (**[[Kompressionssonografie]]:** [[TVT]]?)
+> 7. (**Uterus:** [[EUG]]?)
 
 > [!note]- Textbaustein POCUS RUSH
 > ```

@@ -5,6 +5,7 @@ tags:
   - Status/Done
   - Fach/Pharmakologie
   - Fach/Intensivmedizin
+  - Favourites
 ---
 
 | **Med**                                                                                                                                      | **Konz./50**         | **Konz./ml** | Dosis                                       | Start-LR  |

@@ -14,11 +14,10 @@ OPS: 8-201.0
 > - **Begleitverletzungen:** Rotatorenmanschettenruptur, Abriss Tub. majus, Bankard-Läsion / Hill-Sachs-Delle, Luxationsfraktur Humeruskopf (siehe [[Schultertrauma]])
 
 > [!workup]+
-> - **[[Anamnese|A]]:** Habituell?
-> - **[[Untersuchung|U]]:** Gelenkkopf palpabel? pDMS (N. axillaris)?
-
-> [!bildgebung] Röntgen Schulter a.p. + Y-Aufnahme
-> - **Rim Sign:** H.a. posteriore Luxation in a/p (Überlappung vorderer Pfannenrand mit Humeruskopf >6mm)
+> - **[[Anamnese|A]]:** Habituell? Trauma?
+> - **[[Untersuchung|U]]:** Gelenkkopf palpabel? ==pDMS (N. axillaris)?==
+> - **Röntgen:** Schulter a.p. + Y-Aufnahme
+> 	- *Rim Sign:* H.a. posteriore Luxation in a/p (Überlappung vorderer Pfannenrand mit Humeruskopf >6mm), oft übersehen
 
 > [!management]+
 > 1. **Reposition (Milch):** 

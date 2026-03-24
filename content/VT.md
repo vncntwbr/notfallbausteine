@@ -12,7 +12,7 @@ ICD: I47.2
 > [!danger] Siehe [[eKV]]
 
 > [!workup]+
-> - **VT pos** (70% aller Breitkomplextachykardien)
+> - **VT pos** (70% aller [[QRS-Verbreiterung|Breitkomplex]]-Tachykardien)
 > 	- aVR pos / QRS-Achse Nordwest (90% spez.)
 > 	- R-to-Peak >50 ms in II
 > 	- Capture Beat, Fusion Beat, AV-Dissoziation
@@ -26,6 +26,6 @@ ICD: I47.2
 > - I – Intraventrikuläre Leitungsverzögerung (Blockbild, abberant, Pacemaker)
 > - Drugs ==([[Na+ Kanal Blocker|Natriumkanalblocker]], insb. [[TCA]])==
 > - [[Elektrolyte]] ==([[HyperK+]])==
-> - Raised STE ([[Ischämie-EKG]] Tombstones)
+> - Raised [[Ischämie-EKG|STE]] ([[Ischämie-EKG]] Tombstones)
 
 ---

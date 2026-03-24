@@ -23,7 +23,7 @@ ICD: E87
 > - **[[Anamnese|A]]:** [S] [[Ü+E]], Diarrhoe? Muskelschwäche? [M] Diuretika? Cortison? Laxanz? Clindamycin? [P] Mangelernährung/Essstörung? [R] Lakritz? 
 > - **[[BGA]]:** Azidose/Alkalose?
 > - **[[Labor]]:** Basis + Mg2+, Phosphat, ggf. [[Digitalis]]-Spiegel
-> - **[[EKG]]:** T-Verlust ("no pot no tea"), betontes U, ggf. STD, VES/HRST
+> - **[[EKG]]:** T-Verlust ("no pot no tea"), betontes U, ggf. [[Ischämie-EKG|STD]], VES/HRST
 
 > [!dd] DD
 > - Cave: Aggravation [[Digitalis]]

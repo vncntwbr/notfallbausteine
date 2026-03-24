@@ -3,6 +3,7 @@ tags:
   - Fach/Notfallmedizin
   - Basics/Resus
   - Literatur/Cliff-Reid
+  - Meta
 ---
 > "The perfect resuscitation represents the BEST YOU interacting efficiently with an OPTIMAL TEAM in an IDEAL ENVIRONMENT to provide EXPERT RESUSCITATION to a patient with a REVERSIBLE LIFE-THREATENING presentation"
 > –Cliff Reid

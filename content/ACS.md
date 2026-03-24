@@ -1,8 +1,8 @@
 ---
 tags:
   - Fach/Kardiologie
-  - Status/Started
   - Diagnosen
+  - Status/Done
 title: Akutes Koronarsyndrom (ACS) inkl. STEMI, NSTEMI, Instabile AP
 cbf:
   - ECPR 622 454

@@ -13,7 +13,7 @@ title: Elektrokardiogramm (EKG)
 > 3. **Rhythmus**
 > 	1. [[Bradykardie]] < nf < [[Tachykardie]] (300 / RR = HF bei 25 mm/s)
 > 	2. Rhythmisch / Arrhythmisch (SR, [[VHF|VHF/VHFla]])
-> 	3. QRS Schmal < 110 ms < Breitkomplex ([[VT]], [[Blockbild]])
+> 	3. QRS Schmal < 110 ms < [[QRS-Verbreiterung|Breitkomplex]] ([[VT]], [[Blockbild]])
 > 4. **P:** Pos. I/II + neg. aVR + biphas. V1 (SR)? Fehlend ([[VHF]], SA-Block)? P:QRS ([[AV-Block]], [[VHF|VHFla]])? Betont? Wandernd? Invert ([[WPW]])?
 > 5. **Achse:** I+, II+, III+ (IT/ST) / III neg. (LT) / I neg. (RT)
 > 6. **Q:** [[Pathologisches Q]] >40 ms / > 0.2 mV / >25% des QRS

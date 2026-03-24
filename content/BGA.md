@@ -4,6 +4,7 @@ tags:
   - Druck
   - Status/Done
   - Fach/Labormedizin
+  - Favourites
 title: Blutgasanalyse (BGA)
 ---
 > [!danger]+ BGA Rapid Reference

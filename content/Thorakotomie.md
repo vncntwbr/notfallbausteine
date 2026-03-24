@@ -7,7 +7,7 @@ title: Clamshell-Thorakotomie
 aliases:
   - Clamshell
 ---
-
+## Clamshell vs. Anterolateral
 ## Indikation
 - Nach Lokalisation der penetrativen Verletzung
   ![[Pasted image 20260223145828.png]][^3]

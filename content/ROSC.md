@@ -9,7 +9,7 @@ ICD: I46
 ![[CPR#^e6b7fe]]
 
 - [[EKG]] nach 10 min[^1]
-- Generell [[HKU]] nach ROSC ohne STE hatte keinen Benefit[^2]
+- Generell [[HKU]] nach ROSC ohne [[Ischämie-EKG|STE]] hatte keinen Benefit[^2]
 
 [^1]: [[Ischämie-EKG]] 18% falsch-pos direkt nach ROSC, nach 7 min besser. [Association of Timing of Electrocardiogram Acquisition After Return of Spontaneous Circulation With Coronary Angiography Findings in Patients With Out-of-Hospital Cardiac Arrest](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774740). Baldi. JAMA Open 2021.
 
