@@ -4,7 +4,9 @@ tags:
   - Status/Done
   - Fach/Kardiologie
 aliases:
+  - Stromunfall
 ICD: W87.9!
+title: Stromunfall
 ---
 > [!danger]+ Potenziell kritische Stromunfallfolgen
 > 1. **HRST (VF/[[VT]])** direkt nach Stromkontakt (nicht Stunden später)

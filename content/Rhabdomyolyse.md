@@ -28,7 +28,7 @@ tags:
 > 	- ggf. Forcierte Diurese +Furosemid
 > 	- Überwachung Bilanzierung, Krea, [[Elektrolyte]]
 
-> [!management]- Crush-Syndrom (Liegetrauma, [[Stromunfall]], [[Kompartment]] etc.)
+> [!management]- Crush-Syndrom (Liegetrauma, [[Strom]], [[Kompartment]] etc.)
 > - **CK >5.000 U/L + Symptome + [McMahon](https://www.mdcalc.com/calc/4017/mcmahon-score-rhabdomyolysis) ≥4 Pkt.:**
 > 	- Immer Stationär
 > 	- Gewicht ermitteln
