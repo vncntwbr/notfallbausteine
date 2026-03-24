@@ -16,6 +16,7 @@ tags:
 > 	- Makrohämaturie
 > - **Trauma-Ursache?** (siehe [[TLOC]]/[[Synkope]])
 
+> [!stadien] [[ISS]]
 
 - R **Red Flags:** 1./2. Rippe#, Clavicula#, Sternum#, Beckenring#, Makrohämaturie
 - **W**

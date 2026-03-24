@@ -4,7 +4,8 @@ tags:
   - Fach/Chirurgie
   - Fach/Intensivmedizin
 aliases:
-  - Injurity Severity Scale (ISS)
+  - Injurity Severity Scale
+title: Injurity Severity Scale (ISS)
 ---
 > [!stadien]+ ISS Berechnung
 > - **OIS:** Schwerste Verletzung jedes Organsystems von 0° bis 5° (critical) bzw. 6° (unsurvivable) gerated
@@ -38,6 +39,8 @@ aliases:
 > 
 > +1 für bilateral
 
+^4a75cf
+
 > [!stadien]- OIS Thorakale Gefäße
 > 1. A./V. intercostalis
 >    A./V. mammaria interna
@@ -64,46 +67,48 @@ aliases:
 > –1 für 4°/5° wenn <25% Umfang
 
 > [!stadien]- OIS Herz
-> 7. Stumpfes Trauma mit leichten EKG-Veränderungen (unspezifische ST/T, SVES/VES, Sinustachykardie) 
+> 1. Stumpfes Trauma mit leichten EKG-Veränderungen (unspezifische ST/T, SVES/VES, Sinustachykardie) 
 >    ODER perikardiale Verletzung ohne direkte Herzbeteiligung
-> 8. Stumpfes Trauma mit [[Blockbild]] (RSB, LSB, LAHB, [[AV-Block]]) oder [[Ischämie-EKG]] ohne [[Kardiogener Schock]] 
+> 2. Stumpfes Trauma mit [[Blockbild]] (RSB, LSB, LAHB, [[AV-Block]]) oder [[Ischämie-EKG]] ohne [[Kardiogener Schock]] 
 >    ODER Penetrierend tangentiale Myokard-Verletzung, nicht durch Endokard, ohne [[Perikarderguss]]
-> 9. Stumpfes Trauma mit sustained (≥5/min) oder multifokaler [[VT]] 
+> 3. Stumpfes Trauma mit sustained (≥5/min) oder multifokaler [[VT]] 
 >    ODER Stumpf/Penetrierend mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, ohne [[Kardiogener Schock]]
 >    ODER Stumpf mit kardialer Herniation
 >    ODER Stumpf mit [[Kardiogener Schock]]
 >    ODER Penetrierend tangential, nicht durch Endokard, mit [[Perikarderguss|Tamponade]]
-> 10. Stumpf/Penetrierend mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, mit [[Kardiogener Schock]]
+> 4. Stumpf/Penetrierend mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, mit [[Kardiogener Schock]]
 >    ODER Stumpf/Penetrierend mit [[AI]] oder [[MI]]
 >    ODER Stumpfe/Penetrierende Verletzung von RV, RA oder LA
-> 11. Stumpf/Penetrierend mit proximaler Koronarien-Okklusion
+> 5. Stumpf/Penetrierend mit proximaler Koronarien-Okklusion
 >    ODER LV-Perforation
 >    ODER <50% Gewebeverlust von RV, RA oder LA
-> 12. Stumpfer Abriss des Herzens
+> 6. Stumpfer Abriss des Herzens
 >    ODER Penetrierend mit >50% Gewebsverlust einer Herzkammer
 
 > [!stadien]- OIS Lunge
-> 13. Kontusion unilateral, <1 Lobus
-> 14. Kontusion unilateral, 1 Lobus 
+> 1. Kontusion unilateral, <1 Lobus
+> 2. Kontusion unilateral, 1 Lobus 
 >    ODER Einfacher [[Pneu]]
-> 15. Kontusion, unilateral ≥2 Lobuli 
+> 3. Kontusion, unilateral ≥2 Lobuli 
 >    ODER Persistierendes (>72 h) distales Airleak 
 >    ODER Intraparenchymales Hämatom, nicht-expanding
-> 16. Großes (segmental oder lobär) Airleak 
+> 4. Großes (segmental oder lobär) Airleak 
 >    ODER Intraparenchymales Hämatom, expanding 
 >    ODER A./V. pulmonalis intrapulmonale Äste
-> 17. A./V. pulmonalis Hauptstamm/hilär
-> 18. Totale Durchtrennung Lungenhilum
+> 5. A./V. pulmonalis Hauptstamm/hilär
+> 6. Totale Durchtrennung Lungenhilum
 > 
 > +1 für bilateral
 > [[Hämatothorax]] wird nach "Thorax Gefäße" graduiert
 
+^1eb208
+
 > [!stadien]- OIS Diaphragma
-> 19. Kontusion
-> 20. Laceration ≤2 cm
-> 21. Laceration 2-10 cm
-> 22. Laceration >10 cm mit ≤25 cm² Gewebsverlust
-> 23. Laceration mit >25 cm² Gewebsverlust
+> 1. Kontusion
+> 2. Laceration ≤2 cm
+> 3. Laceration 2-10 cm
+> 4. Laceration >10 cm mit ≤25 cm² Gewebsverlust
+> 5. Laceration mit >25 cm² Gewebsverlust
 
 ## Abdomen
 

@@ -10,13 +10,12 @@ aliases:
 title: Pneumothorax inkl. Spannungspneumothorax
 ICD: J93
 ---
-
 > [!danger]+ Spannungspneumothorax
 > 1. **Arbeitsdiagnose:** Einseitig fehlendes Atemgeräusch + Tubuslage richtig + B-Problem oder C-Problem
 > 2. **Nadel-Dekompression** in Bülau (4./5. ICR VAL-MAL) mit spez. Nadel alternativ PVK 14G orange
-> 3. **[[TDx]]** unter [[Analgesie]]/[[Analgosedierung]]
+> 3. **Fingerthorakostomie/[[TDx]]** unter [[Analgosedierung]]
 
-> [!anamnese]
+> [!anamnese]-
 > - **S:** Schmerzen? (Belastungs-)[[Dyspnoe]]?
 > - **A:** Lokalanästhetika?
 > - **M:** [[AK]]?
@@ -25,20 +24,24 @@ ICD: J93
 > - **E:** Trauma?
 > - **R:** THC? Vaping? Nikotin? Lachgas? Alkohol? Andere Drogen?
 
-> [!workup]+
+> [!workup]-
 > - Monitoring
 > - **[[POCUS]]** (Sens bis 98%)
 > - **[[Labor]]:** [[BGA]], Profil "Synkope"
 > - **[[Radiologie]]:** [[Rö Tx]] ==stehend== zur Größenbeurteilung (liegend Sens ≈60%)
 
-> [!stadien]
+> [!stadien]- Größeneinteilung Pneumothorax
 > - **Klein** <3 cm apikale Dehiszenz
-> - **Groß** >3 cm apikale Dehiszenz
+> - **Groß** >3 cm apikale Dehiszenz (oder alles was über apikal hinausgeht)
 
-> [!management]+
+![[iss#^1eb208]]
+
+![[iss#^4a75cf]]
+
+> [!management]-
 > - **Disposition:** 
 
-> [!note]+ Textbaustein Spontanpneu Ambulant
+> [!note]- Textbaustein Spontanpneu Ambulant
 > ```
 > Aktuell: Primärer Spontanpneumothorax
 > 
