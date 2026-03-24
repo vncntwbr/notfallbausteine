@@ -6,6 +6,17 @@ tags:
 ---
 > [!danger] Siehe [[Trauma-CPR]]
 
+> [!dd]+ Red Flags
+> - **SHOT:** [[Pneu|Spannungspneu]], Hämorrhagie, Oxygenierung, [[Perikarderguss|Tamponade]]
+> - **H.a. Hochrasanztrauma:**
+> 	- 1./2. Rippe#
+> 	- Clavicula#
+> 	- Sternum#
+> 	- Beckenring#
+> 	- Makrohämaturie
+> - **Trauma-Ursache?** (siehe [[TLOC]]/[[Synkope]])
+
+
 - R **Red Flags:** 1./2. Rippe#, Clavicula#, Sternum#, Beckenring#, Makrohämaturie
 - **W**
 	- 

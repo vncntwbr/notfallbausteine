@@ -5,17 +5,19 @@ tags:
   - Probleme/Trauma
 title: Trauma-Reanimation
 ---
-> [!danger]+ Resuscitation
+> [!danger]+ Checkliste
 > 1. **Kritische Blutung?** → Blutstillung
-> 2. **DD Internistische Ursache?** → Parallel Thoraxkompressionen
+> 2. **DD Internistische Ursache?** → Parallel [[CPR]]/Defib.
 > 3. **A/B** → [[Atemwegsmanagement]], [[Beatmung]] mit max. FiO2
 > 4. **C**
-> 	- Thorakostomie bds.
-> 	- ggf. [[Thorakotomie]] (Arrest <5 min + 4E-Regel)
+> 	- Thoraxentlastung bds.
+> 	- [[Thorakotomie]] (Arrest <5 min stumpf / <15 min penetrierend + 4E-Regel)
 > 	- [[Volumentherapie]]
 
 > [!dd]+ Reversible Ursachen bei traumatischem Arrest
 > - **[[Pneu|Spannungspneumothorax]]**
-> - **Hypovolämie** (Exsanguination)
+> - **Hypovolämie** ([[X – Exsanguination]])
 > - **Oxygenierung** ([[Hypoxie]])
 > - **[[Perikarderguss|Tamponade]]**
+
+![[Thorakotomie]]
