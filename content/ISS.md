@@ -147,36 +147,36 @@ title: Injurity Severity Scale (ISS)
 > –1 für 4°/5° mit <25% Umfang
 
 > [!stadien]- OIS Leber
-> 6. Subkapsuläres Hämatom <10% Oberfläche
+> 1. Subkapsuläres Hämatom <10% Oberfläche
 >    ODER Parenchymale Laceration <1 cm Tiefe
 >    ODER Kapselriss
-> 7. Subkapsuläres Hämatom 10-50% Oberfläche
+> 2. Subkapsuläres Hämatom 10-50% Oberfläche
 >    ODER Intrakapsuläres Hämatom <10 cm Durchmesser
 >    ODER Laceration 1-3 cm Tiefe + ≤10 cm Länge
-> 8. Subkapsuläres Hämatom >50% Oberfläche oder expanding
+> 3. Subkapsuläres Hämatom >50% Oberfläche oder expanding
 >    ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom
 >    ODER Intraparenchymales Hämatom >10 cm
 >    ODER Laceration >3 cm Tiefe
 >    ODER Jede Gefäßverletzung mit aktiver Blutung auf Leberkapsel begrenzt (CT)
-> 9. Parenchymale Disruption von 25-75% eines Leberlappens 
+> 4. Parenchymale Disruption von 25-75% eines Leberlappens 
 >    ODER Aktive Blutung über Leberparenchym hinaus ins Peritoneum
-> 10. Parenchymale Disruption von >75% eines Leberlappens 
+> 5. Parenchymale Disruption von >75% eines Leberlappens 
 >    ODER Verletzung von V. cava inferior / V. hepatica
 >  
 > +1 für multiple Läsionen bis max. 3°
 
 > [!stadien]- OIS Milz
-> 11. Subkapsuläres Hämatom <10% Oberfläche
+> 1. Subkapsuläres Hämatom <10% Oberfläche
 >    ODER Parenchymale Laceration <1 cm Tiefe
 >    ODER Kapselriss
-> 12. Subkapsuläres Hämatom 10-50% Oberfläche
+> 2. Subkapsuläres Hämatom 10-50% Oberfläche
 >    ODER Parenchymale Laceration 1-3 cm Tiefe
-> 13. Subkapsuläres Hämatom >50% Oberfläche oder expanding
+> 3. Subkapsuläres Hämatom >50% Oberfläche oder expanding
 >    ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom ≥5 cm
 >    ODER Parenchymale Laceration >3 cm Tiefe
-> 14. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)
+> 4. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)
 >    ODER Parenchymale Laceration mit Gefäßbeteiligung und >25% Devaskularisation
-> 15. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)
+> 5. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)
 >    ODER Hilusverletzung mit Devaskularisation (OP)
 >    ODER Shattered Milz
 >  
