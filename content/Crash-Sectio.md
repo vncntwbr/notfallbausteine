@@ -3,7 +3,9 @@ tags:
   - Interventionen/HALO
   - Status/Done
   - Fach/Gynäkologie
-title: Perimortale Crash-Sectio
+title: Crash-Sectio / Resuscitative Hysterotomy
+aliases:
+  - Resuscitative Hysterotomy
 ---
 > [!danger]+ Schwangere >20. SSW in Arrest >4 min
 > 1. **ALS** weiterführen
