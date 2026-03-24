@@ -15,4 +15,4 @@ aliases:
 > 1. Von **REA-Fertigspritze** (1 mg [[Adrenalin]] in 10 ml) **9 ml verwerfen**
 > 2. **9 ml NaCl** hinzu aufziehen (Konz. ≈ 10 μg/ml)
 > 
-> Alternativ im Periarrest 1 ml (=100 μg) Adrenalin aus REA-Fertigspritze geben
+> Alternativ im [[Periarrest]] 1 ml (=100 μg) Adrenalin aus REA-Fertigspritze geben

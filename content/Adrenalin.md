@@ -15,7 +15,7 @@ cssclasses:
 > - **Wirkung**: β2 (Bronchodilatation) > β1 (HF↑, Inotropie↑) > ⍺1; Schleimhaut-abschwellend, Mastzellen-stabilisierend
 > - **Dosis**:
 > 	- *[[CPR]]:* 1 mg q3-5min (oder als [[Perfusor]])
-> 	- *Periarrest:* 100 μg Bolus i.v.
+> 	- *[[Periarrest]]:* 100 μg Bolus i.v.
 > 	- *[[Anaphylaxie]]/[[AMAX4]]:* 0.5 mg pur i.m.
 > 	- *Kinder:* 0.01 mg/kg ([[CPR]] i.v., [[Anaphylaxie]] i.m.)
 > 	- *Atemwegsschwellung:* 5 mg pur inhalativ

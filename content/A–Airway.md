@@ -13,6 +13,8 @@ aliases:
   - Atemwegsverlegung
 title: A–Airway (Atemwegsmanagement)
 ---
+[[Physiologisch schwieriger Atemweg]]
+
 
 - iGEL > King LT (Mortalität)[^1]
 - [Sydney HEMS Airway Registry Video Database](https://sydneyhems.com/airway-registry/cmac-videos/) (PW: AiRblogVideos)
