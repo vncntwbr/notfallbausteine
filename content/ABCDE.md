@@ -5,16 +5,16 @@ tags:
   - Basics/ABCDE
 ---
 - **Suche nach "Poisoned Arrows":** Zeitkritische Probleme/Muster, die auch ohne Kenntnis des "Bigger Picture" therapiert werden können und müssen
-- **Generisches ABCDE** unabhängig von Trauma / Non-Trauma, da nicht immer klar abgrenzbar
+- **Generisches xABCDE** unabhängig von Trauma / Non-Trauma, da nicht immer klar abgrenzbar
 
-|                        | Primary Survey                                  | Secondary Survey      | Akute Killer                                                                 | Interventionen                                                 |
-| ---------------------- | ----------------------------------------------- | --------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **X – Exsanguination** | Kritische äußere Blutung?                       |                       | Exsanguination                                                               | Blutstillung                                                   |
-| **[[A–Airway]]**       | Offen+sicher?<br>Gefährdet?<br>Verlegt?         | [[etCO2]]             | AW-Verlegung                                                                 | [[Atemwegsmanagement]]<br>Absaugung<br>[[Adrenalin]] inhalativ |
-| **[[B–Breathing]]**    | Atemarbeit, AF?<br>Zyanose?<br>Auskultation?    | [[SpO2]]              | Hypoxie<br>[[Pneu\|Spannungspneu]]                                           | [[O2]]-Gabe<br>[[Beatmung]]<br>Thoraxentlastung                |
-| **[[C–Circulation]]**  | [[Recap]]?<br>Puls?<br>Vorlast?                 | [[RR]], 4k-[[EKG]]    | HRST<br>[[RV-Failure]]/[[LAE]]<br>[[Aorta]]<br>[[Perikarderguss\|Tamponade]] | Zugang, Medis, Volumen<br>[[Pacing]]/[[eKV]], [[CPR]]          |
-| **[[D–Disability]]**   | AVPU?<br>BEFAST?<br>pDMS x4 Extr.?<br>Pupillen? | BZ/[[BGA]]<br>[[GCS]] | [[Hirndruck\|Einklemmung]]                                                   | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Mgmt.]]              |
-| **[[E–Exposure]]**     | Haut?<br>Bodycheck?                             | [[Anamnese]]<br>Temp. |                                                                              | Wärmeerhalt/Kühlung<br>[[Analgesie]]                           |
+|                        | Primary Survey                               | Secondary Survey                                                               | Akute Killer                                                                 | Interventionen                                                             |
+| ---------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **X – Exsanguination** | Kritische äußere Blutung?                    | Steht?                                                                         | Exsanguination                                                               | Blutstillung                                                               |
+| **[[A–Airway]]**       | Offen+sicher?<br>Gefährdet?<br>Verlegt?      | [[etCO2]]                                                                      | [[A–Airway\|AW-Verlegung]]                                                   | [[A–Airway\|AW-Management]]<br>Absaugung<br>[[Adrenalin]] inhalativ        |
+| **[[B–Breathing]]**    | Atemarbeit, AF?<br>Zyanose?<br>Auskultation? | [[SpO2]]<br>[[LUS]]                                                            | Hypoxie<br>[[Pneu\|Spannungspneu]]                                           | [[O2]]<br>[[Beatmung]]<br>Thoraxentlastung                                 |
+| **[[C–Circulation]]**  | [[Recap]]?<br>[[Puls]]?<br>Vorlast?          | [[RR]], 4k-[[EKG]]<br>[[TTE]]<br>[[RUSH]]                                      | HRST<br>[[RV-Failure]]/[[LAE]]<br>[[Aorta]]<br>[[Perikarderguss\|Tamponade]] | Zugang, Medis, [[Volumentherapie\|Volumen]]<br>[[Pacing]]/[[eKV]], [[CPR]] |
+| **[[D–Disability]]**   | AVPU?<br>pDMS x4 Extr.?<br>Pupillen?         | [[Hypoglykämie\|BZ]]/[[BGA]]<br>[[Vigilanz↓\|GCS]]/RASS<br>[[Stroke\|BE-FAST]] | [[Hirndruck\|Einklemmung]]                                                   | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Management]]                     |
+| **[[E–Exposure]]**     | Haut/Log-Roll?<br>Bodycheck?                 | [[Anamnese]]<br>Temp.                                                          |                                                                              | Wärmeerhalt/Kühlung<br>[[Analgesie]]                                       |
 
 
 

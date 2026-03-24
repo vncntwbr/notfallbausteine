@@ -8,6 +8,8 @@ aliases:
   - ICP-Erhöhung
   - Einklemmung
   - Intrakranieller Druck
+  - ICP-Management
+  - Hirndruckmanagement
 ---
 >[!danger]+ Akute Einklemmung (GCS↓ + Anisokorie + Cushing-Reflex RR↑/HF↓ + Beuge-/Strecksynergismen)
 > 1. **Abfluss:** OberkörperHOCHlagerung 30°, kein Stifneck

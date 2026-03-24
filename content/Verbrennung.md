@@ -8,7 +8,7 @@ aliases:
   - Verbrühung
 ---
 > [!danger]+ Resuscitation
-> 1. **Inhalationstrauma?** [[Atemwegsmanagement]]
+> 1. **Inhalationstrauma?** [[A–Airway|Atemwegsmanagement]]
 > 2. **Begleitverletzungen?** [[Polytrauma|Polytraumaversorgung]]
 > 3. **Rauchgas?** [[CO]]/[[Cyanide]]
 > 4. ggf. [[Escharotomie]]

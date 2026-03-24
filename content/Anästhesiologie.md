@@ -9,7 +9,7 @@ tags:
 	- [[Regionalanästhesie]]
 - Perioperatives Management
 	- [[PBM]]
--  [[Atemwegsmanagement]]
+-  [[A–Airway|Atemwegsmanagement]]
 
 ## Diagnosen
 - [[OSAS]]
