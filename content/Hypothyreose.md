@@ -1,9 +1,13 @@
 ---
 tags:
   - Fach/Endokrinologie
-  - Diagnosen
   - Status/Empty
+  - Diagnosen/Chronisch
 ICD: E00-E07
+aliases:
+  - Thyreotoxische Krise
+  - Thyreotoxikose
+title: Hypothyreose inkl. Thyreotoxische Krise
 ---
 
 ## Literatur

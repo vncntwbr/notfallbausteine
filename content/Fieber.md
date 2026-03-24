@@ -11,15 +11,15 @@ aliases:
   - Hyperthermie
 ICD: R50
 ---
-> [!info] Definition
+> [!info]+ Definition
 > - **Fieber:** Endogene Sollwertverschiebung Hypothalamus
-> - **Hyperthermie:** Exogener unkontrollierter Temp.-Anstieg (Hitze, Meds) → Antipyretika wirkungslos
+> - **Hyperthermie:** Exogener unkontrollierter Temp.-Anstieg (z.B. Hitze, Meds) → Antipyretika wirkungslos
 
 > [!dd]+ DD Hyperthermie
 >  - **FIEBER:** Infektion/[[Sepsis]]
 >  - **[[Intox]]:** [[MNS|Maligne Neuroleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Sympathomimetisch]], [[Maligne Hyperthermie|MH]]
 >  - **[[Hitzschlag]]**
->  - **[[Thyreotoxische Krise]]**
+>  - **[[Hypothyreose|Thyreotoxische Krise]]**
 >  - Sympathikus-Erregung / körperliche Belastung
 
 ^e41d98
