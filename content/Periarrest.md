@@ -12,7 +12,7 @@ title: Periarrest / Impending Doom
 > 2. **[[Adrenalin]]** 100 μg [[Push-Dose]] i.v.
 > 3. **[[POCUS]]:** [[Pneu]]? [[Perikarderguss|Tamponade]]? [[LAE]]? [[Aorta]]?
 
-> [!workup]+ Clinical Signs of Impending Doom
+> [!workup]+ Clinical Signs of Impending Doom[^1]
 > - **Aussehen**
 > 	- LLS – Looks Like Shit
 > 	- Blass, Kalt
@@ -24,7 +24,5 @@ title: Periarrest / Impending Doom
 > 	- "Ich muss 💩"
 > 	- "Ich muss hier weg"
 > 	- "Ich sterbe"
-
-[^1]
 
 [^1]: Cliff Reid, DGINA 2025
