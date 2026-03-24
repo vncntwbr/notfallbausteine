@@ -80,26 +80,26 @@ title: Injurity Severity Scale (ISS)
 > 2. A. hepatica<br>A./V. splenica<br>A. gastrica R/L<br>A. gastroduodenalis<br>A./V. mesenterica inferior<br>Primäre Äste der A./V. mesentericae<br>Andere benannte Gefäße mit Therapiekonsequenz
 > 3. V. mesenterica superior Hauptstamm<br>A./V. renalis<br>A./V. iliaca communis<br>A./V. hypogastrica<br>V. cava inferior, infrarenal
 > 4. A. mesenterica superior Hauptstamm<br>Truncus coeliacus<br>V. cava inferior, suprarenal infrahepatisch<br>[[Aorta]] abdominalis, infrarenal
-> 5. V. portae<br>V. hepatica, extraparenchymal<br>V. cava inferior, retro-/suprahepatisch<br>[[Aorta]] abdominalis, suprarenal infradiaphragmatisch (Zone 3)
+> 5. V. portae<br>V. hepatica, extraparenchymal<br>V. cava inferior, retro-/suprahepatisch<br>[[Aorta]] abdominalis, suprarenal infradiaphragmatisch
 > 
 > gilt nur für extraparenchymale Gefäßverletzungen, bei <2 cm Nähe zu Organ gilt OIS des jeweiligen Organs
 > +1 für mehrere 3°/4° mit >50% Umfang
 > –1 für 4°/5° mit <25% Umfang
 
 > [!stadien]- OIS Leber
-> 1. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
-> 2. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Intrakapsuläres Hämatom <10 cm Durchmesser<br>ODER Laceration 1-3 cm Tiefe + ≤10 cm Länge
-> 3. Subkapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom<br>ODER Intraparenchymales Hämatom >10 cm<br>ODER Laceration >3 cm Tiefe<br>ODER Jede Gefäßverletzung mit aktiver Blutung auf Leberkapsel begrenzt (CT)
-> 4. Parenchymale Disruption von 25-75% eines Leberlappens <br>ODER Aktive Blutung über Leberparenchym hinaus ins Peritoneum
-> 5. Parenchymale Disruption von >75% eines Leberlappens <br>ODER Verletzung von V. cava inferior / V. hepatica
+> 6. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
+> 7. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Intrakapsuläres Hämatom <10 cm Durchmesser<br>ODER Laceration 1-3 cm Tiefe + ≤10 cm Länge
+> 8. Subkapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom<br>ODER Intraparenchymales Hämatom >10 cm<br>ODER Laceration >3 cm Tiefe<br>ODER Jede Gefäßverletzung mit aktiver Blutung auf Leberkapsel begrenzt (CT)
+> 9. Parenchymale Disruption von 25-75% eines Leberlappens <br>ODER Aktive Blutung über Leberparenchym hinaus ins Peritoneum
+> 10. Parenchymale Disruption von >75% eines Leberlappens <br>ODER Verletzung von V. cava inferior / V. hepatica
 >  
 > +1 für multiple Läsionen bis max. 3°
 
 > [!stadien]- OIS Milz
-> 1. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
-> 2. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Parenchymale Laceration 1-3 cm Tiefe<br>ODERapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom ≥5 cm<br>ODER Parenchymale Laceration >3 cm Tiefe
-> 3. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)<br>ODER Parenchymale Laceration mit Gefäßbeteiligung und >25% Devaskularisation
-> 4. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)<br>ODER Hilusverletzung mit Devaskularisation (OP)<br>ODER Shattered Milz
+> 11. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
+> 12. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Parenchymale Laceration 1-3 cm Tiefe<br>ODERapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom ≥5 cm<br>ODER Parenchymale Laceration >3 cm Tiefe
+> 13. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)<br>ODER Parenchymale Laceration mit Gefäßbeteiligung und >25% Devaskularisation
+> 14. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)<br>ODER Hilusverletzung mit Devaskularisation (OP)<br>ODER Shattered Milz
 >  
 > +1 für multiple Läsionen bis max. 3°
 
