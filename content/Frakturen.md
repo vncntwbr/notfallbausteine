@@ -4,7 +4,7 @@ tags:
   - Status/ToDo
   - Fach/Orthopädie
 ---
-> [!stadien]- AO-Klassifikation
+> [!stadien]+ AO-Klassifikation
 > 1. **Knochen:** 1=OA, 2=UA, 3=OS, 4=US, 5=WS, 6=Becken, 7=Hand, 8=Fuß, 9=Schädel
 > 2. **Lokalisation:** 1=proximal, 2=Schaft, 3=distal
 > 3. **Frakturtyp:** A=einfach, B=keilförmig, C=komplex

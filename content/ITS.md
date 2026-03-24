@@ -3,6 +3,8 @@ tags:
   - Fach/Intensivmedizin
   - Status/Done
   - Basics
+aliases:
+title: Intensivmedizinisches Bridging (ITS)
 ---
 
 - [ ] Name / Alter / Geschlecht / Zimmer / LT

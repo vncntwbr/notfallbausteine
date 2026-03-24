@@ -17,6 +17,6 @@ title: Peritonsillarabszess (PTA)
 > Gewinnung eines Abstrichs zur mikrobiologischen Untersuchung, anschließend Einleitung einer kalkulierten antiinfektiven Therapie mit Ampicillin/Sulbactam 2/1g 8-stündlich i.v.
 > 
 > Empfehlungen für Station:
-> - morgen nüchtern lassen zur Reevaluation und ggf. Nachspreizen
+> - morgennüchtern lassen zur Reevaluation und ggf. Nachspreizen
 > - Mundspülungen mit Salbeitee / Chlorhexidin
 > ```

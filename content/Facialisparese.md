@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Fach/Neurologie
   - Status/Done
+  - Fach/HNO
 title: Periphere Facialisparese
 ICD: G51
 ---

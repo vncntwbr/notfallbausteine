@@ -9,6 +9,8 @@ tags:
 aliases:
   - Newborn-Life-Support
   - Neugeborenen-Reanimation
+  - Neugeborenes
+  - Neugeborene
 title: Neugeborenen-Reanimation / Newborn-Life-Support (NLS)
 ---
 

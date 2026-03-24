@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Diagnosen
   - Status/Done
+  - Status/ZuRationalisieren
 aliases:
   - Aortenklappeninsuffizienz
   - Aorteninsuffizienz

@@ -12,7 +12,7 @@ ICD: I80
 > [!dd]+ DD siehe [[Extremitätenschmerz]] – Cave [[LAE]]
 
 > [!anamnese]+ Anamnese
-> - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], Hämoptysen, [[TLOC]])? B-Symptomatik?
+> - **S:** Typisch TVT (dumpf,  Muskelkater-artiger Schmerz, Schweregefühl, Schwellung, Besserung durch Hochlagerung)? [[LAE]]-Sympt. (Husten, [[Dyspnoe]], [[Hämoptysen]], [[TLOC]])? B-Symptomatik?
 > - **A:** Z.n. HIT? Heparin? DOAK?
 > - **M:** Hormonelle Kontrazeption / Hormonpräparate? [[AK]]?
 > - **P:** Tumor? [[Schwanger]]/Wochenbett? Rez. Aborte ([[Antiphospholipid]])? Gerinnungsdiagnostik? [[CKD]] (DANI)?
@@ -23,7 +23,7 @@ ICD: I80
 > 1. **Direkt [[Kompressionssonografie]]** bei [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≥2 Pkt., [[Schwanger]], V.a. Armvenenthrombose[^2]
 > 2. **Sonst [[D-Dimer]] alterskorrigiert** (nur bei [Wells-TVT](https://www.mdcalc.com/calc/362/wells-criteria-dvt) ≤1 Pkt.) → Ausschluss oder [[Kompressionssonografie|Sono]]
 > 3. **Zzgl. [[LAE]]?** TVT diagnostiziert + klinisch V.a. [[LAE]] = gesichert, CTPA nur bei [[RHB]]/Instabil zur Evaluation [[Thrombektomie]][^5]
-> - **[[Untersuchung|U]]:** VP (insb. [[Tachykardie]], [[Hypoxie]])? Beine (Ödeme, Entzündung, Fußpulse)
+> - **[[Untersuchung|U]]:** VP (insb. [[Tachykardie]], [[Hypoxie]])? Beine ([[Ödeme]], Entzündung, Fußpulse)
 > 	- *Thrombosezeichen:* Meyer (Waden-Kompr.-Schmerz), Payr (Fußsohlen-Kompr.-Schmerz), Homans (Wadenschmerz b. Dorsalextension Fuß)
 > - **[[EKG]]:** H.a. [[LAE]] ([[Tachykardie]], [[RHB]])?
 > - **[[POCUS]]:** Vollständige TVT-Sono (Ausschluss mögl.) oder 3-Pkt. (neg. = Vollständige Kontroll-Sono in 4-7d), ggf. +[[RHB]]?

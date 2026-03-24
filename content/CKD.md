@@ -1,8 +1,8 @@
 ---
 tags:
-  - Diagnosen
   - Fach/Nephrologie
   - Status/Done
+  - Diagnosen/Chronisch
 ---
 > [!dd]- Ätiologie
 > - 40% Diabetische Nephropathie
@@ -26,7 +26,7 @@ tags:
 > [!info]- Mechanismen
 > - **Hypervolämie**
 > 	- [[Hypertonie]]
-> 	- Ödeme
+> 	- [[Ödeme]]
 > 	- Interstitielles [[Lungenödem]]
 > - **[[Urämie]]**
 > 	- Foetor, Hautflecken, Pruritus

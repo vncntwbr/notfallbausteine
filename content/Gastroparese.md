@@ -3,6 +3,7 @@ tags:
   - Fach/Gastroenterologie
   - Status/Started
   - Diagnosen
+  - Status/ZuRationalisieren
 ---
 
 - Retentionsmagen ohne [[Ileus]] / GI-Obstruktion

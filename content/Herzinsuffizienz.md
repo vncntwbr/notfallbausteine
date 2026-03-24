@@ -21,7 +21,7 @@ ICD: I50
 > - Weitere Komorbiditäten: [[COPD]], [[CKD]]/[[AKI]], [[Anämie]] etc.
 
 > [!anamnese]+ Anamnese
-> - **S:** Dyspnoe (NYHA), Orthopnoe? [[Brustschmerz]] ([[ACS]])? Husten? TLOC? Palpitationen? Ödeme? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
+> - **S:** Dyspnoe (NYHA), Orthopnoe? [[Brustschmerz]] ([[ACS]])? Husten? TLOC? Palpitationen? [[Ödeme]]? Urin (Nykturie)? Appetitlosigkeit/[[Ü+E]]? Leistungsminderung? Gewichtsverlauf?
 > - **M:** Diuretika? Adhärenz? Änderungen?
 > - **P:** KHK? CVRF? COPD?
 > - **L:** TTE (LVEF)? [[HKU]]? Gewicht?
@@ -29,7 +29,7 @@ ICD: I50
 > - **R:** Familie? Noxen?
 
 > [!workup]+
-> - **[[Untersuchung|U]]:** VP? HT, AG? VJI? Ödeme/Anasarka?
+> - **[[Untersuchung|U]]:** VP? HT, AG? VJI? [[Ödeme]]/Anasarka?
 > - **[[EKG]]:** [[ACS]]? HRST?
 > - **[[POCUS]]:** [[TTE]], Pleuraergüsse, [[LUS]] (B-Lines), VCI, Leber/Nieren
 > - **[[Labor]]:** [[BGA]] ([[Anämie]]? Elyte?), BNP, Niere, Leber, CRP, Albumin, ± Troponin ± [[D-Dimer]]

@@ -14,7 +14,7 @@ ICD: R56.8, G41
 > 	1. ==**[[Benzos|Midazolam]]** 10 mg i.m.== (1x wiederholen)
 > 	   oder [[Benzos|Midazolam]] 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
 > 	   oder [[Benzos|Lorazepam]] (Tavor®) 2-4 mg i.v. (max. 2x4 mg = ∑8 mg)
-> 	2. **[[Levetiracetam]]** 4.5 g i.v. als KI (<15 min)
+> 	2. **[[Antikonvulsiva|Levetiracetam]]** 4.5 g i.v. als KI (<15 min)
 > 	3. **[[RSI]]** mit Propofol 100-200 mg ± [[esKETAmin]] 100-200 mg (<60 min)
 > 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
 > 4. **[[Alkohol]]?** Thiamin 100 mg i.v.

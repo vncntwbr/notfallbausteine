@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Probleme/Herz-Thorax
   - Diagnosen
+  - Status/ZuRationalisieren
 aliases:
   - SCAPE
 ICD: J81

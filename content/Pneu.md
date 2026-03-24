@@ -20,7 +20,7 @@ ICD: J93
 > - **A:** Lokalanästhetika?
 > - **M:** [[AK]]?
 > - **P:** Jemals Pneu? Lungenerkrankung? Malignom? Z.n. Pleurodese?
-> - **L:** Mahlzeit (nüchtern)?
+> - **L:** Mahlzeit ([[nüchtern]])?
 > - **E:** Trauma?
 > - **R:** THC? Vaping? Nikotin? Lachgas? Alkohol? Andere Drogen?
 

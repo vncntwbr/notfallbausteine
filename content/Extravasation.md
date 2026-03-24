@@ -1,3 +1,14 @@
+---
+aliases:
+  - Paravasat
+  - Extravasat
+tags:
+  - Fach/Anästhesiologie
+  - Fach/Pharmakologie
+  - Diagnosen
+---
+
+
 - [[Katecholamine]] zu anderem Zugang switchen
 - Zugang belassen, maximal Aspirieren
 - Nitro 2% Ointment q8h

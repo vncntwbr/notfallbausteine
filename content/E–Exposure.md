@@ -12,7 +12,8 @@ tags:
 
 > [!management]+ Ungezielte Interventionen
 > - **[[Analgesie]]**
-> - **Temperaturmanagement:** Wärmeerhalt bzw. Kühlung/[[TTM]]
+> - **Wärmeerhalt** bei [[Hypothermie]]
+> - **Kühlung/[[TTM]]** bei [[Fieber|Hyperthermie]]
 > - **[[Immobilisation]]**
 
 ![[Fieber#^e41d98]]

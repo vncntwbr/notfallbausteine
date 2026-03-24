@@ -8,7 +8,7 @@ aliases:
 title: Noradrenalin (NA)
 ---
 > [!danger]+ Rapid Reference
-> - **Wirkung:** ⍺1 > ⍺2 (==Vasokonstriktion== → reflektorische Bradykardie), gering β1
+> - **Wirkung:** ⍺1 > ⍺2 (==Vasokonstriktion== → reflektorische [[Bradykardie]]), gering β1
 > - **Indikation:** [[Sepsis]], undifferenzierter [[Schock]]
 > - **Dosis:** 
 > 	- 20 μg [[Push-Dose]]

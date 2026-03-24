@@ -3,6 +3,7 @@ tags:
   - Fach/Hämatologie
   - Status/Started
   - Diagnosen
+  - Status/ZuRationalisieren
 title: Hämophagozytische Lymphohistiozytose (HLH)
 ---
 

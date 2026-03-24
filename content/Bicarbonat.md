@@ -5,6 +5,7 @@ tags:
 aliases:
   - Bicarb
   - NaBic
+  - Isotones Bicarbonat
 title: Bicarbonat (NaBic)
 ---
 > [!danger] Isotones [[Bicarbonat|NaBic]] 1 L anmischen: [[Bicarbonat|NaBic]] 8.4% 150 ml + G5% 850 ml

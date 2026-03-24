@@ -2,6 +2,9 @@
 tags:
   - Status/Started
   - Meta
+aliases:
+  - Lehre
+title: Education / Lehre
 ---
 - EPA = trash[^3]
 - Presentations[^4]

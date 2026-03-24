@@ -1,6 +1,9 @@
 ---
 tags:
   - Probleme/Allgemein
+title: Obdachlosigkeit
+aliases:
+  - Obdachlosigkeit
 ---
 ## Berlin
 - Kältebus Tel. 690333690 (Nov-Mrz, 20:00-02:00)

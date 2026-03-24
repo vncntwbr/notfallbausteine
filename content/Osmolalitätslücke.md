@@ -3,6 +3,7 @@ tags:
   - Basics
   - Status/Started
   - Fach/Nephrologie
+  - Fach/Labormedizin
 ---
 
 - I **Def:** Lücke = Berechnete Osmolalität - Gemessene Osmolalität

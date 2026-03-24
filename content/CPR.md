@@ -22,7 +22,7 @@ OPS: 8-771
 >    *[[Adrenalin]]-[[Perfusor]]:* 10 mg / 50 ml = 75 ml/h
 
 > [!workup] Reversible Ursachen (DD: [[Trauma-CPR]])
-> - **AB:** Hypoxie? [[Pneu]]?
+> - **AB:** [[Hypoxie]]? [[Pneu]]?
 > - **C:** Tamponade? Hypovolämie? [[LAE]] ([[Lyse]])? OMI ([[ECMO]])?
 > - **[[BGA]]:** [[HyperK+]] (CalcGluc 10% 30 ml + Insulin 10 IE + G10% 250ml + [[Bicarbonat|NaBic]] 8.4% 100 ml, spülen)? [[HypoK+]] (KCl 40 mmol + [[MgSO4]] 2g als KI)? [[Hypoglykämie]]? [[Intox]]?
 > - **E:** [[Fieber]] (kühlen, NaCl 3%)? [[Hypothermie]] (<30° Ø Epi, <35° q8min)?

@@ -2,6 +2,7 @@
 tags:
   - Fach/Neurologie
   - Fach/Intensivmedizin
+  - Interventionen/Diagnostik
 ---
 - **ESICM Post-[[ROSC]]-Neuroprognose Algorithmus** in 3 RCTs extern validiert, inkl. in Korea (EOLD extrem selten, somit vermeiden einer selbsterfüllenden Prophezeiung), NULL falsch-positive Vorhersagen[^1]
 	- ![[Pasted image 20251222155347.png]]

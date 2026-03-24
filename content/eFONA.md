@@ -3,7 +3,11 @@ tags:
   - Interventionen/HALO
   - Status/Done
   - Fach/Anästhesiologie
-title: Emergency Front of Neck Access (eFONA) & Koniotomie
+title: Emergency Front of Neck Access (eFONA) / Koniotomie / Cricothyroidotomie
+aliases:
+  - Koniotomie
+  - Cricothyroidotomie
+  - Front of Neck Access
 ---
 >[!danger]+ Koniotomie
 > 1. **ApnoeOx**

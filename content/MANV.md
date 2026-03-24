@@ -23,8 +23,7 @@ title: Massenanfall an Verletzten/Erkrankten (MANV/MANE)
 > 1. *Laufen?* → <span style="background-color:limegreen">SK3/grün</span>
 > 2. *Starke Blutung?* —Blutstillung→ <span style="background-color:orangered">SK1/rot</span>
 > 3. *Redet nicht?* —SSL→ *Atmet?* → <span style="background-color:orangered">SK1/rot</span>, sonst <span style="background-color:darkgrey">tot/schwarz</span>
-> 4. *[[Penetrierendes Trauma]] vorne/hinten?*  → <span style="background-color:orangered">SK1/rot</span>, sonst <span style="background-color:gold">SK2/gelb</span>
-
-<div style="page-break-after: always;"></div>
-
-[![](https://www.england.nhs.uk/wp-content/uploads/2023/04/ten-second-triage.png)](https://www.england.nhs.uk/wp-content/uploads/2023/04/ten-second-triage.png)
+> 4. *[[Penetrierend]] vorne/hinten?*  → <span style="background-color:orangered">SK1/rot</span>, sonst <span style="background-color:gold">SK2/gelb</span>
+> <div style="page-break-after: always;"></div>
+> 
+> ![[Pasted image 20260324164918.png]]

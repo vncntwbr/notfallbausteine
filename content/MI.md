@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - POCUS
   - Diagnosen
+  - Status/ZuRationalisieren
 title: Mitralklappeninsuffizienz (MI)
 ---
 > [!danger]+ Rapid Reference

@@ -9,7 +9,7 @@ title: Schwangerschaft
 > [!dd]+ DD
 > - **Killer:** [[Hypertensive Schwangerschaftserkrankungen]], [[PPH]]
 > - **Leitsymptombasiert zstzl. Ursachen:**
-> 	- *[[Brustschmerz]]:* Reflux, Peripartale Kardiomyopathie, SCAD, [[LAE]], [[Aorta]]
+> 	- *[[Brustschmerz]]:* Reflux, Peripartale [[Kardiomyopathie]], SCAD, [[LAE]], [[Aorta]]
 > 	- *[[Bauchschmerz]]:* Oft unspez., [[Obstipation]]/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[Hypertensive Schwangerschaftserkrankungen]]
 > 	- *Trauma:* IUFT, vorz. Plazentalösung u.a. (Cave: Rh-Prophylaxe?)
 > - **Frühschwangerschaft <20. SSW:**

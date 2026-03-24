@@ -4,6 +4,7 @@ tags:
   - Interventionen
   - Status/Started
   - Fach/Gastroenterologie
+  - Diagnosen/Chronisch
 title: Perkutane endoskopische Gastrostomie (PEG)
 ---
 - **T PEG disloziert**

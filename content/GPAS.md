@@ -1,6 +1,7 @@
 ---
 tags:
   - Basics/Soft-Skills
+  - Status/ZuRationalisieren
 title: Goal-Plan-Action-Skills (GPAS)
 aliases:
   - Goal-Plan-Action-Skills

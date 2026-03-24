@@ -55,7 +55,7 @@ tags:
 > [!management]- Co-Analgetika
 > - **Bei Neuropathischen Schmerzen:**
 > 	- *Pregabalin (Lyrica®):* 0-0-50 mg p.o., alle 3d +50 mg, max. 600 mg/d, Cave Abhängigkeit, QTc
-> 	- *Gabapentin:* 0-0-100/200 mg p.o., alle 3d +100 mg, max. 1200 mg/d, Cave Abhängigkeit, UAW Müde, Schwindel, Ödeme
+> 	- *Gabapentin:* 0-0-100/200 mg p.o., alle 3d +100 mg, max. 1200 mg/d, Cave Abhängigkeit, UAW Müde, Schwindel, [[Ödeme]]
 > 	- *Carbamazepin:* 0-0-200 mg p.o., alle 3d +100 mg, max. 600-1200 mg/d, Cave Agranulozytose, ALT/AST, CYP450-Induktion
 > 	- *Amitriptylin:* 0-0-0-10 mg p.o., +25 mg/Wo, max. 150 mg/d, Cave QTc, [[Anticholinerg]] (Glaukom, Mundtrockenheit), KI Geriatrie, Aufklärung Einsatz als Analgetikum nicht Antidepressivum
 > - **Muskelrelaxanzien bei MSK/[[Rückenschmerz]]:**

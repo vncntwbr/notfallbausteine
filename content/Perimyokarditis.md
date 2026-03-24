@@ -4,6 +4,10 @@ tags:
   - Status/Started
   - Diagnosen
 ICD: I30, I41
+aliases:
+  - Myokarditis
+  - Perikarditis
+title: Perimyokarditis (Perikarditis, Myokarditis)
 ---
 - **Ä:** Idiopath./viral, TBC, autoimmun, Urämie, Med/Drogen, Tumor, Trauma
 - **[[Untersuchung|U]]/W:** Pleurit. [[Brustschmerz]], Reibegeräusch, [[EKG]] ubiqu. konkave [[Ischämie-EKG|STE]], PR-Depr., [[POCUS]]

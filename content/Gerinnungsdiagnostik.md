@@ -2,6 +2,7 @@
 tags:
   - Fach/Labormedizin
   - Fach/Hämatologie
+  - Status/Started
 ---
 - INR (VKA, Leberversagen, DOAK, DIC)
 - PTT (UFH, Hämophilie, vWS, [[Antiphospholipid]], 15% Laborfehler)

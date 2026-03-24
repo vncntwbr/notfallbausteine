@@ -9,7 +9,7 @@ title: Tranexamsäure (TXA)
 ---
 > [!danger]+ Rapid Reference
 > - **==Hämorrhagie==:** 1g als KI
-> - **Hämoptysen:** 1g pur inhalativ
+> - **[[Hämoptysen]]:** 1g pur inhalativ
 > - **[[GI-Blutung]]:** Vermutlich wirkungslos[^1]
 > - **Kinder:** 15 mg/kg als KI
 

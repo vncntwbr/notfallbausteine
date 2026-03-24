@@ -4,12 +4,12 @@ tags:
   - Status/Started
   - Fach/Palliativmedizin
 ---
-> [!danger]+ Ermittlung Patientenwille
+> [!workup]+ Ermittlung Patientenwille
 > 1. **Einwilligungsfähiger Pat.:** Aktuell geäußerter Wille
 > 2. **Patientenverfügung/ACP** ([vorsorgeregister.de](https://www.vorsorgeregister.de/aerzte)) oder **Vertreter nach Vorsorgevollmacht**
 > 3. **Mutmaßlicher Wille**
 
-> [!management] Symptomkontrolle
+> [!management]+ Symptomkontrolle
 > - **[[Dyspnoe]]:** Opioidnaiv Morphin 5-10 mg i.v.
 > - **Schmerzexazerbation**
 > - **Angst, Unruhe, [[Delir]]:** [[Benzos|Lorazepam]] 1 mg s.l., alternativ [[Benzos|Midazolam]] 1-2 mg-weise i.v. oder 2-5 mg s.c., psychotisch Haloperidol 5 mg s.c.
@@ -22,16 +22,13 @@ tags:
 > - **Durst/Mundtrockenheit:** Mundpflege, OraCare Xylimelts 1-0-1
 > - **Terminalphase:** Morphin-Bolus s.o. + [[Perfusor]] 1 mg/kg/h ±0.5 nach Effekt
 
-> [!disposition]
+> [!disposition]+
 > - SAPV-Anbindung...
-
----
+## Literatur
+- [S3-Leitlinie Palliativmedizin für Patienten mit einer nicht heilbaren Krebserkrankung](https://register.awmf.org/de/leitlinien/detail/128-001OL)
 - P-CaRES Implementation[^1] und Content Validation[^3]
 - "I told Mark that we could work toward more time or more sunshine, depending on what he cherished most."[^2]
 - *Definition Palliativversorgung (WHO):* Ansatz zur Verbesserung der Lebensqualität von Patienten und ihren Familien, die mit Problemen konfrontiert sind, welche mit einer lebensbedrohlichen Erkrankung einhergehen. Dies geschieht durch Vorbeugen und Lindern von Leiden durch frühzeitige Erkennung, sorgfältige Einschätzung und Behandlung von Schmerzen sowie anderen Problemen auf körperlicher, psychosozialer und spiritueller Ebene.[^4]
-
-## Literatur
-- [S3-Leitlinie Palliativmedizin für Patienten mit einer nicht heilbaren Krebserkrankung](https://register.awmf.org/de/leitlinien/detail/128-001OL)
 
 [^1]: Bowman J, George N, Barrett N, Anderson K, Dove-Maguire K, Baird J. Acceptability and Reliability of a Novel Palliative Care Screening Tool Among Emergency Department Providers. Acad Emerg Med. 2016 Jun;23(6):694-702. doi: 10.1111/acem.12963. Epub 2016 May 13. PMID: 26990541.
 

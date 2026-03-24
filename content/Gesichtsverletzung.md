@@ -6,5 +6,5 @@ tags:
 ---
 > [!dd]+ Killer
 > - Retrobulbäres Hämatom
-> - [[Anatomisch schwieriger Atemweg]]
+> - [[A–Airway|AW-Verlegung]] mit [[Anatomisch schwieriger Atemweg]]
 > - Begleitverletzungen

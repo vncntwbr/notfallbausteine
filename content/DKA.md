@@ -5,8 +5,7 @@ tags:
   - Status/Done
 title: Diabetische Ketoazidose (DKA)
 ---
-
-> [!danger] Resuscitation bei A/B/C-Problem
+> [!danger]+ Resuscitation bei ABC-Problem
 > 1. **[[Volumentherapie]]**
 > 2. **Maximale Ventilation:** [[NIV]], [[Physiologisch schwieriger Atemweg]]
 > 3. **Kalium-Substitution** ± **Insulin**
@@ -18,7 +17,7 @@ title: Diabetische Ketoazidose (DKA)
 
 > [!dd]+ DD: [[Hyperglykämie]], [[Met. Azidose|nicht-diabetische Ketoazidose]] (z.B. Alkohol, Fasten, SGLTi)
 
-> [!anamnese]+
+> [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? [[Ü+E]]? Diarrhoe? [[Fieber]], Schüttelfrost? Polyurie, Algurie? Husten? Wunden? Gewichtsverlust? Polydipsie? AP? [[Dyspnoe]]? [[TLOC]]? [[FND]]?
 > - **M:** Insulinschema/-pumpe? Tagesbedarf? Änderung Insulingaben? SGLTi ("-glifozin")?
 > - **P:** Diabetes bekannt (Typ, ED)? Z.n. DKA? Z.n. [[Pankreatitis]]/Pankreas-OP?
@@ -26,7 +25,7 @@ title: Diabetische Ketoazidose (DKA)
 > - **E:** Infekt? Trauma? OP? Entzug? 
 > - **R:** Alkohol? Drogen?
 
-> [!workup]
+> [!workup]-
 > 1. **Nachweis Ketoazidose:** [[Met. Azidose]], Ketone in [[U-Status]]
 > 	- *Okkulte DKA:* nw pH + nw HCO3-, da durch Erbrechen [[Met. Alkalose]] (∆∆-AG berechnen), euglykäm (SGLT2i)
 > 2. **Ätiologie:** Infekt? ED Diabetes? Incompliance/Fehlfunktion Insulin? Meds? Drogen? Sonstige schwere Akuterkrankung?
@@ -36,12 +35,12 @@ title: Diabetische Ketoazidose (DKA)
 > - **[[Labor]]:** [[BGA]] ([[Met. Azidose|Anionenlücke]]?), Profil "Sepsis", 1x Serum für C-Peptid (ED Diabetes), [[BK]], ideal + β-Hydroxybutyrat, Phosphat
 > - **[[POCUS]]/[[Radiologie]]:** Fokussuche
 
-> [!stadien]
+> [!stadien]-
 > - **Leicht:** pH 7.2-7.3, HCO3- >15 mM
 > - **Mittel:** pH 7.1-7.2, HCO3- 10-15 mM
 > - **Schwer:** pH <7.1, HCO3- <5 mM
 
-> [!management]+
+> [!management]-
 > 1. **[[Volumentherapie]]:** VEL 1-2 l in 1h, dann 500 ml/h
 > 2. **Insulintherapie:**
 > 	1. [[Perfusor]] 0.05-0.1 IE/kg/h i.v. (kein Bolus), bei leichter DKA ggf. s.c. gem. [SQuID-Protocol](https://rebelem.com/the-squid-protocol-sq-insulin-in-dka/)

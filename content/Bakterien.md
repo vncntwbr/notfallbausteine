@@ -1,6 +1,7 @@
 ---
 tags:
   - Fach/Infektiologie
+  - Fach/Labormedizin
 ---
 - **Grampositiv**
 	- **Grampositive Kokken**

@@ -25,7 +25,7 @@ ICD: I20-I25
 > 	- SCAD
 ## Workup
 > [!anamnese]-
-> - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? Hämoptysen?
+> - **S:** OPQRST+ (reißend, wandernd, stärkst → [[Aorta]])? Fieber/Infekt? Dyspnoe? [[Hämoptysen]]?
 > - **A:** Analgetika-Asthma?
 > - **M:** ASS/[[DAPT]]? [[AK]]?
 > - **P:** ==Bek. KHK, z.N. PCI/ACVB?== Diabetes? OPs thorakal? Tumor? [[Schwanger]]? [[Aorta]]?
@@ -37,7 +37,7 @@ ICD: I20-I25
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)
 > 	- Auskultation (Vitien? Stauung? RG? Pneu? Pleuritis?)
 > 	- Abd (Oberbauch?)
-> 	- Extremitäten (Ödeme? TVT? Zentralisation?)
+> 	- Extremitäten ([[Ödeme]]? TVT? Zentralisation?)
 > 	- Habitus (<45 J.: Marfanoid?)
 > - **[[EKG]]:** #1 <10min, #2 <1h, siehe [[Ischämie-EKG]]
 > - **[[Labor]]:** Profil "Brustschmerz", [[Troponin]][^3], [[D-Dimer]] nur gezielt (s. [[LAE]])

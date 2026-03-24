@@ -11,7 +11,7 @@ ICD: D50-D64
 > -  **Hämorrhagischer Schock?** → [[Blutungsmanagement]]
 > - **Def:** [W] Hb <12 g/dl ≈ <7.5 mM, [M] Hb <13 g/dl ≈ <8.0 mM
 > - **Klassifikation:** mikro/hypo MCV↓ MCH↓ vs. makro/hyper MCV↑ MCH↑
-> - ==**Anämische Hypoxie?** Unter Euvolämie 1 von: Tachypnoe, [[Dyspnoe]], [[Tachykardie]], [[Hypotonie]], [[Ischämie-EKG]], [[Lactat]]==
+> - ==**Anämische [[Hypoxie]]?** Unter Euvolämie 1 von: Tachypnoe, [[Dyspnoe]], [[Tachykardie]], [[Hypotonie]], [[Ischämie-EKG]], [[Lactat]]==
 
 > [!dd]- DD
 > - **Bildung↓**
@@ -30,7 +30,7 @@ ICD: D50-D64
 > ![[Pasted image 20260318151825.png]]
 
 > [!anamnese]-
-> - **S:** [[Dyspnoe]]? AP? [[Synkope]]? Urin? Stuhl? Hämoptysen? [[Epistaxis]]? Menorrhoe? Sonstige Blutungen? B-Symptomatik? Ödeme?
+> - **S:** [[Dyspnoe]]? AP? [[Synkope]]? Urin? Stuhl? [[Hämoptysen]]? [[Epistaxis]]? Menorrhoe? Sonstige Blutungen? B-Symptomatik? [[Ödeme]]?
 > - **A:** Transfusionsreaktion? Irreguläre Antikörper?
 > - **M:** [[AK]]/TAH? NSAR? Cortison? CTX? Myelotoxische Med?
 > - **P:** [[CKD]]? Onko? GI? Herzklappenersatz? [[Aorta]]? Z.n. OP?
@@ -40,7 +40,7 @@ ICD: D50-D64
 
 > [!untersuchung]-
 > - Ikterus?
-> - Blutungsstigmata (Petechien)?
+> - Blutungsstigmata ([[Petechien|Petechien]])?
 > - Splenomegalie?
 > - [[DRU]] (kein iFOBT)
 
@@ -59,7 +59,7 @@ ICD: D50-D64
 > - **ggf. O2-Gabe**
 > - **[[Transfusion|Transfusionsindikation]]?**
 > - **Nach Ursache:**
-> 	- *Eisenmangel:* Eisen(2)sulfat 100 mg p.o. jeden 2. Tag, ideal nüchtern mit Vitamin C, ggf. Coloskopie
+> 	- *Eisenmangel:* Eisen(2)sulfat 100 mg p.o. jeden 2. Tag, ideal [[nüchtern]] mit Vitamin C, ggf. Coloskopie
 > 	- *Megaloblastär:* Ursache (Ernährung, Alkohol)? Ausschluss B12-Mangel (Holo-TC)![^1]
 > 		- *Folsäuremangel:* B12 initial 4 mg p.o. 1-0-0
 > 		- *Vitamin-B12-Mangel:* 1000 μg i.m. 1x/d für 1 Woche, hausärztlich reduzieren[^2]

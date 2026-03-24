@@ -1,3 +1,9 @@
+---
+aliases:
+  - Codierung
+title: Codierung (ICD-11 GM)
+---
+
 ## Best of ICD
 ### R45 Symptome, die die Stimmung betreffen
 - R45.0 Nervosität

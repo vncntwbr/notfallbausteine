@@ -4,6 +4,10 @@ tags:
   - Status/Started
   - Diagnosen
 aliases:
+  - ICB
+  - SAB
+  - EDH
+  - SDH
 ICD: I60-I62
 ---
 
@@ -18,6 +22,18 @@ ICD: I60-I62
 - [[SDH]]
 - [[SAB]]
 - [[ICB]]
+
+## SAB
+
+## ICB
+- **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. [[AK]] letzte Dosis, (E) Vorzustand
+- **T**
+	- *[[Blutungsmanagement]]:* Antagonisierung, Thrombos >100/nl
+	- *RRsys:* Ziel 130-150, bei initial >220 Ziel 140-180
+	- *A:* Intubation[^3]
+
+[^3]: 2/3 Pat. brauchen keine ITN ([PMID 31092052](https://pubmed.ncbi.nlm.nih.gov/31092052/))
+
 
 [^1]: [Complete Neurological Recovery After Emergency Burr Hole Placement Utilizing EZ-IO® for Epidural Hematoma](https://www.jem-journal.com/article/S0736-4679(22)00354-7/abstract)
 

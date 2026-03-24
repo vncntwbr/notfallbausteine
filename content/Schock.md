@@ -38,7 +38,7 @@ title: Schock & Hypotonie
 > 	- Plasmaverlust ([[Verbrennung]], Diurese, [[Ü+E]]/Diarrhoe, [[Pankreatitis]] u.ä., Exsikkose, [[Fieber]], ...)
 > 	- Hämorrhagie/Blutung
 > - **Kardiogen:**
-> 	- [[ACS]], Kardiomyopathie, [[Perimyokarditis]], [[Vitien]], [[Herzinsuffizienz]]
+> 	- [[ACS]], [[Kardiomyopathie]], [[Perimyokarditis]], [[Vitien]], [[Herzinsuffizienz]]
 > 	- Rhythmogen: [[Bradykardie]]/[[Tachykardie]]
 > - **Obstruktiv:**
 > 	- [[LAE]]

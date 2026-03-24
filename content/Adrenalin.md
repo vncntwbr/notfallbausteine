@@ -2,7 +2,7 @@
 tags:
   - Fach/Pharmakologie
   - Medikamente
-  - Status/Empty
+  - Status/Started
 aliases:
   - Suprarenin
   - EPINEPHrin

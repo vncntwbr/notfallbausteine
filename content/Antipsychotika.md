@@ -3,6 +3,7 @@ tags:
   - Medikamente
   - Status/Started
   - Fach/Psychiatrie
+  - Fach/Pharmakologie
 ---
 
 - Clozapin induzierte [[Obstipation]]/GI-Hypomotilität in 60% und hohe Mortalität[^1]

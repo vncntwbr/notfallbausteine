@@ -3,7 +3,7 @@ tags:
   - Fach/Toxikologie
   - Diagnosen
   - Status/Started
-title:
+title: Flusssäure (HF)
 ---
 
  - I Rasche Resorption, Eindringen in Tiefe, [[POOP]], lange Latenz (<20% 24h, <50% 1-8h, >50% sofort), systemisch HRST durch [[Hypocalcämie]]

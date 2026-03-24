@@ -58,7 +58,7 @@ ICD: R07.4
 > 	- Herzgeräusch? Stauung? 
 > 	- Auskultation ([[Pneumonie]], Pneu, Pleuritis)? 
 > 	- Abdomen (Oberbauch)? 
-> 	- Beine (Ödeme, [[TVT]])? 
+> 	- Beine ([[Ödeme]], [[TVT]])? 
 > 	- Haut (Perfusion)? U45: Marfanoider Habitus?
 > 2. **[[EKG]]** #1 <10 min, #2 <60 min (V.a. [[ACS]]: +V7-V9, +V1R-V3R)
 > 	- [[Ischämie-EKG]]?

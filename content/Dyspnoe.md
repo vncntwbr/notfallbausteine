@@ -15,14 +15,14 @@ ICD: R06.0, J96
 ---
 
 > [!danger]+ Killer-DD bei Kritisch Kranken (don't miss)
-> - [[Anaphylaxie]]
-> - [[Asthma]] / [[COPD]]
-> - [[Pneu]]
-> - [[ACS]]
-> - [[LAE]]
-> - [[Herzinsuffizienz]] / [[Lungenödem]]
-> - [[Pneumonie]] / [[Sepsis]]
-> - [[Schock]] / [[Met. Azidose]]
+> - **A:** [[Anaphylaxie]]
+> - **B:** [[Asthma]] / [[COPD]]
+> - **B:** [[Pneu]]
+> - **C:** [[ACS]]
+> - **C:** [[LAE]]
+> - **C:** [[Herzinsuffizienz]] / [[Lungenödem]]
+> - **E:** [[Pneumonie]] / [[Sepsis]]
+> - **E:** [[Schock]] / [[Met. Azidose]]
 
 > [!dd]- DD
 > - **Kardiovaskulär**

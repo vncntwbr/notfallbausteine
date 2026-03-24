@@ -4,7 +4,10 @@ tags:
   - Status/Started
   - Fach/Intensivmedizin
   - Fach/Kardiologie
-title: Extrakorporale Membranoxygenierung (ECMO)
+title: Extrakorporale Membranoxygenierung (ECMO/ECPR/ECLS)
+aliases:
+  - ECPR
+  - ECLS
 ---
 
 > [!danger] ECMO Troubleshooting

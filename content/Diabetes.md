@@ -3,6 +3,7 @@ tags:
   - Fach/Endokrinologie
   - Literatur/NVL
   - Diagnosen/Chronisch
+  - Status/ZuRationalisieren
 ICD: E10-E14, R73
 ---
 ## Literatur

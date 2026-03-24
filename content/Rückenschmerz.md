@@ -12,7 +12,7 @@ zbb: |-
 ---
 > [!dd]+ Do Not Miss DD
 > - **[[Aorta]]** → [[POCUS]]
-> - **(Beginnend) Querschnitt** (z.B. EDH, WK#) → Notfall-MRT
+> - **(Beginnend) Querschnitt** (z.B. [[Intrakranielle Blutung|EDH]], WK#) → Notfall-MRT
 > - **Infektion** ([[Spondylodiszitis]], [[Abszess]]) → [[Anamnese|A]] ([[Fieber]]? Z.n. Spritzen?), Labor, MRT
 > - **Maligne** (Osteolysen, Metastasen) → [[Anamnese|A]], Ca2+, LDH
 > - **Osteoporotische Fraktur** → bei Osteoporose oder RF großzügig Rö

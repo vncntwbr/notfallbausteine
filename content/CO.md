@@ -2,6 +2,7 @@
 tags:
   - Fach/Toxikologie
   - Diagnosen
+  - Status/Empty
 title: Kohlenmonoxid (CO)
 ---
 ## Literatur

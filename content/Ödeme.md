@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Schwellung
   - Extremitätenschwellung
+  - Anasarka
 title: Extremitäten-Ödeme / -Schwellung
 tags:
   - Probleme/Extremitäten

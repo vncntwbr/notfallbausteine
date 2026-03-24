@@ -3,6 +3,7 @@ tags:
   - Fach/Toxikologie
   - Status/Empty
   - Medikamente/Antidote
+  - Status/ZuRationalisieren
 title: High-Dose Insulin-Therapie (HIET)
 ---
 ## Literatur

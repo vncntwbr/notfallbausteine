@@ -11,7 +11,7 @@ title: Trauma-Reanimation
 > 3. **A/B** → [[A–Airway|Atemwegsmanagement]], [[Beatmung]] mit max. FiO2
 > 4. **C**
 > 	- Thoraxentlastung bds.
-> 	- [[Thorakotomie]] (Arrest <5 min stumpf / <15 min penetrierend + 4E-Regel)
+> 	- [[Thorakotomie]] (Arrest <5 min stumpf / <15 min [[penetrierend]] + 4E-Regel)
 > 	- [[Volumentherapie]]
 
 > [!dd]+ Reversible Ursachen bei traumatischem Arrest

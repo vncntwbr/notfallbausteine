@@ -2,6 +2,7 @@
 tags:
   - Diagnosen
   - Fach/Neurologie
+  - Status/Empty
 title: Frühsommer-Meningoenzephalitis (FSME)
 aliases:
   - Frühsommer-Meningoenzephalitis

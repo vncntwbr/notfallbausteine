@@ -45,15 +45,13 @@ title: Beckentrauma inkl. Hüftgelenksnahe Frakturen
 > 9. **Antiluxationsbandage**
 > 10. **Röntgenkontrolle**
 
-## Anatomie
-
-- **Blutungsquellen**
-	- **Venös:** Plexus venosus sakralis (ventral des Os sacrum, Hauptursache Massenblutungen)
-	- **Arteriell:**
-		- A. pudenda interna (Symphysenruptur)
-		- A. obturatoria (Schambeinfraktur)
-		- A. glutea superior (iliacale Fraktur)
-	- **Organe:** Blasen-/Urethra-, Darmverletzungen mit Hämaturie/Hämatochezie
+> [!info]- Anatomische Blutungsquellen
+> - **Venös:** Plexus venosus sakralis (ventral des Os sacrum, Hauptursache Massenblutungen)
+> - **Arteriell:**
+> 	- A. pudenda interna (Symphysenruptur)
+> 	- A. obturatoria (Schambeinfraktur)
+> 	- A. glutea superior (iliacale Fraktur)
+> - **Organe:** Blasen-/Urethra-, Darmverletzungen mit Hämaturie/Hämatochezie
 
 ## Literatur
 - [LITFL: Pelvic trauma](https://litfl.com/pelvic-trauma/)

@@ -5,6 +5,7 @@ tags:
   - Fach/Intensivmedizin
   - Fach/Radiologie
   - Favourites
+  - Status/Done
 aliases:
   - Injurity Severity Scale
 title: Injurity Severity Scale (ISS)
@@ -72,20 +73,20 @@ title: Injurity Severity Scale (ISS)
 > 1. Stumpfes Trauma mit leichten EKG-Veränderungen (unspezifische ST/T, SVES/VES, Sinustachykardie) 
 >    ODER perikardiale Verletzung ohne direkte Herzbeteiligung
 > 2. Stumpfes Trauma mit [[Blockbild]] (RSB, LSB, LAHB, [[AV-Block]]) oder [[Ischämie-EKG]] ohne [[Herzinsuffizienz]] 
->    ODER Penetrierend tangentiale Myokard-Verletzung, nicht durch Endokard, ohne [[Perikarderguss]]
+>    ODER [[Penetrierend]] tangentiale Myokard-Verletzung, nicht durch Endokard, ohne [[Perikarderguss]]
 > 3. Stumpfes Trauma mit sustained (≥5/min) oder multifokaler [[VT]] 
->    ODER Stumpf/Penetrierend mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, ohne [[Herzinsuffizienz]]
+>    ODER Stumpf/[[Penetrierend]] mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, ohne [[Herzinsuffizienz]]
 >    ODER Stumpf mit kardialer Herniation
 >    ODER Stumpf mit [[Herzinsuffizienz]]/[[Kardiogener Schock]]
->    ODER Penetrierend tangential, nicht durch Endokard, mit [[Perikarderguss|Tamponade]]
-> 4. Stumpf/Penetrierend mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, mit [[Herzinsuffizienz]]/[[Kardiogener Schock]]
->    ODER Stumpf/Penetrierend mit [[AI]] oder [[MI]]
+>    ODER [[Penetrierend]] tangential, nicht durch Endokard, mit [[Perikarderguss|Tamponade]]
+> 4. Stumpf/[[Penetrierend]] mit Septum-Ruptur, TI, PI, Papillarmuskel-Dysfunktion oder distale Koronarien-Okklusion, mit [[Herzinsuffizienz]]/[[Kardiogener Schock]]
+>    ODER Stumpf/[[Penetrierend]] mit [[AI]] oder [[MI]]
 >    ODER Stumpfe/Penetrierende Verletzung von RV, RA oder LA
-> 5. Stumpf/Penetrierend mit proximaler Koronarien-Okklusion
+> 5. Stumpf/[[Penetrierend]] mit proximaler Koronarien-Okklusion
 >    ODER LV-Perforation
 >    ODER <50% Gewebeverlust von RV, RA oder LA
 > 6. Stumpfer Abriss des Herzens
->    ODER Penetrierend mit >50% Gewebsverlust einer Herzkammer
+>    ODER [[Penetrierend]] mit >50% Gewebsverlust einer Herzkammer
 
 > [!stadien]- OIS Lunge
 > 1. Kontusion unilateral, <1 Lobus

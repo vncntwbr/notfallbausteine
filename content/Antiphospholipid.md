@@ -7,6 +7,7 @@ tags:
   - Fach/Hämatologie
   - Status/Started
   - Diagnosen/Chronisch
+  - Status/ZuRationalisieren
 ---
 
 - Diagnostische Kriterien für Catastrophic-APS[^1]

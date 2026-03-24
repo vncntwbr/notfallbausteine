@@ -5,6 +5,7 @@ tags:
   - Fach/Pharmakologie
   - Fach/Gastroenterologie
   - Fach/Intensivmedizin
+  - Status/ZuRationalisieren
 ---
 > [!warning]+ KI
 > - Hypervolämie (bei 5% Albumin)

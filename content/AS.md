@@ -1,8 +1,9 @@
 ---
 tags:
-  - Diagnosen
   - Fach/Kardiologie
   - POCUS
+  - Status/ZuRationalisieren
+  - Diagnosen/Chronisch
 title: Aortenklappenstenose (AS)
 aliases:
   - Aortenklappenstenose

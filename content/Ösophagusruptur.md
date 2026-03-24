@@ -2,7 +2,7 @@
 tags:
   - Fach/Chirurgie
   - Status/Started
-  - Diagnosen
+  - Diagnosen/Killer
 aliases:
   - Boerhaave-Syndrom
 title: Ösophagusruptur / Boerhaave-Syndrom

@@ -8,7 +8,6 @@ title: |-
   Prozedurale Sedierung
 OPS: 8-903
 ---
-## Kochrezepte
 > [!management] "Ketofol" (Eingriffe, Pacing)
 > - **[[esKETAmin]]** 10 mg-weise i.v. +
 > - **Propofol** 40 mg-weise i.v. (Ältere: 20 mg-weise)

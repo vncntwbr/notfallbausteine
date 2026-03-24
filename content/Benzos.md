@@ -3,6 +3,7 @@ tags:
   - Medikamente
   - Fach/Anästhesiologie
   - Status/Done
+  - Fach/Pharmakologie
 aliases:
   - Benzodiazepine
   - Midazolam

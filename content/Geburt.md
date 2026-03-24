@@ -42,7 +42,7 @@ title:
 > [!management]- Geburtsbegleitung
 > 1. **Gebärposition:** Vierfüßler-Stand zwingend bei Beckenendlage(!)[^3]; bei Schädellage nach Wunsch (z.B. Hocke, Vierfüßler, Seitenlage), Cave: Rückenlage unphysiologisch/erschwert!
 > 2. **Manuell:** ggf. Dammschutz, ggf. Köpfchen führen, sicher auffangen(!)
-> 3. **Kurzbeurteilung:** Vitales Kind auf mütterliche Brust, avital→NLS
+> 3. **Kurzbeurteilung:** Vitales Kind auf mütterliche Brust, avital→[[NLS]]
 > 4. **Wärmeerhalt**
 > 5. **Doku:** Geburtszeit, [APGAR](https://www.mdcalc.com/calc/23/apgar-score) 1+5+10 min
 > 6. **Abnabeln:** ohne Zeitdruck, ggf. "Auspulsieren" abwarten, Ausstreichen, 15 cm Nabelschnur an Kind lassen

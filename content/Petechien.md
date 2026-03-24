@@ -6,6 +6,7 @@ tags:
 aliases:
   - Petechien
   - Purpura
+title: Petechien / Purpura
 ---
 > [!info]+ Definition: Pink-lila, nicht wegdrückbare Hämorrhagien an Haut/Schleimhaut
 > - *Petechien* <5 mm

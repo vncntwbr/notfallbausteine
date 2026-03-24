@@ -3,6 +3,12 @@ tags:
   - Fach/Nephrologie
   - Basics
   - Fach/Labormedizin
+aliases:
+  - DANI
+  - Kreatinin
+  - eGFR
+  - Krea
+title: GFR / Kreatinin
 ---
 > [!tip] Dosisanpassung
 > Für DANI (Medikamenten-Clearence) ist anders als [[AKI]]/[[CKD]] Staging die *nichtindizierte* GFR [ml/min] statt *indexierte* GFR [ml/min/1.73m^2] empfohlen[^1]
