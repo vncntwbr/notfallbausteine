@@ -24,10 +24,7 @@ title: Injurity Severity Scale (ISS)
 ## Thorax
 
 > [!stadien]- OIS Thoraxwand
-> 1. Kontusion
->    ODER Laceration bis max. Subcutis
->    ODER <3 Rippenfrakturen, geschlossen
->    ODER Claviculafraktur, undisloziert, geschlossen
+> 1. Kontusion<br>ODER Laceration bis max. Subcutis<br>ODER <3 Rippenfrakturen, geschlossen<br>ODER Claviculafraktur, undisloziert, geschlossen
 > 2. Laceration bis Muskulatur
 >    ODER ≥3 benachbarte Rippenfrakturen, geschlossen
 >    ODER Clavicularfraktur, offen oder disloziert
