@@ -22,7 +22,7 @@ title: Intensivmedizinisches Bridging (ITS)
 - [ ] **Modus/Parameter**
 - [ ] **Spontanisierung/Weaning**
 - [ ] **Protektiv:** OK-Hochlagerung, VT 6 ml/kg, Pmax <35
-- [ ] **Beatmungstag:** TK? [[Bronchoskopie]]?
+- [ ] **Beatmungstag:** TK? [[BSK]]?
 - [ ] **Radiologie**
 
 ## Kreislauf

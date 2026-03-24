@@ -6,7 +6,7 @@ tags:
   - Fach/Pneumologie
 title: Bronchoskopie (BSK)
 aliases:
-  - BSK
+  - Bronchoskopie
 OPS: 1-62
 ---
 > [!note]+ Textbaustein

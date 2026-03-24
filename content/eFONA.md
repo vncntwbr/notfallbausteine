@@ -19,7 +19,7 @@ aliases:
 > 7. **Lagekontrolle** (sustained etCO2)
 
 > [!danger]- Pädiatrische Tracheotomie
-> 8. **Fremdkörperaspiration?** Esmarch, Thoraxkompressionen, VL + Magill-Zange, FK durch Intubation in einen Hauptbronchus vorschieben, BSK falls sofort verfügbar
+> 8. **Fremdkörperaspiration?** Esmarch, Thoraxkompressionen, VL + Magill-Zange, FK durch Intubation in einen Hauptbronchus vorschieben, [[BSK|BSK]] falls sofort verfügbar
 > 9. **Material:** Skalpell, Bougie, 2 Retraktoren, Absaugung, Stirnlampe o.ä., cuffed ET entspr. Größe
 > 10. **Mittellinie** markieren (Nase zu Sternum)
 > 11. **Längsschnitt** in Mittellinie nicht bis ins untere Drittel

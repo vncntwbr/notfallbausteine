@@ -44,7 +44,7 @@ zbb: Test ZBB hier anrufen
 > 	- *Arteriell Extremitäten:* Druck, hoch, TQ
 > 	- *MaxFax Fx:* Reponieren, [[RSI]] [[SALAD]], Epistats, Bite Blocks, Collar
 > - **Medizinisch**
-> 	- *[[Hämoptysen]]:* [[TXA]] 1 g p.i., [[Bronchoskopie]], [[RSI]] zurückhaltend
+> 	- *[[Hämoptysen]]:* [[TXA]] 1 g p.i., [[BSK]], [[RSI]] zurückhaltend
 > 	- *[[GI-Blutung]]:* Terlipressin 1-2 mg i.v., ÖGD, alternativ Ballontamponade
 > 	- *[[Intrakranielle Blutung]]:* RRsys <140 ([[SAB]]), <160 ([[ICB]])
 > - **Gyn/Geburt** siehe [[PPH]]

@@ -7,6 +7,7 @@ aliases:
   - HELLP
   - Eklampsie
   - Präeklampsie
+title: Hypertensive Schwangerschaftserkrankungen (HELLP, Eklampsie, Präeklampsie)
 ---
 - HELLP trennen?
 - 

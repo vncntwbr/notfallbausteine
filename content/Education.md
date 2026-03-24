@@ -73,6 +73,9 @@ title: Education / Lehre
 	3. [Keynotable](http://keynotable.net/)
 
 
+## Literatur
+- [G-BA Regelungen zur Fortbildung im Krankenhaus](https://www.g-ba.de/richtlinien/44/)
+
 
 [^1]: Ferguson I et al. Continuing medical education speakers with high evaluation scores use more image-based slides. West J Emerg Med 2017; 18(1): 152-8. [PMID: 28116029](http://www.ncbi.nlm.nih.gov/pubmed/28116029)
 

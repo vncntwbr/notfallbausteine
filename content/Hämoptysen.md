@@ -16,7 +16,7 @@ title: Hämoptysen / Hämoptoe / Bluthusten
 > - **Lagerung** auf vermutl. blutende Seite
 > - **[[Blutungsmanagement]]**, ggf. permissive Hypotension[^1]
 > - **[[RSI]]** bei resp. Erschöpfung in SALAD mit Doppellumentubus/Bronchusblocker, alt. ETT >8.0 Ch ± einseitige Intubation gesunde Seite ([[Physiologisch schwieriger Atemweg]])
-> - **[[Bronchoskopie]]** und **CT-A**
+> - **[[BSK]]** und **CT-A**
 
 > [!dd]+ DD
 > - [[LAE]]
