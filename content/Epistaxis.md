@@ -19,7 +19,7 @@ ICD: R04.0
 > - **Selten:** 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? Cortison? [P] [[Hypertonie|HTN]]? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
+> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? [[Cortison]]? [P] [[Hypertonie|HTN]]? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
 > - **[[Untersuchung|U]]:** ± nasales Spekulum (Blutungsquelle? 90% Locus Kieselbachii)
 > - **[[EKG]]:**
 > - **[[POCUS]]:**

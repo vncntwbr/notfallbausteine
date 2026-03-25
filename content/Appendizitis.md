@@ -6,6 +6,8 @@ tags:
   - Status/Started
 ICD: K35-K38
 ---
+> [!stadien] [Alvarado-Score](https://www.mdcalc.com/calc/617/alvarado-score-acute-appendicitis)
+
 - [[POCUS]] conclusive in 60%, PPW 88%, NPW 95%, bei inconclusive immer follow-up oder [[CT]][^1]
 
 Appendizitis vs. Salpingitis (♀︎ in “gebärfähigem” Alter):

@@ -34,7 +34,7 @@ aliases:
 > 4. **Frühzeitig [[RSI]]** mit tiefer Narkose (Normoxie, Normokapnie)
 > 5. **[[Krampfanfall]]** sofort durchbrechen
 > 6. **Normothermie:** Antipyrese ab 37.7°C mit [[PCM]], Metamizol, physikalisch
-> 7. **Hirntumor/-metastase:** Dexamethason 20-40 mg langsam i.v.
+> 7. **Hirntumor/-metastase:** [[Cortison|Dexamethason]] 20-40 mg langsam i.v.
 ## Schulung
 - [DGN Fortbildung ICP](https://www.dgn.org/mediathek/videoplayer/intrakranieller-druck)
 

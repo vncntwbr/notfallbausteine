@@ -26,6 +26,8 @@ ICD: K92.2
 > 3. *Keine Notfall-Coloskopie* (keine Sicht, hohes Perforationsrisiko)
 > 4. **CT-A** bei anhaltender Blutung/Instabilität (Quelle? Radiolog. Intervention?)
 
+> [!stadien] [Rockall (obere GIB)](https://www.mdcalc.com/calc/3642/rockall-score-upper-gi-bleeding-complete) / [Glasgow-Blatchford (low-risk untere GIB)](https://www.mdcalc.com/calc/518/glasgow-blatchford-bleeding-score-gbs)
+
 - **[[Anamnese|A]]:** 
 - **[[Untersuchung|U]]:** 
 - **T**

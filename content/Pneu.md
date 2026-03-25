@@ -15,6 +15,12 @@ ICD: J93
 > 2. **Nadel-Dekompression** in Bülau (4./5. ICR VAL-MAL) mit spez. Nadel alternativ PVK 14G orange
 > 3. **Fingerthorakostomie/[[TDx]]** unter [[Analgosedierung]]
 
+> [!dd]+ Ätiologie
+> - **[[Thoraxtrauma|Traumatisch]]:** stumpf/[[CPR]]/penetrierend → [[TDx]] bei Klinik oder Progress
+> - **Iatrogen:** [[ZVK]] 1%, [[RSI]], [[BSK]], [[Beatmung]], Biopsien → wie primärer Spontanpneu
+> - **Primärer Spontanpneu:** 
+> - **Sekundärer Spontanpneu:**
+
 > [!anamnese]-
 > - **S:** Schmerzen? (Belastungs-)[[Dyspnoe]]?
 > - **A:** Lokalanästhetika?
@@ -58,7 +64,7 @@ ICD: J93
 > ```
 
 ## Literatur
-- Pigtail vs. TDx oft ausreichend[^1]
+- Pigtail vs. TDx oft ausreichend bei Stabilität und kleiner bronchopulmonaler Fistel[^1]
 - Konservative Therapie für Primären Spontanpneumothorax unter bestimmten Umständen ok[^2]
 
 [^1]: Kulvatunyou N, Erickson L, Vijayasekaran A, Gries L, Joseph B, Friese RF, O'Keeffe T, Tang AL, Wynne JL, Rhee P. Randomized clinical trial of pigtail catheter versus chest tube in injured patients with uncomplicated traumatic pneumothorax. Br J Surg. 2014 Jan;101(2):17-22. doi: 10.1002/bjs.9377. PMID: 24375295.

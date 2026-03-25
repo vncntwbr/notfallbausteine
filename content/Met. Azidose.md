@@ -53,3 +53,5 @@ title: Metabolische Azidose (AGMA/NAGMA) ± Anionenlücke
 > - Hypalbuminämie (AG -2.5 mM je -10 g/l [[Albumin]])
 > - Multiples Myelom
 > - Pseudohyperchloridämie (Iodid, Bromid, Salicylate)
+
+> [!stadien] [Anionenlücke](https://www.mdcalc.com/calc/1669/anion-gap)

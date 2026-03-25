@@ -17,6 +17,8 @@ ICD: D70
 > - **Fokal:** Sputum (E+R), Stuhl (E+R, Noro, C. diff), Mucositis (HSV-Abstrich), Aszites (SBP?), ggf. [[LP]]
 > - **[[Radiologie]]:** wenn indiziert (Symptome? Alter?) immer CT-Thorax lowdose nativ, kein [[Rö Tx]] (Evidenzgrad 1), ggf. [[POCUS]]
 
+> [!stadien] [MASCC Risk Index for Febrile Neutropenia](https://www.mdcalc.com/calc/3913/mascc-risk-index-febrile-neutropenia)
+
 > [!disposition]+
 > - **Ambulant:** [MASCC](https://www.mdcalc.com/calc/3913/mascc-risk-index-febrile-neutropenia) ≥21 Pkt. + alle Kriterien:
 > 	- ==Keine Fluorchinolon-Prophylaxe vor [[Fieber]]==

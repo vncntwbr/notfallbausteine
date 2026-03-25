@@ -32,6 +32,7 @@ tags:
 > 	- *Obstipationsprophylaxe:* Immer (z.B. Movicol, Lactulose)
 > 	- *Schema:* Basistherapie retardiert 1-0-1 + Bedarfsmedikation 4-6x/d mit 1/6 der Tagesdosis
 
+> [!stadien] [BPS für Intubierte](https://www.mdcalc.com/calc/3622/behavioral-pain-scale-bps-pain-assessment-intubated-patients)
 ## Analgetika-Optionen
 
 > [!management]- Nicht-Opioid-Analgetika

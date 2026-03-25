@@ -17,7 +17,7 @@ tags:
 > - **[[Ü+E]]**
 > 	- *Chemo/[[Opioide]]/Meds:* Ondansetron 4-8 mg i.v./s.l.
 > 	- *Gastrostase:* MCP 10 mg i.v./s.c./p.o. (Cave:) kein Dimenhydrinat)
-> 	- *ZNS:* Dimenhydrinat i.v./s.c./p.o. + Dexamethason 4 mg i.v. / 10 mg p.o. (Cave: kein MCP)
+> 	- *ZNS:* Dimenhydrinat i.v./s.c./p.o. + [[Cortison|Dexamethason]] 4 mg i.v. / 10 mg p.o. (Cave: kein MCP)
 > 	- *GI-Obstruktion:* Dimenhydrinat
 > - **Durst/Mundtrockenheit:** Mundpflege, OraCare Xylimelts 1-0-1
 > - **Terminalphase:** Morphin-Bolus s.o. + [[Perfusor]] 1 mg/kg/h ±0.5 nach Effekt

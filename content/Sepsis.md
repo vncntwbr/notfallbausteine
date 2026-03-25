@@ -26,7 +26,7 @@ ICD: R57.2
 	- Actual hypotension? Check transducers.
 	- Lines (pressors going in)?
 	- [[POCUS]] ([[Kardiogener Schock|kardiogen]]/obstruktiv)?
-	- Adrenal Insufficiency ([[NNR-Insuffizienz]])? Erwäge Hydrocortison
+	- Adrenal Insufficiency ([[NNR-Insuffizienz]])? Erwäge [[Cortison|Hydrocortison]]
 	- Calcium (ionisiert)?
 	- [[Anaphylaxie]]?
 

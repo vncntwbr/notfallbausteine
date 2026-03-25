@@ -33,3 +33,5 @@ ICD: R42, H81
 > - **[[EKG]]**
 > - **[[Labor]]:** [[BGA]], Profil "Stroke"
 > - **Red Flags (=V.a. [[Stroke]]):** [[FND]], Hirnstamm-4D (Diplopie, Dysarthrie, Dysphagie, Dysmetrie), *Vertikaler* oder *richtungswechselnder* Nystagmus, Rumpfataxie (sitzen), Gangataxie, [[Kopfschmerz]] ([[ICB]]?), [[Halsschmerz|Nackenschmerz]] (Vertebralisdissektion?)
+
+> [!stadien] [HINTS](https://www.mdcalc.com/calc/10184/hints-stroke-acute-vestibular-syndrome)

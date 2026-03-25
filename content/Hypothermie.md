@@ -13,3 +13,5 @@ ICD: T68, R68
 > - **Mild:** 32-35 °C
 > - **Moderat:** 28-32 °C
 > - **Schwer:** <28 °C
+
+> [!stadien] [HOPE (Hypothermia Outcome Prediction after ECLS)](https://www.mdcalc.com/calc/10482/hypothermia-outcome-prediction-after-ecls-hope-score)

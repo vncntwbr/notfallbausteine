@@ -19,6 +19,8 @@ ICD: I48
 > 	- Onset <12h oder Onset <48h + CHADS65 ≤2 (HFrEF, HTN, ≥65 J., [[Diabetes]]) oder
 > 	- [[TEE]] LAA-Thrombus negativ
 
+> [!stadien] [CHA2DS2VA](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk)
+
 > [!workup]+
 > - **[[Labor]]:** [[HypoK+]]? [[HypoMg2+]]? [[Hyperthyreose]]? ggf. [[Digitalis]]-Spiegel?
 

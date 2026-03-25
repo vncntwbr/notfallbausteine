@@ -7,7 +7,7 @@ title: Antibiotika (ABx)
 ---
 > [!danger] Kalkulierte ABx
 > - **aeCOPD:** [Indikation: Sputum, ITS o. [[PCT]]] Ampi/Sulb o. Ceftriaxon, [1 davon vor <3 Mo gegeben] Moxi, [Pseudomonas-Risiko] Pip/Taz
-> - **[[COVID]]:** [Frühphase + RF] Paxlovid® (CYP3A4), [O2-Bedarf] Dexamethason 6 mg/d
+> - **[[COVID]]:** [Frühphase + RF] Paxlovid® (CYP3A4), [O2-Bedarf] [[Cortison|Dexamethason]] 6 mg/d
 > - **[[Influenza]] A/B:** [Stat. o. RF] Oseltamivir 75 mg 1-0-1
 > - **CAP:** [Amb.] Amoxi, RF +Clav, atyp. +Azithro, [Stat] Ampi/Sulb + Azithro, [ITS/Sepsis] Pip/Taz + Azithro
 > - **HAP:** [Leicht] Ampi/Sulb o. Moxi, [Mittel] Pip/Taz, [Schwer] Pip/Taz + Cipro
@@ -25,11 +25,11 @@ title: Antibiotika (ABx)
 	- *C. diff.:* Fidaxomicin 200 mg q12h 10d
 - **i.v.-ABx**
 	- *mCAP:* Ampicillin/Sulb 3g q8h + Azithromycin 500 mg/d p.o.
-	- *sCAP:* Pip/Taz 4.5g q6h + Azithromycin 500 mg/d + Hydrocortison 200 mg/d
+	- *sCAP:* Pip/Taz 4.5g q6h + Azithromycin 500 mg/d + [[Cortison|Hydrocortison]] 200 mg/d
 	- *HAP:* Ampicillin/Sulb 3g q8h, alt. Ceftriaxon 2g/d
 	- *sHAP/MRE:* Pip/Taz 4.5g q8h
 	- *ssHAP:* Meropenem 2g q8h
-	- *Pneumocystis:* Cotrimoxazol 40 mg/kg q8h ± Prednisolon 40 mg q12h bei HIV oder [[Hypoxie]]
+	- *Pneumocystis:* Cotrimoxazol 40 mg/kg q8h ± [[Cortison|Prednisolon]] 40 mg q12h bei HIV oder [[Hypoxie]]
 	- *Urosepsis:* Ceftriaxon 2g/d (bei Sepsis 1d 4g/d), alt. Pip/Taz 4.5g q8h
 	- *[[Gallenerkrankungen]]/[[Appendizitis]]/[[Divertikulitis]]:* Ceftriaxon 2g/d + Metronidazol 500 mg q8h
 	- *Peritonitis/Perforation:* Pip/Taz 4.5g q8h
@@ -38,7 +38,7 @@ title: Antibiotika (ABx)
 	- *[[Abszess]]:* Cefazolin 2g q8h 1d, dann 1g q8h
 	- *Wundinfekt:* Ampicillin/Sulb 3g q8h (Sepsis wie Nekr. Fasziitis), V.a. MRSA + Linezolid 600 mg q8h
 	- *Nekrotisierende Fasziitis/Phlegmone:* Pip/Taz 4.5g q8h + Clindamycin 600 mg q8h + OP
-	- *Meningitis:* Dexamethason 10 mg q6h vorab + Ceftriaxon 2g q12h + Ampicillin 2g q4h + Aciclovir 10 mg/kg q8h
+	- *Meningitis:* [[Cortison|Dexamethason]] 10 mg q6h vorab + Ceftriaxon 2g q12h + Ampicillin 2g q4h + Aciclovir 10 mg/kg q8h
 	- *Endokarditis nativ:* Ampicillin 3g q6h + Flucloxacillin 3g q6h + Gentamicin 3 mg/kg/d
 	- *Sepsis ohne Fokus:* Pip/Taz 4.5g q6h ± Ciprofloxacin 400 mg q8h
 	- *Sepsis bei [[Neutropenie]]:* Meropenem 2g q8h + Ciprofloxacin 400 mg q8h + Voriconazol 6 mg/kg q12h

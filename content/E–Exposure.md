@@ -2,6 +2,10 @@
 tags:
   - Basics/ABCDE
   - Fach/Notfallmedizin
+aliases:
+  - Exposure
+  - E-Problem
+  - Environment
 ---
 > [!danger] "Lethal Triad" = Hypothermie + Azidose + Koagulopathie
 

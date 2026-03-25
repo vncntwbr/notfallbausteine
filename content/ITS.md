@@ -13,9 +13,9 @@ title: Intensivmedizinisches Bridging (ITS)
 - [ ] PFK gesprochen
 
 ## Neuro
-- [ ] **Analgesie:** BPS <6
-- [ ] **Sedierung:** RASS -1 bis 0 / SAT
-- [ ] **[[Delir]]:** CAM-ICU, Prophylaxe
+- [ ] **Analgesie:** [BPS](https://www.mdcalc.com/calc/3622/behavioral-pain-scale-bps-pain-assessment-intubated-patients) <6
+- [ ] **Sedierung:** [RASS](https://www.mdcalc.com/calc/1872/richmond-agitation-sedation-scale-rass) -1 bis 0 / SAT
+- [ ] **[[Delir]]:** [CAM-ICU](https://www.mdcalc.com/calc/1870/confusion-assessment-method-icu-cam-icu), Prophylaxe
 
 ## Beatmung
 - [ ] **[[BGA]]:** Oxygenierung? Decarboxylierung?
@@ -54,7 +54,7 @@ title: Intensivmedizinisches Bridging (ITS)
 - [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? Monitoring?
 - [ ] **Mobilisation:** PT, AT
 - [ ] **Soziales:** Patientenwille? Angehörige? Betreuung?
-- [ ] **[[Doku]]:** Verlauf, SAPS-II/TISS, SOFA, ICD-10, Brief
+- [ ] **[[Doku]]:** Verlauf, SAPS-II/TISS, [SOFA](https://www.mdcalc.com/calc/691/sequential-organ-failure-assessment-sofa-score), ICD-10, Brief
 
 ---
 

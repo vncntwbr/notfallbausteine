@@ -4,6 +4,11 @@ tags:
   - Basics/ABCDE
   - Fach/Pneumologie
   - Fach/Anästhesiologie
+aliases:
+  - B-Problem
+  - B
+  - Breathing
+  - Atmung
 ---
 - **Physiologisches Ziel:** O2-Zuführung, CO2-Elimination
 - **Anatomisches Korrelat:** Atemwege von Carina bis Alveoli, Lungenparenchym, Pleuraraum, Brustwand, Diaphragma, nervale Innervation, Atemzentrum

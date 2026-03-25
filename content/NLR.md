@@ -23,6 +23,8 @@ title: Neutrophil-Lymphocyte Ratio (NLR)
 > 		- Unerwartet niedriger NLR = [[NNR-Insuffizienz]]?
 > 	- NLR >10 stützt Septischen Schock
 
+> [!stadien] [NLR (MDCalc)](https://www.mdcalc.com/calc/10305/neutrophil-lymphocyte-ratio-nlr-calculator)
+
 > [!warning]+ Limitationen der NLR
 > - Falsch-Hoch durch exogene Steroide
 > - Hämatologische Erkrankungen

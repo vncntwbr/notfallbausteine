@@ -11,6 +11,7 @@ aliases:
   - Airway
   - Atemweg
   - Atemwegsverlegung
+  - A-Problem
 title: A–Airway (Atemwegsmanagement)
 ---
 [[Physiologisch schwieriger Atemweg]]

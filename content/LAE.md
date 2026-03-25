@@ -2,9 +2,9 @@
 tags:
   - Fach/Kardiologie
   - Checkliste
-  - Status/Done
   - Diagnosen
   - Fach/Pneumologie
+  - Status/Started
 aliases:
 title: Lungenarterienembolie (LAE)
 ICD: I26

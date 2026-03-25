@@ -3,6 +3,7 @@ tags:
   - Status/ToDo
   - Fachübersicht
 ---
+> [!stadien] [Clinical Frailty Scale](https://www.mdcalc.com/calc/10300/csha-clinical-frailty-scale-cfs)
 
 - Non-specific Complaints hohe Morbidität[^1]
 

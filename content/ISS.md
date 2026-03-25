@@ -12,7 +12,7 @@ title: Injurity Severity Scale (ISS)
 ---
 > [!stadien]+ ISS Berechnung
 > - **OIS:** Schwerste Verletzung jedes Organsystems von 0° bis 5° (critical) bzw. 6° (unsurvivable) gerated
-> - **Berechnung ISS:** Schwerste 3 Organsysteme zum Quadrat und addiert (ISS = A² + B² + C²), kumulativ max. 75 Pkt., 6° in einem Organsystem = automatisch 75 Pkt.
+> - **Berechnung ISS ([MDCalc](https://www.mdcalc.com/calc/1239/injury-severity-score-iss)):** Schwerste 3 Organsysteme zum Quadrat und addiert (ISS = A² + B² + C²), kumulativ max. 75 Pkt., 6° in einem Organsystem = automatisch 75 Pkt.
 > - **Organsysteme:**
 > 	- Kopf/Hals
 > 	- Gesicht
@@ -104,6 +104,33 @@ title: Injurity Severity Scale (ISS)
 > +1 für multiple Läsionen bis max. 3°
 
 ### ISS Gastrointestinal
+
+> [!stadien]- OIS Ösophagus
+> 1. Kontusion/Hämatom<br>ODER Laceration ohne Penetration
+> 2. Laceration ≤50% Umfang
+> 3. Laceration >50% Umfang
+> 4. Segmentverlust oder Devaskularisation ≤2 cm
+> 5. Segmentverlust oder Devaskularisation >2 cm
+>  
+> +1 für multiple Läsionen bis max. 3°
+
+> [!stadien]- OIS Magen
+> 1. Kontusion/Hämatom<br>ODER Laceration ohne Penetration
+> 2. Laceration ≤2 cm (gastroösophagealer Übergang oder Pylorus) / ≤5 cm (proximales 1/3) / ≤10 cm (distale 2/3)
+> 3. Laceration >2 cm (gastroösophagealer Übergang oder Pylorus) / >5 cm (proximales 1/3) / >10 cm (distale 2/3)
+> 4. Gewebsverlust oder Devaskularisation ≤2/3 des Magens
+> 5. Gewebsverlust oder Devaskularisation >2/3 des Magens
+>  
+> +1 für multiple Läsionen bis max. 3°
+
+> [!stadien]- OIS Extrahepatische Gallenwege
+> 1. Kontusion von Gallenblase oder Portale Trias
+> 2. Partieller Gallenblasen-Abriss von Leber, Ductus cysticus intakt<br>ODER Laceration oder Perforation der Gallenblase
+> 3. Kompletter Gallenblasen-Abriss von Leber<br>ODER Ductus cysticus Laceration/Transektion
+> 4. Partielle/Komplette Laceration Ductus hepaticus R/L<br>ODER Partielle Laceration Ductus hepaticus communis ≤50%<br>ODER Partielle Laceration Ductus choledochus ≤50%
+> 5. Transektion Ductus hepaticus communis >50%<br>ODER Transektion Ductus choledochus >50%<br>Kombinierte R + L Ductus hepaticus Verletzung<br>ODER Intraduodenale / intrapankreatische Ductus Verletzung
+>  
+> +1 für multiple Läsionen bis max. 3°
 
 > [!stadien]- OIS Pankreas
 > 1. Kleine Kontusion/Laceration ohne Ductus-Verletzung
@@ -197,7 +224,7 @@ title: Injurity Severity Scale (ISS)
 > 
 > +1 für multiple Läsionen
 
-### ISS Männliches Genital
+### ISS Männliche Genitalien
 
 > [!stadien]- OIS Penis
 > 1. Kutane Laceration/Kontusion
@@ -222,6 +249,61 @@ title: Injurity Severity Scale (ISS)
 > 4. Abriss <50%
 > 5. Abriss ≥50%
 
+### ISS Weibliche Genitalien
+
+> [!stadien]- OIS Ovar
+> 1. Kontusion/Hämatom
+> 2. Laceration ≤0.5 cm Tiefe
+> 3. Laceration >0.5 cm Tiefe
+> 4. Partielle Disruption der Blutversorgung
+> 5. Abriss oder komplette Parenchymdestruktion
+> 
+> +1 für bilateral bis max. 3°
+
+> [!stadien]- OIS Eileiter
+> 1. Kontusion/Hämatom
+> 2. Laceration ≤50% Umfang
+> 3. Laceration >50% Umfang
+> 4. Transektion
+> 5. Devaskularisiertes Segment
+> 
+> +1 für bilateral bis max. 3°
+
+> [!stadien]- OIS Uterus (nicht-schwanger)
+> 1. Kontusion/Hämatom
+> 2. Laceration ≤1 cm Tiefe
+> 3. Laceration >1 cm Tiefe
+> 4. Laceration mit Beteiligung der A. uterina
+> 5. Abriss oder Devaskularisation
+> 
+> +1 für bilateral bis max. 3°
+
+> [!stadien]- OIS Uterus (schwanger)
+> 1. Kontusion/Hämatom ohne Abruptio
+> 2. Laceration ≤1 cm Tiefe oder partielle plazentare Abruptio <25%
+> 3. Laceration >1 cm Tiefe im 2. Trimester oder plazentare Abruptio 25-50%<br>ODER Laceration >1 cm Tiefe im 3. Trimester
+> 4. Laceration mit Beteiligung der A. uterina<br>ODER Laceration >1 cm mit plazentare Abruptio >50%
+> 5. Uterusruptur im 2./3. Trimester<br>ODER Komplette plazentare Abruptio
+> 
+> +1 für bilateral bis max. 3°
+
+> [!stadien]- OIS Vagina
+> 1. Kontusion/Hämatom
+> 2. Laceration, Mucosa
+> 3. Laceration, bis Fett/Muskulatur
+> 4. Laceration, komplex bis in Cervix oder Peritoneum
+> 5. Verletzung bis in benachbarte Organe (Anus, Rektum, Urethra, Harnblase)
+> 
+> +1 für bilateral bis max. 3°
+
+> [!stadien]- OIS Vulva
+> 1. Kontusion/Hämatom
+> 2. Laceration, Haut
+> 3. Laceration, bis Fett/Muskulatur
+> 4. Abriss von Haut/Fett/Muskulatur
+> 5. Verletzung bis in benachbarte Organe (Anus, Rektum, Urethra, Harnblase)
+> 
+> +1 für bilateral bis max. 3°
 ## ISS Extremitäten
 > [!stadien]- OIS Periphere Gefäße
 > 1. Digitiale A./V. <br>Palmare oder plantare A./V.<br>A. dorsalis pedis<br>Unbenannte A./V.
@@ -229,3 +311,8 @@ title: Injurity Severity Scale (ISS)
 > 3. V. axillaris<br>V. femoralis profunda/superficialis<br>V. poplitea<br>A. brachialis<br>A. tibialis anterior/posterior<br>A. fibularis
 > 4. A. femoralis profunda/superficialis<br>A. poplitea
 > 5. A. axillaris<br>A. femoralis communis
+
+## Literatur
+- AAST OIS Leber, Milz, Niere ist validiert und stark mit Mortalität, OP-Rate und Hospitalisierungskosten assoziiert[^1]
+
+[^1]: Tinkoff G, Esposito T, Reed J et al. American Association for the Surgery of Trauma Organ Injury Scale I: Spleen, Liver, and Kidney, Validation Based on the National Trauma Data Bank. J Am Coll Surg. 2008;207(5):646-55. [doi:10.1016/j.jamcollsurg.2008.06.342](https://doi.org/10.1016/j.jamcollsurg.2008.06.342)

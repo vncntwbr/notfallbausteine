@@ -20,9 +20,9 @@ ICD: G51
 
 > [!management]-
 > - **Nicht-idiopathisch ([[LP]] Pleozytose):** Stationär
-> 	- *V.a. [[Zoster]]:* Prednisolon s.u., Aciclovir i.v.
-> 	- *V.a. Neuroborreliose:* Ceftriaxon 2 g i.v., kein(!) Prednisolon
-> - **Prednisolon-Stoß p.o. 10 d**
+> 	- *V.a. [[Zoster]]:* [[Cortison|Prednisolon]] s.u., Aciclovir i.v.
+> 	- *V.a. Neuroborreliose:* Ceftriaxon 2 g i.v., kein(!) [[Cortison|Prednisolon]]
+> - **[[Cortison|Prednisolon]]-Stoß p.o. 10 d**
 > 	- *Option A ausschleichend:* 60 mg p.o. in ZNA, dann 60 mg 1-0-0 für 4 d, dann Reduktion -10 mg tgl., weniger Schlafstörungen, kognitiv anspruchsvoller
 > 	- *Option B einfacher:* 25 mg 1-0-1 für 10d fix
 > 	- *Cave:* Diabetes? BZ-Kontr.

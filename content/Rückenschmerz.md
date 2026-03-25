@@ -20,7 +20,7 @@ zbb: |-
 > [!anamnese]-
 > - **S:** OPQRST+? besser im Liegen? reißend/wandernd ([[Aorta]])? Sensibilität? Paresen? [[Fieber]]? B-Symptomatik? 
 > - **A:** NSAR?
-> - **M:** Cortison? [[Immunsupp.]]? [[AK]]? 
+> - **M:** [[Cortison]]? [[Immunsupp.]]? [[AK]]? 
 > - **P:** Tumor? Osteoporose? Diabetes (=Immunsuppr.)?
 > - **L:** Stuhlgang/Urin Störung? 
 > - **E:** Trauma?
@@ -31,7 +31,7 @@ zbb: |-
 > 	- *Beine:* Kraftgrade, Lasègue (einschießend bei Flexion Bein >45°)
 > 	- *Neuro:* Zehengang (S1)? Hackengang (L4-5)? Romberg? Sensibilität Beine+Perineum? Reflexe (PSR, ASR)? Radikulär?
 > - **Red Flags**
-> 	- *Fx/Mets:* Trauma, Osteoporose, Cortison, KS über WS, Krebs, B-Sympt.
+> 	- *Fx/Mets:* Trauma, Osteoporose, [[Cortison]], KS über WS, Krebs, B-Sympt.
 > 	- *Radikulopathie:* Ausstrahlend (L4-S1), Reithosen, Extr.-Schwäche, Inkontinenz/Harnverhalt
 > 	- *Infekt:* [[Fieber]]/[[IFP]], Immunsupp., i.v.-Drogen, OP, Spritzen
 > - **[[EKG]]**
@@ -42,7 +42,7 @@ zbb: |-
 > - **V.a. Rückenmarkskompression/QS:** N0-MRT bei Cauda-Equina-Sympt. (Harnverhalt, Stuhlinkontinenz, Reithosenanästhesie), Radikuläre Sympt. + passendes motorisches Defizit oder + Risiko Metastasen/Infektion
 > - **V.a. Spinale Infektion:** N1-MRT bei mittel-hoch Risiko, bei geringem Risiko BSG, [[BK]], CT, Aufnahme
 > - **V.a. Metastasen:** CT in RS mit Onko/Spez., bei V.a. ED Multiples Myelom (Ca2+↑, [[AKI]]) ggf. CT Pariser Schema
-> - **V.a. (osteoporotische) WK#:** Rö stehend bzw. bettlägerig CT bei RF (geriatrisch, Osteoporose, Cortison, signifikantes Trauma oder mildes Trauma + Osteoporose-RF)
+> - **V.a. (osteoporotische) WK#:** Rö stehend bzw. bettlägerig CT bei RF (geriatrisch, Osteoporose, [[Cortison]], signifikantes Trauma oder mildes Trauma + Osteoporose-RF)
 
 > [!note]- Textbaustein Unspezifische Rückenschmerzen Ambulant
 > ```

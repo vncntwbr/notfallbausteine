@@ -14,7 +14,7 @@ tags:
 
 > [!management]-
 > 1. **Dimenhydrinat** 62 mg i.v. oder 50 mg p.o. max. 3x/d für max. 3d
-> 2. **Prednisolon** 250 mg i.v., Weiterführung in RS HNO, +Pantoprazol 40 mg 1-0-0
+> 2. **[[Cortison|Prednisolon]]** 250 mg i.v., Weiterführung in RS HNO, +Pantoprazol 40 mg 1-0-0
 > 3. **[[Zoster]]?** (Therapie siehe dort)
 > 4. **Physiotherapie/Schwindeltraining** frühestmöglich
 > 5. **Weitere Diagnostik:** Kalorische Vestibularisprüfung, Tonschwellenaudiometrie, Tympanogramm

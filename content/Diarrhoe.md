@@ -56,4 +56,4 @@ title: Diarrhoe / Durchfall
 > 	- *Reise-assoziiert:* 80% bakteriell, anhaltend oft Protozoen → ABx, z.B. Rifaximin
 > 	- *ABx-assoziiert / hospitalisiert:* C. diff. → Stuhldiagnostik, Vancomycin 125 mg p.o. (nicht i.v.)
 > 	- *[[Immunsupp.]]:* RS Infektio
-> 	- *Checkpoint-Inhibitor:* nicht infektiös, RS Häma/Onko, i.d.R. Prednisolon
+> 	- *Checkpoint-Inhibitor:* nicht infektiös, RS Häma/Onko, i.d.R. [[Cortison|Prednisolon]]

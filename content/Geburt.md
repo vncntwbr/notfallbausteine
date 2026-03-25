@@ -12,7 +12,7 @@ title:
 > - **Notverlegung:** SSW <34+0, geburtsunmögliche Lage (Querlage) oder KI vaginale Geburt (z.B. Placenta praevia)
 > 	1. *Notfalltokolyse:* Monitoring, Fenoterol 12.5 μg i.v., dann 2.5-5.0 μg alle 3 min nach Wirkung, UAW mütterliche Tachykardie
 > 	2. *Notverlegung* in Linksseitenlage mit erhöhtem Becken
-> 	3. *ggf. Lungenreifeinduktion:* Dexamethason 6 mg in RS Gyn/Geb
+> 	3. *ggf. Lungenreifeinduktion:* [[Cortison|Dexamethason]] 6 mg in RS Gyn/Geb
 > - **Cave: [[PPH]]**
 
 > [!anamnese]- Anamnese
@@ -28,6 +28,8 @@ title:
 > - ggf. [[POCUS]] (kindliche Herzfehler, kein Mutterpass, Größe/Mehrlinge?)
 > - ggf. CTG-Monitoring
 > - **[[Labor]]:** [[BGA]], Profil "Synkope", Blutgruppe
+
+> [!stadien] [APGAR](https://www.mdcalc.com/calc/23/apgar-score)
 
 > [!management]- Vorbereitung
 > 1. **PSA:** Handschuhe, Kittel, Schutzbrille

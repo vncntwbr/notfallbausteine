@@ -6,6 +6,8 @@ tags:
 ICD: R51
 ---
 
+> [!stadien] [Ottawa SAH Rule-Out](https://www.mdcalc.com/calc/3875/ottawa-subarachnoid-hemorrhage-sah-rule-for-headache-evaluation)
+
  - **[[Anamnese|A]]**
 	- *S:* OPQRST+, vegetativ ([[Ü+E]]), autonom (Ptosis, Lakrimation, Injection, Rhinorrhoe), Photophobie?
 	- *M:* [[AK]]? Bedarfsmed?
@@ -18,11 +20,11 @@ ICD: R51
 	- *Periorbital:* Trigeminoautonom (Cluster-Kopfschmerz), Glaukomanfall, Keratitis, Opticusneuritis u.a.
 	- *Holocephal:* Migräne, Spannungskopfschmerz, Medikamenteninduziert, sekundär (Meningitis, Encephalitis, postpunktionell, Pseudotumor cerebri, Encephalopathien, Hirntumor)
 - **T**
-	- *Migräne:* (1) MCP 10 mg i.v. + ASS 1 g i.v., (2) Sumatriptan 6 mg s.c. + Naproxen 500 mg p.o., (3) Lidocain i.n., (4) Status >72h: Prednisolon 100 mg i.v.
-	- *Cluster:* (1) O2 15 L/min, Kopf nach unten, (2) Sumatriptan, (3) Lidocain i.n. ipsilateral, Ketamin KI, Prednisolon 100 mg i.v.
+	- *Migräne:* (1) MCP 10 mg i.v. + ASS 1 g i.v., (2) Sumatriptan 6 mg s.c. + Naproxen 500 mg p.o., (3) Lidocain i.n., (4) Status >72h: [[Cortison|Prednisolon]] 100 mg i.v.
+	- *Cluster:* (1) O2 15 L/min, Kopf nach unten, (2) Sumatriptan, (3) Lidocain i.n. ipsilateral, Ketamin KI, [[Cortison|Prednisolon]] 100 mg i.v.
 	- *Spannungs-:* Pfefferminzöl temporal, NSAR (ASS, Ibuprofen)
 	- *[[Trigeminusneuralgie]]:* Carbamazepin 200 mg p.o. 1-1-1, überbrückend Lidocain i.n.
-	- *Riesenzellarteriitis:* Prednisolon 60 mg p.o., bei Sehstörung 1000 mg i.v.
+	- *Riesenzellarteriitis:* [[Cortison|Prednisolon]] 60 mg p.o., bei Sehstörung 1000 mg i.v.
 	- *Hemicrania continua:* Indometacin 25 mg 1-1-1
 	- *[[Ü+E]]:* MCP 10 mg i.v. (Cave EPMS), alternativ Dimenhydrinat 62 mg i.v.
 

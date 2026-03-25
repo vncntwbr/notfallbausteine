@@ -2,6 +2,9 @@
 tags:
   - Basics/ABCDE
   - Fach/Notfallmedizin
+aliases:
+  - C
+  - C-Problem
 ---
 - **Physiologisches Ziel:** Perfusion lebenswichtiger Organe (vgl. Pathophysiologie [[Schock]])
 - **Anatomisches Korrelat:** Herz ("Pump"), Blut ("Tank"), Gefäße ("Pipes")

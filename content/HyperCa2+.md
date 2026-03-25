@@ -10,7 +10,7 @@ title: Hypercalcämie (Ca2+↑)
 > [!danger]+ Hypercalcäme Krise gCa2+ >3.5 mM / iCa2+ >2 mM
 > 1. **Monitoring**
 > 2. **[[Volumenstatus]] optimieren:** VEL / Schleifendiuretika
-> 3. **Cortison:** Dexamethason 40 mg/d 4d (empirisch für Sarkoidose/Myelom)
+> 3. **[[Cortison]]:** [[Cortison|Dexamethason]] 40 mg/d 4d (empirisch für Sarkoidose/Myelom)
 > 4. **V.a. Paraneoplatisch:** Bisphosphonat (Zoledronat) 4 mg i.v. KI GFR >30, Calcitonin 4 IE/kg s.c. q6-12h
 
 > [!dd]- DD

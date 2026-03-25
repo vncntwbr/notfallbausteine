@@ -9,11 +9,11 @@ aliases:
   - aeCOPD
 ICD: J44
 ---
-
+**
 > [!danger]+ Resuscitation
 > 1. **[[O2]]-Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
 > 2. **Inhalation:** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
-> 3. **Prednisolon** 50 mg i.v. (Fortführung 50 mg 1-0-0 p.o. für 5d)
+> 3. **[[Cortison|Prednisolon]]** 50 mg i.v. (Fortführung 50 mg 1-0-0 p.o. für 5d)
 > 4. **[[MgSO4]]** 2g als KI i.v.
 > 5. **[[POCUS]]:** [[Pneu]]/Sekretverlegung Hauptbronchus?
 > 6. **Erwäge [[NIV]]**[^5], low PEEP, AF ≤10/min, I:E 1:3, ggf. Dissoziation mit [[esKETAmin]]
@@ -30,7 +30,7 @@ ICD: J44
 > - **A:** DD [[Anaphylaxie]] denkbar? ABx?
 > - **M:** Häufigkeit Bedarfsmedikation-Gebrauch? Adhärenz/Zuverlässigkeit Dauermedikation und Inhalatoren-Handhabung?
 > - **P:** COPD-Stadium? LTOT (l/min, Nutzung)? Bronchiektasen?[^7] Ventile? Amb. Pneumologe? [[Herzinsuffizienz]]?
-> - **L:** LuFu? Prednisolon-Stoß? KH-Aufenthalt? ABx (womit)?
+> - **L:** LuFu? [[Cortison|Prednisolon]]-Stoß? KH-Aufenthalt? ABx (womit)?
 > - **E:** Infekt?
 > - **R:** Nikotin (aktiv, PY)? Jemals ITS/NIV? Z.n. "Near fatal"? Impfungen (Pneumokokken, Influenza, [[COVID]], Varizellen, RSV, Pertussis)?
 
@@ -71,7 +71,7 @@ ICD: J44
 
 > [!management]-
 > - **Inhalation:** Salbutamol 2.5 mg p.i. q15min, amb. 2 Hub 4x/d + Ipratropium 0.5 mg p.i. q15min
-> - **Prednisolon-Stoß:** 50 mg i.v., fortführen 50 mg p.o. 1-0-0 für 5d
+> - **[[Cortison|Prednisolon]]-Stoß:** 50 mg i.v., fortführen 50 mg p.o. 1-0-0 für 5d
 > - **Infektexazerbation:** 
 > 	- Sputum/TBS ad Mibi (meist viral: Rhinoviren, Enteroviren)
 > 	- Wenn [[ABx]], analog [[Pneumonie]] (Standard: Aminopenicillin + Azithromycin)

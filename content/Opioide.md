@@ -6,6 +6,8 @@ tags:
 title: Opioide/Opiate inkl. Intoxikation & Abhängigkeit
 ICD: F11
 ---
+> [!stadien] [Opioide Conversions](https://www.mdcalc.com/calc/3947/opiate-conversion-calculator)
+
 - ! Entzugswunsch Opioide unangenehm, aber nie vital bedrohlich, immer *rein elektiv* → Suchtberatungsstellen
 - **[[Untersuchung|U]]:** [COWS](https://www.mdcalc.com/calc/1985/cows-score-opiate-withdrawal)
 - **T Sympt.**

@@ -5,6 +5,8 @@ tags:
   - Status/Started
 ---
 
+> [!stadien] [Centor](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis)
+
 - **E:** Häufigste Ursache in ZNA, 90% viral
 - **W:** Klinik rules, kein Strep-A, kein E+R, bei [[STI]]-Risiko DD Gonokokken-Abstrich
 	- *E+R:* Persistenz nach Therapie, H.a. Agranulozytose

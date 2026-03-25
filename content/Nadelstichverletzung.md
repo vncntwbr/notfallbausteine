@@ -18,6 +18,8 @@ title: Nadelstichverletzung (NSV)
 
 > [!info] Übertragungsrisiko: 30% [[Hepatitis]] B, 3% [[Hepatitis]] C, 0.3% HIV
 
+> [!stadien] [Risikoeinschätzung RASP](https://www.mdcalc.com/calc/780/hiv-needle-stick-risk-assessment-stratification-protocol-rasp)
+
 > [!note]- Textbaustein Nadelstichverletzung
 > ```
 > Selbstvorstellung bei Nadelstichverletzung mit ###Hohlnadel? bei ###Tätigkeit am ###Finger. 

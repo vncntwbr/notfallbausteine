@@ -43,7 +43,7 @@ title: Kontrastmittel (KM)
 ---
 - **KM bei Allergie / Jodallergie**
 	- *Delabeling?* [[Ü+E]], [[Schwindel]], Wärmegefühl allein ≠ Allergie
-	- *Echte Allergie + vitale Indikation:* Prednisolon 250 mg i.v. frühestmöglich + Clemastin 2 mg o.d Dimetinden 4 mg unmittelbar vor KM, Monitoring, Adrenalin i.m. aufgezogen, Überwachung 1h
+	- *Echte Allergie + vitale Indikation:* [[Cortison|Prednisolon]] 250 mg i.v. frühestmöglich + Clemastin 2 mg o.d Dimetinden 4 mg unmittelbar vor KM, Monitoring, Adrenalin i.m. aufgezogen, Überwachung 1h
 
 > [!note]+ Textbaustein KM bei Allergie
 > ```

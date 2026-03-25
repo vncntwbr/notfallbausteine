@@ -21,6 +21,8 @@ ICD: I47.2
 > 	- Ugly looking
 > 	- Rabbits Ear li > re
 
+> [!stadien] [Brugada-Kriterien](https://www.mdcalc.com/calc/4045/brugada-criteria-ventricular-tachycardia)
+
 > [!dd]+ DD bei Breitkomplextachykardie abseits VT, VT und VT (WIDER)
 > - W – WPW
 > - I – Intraventrikuläre Leitungsverzögerung (Blockbild, abberant, Pacemaker)

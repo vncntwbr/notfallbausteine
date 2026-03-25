@@ -32,6 +32,8 @@ aliases:
 > 	- Kopf 18%
 > 	- Beine je 14%
 
+> [!stadien] [Parkland-Formel](https://www.mdcalc.com/calc/83/parkland-formula-burns)
+
 > [!disposition]+ Verlegung in Schwerbrandverletzten-Zentrum
 > - [Koordinationsstelle Feuerwehr Hamburg](https://www.feuerwehr.hamburg/zentrale-anlaufstelle-fuer-die-vermittlung-von-krankenhausbetten-fuer-schwerbrandverletzte--890176)
 

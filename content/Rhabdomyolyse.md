@@ -14,6 +14,8 @@ tags:
 > - Drugs and other factors do not explain rhabdo
 > - Other family members effected / other exertional symptoms (cramps, myalgia)
 
+> [!stadien] [McMahon Risikostratifizierung](https://www.mdcalc.com/calc/4017/mcmahon-score-rhabdomyolysis)
+
 > [!management]- Exertional Rhabdomyolyse (inkl. [[Krampfanfall]] etc.)
 > - **CK <10.000 U/L:** keine Therapie
 > - **CK <15.000 U/L:** Entlassung mit folgenden Empfehlungen:

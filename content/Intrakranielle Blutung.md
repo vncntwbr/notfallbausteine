@@ -11,10 +11,10 @@ aliases:
 ICD: I60-I62
 ---
 
-> [!danger] Resuscitation (Diagnose gesichert)
+> [!danger] Rapid Reference (Diagnose gesichert)
 > 1. **Einklemmung?** (Anisokorie, Cushing-Reflex, Strecksyn.) → [[Hirndruck]], zumindest OK-Hoch 30°
 > 2. **[[RR]]:** Ziel RRsys <160, MAP 60-90, [[Hypotonie]] meiden, [[Arterie]]
-> 3. **Aspiration verhindern:** Ondansetron 8 mg i.v., [[RSI]] bei progr. [[Vigilanz↓]], beeintr. Schutzreflexe, GCS ≤8, OP
+> 3. **Aspiration verhindern:** Ondansetron 8 mg i.v., [[RSI]] bei progr. [[Vigilanz↓]]/Schutzreflexe↓/OP
 > 4. **[[Blutungsmanagement]]** Antagonisierung
 - **[[SAB]]** immer CTA mit ?Aneurysma
 - EZ-IO für EDH Case Report[^1] und Case Series n=51 mit 100% success in SDH[^2], aber besser einfach Kraniotomie-Bohrer vorhalten
@@ -24,6 +24,10 @@ ICD: I60-I62
 - [[ICB]]
 
 ## SAB
+
+> [!stadien] [Ottawa SAH Rule-Out](https://www.mdcalc.com/calc/3875/ottawa-subarachnoid-hemorrhage-sah-rule-for-headache-evaluation)
+
+> [!stadien] [Hunt & Hess für SAB](https://www.mdcalc.com/calc/404/hunt-hess-classification-subarachnoid-hemorrhage) / [mod. Fisher (nur aneurysmal)](https://www.mdcalc.com/calc/3837/modified-fisher-grading-scale-subarachnoid-hemorrhage-sah)
 
 ## ICB
 - **[[Anamnese|A]]:** (S) Symptombeginn, (M) insb. [[AK]] letzte Dosis, (E) Vorzustand

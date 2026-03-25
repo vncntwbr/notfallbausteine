@@ -3,6 +3,9 @@ tags:
   - Basics/ABCDE
   - Fach/Notfallmedizin
   - Fach/Neurologie
+aliases:
+  - D-Problem
+  - Disability
 ---
 > [!workup]+ Assessment
 > - **[[Vigilanz↓]] (AVPU, [[GCS]])?**

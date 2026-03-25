@@ -32,7 +32,7 @@ ICD: D50-D64
 > [!anamnese]-
 > - **S:** [[Dyspnoe]]? AP? [[Synkope]]? Urin? Stuhl? [[Hämoptysen]]? [[Epistaxis]]? Menorrhoe? Sonstige Blutungen? B-Symptomatik? [[Ödeme]]?
 > - **A:** Transfusionsreaktion? Irreguläre Antikörper?
-> - **M:** [[AK]]/TAH? NSAR? Cortison? CTX? Myelotoxische Med?
+> - **M:** [[AK]]/TAH? NSAR? [[Cortison]]? CTX? Myelotoxische Med?
 > - **P:** [[CKD]]? Onko? GI? Herzklappenersatz? [[Aorta]]? Z.n. OP?
 > - **L:** Transfusion? Menstruation ([[Schwanger]], Hypermenorrhoe)? Stuhl?
 > - **E:** Trauma? Infekt (Reaktiv)?
@@ -63,7 +63,7 @@ ICD: D50-D64
 > 	- *Megaloblastär:* Ursache (Ernährung, Alkohol)? Ausschluss B12-Mangel (Holo-TC)![^1]
 > 		- *Folsäuremangel:* B12 initial 4 mg p.o. 1-0-0
 > 		- *Vitamin-B12-Mangel:* 1000 μg i.m. 1x/d für 1 Woche, hausärztlich reduzieren[^2]
-> 	- *V.a. AIHA:* Prednisolon 50-100 mg i.v., RS Hämatologie
+> 	- *V.a. AIHA:* [[Cortison|Prednisolon]] 50-100 mg i.v., RS Hämatologie
 > 	- *V.a. TTP/HUS:* ggf. FFP, RS Nephrologie
 > 	- *Myelosuppression:* RS Hämatologie amb./stat.
 

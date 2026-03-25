@@ -7,7 +7,7 @@ tags:
 - **In geringer Dos gefährliche Substanzen**
 	- *⍺2-Agonisten (Clonidin):* [[Hypotonie]]/[[Bradykardie]], [[Vigilanz↓]]
 	- *[[Antipsychotika]]:* ≥1 Tbl. [[Vigilanz↓]], oft Retard
-	- *Babypuder Aspiration:* "Austrocknen" AW, symptomfreies Intervall 24h → Prednisolon i.v., BAL, Surfactant p.i.
+	- *Babypuder Aspiration:* "Austrocknen" AW, symptomfreies Intervall 24h → [[Cortison|Prednisolon]] i.v., BAL, Surfactant p.i.
 	- *Backofen-/Rohrreiniger:* Massive Verätzungen → Notfall-ÖGD
 	- *[[Betablocker]]:* insb. Propanolol u.a. lipophile BB
 	- *[[Calciumantagonisten]]:* <4 J.

@@ -19,37 +19,4 @@ ICD: J80
 > 8. **Bauchlagerung**
 > 9. **[[ECMO]]?**
 
-> [!dd]+ Ätiologie
-> - **Infektion:** [[Pneumonie]], andere [[Sepsis]]
-> - ...
-
-> [!anamnese]+ Anamnese
-> - **S:** 
-> - **A:** 
-> - **M:** 
-> - **P:** 
-> - **L:** 
-> - **E:** 
-> - **R:** 
-
-> [!workup]+
-> - **[[Untersuchung|U]]:** 
-> - **[[EKG]]:** 
-> - **[[POCUS]]:** 
-> - **[[Labor]]:** 
-> - **[[Urin]]:** 
-> - **[[Radiologie]]:** 
-
-> [!stadien]+
-> - ...
-
-> [!management]+
-> - ...
-
-> [!disposition]+
-> - ...
-
-> [!note]- Textbaustein
-> ```
-> Blabla
-> ```
+> [!stadien] [Berlin-Kriterien für ARDS](https://www.mdcalc.com/calc/10294/berlin-criteria-acute-respiratory-distress-syndrome)

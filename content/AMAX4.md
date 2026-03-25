@@ -13,7 +13,7 @@ tags:
 > 3. **Atemweg:** ITN mit VL + Apnoe-Ox 1 Versuch, sonst direkt [[eFONA]], [[BVM]]/SGA insuffizient
 > 4. **Xtreme Ventilation** initial per *Beutel* mit AF 5-10, Pinsp 50-100, PEEP 0, Überdruckventil schließen[^1], permissive [[Resp. Azidose|Hyperkapnie]]
 > 5. **[[Pneu]]** ausschließen, repetitiv [[POCUS]]
-> 6. **Xtra Medis:** [[Adrenalin]] p.i., [[MgSO4]] 2 g KI, VEL 1-2 L, Prednisolon 250 mg, [[Adrenalin]]-[[Perfusor]], ggf. vvECMO
+> 6. **Xtra Medis:** [[Adrenalin]] p.i., [[MgSO4]] 2 g KI, VEL 1-2 L, [[Cortison|Prednisolon]] 250 mg, [[Adrenalin]]-[[Perfusor]], ggf. vvECMO
 > 7. **<4 min Oxygenierung**, sonst direkt [[eFONA]]
 
 ## Literatur

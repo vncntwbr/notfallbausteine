@@ -12,6 +12,9 @@ ICD: F10
 > - **Wernicke-Enzephalopathie** bei ≥1 von GCS↓, Ataxie, Okulomotorikstörung
 > - **Entzugssymptomatik:** AWSS q4h, Diazepam 5-20 mg p.o.
 
+> [!stadien] [CAGE](https://www.mdcalc.com/calc/1729/cage-questions-alcohol-use)
+
+> [!stadien] [Geschätzter Serumalkohol](https://www.mdcalc.com/calc/3813/estimated-ethanol-toxic-alcohol-serum-concentration-based-ingestion)
 
 > [!info]
 > - **Riskanter Alkoholkonsum** >12 g W (1 Glas) / >24 g M (2 Gläser) Ethanol / d oder Rauschtrinken

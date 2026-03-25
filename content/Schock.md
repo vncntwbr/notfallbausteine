@@ -12,7 +12,7 @@ title: Schock & Hypotonie
 > 1. **Ursache adressiert?** Source Control für [[Sepsis]], [[Thrombektomie]] für [[LAE]] etc.
 > 2. **Metabolisch?** 
 > 	1. *[[Met. Azidose|Azidose]]:* Isotones Bicarb, ggf. +Vasopressin
-> 	2. *[[NNR-Insuffizienz|NNR]]:* Empirisch Hydrocortison 200 mg i.v.
+> 	2. *[[NNR-Insuffizienz|NNR]]:* Empirisch [[Cortison|Hydrocortison]] 200 mg i.v.
 > 	3. *[[Hypocalcämie]]:* Ca2+ Subst.
 > 	4. *[[Hypothyreose]]:* ggf. auch empirisch T4 400 μg i.v.
 > 	5. *[[Hypothermie]]:* Wärmen
