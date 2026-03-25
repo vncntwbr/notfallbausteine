@@ -19,7 +19,7 @@ ICD: I26
 > - **[[Labor]]:** BGA ([[Resp. Alkalose]]), Basis-Labor ± [[D-Dimer]], [W] β-HCG
 
 > [!stadien]-
-> - **High-Risk:** Schock
+> - **High-Risk:** [[Schock]]
 > - **Intermediate-High-Risk:** sPESI ≥1, RHB+, Troponin+
 > - **Intermediate-Low-Risk:** sPESI ≥1, RHB–, Troponin–
 > - **Low-Risk:** sPESI =0

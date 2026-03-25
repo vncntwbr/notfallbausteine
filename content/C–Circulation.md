@@ -18,9 +18,12 @@ aliases:
 > - **4k-[[EKG]] (HF, [[QRS-Verbreiterung]]-Breite)?**
 
 > [!management]+ Ungezielte Interventionen
-> - **i.v./[[i.o.]]-Zugang**
+> - **Zugang** (PVK, [[i.o.]], [[ZVK]], [[Arterie]])
 > - **[[eKV]] / [[Pacing]]**
-> - **[[Volumentherapie]] / [[Katecholamine]]**
+> - **[[Volumentherapie|Volumen-Bolus]]**
+> - **Meds:** [[Push-Dose|Push-Dose-Pressors]], Calciumgluconat bei V.a. [[HyperK+]]
 > - **[[CPR]]**
 
 ![[Schock#^e10a61]]
+
+![[Schock#^5a5cb6]]

@@ -3,17 +3,21 @@ tags:
   - Fach/Intensivmedizin
   - Status/Done
   - Basics
+  - Checkliste
+  - Favourites
 aliases:
+  - Intensiv
+  - Intensivstation
 title: Intensivmedizinisches Bridging (ITS)
 ---
 
-- [ ] Name / Alter / Geschlecht / Zimmer / LT
+- [ ] Name / Alter / Geschlecht / Zimmer / Liegetag
 - [ ] Hauptdiagnose
 - [ ] Tagesziel
 - [ ] PFK gesprochen
 
 ## Neuro
-- [ ] **Analgesie:** [BPS](https://www.mdcalc.com/calc/3622/behavioral-pain-scale-bps-pain-assessment-intubated-patients) <6
+- [ ] **[[Analgesie]]:** [BPS](https://www.mdcalc.com/calc/3622/behavioral-pain-scale-bps-pain-assessment-intubated-patients) <6
 - [ ] **Sedierung:** [RASS](https://www.mdcalc.com/calc/1872/richmond-agitation-sedation-scale-rass) -1 bis 0 / SAT
 - [ ] **[[Delir]]:** [CAM-ICU](https://www.mdcalc.com/calc/1870/confusion-assessment-method-icu-cam-icu), Prophylaxe
 
@@ -21,43 +25,47 @@ title: Intensivmedizinisches Bridging (ITS)
 - [ ] **[[BGA]]:** Oxygenierung? Decarboxylierung?
 - [ ] **Modus/Parameter**
 - [ ] **Spontanisierung/Weaning**
-- [ ] **Protektiv:** OK-Hochlagerung, VT 6 ml/kg, Pmax <35
+- [ ] **Protektiv:** OK-Hoch 30°, VT 6 ml/kg, Pmax <35
 - [ ] **Beatmungstag:** TK? [[BSK]]?
-- [ ] **Radiologie**
+- [ ] **[[Radiologie]]**
 
 ## Kreislauf
-- [ ] **Rhythmus:** nfSR?
+- [ ] **[[EKG]]-Rhythmus:** nfSR?
 - [ ] **MAP:** 65-85 oder Ziel
-- [ ] **Katecholamine** 
-- [ ] **Volumenstatus/TTE**
-- [ ] **Antikoagulation:** keine/prophylaktisch/therapeutisch
-- [ ] **ECMO:** BF, GF? Drücke? Harlekin? periph. Perfusion?
+- [ ] **[[Katecholamine]]:** weiteren Mechanismus dazu?
+- [ ] **[[Volumenstatus]]/[[TTE]]**
+- [ ] **[[AK|Antikoagulation]]:** keine/prophylaktisch/therapeutisch
+- [ ] **[[ECMO]]:** BF, GF? Drücke? Harlekin? periph. Perfusion?
+
+![[schock#^5a5cb6]]
 
 ## Niere
 - [ ] **Bilanzziel:** ±? E/A? erreicht?
 - [ ] **[[AKI]]:** prä/intra/post? DANI?
-- [ ] **Dialyse:** BF, DF, UF? Clotting? Citratakkumulation?
+- [ ] **[[Dialyse]]:** BF, DF, UF? Clotting? Citratakkumulation?
 
+![[aki#^f35708]]
 ## Abdomen
 - [ ] **Ernährung:** kcal-Ziel? erreicht?
 - [ ] **Stuhlgang:** abgeführt? DG?
 
+![[Obstipation#^1b7415]]
 ## Infekt
-- [ ] **[[IFP]]:** Fieber? CRP/[[PCT]]/Leukos?
+- [ ] **[[IFP]]:** Fieber? CRP/PCT/[[NLR]]/Leukos?
 - [ ] **Keim:** Mibi? Fokus?
-- [ ] **ABx:** indiziert? Tag? resistenzgerecht?
+- [ ] **[[ABx]]:** indiziert? Tag? resistenzgerecht?
 - [ ] **Drainagen:** indiziert? <3d?
-- [ ] **Katheter:** indiziert?
+- [ ] **Katheter:** [[Arterie]], [[ZVK]], DK, weitere – indiziert? Tag?
 
 ## Sonstiges
-- [ ] **Labor:** gesichtet, angeordnet
-- [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? Monitoring?
-- [ ] **Mobilisation:** PT, AT
-- [ ] **Soziales:** Patientenwille? Angehörige? Betreuung?
+- [ ] **[[Labor]]:** gesichtet, angeordnet
+- [ ] **Medikation:** geprüft/indiziert? DANI/DALI? UAW? [[Interaktionen]]? Monitoring?
+- [ ] **Mobilisation:** Physio, Ergo, Atemtherapie
+- [ ] **Soziales:** Patientenwille/[[Palliativ]]? Angehörige? Betreuung?
 - [ ] **[[Doku]]:** Verlauf, SAPS-II/TISS, [SOFA](https://www.mdcalc.com/calc/691/sequential-organ-failure-assessment-sofa-score), ICD-10, Brief
 
 ---
-
+## Literatur
 - Täglicher Aufwachversuch auf ITS[^2]
 - Sedierungsfreie Intensivmedizin macht kürzere ITS-Aufenthalte, Beatmung, Hospitalisierung, aber mehr hyperaktives [[Delir]] (?)[^1]
 

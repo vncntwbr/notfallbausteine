@@ -1,14 +1,16 @@
 ---
 tags:
   - Probleme/Allgemein
-  - Status/Started
   - Fach/Intensivmedizin
+  - Status/Done
+  - Favourites
+  - Checkliste
 ICD: R57
 aliases:
   - Hypotonie
 title: Schock & Hypotonie
 ---
-> [!danger]+ Therapierefraktärer Schock Checkliste
+> [!danger]- Therapierefraktärer Schock Checkliste
 > 1. **Ursache adressiert?** Source Control für [[Sepsis]], [[Thrombektomie]] für [[LAE]] etc.
 > 2. **Metabolisch?** 
 > 	1. *[[Met. Azidose|Azidose]]:* Isotones Bicarb, ggf. +Vasopressin
@@ -28,7 +30,9 @@ title: Schock & Hypotonie
 > 8. **Zweite Diagnose:** Premature Closure / "The patient can have as many diagnoses as they damn well please"
 > 9. **Fancy Therapien?** [[ECMO]], IABP, LAVD, etc.
 
-> [!dd]+ DD Schock (Hypoperfusion) / Hypotonie
+^5a5cb6
+
+> [!dd]- DD Schock (Hypoperfusion) / Hypotonie
 > - **Distributiv:**
 > 	- [[Anaphylaxie]]
 > 	- [[Sepsis]], SIRS
@@ -49,20 +53,20 @@ title: Schock & Hypotonie
 
 ^e10a61
 
-> [!dd]- When not to Worry about Hypotension[^2]
+> [!dd]- When not to Worry about Hypotension
 > - **Warm**
-> - **Wake**
+> - **Wake** (keine [[Vigilanz↓|Vigilanzminderung]])
 > - **Weeing** (keine [[AKI]])
-> - **Wactate normal** (keine [[Lactat]])
+> - **Wactate normal** (kein [[Lactat]])[^2]
 
-> [!stadien]+ Stadien (SCAI)[^1]
-> 1. **At risk:** Hämodynamisch stabil ohne Schock aber mit Risiko dafür (z.B. dekompensierte [[Herzinsuffizienz]])
-> 2. **Beginning:** Hypotonie, [[Tachykardie]] jedoch ohne Endorgan-Hypoperfusion
-> 3. **Classic:** Endorgan-Hypoperfusion
-> 4. **Deteriorating:** Ausbleibende Besserung trotz Therapieeskalation
-> 5. **Extremis:** [[Periarrest]] oder [[CPR]]
+> [!stadien]- Stadien (SCAI)
+> 1. **A – At risk:** Hämodynamisch stabil ohne Schock aber mit Risiko dafür (z.B. dekompensierte [[Herzinsuffizienz]])
+> 2. **B – Beginning:** Hypotonie, [[Tachykardie]] jedoch ohne Endorgan-Hypoperfusion
+> 3. **C – Classic:** Endorgan-Hypoperfusion
+> 4. **D – Deteriorating:** Ausbleibende Besserung trotz Therapieeskalation
+> 5. **E – Extremis:** [[Periarrest]] oder [[CPR]][^1]
 
-> [!workup]
+> [!workup]-
 > - **Organdysfunktionen**
 > 	- *Hämodynamik:* [[Hypotonie]], Shock-Index >0.8, [[Bradykardie]]
 > 	- *Niere:* Oligurie

@@ -4,6 +4,11 @@ tags:
   - Status/Started
   - Fach/Intensivmedizin
   - Fach/Dermatologie
+title: Anaphylaxie / Allergische Reaktion
+aliases:
+  - Allergie
+  - Allergische Reaktion
+  - Anaphylaktischer Schock
 ---
 > [!danger] Resuscitation
 > 1. **EXPOSITION stoppen**

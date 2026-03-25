@@ -17,7 +17,7 @@ ICD: K92.2
 > 1. **[[Blutungsmanagement]]** allgemein
 > 2. **Pantoprazol** 40-80 mg i.v.
 > 3. **Leberzirrhose/Varizen:** Terlipressin 2 mg als KI (Vasokonstriktor) + Ceftriaxon 2 g i.v. ([[SBP]]-Prophylaxe)
-> 4. **ÖGD:** Varizen/Schock sofort, Risiko <24h, stabil <72h, ggf. Erythromycin 250 mg als KI zur Magenentleerung 30 min vor ÖGD
+> 4. **ÖGD:** Varizen/[[Schock]] sofort, Risiko <24h, stabil <72h, ggf. Erythromycin 250 mg als KI zur Magenentleerung 30 min vor ÖGD
 > 5. **Urämie:** Prioritär Dialyse, nicht ÖGD
 
 > [!danger] UNTERE GI-Blutung
@@ -35,7 +35,7 @@ ICD: K92.2
 	- **T Obere GI-Blutung**
 		- ! [[Blutungsmanagement]]
 		- *Leberzirrhose:* Terlipressin 1-2 mg KI + Ceftriaxon 2 g i.v. (Prophylaxe [[HE]]/SBP)
-		- *Endoskopie:* ggf. in [[RSI]], Varizenblutung sofort, Schock <12h, Risiko <24h, Stabil <72h, in RS Erythromycin 250 mg KI
+		- *Endoskopie:* ggf. in [[RSI]], Varizenblutung sofort, [[Schock]] <12h, Risiko <24h, Stabil <72h, in RS Erythromycin 250 mg KI
 		- *Bei Urämie:* Prio [[Dialyse]] vor Endo
 		- *Ambulant:* [Glasgow-Blatchford-Score](https://www.mdcalc.com/calc/518/glasgow-blatchford-bleeding-score-gbs) 0-1, kein Alkohol/Antikoagulation (BUN=HST*0.5)
 	- **T Untere GI-Blutung**

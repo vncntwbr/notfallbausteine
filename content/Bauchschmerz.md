@@ -11,7 +11,7 @@ aliases:
 ICD: R10.4
 ---
 > [!dd]- DD
-> - **Schock + Bauchschmerz**
+> - **[[Schock]] + Bauchschmerz**
 > 	- [[Aorta]]
 > 	- [[EUG]]/Perforation
 > 	- [[Sepsis]]
