@@ -18,7 +18,7 @@ aliases:
 > - **Senile Kalzifizierung:** 3% in >75 J.[^1]
 > - **Bikuspide AK:** 1% Prävalenz, präsentiert sich meist mit 50-60 J., Cave auch [[Aorta]]
 > - **Rheumatisch:** Fast immer mit MS
-> - **Radiatio:** insb. >30 Gy, meist 15-20 J. nach Exposition, AS+AI möglich
+> - **Radiatio:** insb. >30 Gy, meist 15-20 J. nach Exposition, AS+[[AI]] möglich
 
 > [!anamnese]- Symptome
 > - **Typische Progression**

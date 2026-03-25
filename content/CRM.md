@@ -3,6 +3,7 @@ tags:
   - Druck
   - Basics
   - Basics/Soft-Skills
+  - Status/Started
 title: Crew-Resource-Management (CRM) & Arbeitsbedingungen
 ---
 

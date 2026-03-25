@@ -9,7 +9,7 @@ title: E-Point Septal Separation (EPSS)
 - *Durchfürung:* In [[PLAX]] M-Mode cursor durch Mitralsegel, Messung von E-Point bis Septum (s. Bild)
 - *Interpretation:* EPSS >7 mm = EF↓[^1]
 - LVEF approx = 75.5 – (2.5 x EPSS [millimeters])[^2]
-- *Cave:* Falsch-hoch bei Mitralklappenstenose und Aortenklappeninsuffizienz, Beat-to-beat Variation bei [[VHF]]
+- *Cave:* Falsch-hoch bei Mitralklappenstenose und [[AI|Aortenklappeninsuffizienz]], Beat-to-beat Variation bei [[VHF]]
 ---
 ![[Pasted image 20251124193122.png]]
 

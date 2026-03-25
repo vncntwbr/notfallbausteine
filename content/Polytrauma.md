@@ -3,6 +3,9 @@ tags:
   - Probleme/Trauma
   - Status/Started
   - Fach/Orthopädie
+aliases:
+  - PYT
+title: Polytrauma (PYT)
 ---
 > [!danger] Siehe [[Trauma-CPR]]
 
