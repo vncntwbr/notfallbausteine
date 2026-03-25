@@ -33,7 +33,7 @@ ICD: I10-I15
 > - **R:** CVRF? Alkohol/Drogen, [[Entzug]]?
 
 > [!workup]-
-> 1. Bei asympt./oligosympt. (z.B. leichter [[Kopfschmerz]], Unruhe, [[Epistaxis]]) Hypertonie nur A+U und [[EKG]], weitere Diagnostik nur bei Auffälligkeiten
+> Bei asympt./oligosympt. (z.B. leichter [[Kopfschmerz]], Unruhe, [[Epistaxis]]) Hypertonie nur A+U und [[EKG]], weitere Diagnostik nur bei Auffälligkeiten
 > - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
 > - **[[EKG]]**
 > - ggf. [[POCUS]] (Harnverhalt?)

@@ -9,12 +9,13 @@ aliases:
   - EDH
   - SDH
 ICD: I60-I62
+title: Intrakranielle Blutung (ICB, SAB, SDH, EDH)
 ---
 
-> [!danger] Rapid Reference (Diagnose gesichert)
-> 1. **Einklemmung?** (Anisokorie, Cushing-Reflex, Strecksyn.) → [[Hirndruck]], zumindest OK-Hoch 30°
-> 2. **[[RR]]:** Ziel RRsys <160, MAP 60-90, [[Hypotonie]] meiden, [[Arterie]]
-> 3. **Aspiration verhindern:** Ondansetron 8 mg i.v., [[RSI]] bei progr. [[Vigilanz↓]]/Schutzreflexe↓/OP
+> [!danger]+ Rapid Reference (Diagnose gesichert)
+> 1. **Einklemmung?** (Anisokorie, Cushing-Reflex, Strecksyn.) → [[Hirndruck|Hirndruckmanagement]], zumindest OK-Hoch 30°
+> 2. **[[RR]]:** Ziel RRsys <160, MAP 60-90, [[Hypotonie]] aggressiv meiden, [[Arterie]]
+> 3. **Aspirationsschutz:** Ondansetron 8 mg i.v., [[RSI]] bei progr. [[Vigilanz↓]]/Schutzreflexe↓/OP
 > 4. **[[Blutungsmanagement]]** Antagonisierung
 - **[[SAB]]** immer CTA mit ?Aneurysma
 - EZ-IO für EDH Case Report[^1] und Case Series n=51 mit 100% success in SDH[^2], aber besser einfach Kraniotomie-Bohrer vorhalten

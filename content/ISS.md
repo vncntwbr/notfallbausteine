@@ -8,6 +8,8 @@ tags:
   - Status/Done
 aliases:
   - Injurity Severity Scale
+  - OIS
+  - AIS
 title: Injurity Severity Scale (ISS)
 ---
 > [!stadien]+ ISS Berechnung
@@ -306,7 +308,7 @@ title: Injurity Severity Scale (ISS)
 > +1 für bilateral bis max. 3°
 ## ISS Extremitäten
 > [!stadien]- OIS Periphere Gefäße
-> 1. Digitiale A./V. <br>Palmare oder plantare A./V.<br>A. dorsalis pedis<br>Unbenannte A./V.
+> 1. Digitale A./V. <br>Palmare oder plantare A./V.<br>A. dorsalis pedis<br>Unbenannte A./V.
 > 2. V. basilica/cephalica<br>V. saphena<br>A. radialis<br>A. ulnaris
 > 3. V. axillaris<br>V. femoralis profunda/superficialis<br>V. poplitea<br>A. brachialis<br>A. tibialis anterior/posterior<br>A. fibularis
 > 4. A. femoralis profunda/superficialis<br>A. poplitea
