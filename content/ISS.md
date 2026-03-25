@@ -21,7 +21,7 @@ title: Injurity Severity Scale (ISS)
 > 	- Extremitäten inkl. Pelvis
 > 	- External (z.B. Haut, Ganzkörper, [[Hypothermie]])
 
-## Thorax
+## ISS Thorax
 
 > [!stadien]- OIS Thoraxwand
 > 1. Kontusion<br>ODER Laceration bis max. Subcutis<br>ODER <3 Rippenfrakturen, geschlossen<br>ODER Claviculafraktur, undisloziert, geschlossen
@@ -73,7 +73,7 @@ title: Injurity Severity Scale (ISS)
 > 4. Laceration >10 cm mit ≤25 cm² Gewebsverlust
 > 5. Laceration mit >25 cm² Gewebsverlust
 
-## Abdomen
+## ISS Abdomen
 
 > [!stadien]- OIS Abdominale Gefäße
 > 1. Unbenannte Äste der A./V. mesentericae<br>A./V. phrenica<br>A./V. lumbalis<br>A./V. testicularis/ovaria<br>Andere unbenannte Gefäße mit Therapiekonsequenz
@@ -87,23 +87,23 @@ title: Injurity Severity Scale (ISS)
 > –1 für 4°/5° mit <25% Umfang
 
 > [!stadien]- OIS Leber
-> 6. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
-> 7. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Intrakapsuläres Hämatom <10 cm Durchmesser<br>ODER Laceration 1-3 cm Tiefe + ≤10 cm Länge
-> 8. Subkapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom<br>ODER Intraparenchymales Hämatom >10 cm<br>ODER Laceration >3 cm Tiefe<br>ODER Jede Gefäßverletzung mit aktiver Blutung auf Leberkapsel begrenzt (CT)
-> 9. Parenchymale Disruption von 25-75% eines Leberlappens <br>ODER Aktive Blutung über Leberparenchym hinaus ins Peritoneum
-> 10. Parenchymale Disruption von >75% eines Leberlappens <br>ODER Verletzung von V. cava inferior / V. hepatica
+> 1. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
+> 2. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Intrakapsuläres Hämatom <10 cm Durchmesser<br>ODER Laceration 1-3 cm Tiefe + ≤10 cm Länge
+> 3. Subkapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom<br>ODER Intraparenchymales Hämatom >10 cm<br>ODER Laceration >3 cm Tiefe<br>ODER Jede Gefäßverletzung mit aktiver Blutung auf Leberkapsel begrenzt (CT)
+> 4. Parenchymale Disruption von 25-75% eines Leberlappens <br>ODER Aktive Blutung über Leberparenchym hinaus ins Peritoneum
+> 5. Parenchymale Disruption von >75% eines Leberlappens <br>ODER Verletzung von V. cava inferior / V. hepatica
 >  
 > +1 für multiple Läsionen bis max. 3°
 
 > [!stadien]- OIS Milz
-> 11. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
-> 12. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Parenchymale Laceration 1-3 cm Tiefe<br>ODERapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom ≥5 cm<br>ODER Parenchymale Laceration >3 cm Tiefe
-> 13. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)<br>ODER Parenchymale Laceration mit Gefäßbeteiligung und >25% Devaskularisation
-> 14. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)<br>ODER Hilusverletzung mit Devaskularisation (OP)<br>ODER Shattered Milz
+> 1. Subkapsuläres Hämatom <10% Oberfläche<br>ODER Parenchymale Laceration <1 cm Tiefe<br>ODER Kapselriss
+> 2. Subkapsuläres Hämatom 10-50% Oberfläche<br>ODER Parenchymale Laceration 1-3 cm Tiefe<br>ODERapsuläres Hämatom >50% Oberfläche oder expanding<br>ODER Rupturiertes subkapsuläres/intraparenchymales Hämatom ≥5 cm<br>ODER Parenchymale Laceration >3 cm Tiefe
+> 3. Jede Gefäßverletzung mit aktiver Blutung auf Milzkapsel begrenzt (CT)<br>ODER Parenchymale Laceration mit Gefäßbeteiligung und >25% Devaskularisation
+> 4. Jede Gefäßverletzung mit aktiver Blutung über Milz hinaus ins Peritoneum (CT)<br>ODER Hilusverletzung mit Devaskularisation (OP)<br>ODER Shattered Milz
 >  
 > +1 für multiple Läsionen bis max. 3°
 
-### Gastrointestinal
+### ISS Gastrointestinal
 
 > [!stadien]- OIS Pankreas
 > 1. Kleine Kontusion/Laceration ohne Ductus-Verletzung
@@ -150,7 +150,7 @@ title: Injurity Severity Scale (ISS)
 >  
 > +1 für multiple Läsionen
 
-### Harnwege
+### ISS Harnwege
 
 > [!stadien]- OIS Niere
 > 1. Subkapsuläres Hämatom<br>ODER Parenchymale Kontusion ohne Laceration
@@ -197,7 +197,7 @@ title: Injurity Severity Scale (ISS)
 > 
 > +1 für multiple Läsionen
 
-### Männliches Genital
+### ISS Männliches Genital
 
 > [!stadien]- OIS Penis
 > 1. Kutane Laceration/Kontusion
@@ -222,7 +222,7 @@ title: Injurity Severity Scale (ISS)
 > 4. Abriss <50%
 > 5. Abriss ≥50%
 
-## Extremitäten
+## ISS Extremitäten
 > [!stadien]- OIS Periphere Gefäße
 > 1. Digitiale A./V. <br>Palmare oder plantare A./V.<br>A. dorsalis pedis<br>Unbenannte A./V.
 > 2. V. basilica/cephalica<br>V. saphena<br>A. radialis<br>A. ulnaris

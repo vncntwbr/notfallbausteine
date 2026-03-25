@@ -31,8 +31,9 @@ ICD: J93
 > - **[[Radiologie]]:** [[Rö Tx]] ==stehend== zur Größenbeurteilung (liegend Sens ≈60%)
 
 > [!stadien]- Größeneinteilung Pneumothorax
-> - **Klein** <3 cm apikale Dehiszenz
-> - **Groß** >3 cm apikale Dehiszenz (oder alles was über apikal hinausgeht)
+> - **Klein** <2 cm Dehiszenz auf Hilus-Höhe
+> - **Groß** >2 cm Dehiszenz auf Hilus-Höhe
+> - *Amerikanische Guidelines:* Cutoff 3 cm apikale Dehiszenz (weniger praktikabel)
 
 ![[iss#^1eb208]]
 
@@ -45,7 +46,7 @@ ICD: J93
 > ```
 > Aktuell: Primärer Spontanpneumothorax
 > 
-> Zusammenfassend primär Spontanpneumothorax RECHTS/LINKS (ca. ### cm Dehiszenz). Überwachung über 4 Stunden mit unauffälligem Verlauf, abschließend in Röntgen-Kontrolle Größenprogress ausgeschlossen.
+> Zusammenfassend primärer Spontanpneumothorax RECHTS/LINKS (ca. ### cm hiläre Dehiszenz). Überwachung über 4 Stunden mit unauffälligem Verlauf, abschließend in stehender Röntgen-Kontrolle Größenprogress ausgeschlossen.
 > 
 > Bei tolerablem Schmerzniveau, unter Raumluft stabilem Gasaustausch, problemloser Mobilisation ohne schwere Dyspnoe, gesicherter häuslicher Versorgung und im Einklang mit dem Patientenwunsch konservatives Procedere. Entlassung in gutem AZ bei stabilen VP nach ausführlicher Aufklärung.
 > 
@@ -56,3 +57,10 @@ ICD: J93
 > - ANALGESIE
 > ```
 
+## Literatur
+- Pigtail vs. TDx oft ausreichend[^1]
+- Konservative Therapie für Primären Spontanpneumothorax unter bestimmten Umständen ok[^2]
+
+[^1]: Kulvatunyou N, Erickson L, Vijayasekaran A, Gries L, Joseph B, Friese RF, O'Keeffe T, Tang AL, Wynne JL, Rhee P. Randomized clinical trial of pigtail catheter versus chest tube in injured patients with uncomplicated traumatic pneumothorax. Br J Surg. 2014 Jan;101(2):17-22. doi: 10.1002/bjs.9377. PMID: 24375295.
+
+[^2]: [Brown et al: Conservative versus Interventional Treatment for Spontaneous Pneumothorax, NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa1910775)
