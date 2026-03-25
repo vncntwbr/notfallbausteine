@@ -7,7 +7,6 @@ title: Hirndruck, IPC-Erhöhung & Einklemmung
 aliases:
   - ICP-Erhöhung
   - Einklemmung
-  - Intrakranieller Druck
   - ICP-Management
   - Hirndruckmanagement
 ---
