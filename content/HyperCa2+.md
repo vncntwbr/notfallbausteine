@@ -18,7 +18,7 @@ title: Hypercalcämie (Ca2+↑)
 > - ==Paraneoplastisches Syndrom / Osteolysen==
 > - Vitamin-D-Intoxikation (25-OH-VitD↑)
 > - Sarkoidose (1,25-OH-VitD↑)
-> - Hyperthyreose (TSH↓)
+> - [[Hyperthyreose]] (TSH↓)
 > - Familiäre hypocalcurische Hypercalcämie (Ca2+↓ im [[Urin]])
 
 > [!workup]-

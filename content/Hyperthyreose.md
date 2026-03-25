@@ -4,7 +4,9 @@ tags:
   - Diagnosen
   - Fach/Endokrinologie
 aliases:
-title: Hyperthyreose (TSH↓)
+  - Thyreotoxische Krise
+  - Thyreotoxikose
+title: Hyperthyreose (TSH↓) inkl. Thyreotoxische Krise
 ICD: E05
 ---
 

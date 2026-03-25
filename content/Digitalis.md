@@ -10,7 +10,7 @@ aliases:
   - Digoxin
 title: Digitalis (Digoxin & Digitoxin) inkl. Intoxikation
 ---
-- **KI:** [[Bradykardie]], [[VT]], avisierte Rhythmuskontrolle/[[eKV]], [[AKI]], [[HypoK+]], [[HypoMg2+]], [[HyperCa2+]], Thyreotoxikose
+- **KI:** [[Bradykardie]], [[VT]], avisierte Rhythmuskontrolle/[[eKV]], [[AKI]], [[HypoK+]], [[HypoMg2+]], [[HyperCa2+]], [[Hyperthyreose|Thyreotoxikose]]
 - **I:** HF-Senkung bei chron. persist. VHF, ideal HFrEF (pos. Inotropie) + [[Tachykardie]] mild-moderat + GFR opB
 - **Dos:** Loading 500-1000 μg i.v. (50% + 25% q6h), Maintenanace ...)
 

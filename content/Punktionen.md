@@ -9,3 +9,4 @@ tags:
 - [[Aszitespunktion]]
 - [[LP]]
 - [[Gefäßzugänge]]: [[Arterie]], [[ZVK]]
+- [[Perikardiozentese]]

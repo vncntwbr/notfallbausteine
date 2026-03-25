@@ -19,5 +19,5 @@ title: Respiratorische Alkalose (Hypokapnie)
 > 	- Medikamente (z.B. Salicylate, Theophyllin, Koffein, Nikotin)
 > 	- Gram-negative Sepsis
 > 	- [[HE]]
-> 	- Hyperthyreose
+> 	- [[Hyperthyreose]]
 > 	- Hirnstammschädigung

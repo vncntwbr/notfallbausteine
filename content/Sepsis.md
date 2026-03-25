@@ -19,7 +19,7 @@ ICD: R57.2
 	- ! [[Anaphylaxie]] (im Zweifel beides anbehandeln)
 	- ! Kardiogener Schock ([[RUSH]]/TTE)
 	- *Infektiös:* Infekt ohne MOV, PJP, Aspergillose, Candidose
-	- *Endokrin:* [[DKA]], Thyreotoxikose, Addison-Krise
+	- *Endokrin:* [[DKA]], [[Hyperthyreose|Thyreotoxikose]], Addison-Krise
 	- *GI:* Mesenterialischämie, Ileus, [[Pankreatitis]], Leberversagen
 	- *Sonst.:* [[HLH]]
 - **Secondary Questions for Sepsis (ALPACA):**

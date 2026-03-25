@@ -5,9 +5,7 @@ tags:
   - Diagnosen/Chronisch
 ICD: E00-E07
 aliases:
-  - Thyreotoxische Krise
-  - Thyreotoxikose
-title: Hypothyreose inkl. Thyreotoxische Krise
+title: Hypothyreose (TSH↑)
 ---
 
 ## Literatur

@@ -13,3 +13,4 @@ aliases:
 - **C:** [[Crash-Sectio]]
 - **C:** [[Perikardiozentese]]
 - **D:** [[Laterale Kanthotomie]]
+- **Situation:** [[MANV]]

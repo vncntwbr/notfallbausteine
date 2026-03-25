@@ -19,9 +19,9 @@ title: Kontrastmittel (KM)
 > ```
 ---
 
-> [!management]+ Hyperthyreose-Prophylaxe bei Kontrastmittelexposition
-> - **Latente Hyperthyreose:** Strenge Indikation; 800 mg Na-Perchlorat (40° Irenat®) frühestmöglich, >30 min ideal >2h vor KM Gabe + nach KM + Fortführung 200 mg p.o. 1-1-1 für 7d
-> - **Manifeste Hyperthyreose:** KM nur bei vitaler Indikation (z.B. PCI, Aorta – nicht LAE-Ausschluss); 40 mg Thiamazol vor KM + 1200 mg Na-Perchlorat (60° Irenat®) vor+nach KM + Fortführung Na-Perchlorat 400 mg 1-1-1 für 7-14d, endokrinologische Kontrolle
+> [!management]+ [[Hyperthyreose]]-Prophylaxe bei Kontrastmittelexposition
+> - **Latente [[Hyperthyreose]]:** Strenge Indikation; 800 mg Na-Perchlorat (40° Irenat®) frühestmöglich, >30 min ideal >2h vor KM Gabe + nach KM + Fortführung 200 mg p.o. 1-1-1 für 7d
+> - **Manifeste [[Hyperthyreose]]:** KM nur bei vitaler Indikation (z.B. PCI, Aorta – nicht LAE-Ausschluss); 40 mg Thiamazol vor KM + 1200 mg Na-Perchlorat (60° Irenat®) vor+nach KM + Fortführung Na-Perchlorat 400 mg 1-1-1 für 7-14d, endokrinologische Kontrolle
 
 ^49a4bd
 
