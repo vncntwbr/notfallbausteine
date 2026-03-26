@@ -14,7 +14,7 @@ title: Beckentrauma inkl. Hüftgelenksnahe Frakturen
 > 1. **Trochanterschlinge:** Fixierung Beine in Innenrotation + Anlage Höhe Trochanter major
 > 2. **[[Blutungsmanagement]]**, MTP antizipieren
 > 3. **Begleitverletzungen?** [[eFAST]], anogenitale Inspektion, CT-Polytrauma
-> 4. **OP:** Damage Control Surgery (stabile Typ A Frakturen ggf. konservativ)
+> 4. **OP:** [[Damage Control Surgery]] (stabile Typ A Frakturen ggf. konservativ)
 
 > [!stadien]- Einteilung der Hüftgelenksnahen Frakturen
 > - **Femurkopffraktur**

@@ -1,0 +1,29 @@
+---
+tags:
+  - Fachübersicht
+  - Fach/OrthoTrauma
+---
+- **Allgemein**
+	- [[Polytrauma]] / [[Trauma-CPR]]
+	- [[Penetrierend]]
+	- [[Verbrennung]]
+	- [[Verätzung]] / [[CBRN]]
+	- [[Misshandlung]]
+- **Nach Körperregionen**
+	- [[SHT]]
+	- [[Gesichtsverletzung]]
+	- [[Halstrauma]]
+	- [[Wirbelsäulentrauma]]
+	- [[Thoraxtrauma]]
+	- [[Abdominaltrauma]]
+	- [[Trauma obere Extremität]]
+	- [[Trauma untere Extremität]]
+- **Interventionen**
+	- **A:** [[A–Airway|Atemwegsmanagement]], [[eFONA]]
+	- **B:** Thoraxentlastung, [[TDx]]
+	- **C:** [[Thorakotomie]]
+	- **C:** [[ZVK]], [[Arterie]]
+	- **C:** [[Damage Control Surgery]]
+		- [[Escharotomie]]
+		- [[Fasziotomie]]
+	- **E:** [[Analgesie]]

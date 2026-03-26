@@ -34,7 +34,7 @@ cssclasses:
 - **Chronisch:** [[Adipositas]] [[CKD]] [[Demenz]] [[Depression]] [[KHK]] [[Koagulopathien]] [[Myasthenie]] [[Parkinson]] [[pAVK]] [[PEG]] [[Pulmonale Hypertonie]]
 ---
 **Sonstiges**
-- **Fachübersicht:** [[ANÄ]] [[CHIR]] [[DERM]] [[ENDO]] [[GAST]] [[GERI]] [[GYN]] [[HÄMA]] [[INF]] [[KARD]] [[Labor|LABOR]] [[NEPH]] [[NEURO]] [[PHARM]] [[PNE]] [[Psych|PSY]] [[Radiologie|RADIO]]
+- **Fachübersicht:** [[ANÄ]] [[CHIR]] [[DERM]] [[ENDO]] [[GAST]] [[GERI]] [[GYN]] [[HÄMA]] [[INF]] [[KARD]] [[Labor|LABOR]] [[NEPH]] [[NEURO]] [[PHARM]] [[PNE]] [[Psych|PSY]] [[Radiologie|RADIO]] [[TRAUMA]]
 - **Meds:** [[ABx]] [[Adrenalin]] [[AK]] [[Aktivkohle]] [[Albumin]] [[Amiodaron]] [[Antikonvulsiva]] [[Antipsychotika]] [[Benzos]] [[Betablocker]] [[Bicarbonat]] [[Calciumantagonisten]] [[DAPT]] [[Digitalis]] [[DOBUTamin]] [[Glucagon]] [[High-Dose Insulin-Therapie|HDIT]] [[Inhalaltive Pulmodilatatoren]] [[Katecholamine]] [[esKETAmin|Ketamin]] [[KM]] [[Lokalanästhetika]] [[Lyse]] [[MgSO4]] [[NA]] [[NACC]] [[Nephron-Bomb]] [[Nitrate]] [[NSAR]] [[O2]] [[PCM]] [[PEP]] [[Physostigmin]] [[Pille danach]] [[PIM]] [[Relaxans]] [[TCA]] [[Transfusion]] [[TXA]] [[Volumentherapie|Volumen]]
 - **ITS:** [[ITS|Intensiv-Checkliste]] [[ARDS]] [[Dialyse]] [[HLH]] [[Neuroprognose]] [[Perfusor]] [[PiCCO]] [[Stress-Ulcus Prophylaxe]] [[Transplantation]] [[TTM]] [[ZVD]]
 - **Meta:** [[FOAMed]] [[Education]] [[Entscheidungsfindung]] [[Obdachlos]] [[The Perfect Resus|Perfect Resus]] [[Pflege]] [[Public Health]] [[QM]] [[RD]] [[Schichtarbeit]] [[Statistik]] [[Taktische Zeichen]] [[TNA]] [[Versorgungsstrukturen]] [[Zero Point Survey]]
