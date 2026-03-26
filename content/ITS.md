@@ -37,14 +37,14 @@ title: Intensivmedizinisches Bridging (ITS)
 - [ ] **[[AK|Antikoagulation]]:** keine/prophylaktisch/therapeutisch
 - [ ] **[[ECMO]]:** BF, GF? Drücke? Harlekin? periph. Perfusion?
 
-![[schock#^5a5cb6]]
+![[Schock#^5a5cb6]]
 
 ## Niere
 - [ ] **Bilanzziel:** ±? E/A? erreicht?
 - [ ] **[[AKI]]:** prä/intra/post? DANI?
 - [ ] **[[Dialyse]]:** BF, DF, UF? Clotting? Citratakkumulation?
 
-![[aki#^f35708]]
+![[AKI#^f35708]]
 ## Abdomen
 - [ ] **Ernährung:** kcal-Ziel? erreicht?
 - [ ] **Stuhlgang:** abgeführt? DG?

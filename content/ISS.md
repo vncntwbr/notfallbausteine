@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/Chirurgie
   - Fach/Intensivmedizin
   - Fach/Radiologie

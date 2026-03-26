@@ -13,7 +13,7 @@ aliases:
 > - **Hyperfibrinolyse:** EXTEM Lyseindex↑, ggf. APTEM besser → [[TXA]] 1-2 g i.v.
 > - **Fibrinogenmangel:** FIBTEM schmal, EXTEM/INTEM ebenfalls → Fibrinogen 2-4 g i.v., bis 10 g
 > - **Faktorenmangel:** Alle Kurven CT↑, max. Clot Stabilität↓ → Fibrinogen + PPSB 1000-2000 IE i.v.
-> - **Thrombopenie:** EXTEM/INTEM CT↑ bei normalem FIBTEM → 1-2 [[TK]]
+> - **Thrombopenie:** EXTEM/INTEM CT↑ bei normalem FIBTEM → 1-2 [[Transfusion|TK]]
 
 > [!info]+ Verfahren & Messwerte
 > - **Benötigtes Material:** Citratblut

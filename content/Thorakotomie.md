@@ -2,11 +2,29 @@
 tags:
   - Interventionen/HALO
   - Status/Started
-  - Fach/Orthopädie
-title: Clamshell-Thorakotomie
+  - Fach/OrthoTrauma
+  - Fach/Chirurgie
+title: Resuscitative Thorakotomie (Clamshell, ERT)
 aliases:
   - Clamshell
+  - ERT
 ---
+> [!info]+ Voraussetzungen
+> - **Lebenszeichen:** 
+> 	- [[PEA]]
+> 	- Beobachteter Arrest <5 min (Stumpf) / <15 min ([[Penetrierend]])
+> 	- Agonale Atmung
+> 	- Pupillenreaktion
+> 	- messbarer RRsys <70 mmHg / [[Periarrest]]
+> - **Verletzungsmuster:**
+> 	- [[Penetrierend]] Cardiac Box (V.a. [[Perikarderguss|Tamponade]])
+> 	- Exsanguination aus [[TDx]] >1.5 L (Blutstillung)
+> 	- Stumpf/[[Penetrierend]] mit Exsanguination [[Abdominaltrauma|Abdomen]]/[[Beckentrauma|Becken]] (Aorta klemmen)
+> - **Thoraxentlastung bds. ohne [[ROSC]]**
+> - **KI:**
+> 	- Keine Lebenszeichen >5 min (stumpf) / >15 min (penetrierend)
+> 	- V.a. Schweres [[SHT]]
+
 ## Clamshell vs. Anterolateral
 ## Indikation
 - Nach Lokalisation der penetrativen Verletzung

@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme/Trauma
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/HNO
 ---
 > [!danger]+ Rapid Reference

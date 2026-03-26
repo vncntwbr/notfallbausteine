@@ -2,7 +2,7 @@
 tags:
   - Diagnosen
   - Fach/HNO
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Status/Done
 aliases:
 ---

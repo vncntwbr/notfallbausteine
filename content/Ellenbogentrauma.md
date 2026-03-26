@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme/Trauma
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Status/Started
 title: Ellenbogentrauma inkl. Unterarm
 ---

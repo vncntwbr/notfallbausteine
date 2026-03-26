@@ -2,6 +2,9 @@
 tags:
   - Fachübersicht
   - Fach/Pneumologie
+aliases:
+  - Pneumologie
+title: Pneumologie (PNE)
 ---
 ## Basics
 - [[BGA]]

@@ -4,9 +4,8 @@ tags:
   - Interventionen/Punktionen
   - Status/ZuRationalisieren
 ---
-
-- [[Pleurapunktion]]
-- [[Aszitespunktion]]
-- [[LP]]
-- [[Gefäßzugänge]]: [[Arterie]], [[ZVK]]
-- [[Perikardiozentese]]
+- **B:** [[Pleurapunktion]]
+- **C:** [[Gefäßzugänge]]: [[Arterie]], [[ZVK]]
+- **C:** [[Perikardiozentese]]
+- **D:** [[LP]]
+- **E:** [[Aszitespunktion]]

@@ -2,6 +2,9 @@
 tags:
   - Fach/Gastroenterologie
   - Fachübersicht
+aliases:
+  - Gastroenterologie
+title: Gastroenterologie (GASTRO)
 ---
 ## Diagnosen
 - **[[Abdominelles Kompartmentsyndrom]]**

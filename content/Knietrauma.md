@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme/Trauma
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Literatur/S2e
   - Status/Done
 ---

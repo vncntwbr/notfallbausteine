@@ -1,8 +1,8 @@
 ---
 tags:
-  - Fach/Orthopädie
   - Probleme/Allgemein
   - Probleme/Trauma
+  - Fach/OrthoTrauma
 title: Trauma-Reanimation
 ---
 > [!danger]+ Checkliste

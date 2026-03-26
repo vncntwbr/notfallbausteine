@@ -11,8 +11,8 @@ title: Respiratorische Azidose (Hyperkapnie)
 ---
 > [!dd]+ DD Respiratorische Azidose (siehe auch [[Dyspnoe]])
 > - **Neurologisch:** 
-> 	- *ZNS:* z.B. [[Stroke]], Meningitis, Drogen, ALS
-> 	- *PNS:* z.B. Phrenicus-Läsion, CIP/CIM, Guillain-Barré-Syndrom, Mysthenie, Botulismus
+> 	- *ZNS:* z.B. [[Stroke]], [[Meningitis]], Drogen, [[ALS]]
+> 	- *PNS:* z.B. Phrenicus-Läsion, CIP/CIM, [[GBS]], [[Myasthenie]], Botulismus
 > - **Muskuloskeletal:**
 > 	- *Muskulär:* z.B. Myopathien, Muskeldystrophien
 > 	- *Skeletal:* z.B. Kyphoskoliose, Spondylitis ankylosans
@@ -21,4 +21,4 @@ title: Respiratorische Azidose (Hyperkapnie)
 > 	- *Untere AW:* z.B. [[Asthma]], [[COPD]]
 > 	- *Alveolen:* z.B. [[Pneumonie]], [[Lungenödem]]
 > 	- *Vaskulär:* [[LAE]]
-> 	- *Pleura:* [[Pneu]], Pleuraerguss
+> 	- *Pleura:* [[Pneu]], [[Pleuraerguss]]

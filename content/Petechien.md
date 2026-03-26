@@ -37,7 +37,7 @@ title: Petechien / Purpura
 > - **[[Urin]]:** [[U-Status]], [W] β-HCG
 
 > [!management]-
-> - **\*Keine* [[TK]]** bei ITP / TTP
+> - **\*Keine* [[Transfusion|TK]]** bei ITP / TTP
 > - **Nach DD**
 > 	- **V.a. Immunthrombopenie (ITP):** Stabiler AZ, Blutungsneigung, sonst asymptomatisch (kein [[Fieber]], keine Hämolyse, keine [[AKI]]) → Stationär, ggf. Prednisolonstoß
 > 	- **V.a. Thrombotische Mikroangiopathie (HUS, TTP):** Thrombopenie + Hämolytische [[Anämie]] mit Fragmentozyten + Endorganschäden z.B. [[AKI]] oder cerebrale/kardiale Ischämie

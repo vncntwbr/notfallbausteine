@@ -3,6 +3,11 @@ tags:
   - Fachübersicht
   - Fach/Hämatologie
   - Fach/Onkologie
+aliases:
+  - Hämatoonkologie
+  - Hämatologie
+  - Onkologie
+title: Hämatoonkologie (HÄMA)
 ---
 ## Basics
 - [[Transfusion]]

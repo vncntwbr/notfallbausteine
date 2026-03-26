@@ -2,7 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/ToDo
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 ---
 > [!dd]+ DD Kritische Thoraxverletzungen
 > - **[[Pneu|(Spannungs-)Pneu]]:** Im Zweifel bei Instabilität immer [[TDx]]

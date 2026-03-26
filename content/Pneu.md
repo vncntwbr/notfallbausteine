@@ -16,7 +16,7 @@ ICD: J93
 > 3. **Fingerthorakostomie/[[TDx]]** unter [[Analgosedierung]]
 
 > [!dd]+ Ätiologie
-> - **[[Thoraxtrauma|Traumatisch]]:** stumpf/[[CPR]]/penetrierend → [[TDx]] bei Klinik oder Progress
+> - **[[Thoraxtrauma|Traumatisch]]:** stumpf/[[CPR]]/[[penetrierend]] → [[TDx]] bei Klinik oder Progress
 > - **Iatrogen:** [[ZVK]] 1%, [[RSI]], [[BSK]], [[Beatmung]], Biopsien → wie primärer Spontanpneu
 > - **Primärer Spontanpneu:** 
 > - **Sekundärer Spontanpneu:**

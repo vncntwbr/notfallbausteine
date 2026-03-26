@@ -19,17 +19,17 @@ zbb: Test ZBB hier anrufen
 > 	- *Xarelto®, Eliquis®, Lixiana®* → PPSB 2.500-5.000 IE
 > 	- *Marcumar®* → PPSB + VitK 10 mg/d für 3d
 > 	- *Dabigatran* → Idarucizumab 5 g oder PPSB
-> 	- *ASS u.ä.* → ggf. Desmopressin 0.3-0.4 μg/kg, ggf. +[[TK]]
+> 	- *ASS u.ä.* → ggf. Desmopressin 0.3-0.4 μg/kg, ggf. +[[Transfusion|TK]]
 > 	- *Heparin* → Protamin 1 mg pro 100 IE Heparin
-> 	- *Thrombos* <50/nl (<100/nl bei [[SHT]]/hereditär) → [[TK]]
+> 	- *Thrombos* <50/nl (<100/nl bei [[SHT]]/hereditär) → [[Transfusion|TK]]
 > 6. **GERINNUNGsmanagement**
 > 	- **Calciumgluconat** 10% 10 ml langs. i.v., Ziel iCa2+ ≥1 mmol/l
 > 	- **Aktiver Wärmeerhalt** (Lampe, Bairhugger)
 > 	- **[[TXA]]** 1-2 g
 > 	- **Fibrinogen** 1 g je –5 BE und 1 g je 2 g/dl Hb <12, Ziel ≥2.0-2.5 g/l
 > 7. **MTP** (ab 5. EK + fortges. Blutverlust) → Info Blutbank + Hilfe holen
-> 	-  **Startpaket:** 1 [[TK]] + 4 EK + 2 FFP + PPSB 25 IE/kg
-> 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[TK]] + 4 EK + 4 FFP
+> 	-  **Startpaket:** 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 2 FFP + PPSB 25 IE/kg
+> 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 4 FFP
 > 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
 <div style="page-break-after: always;"></div>
 

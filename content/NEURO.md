@@ -2,6 +2,9 @@
 tags:
   - Fachübersicht
   - Fach/Neurologie
+aliases:
+  - Neurologie
+title: Neurologie (NEURO)
 ---
 ## Basics
 - [[EEG]]
@@ -40,7 +43,3 @@ tags:
 	- [[PRES]]
 	- [[RCVS]]
 - **[[Intrakranielle Blutung]]**
-	- [[ICB]]
-	- [[SAB]]
-	- [[SDH]]
-	- [[EDH]]

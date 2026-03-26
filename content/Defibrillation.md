@@ -4,6 +4,12 @@ tags:
   - Status/Started
   - Fach/Kardiologie
   - Fach/Intensivmedizin
+aliases:
+  - DSED
+  - Vector Change
+  - Defib
+  - Defi
+title: Defibrillation (inkl. VC, DSED)
 ---
 
 - DSED (30.4%) > VC (21.7%) > Standard (13.3%), Cave: mglw. einfach schlechtes Pad-Positioning?[^1]

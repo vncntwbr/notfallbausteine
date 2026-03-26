@@ -3,7 +3,7 @@ tags:
   - Probleme/Abdomen
   - Status/Done
   - Literatur/NVL
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 aliases:
   - Kreuzschmerz
 zbb: |-

@@ -2,6 +2,9 @@
 tags:
   - Fach/Kardiologie
   - Fachübersicht
+title: Kardiologie (KARD)
+aliases:
+  - Kardiologie
 ---
 ## Basics
 - [[EKG]]

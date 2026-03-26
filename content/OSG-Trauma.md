@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Probleme/Trauma
   - Status/Done
 ---

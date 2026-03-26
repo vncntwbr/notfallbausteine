@@ -2,7 +2,7 @@
 tags:
   - Status/ToDo
   - Probleme/Extremitäten
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 aliases:
 ---
 > [!danger]+ Rapid Reference

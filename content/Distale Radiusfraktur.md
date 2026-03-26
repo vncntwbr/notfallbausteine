@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Diagnosen
   - Literatur/S2e
   - Status/Done

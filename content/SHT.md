@@ -3,7 +3,7 @@ tags:
   - Probleme/Trauma
   - Status/Done
   - Fach/Neurologie
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Diagnosen
 aliases:
   - Schädel-Hirn-Trauma

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Probleme/Trauma
 ---
 > [!bildgebung] Röntgen Fuß in 3 Ebenen (a.p., seitlich, schräg)

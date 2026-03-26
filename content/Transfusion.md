@@ -3,7 +3,13 @@ tags:
   - Interventionen
   - Status/Done
   - Fach/Hämatologie
+  - Medikamente
+  - Status/Started
 OPS: 8-800
+title: Thrombozytenkonzentrat (TK)
+aliases:
+  - TK
+  - EK
 ---
 
 > [!danger]- Indikation EK
@@ -63,7 +69,7 @@ OPS: 8-800
 > In akuter Notfallsituation erfolgte Transfusion von Rhesus-inkompatiblen Produkten. Immunhämatologische Nachuntersuchung und ###FRAUEN Anti-D-Prophylaxe indiziert.
 > ```
 ---
-- Restriktiver Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
+- Restri[[Transfusion]] Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
 - [[TK]]
 
 [^2]
@@ -71,3 +77,6 @@ OPS: 8-800
 [^1]: Hébert PC. A multicenter, randomized, controlled clinical trial of transfusion requirements in critical care. Transfusion Requirements in Critical Care Investigators, Canadian Critical Care Trials Group. N Engl J Med. 1999 Feb 11;340(6):409-17. doi: 10.1056/NEJM199902113400601. Erratum in: N Engl J Med 1999 Apr 1;340(13):1056. PMID: 9971864.
 
 [^2]: [Querschnittsleitlinie der Bundesärztekammer zur Therapie mit Blutprodukten 2020](https://www.bundesaerztekammer.de/fileadmin/user_upload/_old-files/downloads/pdf-Ordner/MuE/Querschnitts-Leitlinien_BAEK_zur_Therapie_mit_Blutkomponenten_und_Plasmaderivaten-Gesamtnovelle_2020.pdf)
+
+- **TK:** Pseudothrombopenie? (Thrombexakt), Blutgruppen-unabhängig
+	- *Indikation:* Nie bei ITP/TTP, Thrombos <20/nl + [[Fieber]] od. <50/nl Prä-OP/[[ZVK]]

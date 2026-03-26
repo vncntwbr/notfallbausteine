@@ -89,6 +89,8 @@ OPS: 8-771
 
 
 ---
+## Literatur
+
 - Carotid Continuous Doppler[^1]
 - [[CPRIC]]
 - Primär Asystolie 0.6% gutes neurolog. Outcome[^2] – Vergleich [[Thorakotomie]] 👀
@@ -100,6 +102,12 @@ OPS: 8-771
 - CPR inkl. Defib geht in Bauchlage[^8]
 - TV Medical Dramas machen Laien schlechter in CPR[^9]
 - [[TOR]]
+- HDM auf fahrender Trage ist genauso effektiv wie normale HDM[^10]
+
+### 3-Phase-Model of Cardiac Arrest[^11]
+- **Electrical Phase 0-4 min:** [[Defibrillation]]
+- **Circulatory Phase 4-10 min:** Braucht Rezirkulation (HDM), diastolische Drücke bevor [[ROSC]]
+- **Metabolic Phase >10 min:** [[TTM]] effektiv?
 
 [^1]: Zhao. Resuscitation 2024. [A new method to evaluate carotid blood flow by continuous Doppler monitoring during cardiopulmonary resuscitation in a porcine model of cardiac arrest.](https://doi.org/10.1016/j.resuscitation.2023.110092)
 
@@ -118,3 +126,7 @@ OPS: 8-771
 [^8]: Anez. Anesthesia & Analgesia 2021. [Cardiopulmonary Resuscitation in the Prone Position in the Operating Room or in the Intensive Care Unit: A Systematic Review](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/02000/Cardiopulmonary_Resuscitation_in_the_Prone.1.aspx)
 
 [^9]: Colwill. Postgrad Med J 2018. [Cardiopulmonary resuscitation on television: are we miseducating the public?](https://academic.oup.com/pmj/article/94/1108/71/6983991)
+
+[^10]: [10.1016/j.resuscitation.2010.05.017](https://doi.org/10.1016/j.resuscitation.2010.05.017)
+
+[^11]: JAMA 2002;288(23):3035

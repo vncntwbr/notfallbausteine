@@ -3,7 +3,7 @@ tags:
   - Interventionen/HALO
   - Status/Started
   - Fach/Pneumologie
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 title: Thoraxdrainage (TDx)
 aliases:
   - Thoraxdrainage

@@ -1,7 +1,7 @@
 ---
 tags:
   - Medikamente
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/Hämatologie
 aliases:
   - Tranexamsäure

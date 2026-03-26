@@ -4,6 +4,9 @@ tags:
   - Status/Started
   - Fach/Infektiologie
   - Fachübersicht
+aliases:
+  - Infektiologie
+title: Infektiologie (INF)
 ---
 ## Basics
 - [[ABx]]

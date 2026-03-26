@@ -8,6 +8,7 @@ tags:
 zbb:
   - "Basis: BGA, Kleines BB, Krea, TSH, CRP"
   - "Kardio: Basis + Troponin, CK"
+title: Laboratoriumsmedizin
 ---
 - **[[BGA]]**
 - **[[Elektrolyte]]**

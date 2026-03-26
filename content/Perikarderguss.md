@@ -19,6 +19,6 @@ ICD: I31
 ![[Pasted image 20251124193045.png]]
 
 ## Literatur
-- [[Perikardiozentese]] statt Thorakotomie für Traumatische Perikardtamponade?[^1]
+- [[Perikardiozentese]] statt [[Thorakotomie]] für Traumatische Perikardtamponade?[^1]
 
 [^1]: [Pericardiocentesis, drainage and instilled tranexamic acid: definitive management in a 25-case series of penetrating cardiac tamponade. Qandil, Mohammed et al. Injury, Volume 0, Issue 0, 113106](https://www.injuryjournal.com/article/S0020-1383(26)00093-8/abstract)

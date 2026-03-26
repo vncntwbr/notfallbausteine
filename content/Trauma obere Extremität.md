@@ -2,7 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/ToDo
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 aliases:
   - Armtrauma
 ---

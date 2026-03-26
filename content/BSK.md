@@ -34,6 +34,7 @@ OPS: 1-62
 ![[Pasted image 20250807125153.png]][^1]
 
 ## Literatur
+- [bronchoscopy.org](https://bronchoscopy.org)
 - [S2k-Leitlinie Sicherheit der diagnostischen flexiblen Bronchoskopie bei Erwachsenen](https://register.awmf.org/de/leitlinien/detail/020-034)
 
 [^1]: https://kidney-campus.de/bronchoskopie-auf-der-intensivstation/

@@ -11,7 +11,7 @@ cbf:
 ICD: R07.0
 ---
 
-> [!danger]+ Atemnot, Stridor, Speicheln? → A-Problem
+> [!danger]+ Atemnot, Stridor, Speicheln? → [[A–Airway|A-Problem]]
 > 1. **Ruhe!** (AF↓), ggf. Morphin
 > 2. **[[Adrenalin]]** 5 mg pur p.i. mit O2
 > 3. **[[Cortison|Dexamethason]]** 10 mg i.v. KI

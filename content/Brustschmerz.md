@@ -3,7 +3,7 @@ tags:
   - Probleme/Herz-Thorax
   - Status/Done
   - Fach/Kardiologie
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/Pneumologie
 aliases:
   - Thoraxschmerz

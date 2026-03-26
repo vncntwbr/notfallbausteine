@@ -4,6 +4,9 @@ tags:
   - Status/ToDo
   - Fach/Endokrinologie
   - Fachübersicht
+aliases:
+  - Endokrinologie
+title: Endokrinologie (ENDO)
 ---
 - https://endo-cases.com/
 ## Diagnosen

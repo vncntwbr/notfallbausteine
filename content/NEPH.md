@@ -2,6 +2,9 @@
 tags:
   - Fachübersicht
   - Fach/Nephrologie
+aliases:
+  - Nephrologie
+title: Nephrologie (NEPH)
 ---
 ## Basics
 - [[BGA]]

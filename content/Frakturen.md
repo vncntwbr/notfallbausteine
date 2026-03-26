@@ -2,7 +2,7 @@
 tags:
   - Probleme/Trauma
   - Status/ToDo
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 ---
 > [!stadien]+ AO-Klassifikation
 > 1. **Knochen:** 1=OA, 2=UA, 3=OS, 4=US, 5=WS, 6=Becken, 7=Hand, 8=Fuß, 9=Schädel

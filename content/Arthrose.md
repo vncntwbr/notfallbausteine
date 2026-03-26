@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Status/Started
   - Diagnosen/Chronisch
 ICD: M15-M19

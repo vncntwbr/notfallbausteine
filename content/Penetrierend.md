@@ -1,9 +1,10 @@
 ---
 tags:
   - Probleme/Trauma
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/Chirurgie
   - Status/Empty
+  - Status/ZuRationalisieren
 aliases:
   - Stichverletzung
   - Schussverletzung

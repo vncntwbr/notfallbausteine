@@ -2,7 +2,7 @@
 tags:
   - POCUS
   - Fach/Radiologie
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
   - Fach/Chirurgie
 ---
 > [!note]- Textbaustein eFAST

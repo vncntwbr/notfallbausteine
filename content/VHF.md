@@ -9,15 +9,21 @@ title: |-
 ICD: I48
 ---
 > [!danger]+ Rapid Reference
-> 1. **VHF Ursache der Instabilität?** → [[eKV]] (nicht bei kompensatorischem VHF)
+> 1. **VHF Ursache der Instabilität?** → [[eKV]] (nicht bei kompensatorischem VHF z.B. [[Sepsis]])
 > 	- HF >>150[^4]
 > 	- New-onset VHF
 > 	- Atrial Kick dependent Erkrankungen ([[Pulmonale Hypertonie]], [[AS]], MS, HFpEF)
 > 	- FBI ([[WPW]]+VHF)
-> 2. **[[eKV]] bei stabilem VHF möglich?** (bei oligosympt. Älteren eher nur Frequenzkontrolle)
+> 2. **Frequenzkontrolle vs. Rhythmuskontrolle**
+> 	- bei oligosympt. Älteren eher nur Frequenzkontrolle
+> 3. **[[eKV]] bei stabilem VHF möglich?**
 > 	- [[AK]] >3 Wochen (Adhärenz? Bei VKA: INR >2.0) oder
 > 	- Onset <12h oder Onset <48h + CHADS65 ≤2 (HFrEF, HTN, ≥65 J., [[Diabetes]]) oder
 > 	- [[TEE]] LAA-Thrombus negativ
+> 4. **[[Elektrolyte]]?**
+> 5. **[[Volumenstatus]]?**
+> 6. **Sympathikotonus?**
+> 7. **Medikamente/[[Intox]]?**
 
 > [!stadien] [CHA2DS2VA](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk)
 

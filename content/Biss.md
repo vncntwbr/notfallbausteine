@@ -1,7 +1,7 @@
 ---
 tags:
   - Probleme/Trauma
-  - Fach/Orthopädie
+  - Fach/OrthoTrauma
 title: Bisswunde / Bissverletzung
 ---
 > [!danger] Infektionsgefahr: Katze > Mensch > Hund
