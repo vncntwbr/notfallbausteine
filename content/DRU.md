@@ -1,6 +1,7 @@
 ---
 aliases:
   - Rektale Untersuchung
+  - DRE
 tags:
   - Basics
   - Interventionen/Diagnostik
@@ -10,15 +11,14 @@ tags:
 title: Digital-Rektale Untersuchung (DRU)
 ---
 ## DRU in [[Trauma]]
-> "a finger or tube in every orifice" –Traditionelles ATLS teaching
-> "DRE be performed selectively" –8th Edition ATLS 
+> "a finger or tube in every orifice" –Traditionelles ATLS teaching<br>"DRE be performed selectively" –8th Edition ATLS 
 
 
 > [!info]+ Rationale Indikationsstellung
-> - [[Beckentrauma]], insb. Beckenfrakturen
 > - [[FND|Neurologische Auffälligkeiten]]
+> - [[Beckentrauma]], insb. Beckenfrakturen
 > - [[Penetrierend|Penetrierendes Trauma]] von [[Abdominaltrauma|Abdomen/Perineum]] oder Abwehrspannung
-> - Unklare [[Schock|Hypotonie]]
+> - Unklare [[Schock|Hypotonie]] nach Trauma
 
 ### Identifikation von Zielpathologien
 - **Rektum-Verletzung**
