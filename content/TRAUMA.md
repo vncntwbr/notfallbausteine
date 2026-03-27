@@ -2,6 +2,7 @@
 tags:
   - Fachübersicht
   - Fach/OrthoTrauma
+title: Traumatologie (TRAUMA)
 ---
 - **Allgemein**
 	- [[Polytrauma]] / [[Trauma-CPR]]
@@ -23,7 +24,7 @@ tags:
 	- **B:** Thoraxentlastung, [[TDx]]
 	- **C:** [[Thorakotomie]]
 	- **C:** [[ZVK]], [[Arterie]]
-	- **C:** [[Damage Control Surgery]]
+	- **E:** [[Analgesie]], [[DRU]]
+	- [[Damage Control Surgery]]
 		- [[Escharotomie]]
 		- [[Fasziotomie]]
-	- **E:** [[Analgesie]], [[DRU]]

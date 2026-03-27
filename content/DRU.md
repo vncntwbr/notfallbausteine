@@ -10,7 +10,7 @@ tags:
   - Fach/Gastroenterologie
 title: Digital-Rektale Untersuchung (DRU)
 ---
-## DRU in [[Trauma]]
+## DRU in [[TRAUMA|Trauma]]
 > "a finger or tube in every orifice" –Traditionelles ATLS teaching<br>"DRE be performed selectively" –8th Edition ATLS 
 
 
