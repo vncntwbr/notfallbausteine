@@ -3,6 +3,9 @@ tags:
   - Fach/OrthoTrauma
   - Fach/Chirurgie
   - Interventionen
+aliases:
+  - DCS
+title: Damage Control Surgery (DCS)
 ---
 > [!danger]+ DCS Prinzipien
 > 1. Kontrolle der Hämorrhagie
@@ -27,6 +30,6 @@ tags:
 
 ## Literatur
 - [Deranged Physiology: DCS](https://derangedphysiology.com/main/required-reading/trauma-intensive-care/Chapter-213/damage-control-surgery)
-- 1983 Mortalität 98% no-DCS vs. 35% DCS[^1]
+- 1983 Mortalität 93% no-DCS vs. 35% DCS[^1]
 
 [^1]: [Management of the Major Coagulopathy with Onset during Laparotomy. Stone, 1983.](https://pmc.ncbi.nlm.nih.gov/articles/PMC1353025/pdf/annsurg00135-0044.pdf)

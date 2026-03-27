@@ -26,4 +26,4 @@ tags:
 	- **C:** [[Damage Control Surgery]]
 		- [[Escharotomie]]
 		- [[Fasziotomie]]
-	- **E:** [[Analgesie]]
+	- **E:** [[Analgesie]], [[DRU]]

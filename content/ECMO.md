@@ -25,6 +25,8 @@ aliases:
 	- **FdO2:** 100% (vv), titrieren zu PaO2 150 mm (va)
 
 ---
+## Literatur
+- [Alfred's ecmo.icu](https://ecmo.icu)
 - ARREST: Survival to discharge 7/15 ECPR vs. 1/15 ACLS[^1]
 - Durch EM Physicians durchführbar San Diego[^2]
 - Sydney PRECARE prähospital Median cannulation time 39 min![^3]

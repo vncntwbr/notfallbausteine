@@ -16,7 +16,7 @@ title: Intrakranielle Blutung (ICB, SAB, SDH, EDH)
 > 1. **Einklemmung?** (Anisokorie, Cushing-Reflex, Strecksyn.) → [[Hirndruck|Hirndruckmanagement]], zumindest OK-Hoch 30°
 > 2. **[[RR]]:** Ziel RRsys <160, MAP 60-90, [[Hypotonie]] aggressiv meiden, [[Arterie]]
 > 3. **Aspirationsschutz:** Ondansetron 8 mg i.v., [[RSI]] bei progr. [[Vigilanz↓]]/Schutzreflexe↓/OP
-> 4. **[[Blutungsmanagement]]** Antagonisierung
+> 4. **[[Blutungsmanagement]]:** Antagonisierung [[AK]]
 
 ![[Hirndruck#^b44f14]]
 

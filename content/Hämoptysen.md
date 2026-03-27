@@ -14,7 +14,7 @@ title: Hämoptysen / Hämoptoe / Bluthusten
 > [!danger]+ Resuscitation ("A vor C!")
 > - **Inhalation** [[TXA]] 1 g + [[Adrenalin]] 5 mg p.i. 
 > - **Lagerung** auf vermutl. blutende Seite
-> - **[[Blutungsmanagement]]**, ggf. permissive Hypotension[^1]
+> - **[[Blutungsmanagement]]**, ggf. [[Permissive Hypotonie]][^1]
 > - **[[RSI]]** bei resp. Erschöpfung in SALAD mit Doppellumentubus/Bronchusblocker, alt. ETT >8.0 Ch ± einseitige Intubation gesunde Seite ([[Physiologisch schwieriger Atemweg]])
 > - **[[BSK]]** und **CT-A**
 

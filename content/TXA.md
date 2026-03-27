@@ -24,4 +24,12 @@ title: Tranexamsäure (TXA)
 > - **Verdünnung:** 1g / 10 ml
 > - Gabe immer als KI; bei Bolusgabe UAW [[Hypotonie]], [[Krampfanfall]]
 
+## Literatur
+- [CRASH-2 Trial (2010)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960835-5/fulltext):  Multizentrisches, internationales RCT, n=20.211, Dosierung 1g TXA innerhalb ersten 3h + infusion 1g über nächste 8h
+	- All-cause-Mortalität 14.5% vs. 16% (signifikanter Benefit)
+	- Mortalität von Hämorrhagie 4.9% vs. 5.7%
+	- Größter Benefit bei Gabe <1h nach Trauma
+	- Cost-Benefit-Analyse [Roberts 2013](https://www.ncbi.nlm.nih.gov/books/NBK260390/)
+	- Kein erhöhtes (sogar reduziertes?) Risiko von [[TVT]] und [[ACS]]
+
 [^1]: HALT-IT
