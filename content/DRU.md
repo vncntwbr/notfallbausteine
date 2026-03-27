@@ -17,7 +17,7 @@ title: Digital-Rektale Untersuchung (DRU)
 > [!info]+ Rationale Indikationsstellung
 > - [[FND|Neurologische Auffälligkeiten]]
 > - [[Beckentrauma]], insb. Beckenfrakturen
-> - [[Penetrierend|Penetrierendes Trauma]] von [[Abdominaltrauma|Abdomen/Perineum]] oder Abwehrspannung
+> - [[Penetrierend|Penetrierendes Trauma]] von [[Abdominaltrauma|Abdomen]]/Perineum oder Abwehrspannung
 > - Unklare [[Schock|Hypotonie]] nach Trauma
 
 ### Identifikation von Zielpathologien
