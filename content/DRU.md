@@ -5,6 +5,8 @@ tags:
   - Basics
   - Interventionen/Diagnostik
   - Status/Started
+  - Fach/OrthoTrauma
+  - Fach/Gastroenterologie
 title: Digital-Rektale Untersuchung (DRU)
 ---
 ## DRU in [[Trauma]]
@@ -28,8 +30,8 @@ title: Digital-Rektale Untersuchung (DRU)
 	- Positives Finding hilfreicher, pos. LR 6.8[^2]-8.5[^1]
 	- Cave: [[Relaxans]]?
 	- Alternativen: Anal Wink oder Bulbocavernosus Reflex
-- **[[Beckentrauma]]**
 - **"High riding" Prostata als Indikator für posteriore Urethra-Verletzung**
+	- "anyone *ever* felt a 'high riding' prostate?"
 	- 60% keinerlei klinische Zeichen vor DK-Insertion
 		- Blut am Meatus urethrae (20% Sens.)
 		- [[Hämaturie|Makrohämaturie]] (17% Sens.)
@@ -39,6 +41,7 @@ title: Digital-Rektale Untersuchung (DRU)
 	- V.a. bei [[Hämaturie]] in DK
 	- Goldstandard: Retrogrades Urethrogramm
 - **Tenderness als Indikator für intraperitoneale Blutung**
+- **Palpable [[Beckentrauma|Beckenfrakturen]]**
 ### Kritik
 - Selten Therapiekonsequenz (0-4%)
 - Schlechte Sensitivität[^1] (detektiert <1/4 signifikante Verletzungen)
