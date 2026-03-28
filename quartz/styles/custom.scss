@@ -20,11 +20,11 @@
 
 .mStart > rect {
     fill: var(--gray) !important;
-    stroke-width: 0px;
+    stroke-width: 0px !important;
 }
 .mCritical > polygon {
-    fill: var(--textHighlight);
-    stroke-width: 3px;
+    fill: var(--textHighlight) !important;
+    stroke-width: 3px !important;
 }
 
 
