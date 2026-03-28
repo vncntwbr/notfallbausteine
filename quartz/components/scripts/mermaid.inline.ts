@@ -155,8 +155,7 @@ document.addEventListener("nav", async () => {
   const mermaid = mermaidImport.default
 
   //ELK
-  const elkLayouts = await import('https://cdn.jsdelivr.net/npm/@mermaid-js/layout-elk@0/dist/mermaid-layout-elk.esm.min.mjs');
-
+  import elkLayouts from '@mermaid-js/layout-elk';
   // Register ELK
   mermaid.registerExternalDiagrams([elkLayouts]);
   console.log(elkLayouts)
