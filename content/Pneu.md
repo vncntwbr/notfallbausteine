@@ -10,8 +10,11 @@ aliases:
 title: Pneumothorax inkl. Spannungspneumothorax
 ICD: J93
 config: 
-  theme: 'forest'
-  look: 'handDrawn'
+  theme: 'neutral'
+  layout: 'elk'
+  elk:
+    mergeEdges: 'true'
+    nodePlacementStrategy: LINEAR_SEGMENTS
 ---
 ```mermaid
 flowchart TD
