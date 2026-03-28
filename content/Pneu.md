@@ -24,8 +24,12 @@ flowchart TD
     Rö --> Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
     Dek --> Tdx
     Tdx --> Rö2(**Röntgen Thorax sitzend**)
+    
     click C "https://www.github.com" "Open this in a new tab" _blank
     click D "https://www.github.com" "Open this in a new tab" _blank
+    
+    style Instabil fill:red,color:white,stroke:black
+    style Start fill:grey,color:white
 ```
 
 
