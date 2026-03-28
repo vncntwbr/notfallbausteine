@@ -11,7 +11,7 @@ tags:
 > 	X --> A --> B --> C --> D --> E
 > 	subgraph X [**X–Exsanguination**]
 > 		direction LR
-> 		X1{{Kritische äußere Blutung?}} --> X2(Blutstillung)
+> 		X1{{"fa:fa-skull Kritische äußere Blutung?"}} --> X2(Blutstillung)
 > 	end
 > 	subgraph A [**A–Airway**]
 > 		direction LR
@@ -39,14 +39,11 @@ tags:
 > 		E1 --> E2(Wärme/Kühlung<br>Analgesie)
 > 	end
 > 	style X fill:red
-> 	style X1 fill:red
-> 	style X2 fill:red
 > 	style A fill:lightgreen
-> 	style A1 fill:lightgreen
-> 	style A2 fill:lightgreen
 > 	style B fill:lightblue
 > 	style C fill:lightcoral
-> 	style D fill: mediumpurple
+> 	style D fill: lavender
+> 	style E fill: lightgrey
 > ```
 
 
