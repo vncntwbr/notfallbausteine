@@ -15,14 +15,14 @@ config:
   layout: elk
   elk:
     mergeEdges: "true"
-    nodePlacementStrategy: LINEAR_SEGMENTS
 ---
 ```mermaid
 flowchart TD
-    A(**V.a. Schädel-Hirn-Trauma**) --> B{{**GCS**}}
-    B -->|13-15| C{{**Canadian CT-Head-Rule**}}
-    B -->|9-12| CT(**cCT nativ** ± CT-HWS)
-    B -->|3-8| AW(**RSI**)
+    A(**V.a. Schädel-Hirn-Trauma**) --> ABCDE
+    ABCDE(**ABCDE**<br>Normokapnie, Normoxie, Normotonie, Normoglykämie, Normothermie) --> GCS{{**GCS**}}
+    GCS -->|13-15| C{{**Canadian CT-Head-Rule**}}
+    GCS -->|9-12| CT(**cCT nativ** ± CT-HWS)
+    GCS -->|3-8| AW(**RSI**)
     AW --> CT
     C -->|pos| CT
     C -->|neg| Discharge
