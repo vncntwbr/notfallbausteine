@@ -10,6 +10,14 @@ aliases:
   - Abdomenschmerz
 ICD: R10.4
 ---
+```mermaid
+flowchart TD
+A[Start] --> B{Decision?}
+B -->|Yes| C[Action]
+B -->|No| D[End]
+C --> D 
+```
+
 > [!dd]- DD
 > - **[[Schock]] + Bauchschmerz**
 > 	- [[Aorta]]

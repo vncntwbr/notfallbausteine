@@ -11,7 +11,7 @@ aliases:
 title: Beckentrauma inkl. Hüftgelenksnahe Frakturen
 ---
 > [!danger]+ V.a. Beckenringverletzung + hämorrhagischer Schock
-> 1. **Trochanterschlinge:** Fixierung Beine in Innenrotation + Anlage Höhe Trochanter major
+> 1. **Trochanterschlinge:** Fixierung Beine in Innenrotation + Anlage Höhe Trochanter major[^1]
 > 2. **[[Blutungsmanagement]]**, MTP antizipieren
 > 3. **Begleitverletzungen?** [[eFAST]], anogenitale Inspektion, CT-Polytrauma
 > 4. **OP:** [[Damage Control Surgery]] (stabile Typ A Frakturen ggf. konservativ)
@@ -55,3 +55,6 @@ title: Beckentrauma inkl. Hüftgelenksnahe Frakturen
 
 ## Literatur
 - [LITFL: Pelvic trauma](https://litfl.com/pelvic-trauma/)
+- Trentzsch H, Lefering R, Schweigkofler U; TraumaRegister DGU. Imposter or knight in shining armor? Pelvic circumferential compression devices (PCCD) for severe pelvic injuries in patients with multiple trauma: a trauma-registry analysis. Scand J Trauma Resusc Emerg Med. 2024 Jan 16;32(1):2. doi: 10.1186/s13049-023-01172-z. PMID: 38225602; PMCID: PMC10790519.
+
+[^1]: Indikation gem. S3 LL Polytrauma 1.1.4 *nur* bei V.a. Beckenringverletzung PLUS [[Schock]]

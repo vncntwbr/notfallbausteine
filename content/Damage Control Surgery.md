@@ -15,12 +15,12 @@ title: Damage Control Surgery (DCS)
 > 5. Staging der definitiven Versorgung
 
 > [!info]+ DCS Indikationen
-> - *Verletzungsmuster*
+> - **Verletzungsmuster**
 > 	- [[Penetrierend]]
 > 	- Hochenergie-[[Thoraxtrauma]]
 > 	- Relevante Gefäßverletzungen
 > 	- Exsanguination in meheren Kompartimenten
-> - *Physiologie*
+> - **Physiologie**
 > 	- [[Schock]] RRsys <90 mmHg
 > 	- [[Thorakotomie|Resuscitative Thorakotomie]] durchgeführt
 > 	- [[Hypothermie]] <33°C
@@ -28,6 +28,11 @@ title: Damage Control Surgery (DCS)
 > 	- [[Met. Azidose]] pH <7.2
 > 	- [[Transfusion]] >10 EK / [[Volumentherapie|Volumen]] >12 L / geschätzter Blutverlust >5 L
 
+> [!warning]- Komplikationen
+> - Unkontrollierte Hämorrhagie, [[DIC]]
+> - [[Abdominelles Kompartmentsyndrom]]
+> - Inadäquate Aufwachreaktion/Weaning
+> - Übersehen von Verletzungen
 ## Literatur
 - [Deranged Physiology: DCS](https://derangedphysiology.com/main/required-reading/trauma-intensive-care/Chapter-213/damage-control-surgery)
 - 1983 Mortalität 93% no-DCS vs. 35% DCS[^1]

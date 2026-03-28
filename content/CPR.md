@@ -103,6 +103,7 @@ OPS: 8-771
 - TV Medical Dramas machen Laien schlechter in CPR[^9]
 - [[TOR]]
 - HDM auf fahrender Trage ist genauso effektiv wie normale HDM[^10]
+- Arrest in ZNA: Gutes Outcome bei unvorhergesehenen im Vergleich zu bereits vorher instabilen[^12]
 
 ### 3-Phase-Model of Cardiac Arrest[^11]
 - **Electrical Phase 0-4 min:** [[Defibrillation]]
@@ -130,3 +131,5 @@ OPS: 8-771
 [^10]: [10.1016/j.resuscitation.2010.05.017](https://doi.org/10.1016/j.resuscitation.2010.05.017)
 
 [^11]: JAMA 2002;288(23):3035
+
+[^12]: Hung-chih Chen, Yi-chieh Chen, Po-jung Chen, Ying-jia Lin, Yi-chen Chen, Chung-han Ho, Chen-wei Wu, Chien-chin Hsu, Yi Lin, Yu-hui Lin, Hsin-min Lee, Chang-chih Tsai. Characteristics, etiologies and outcomes of cardiac arrest in the emergency department. Signa Vitae. 2026.doi:10.22514/sv.2026.001.
