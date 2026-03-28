@@ -21,7 +21,8 @@ tags:
 > 	subgraph B [**B–Breathing**]
 > 		direction LR
 > 		B1{{Atemarbeit, AF?<br>Zyanose?<br>Auskultation?}}
-> 		B1 --> B2(O2<br>Beatmung<br>Thoraxentlastung)
+> 		B1 --> BK(Hypoxie<br>Spannungspneu)
+> 		BK --> B2(O2-Gabe<br>Beatmung<br>Thoraxentlastung)
 > 	end
 > 	subgraph C [**C–Circulation**]
 > 		direction LR
@@ -57,7 +58,7 @@ tags:
 | **[[A–Airway]]**       | Offen+sicher?<br>Gefährdet?<br>Verlegt?      | [[A–Airway\|AW-Verlegung]]                                                                                            | [[A–Airway\|AW-Management]]<br>Absaugung<br>[[Adrenalin]] inhalativ                          | [[etCO2]]                                                                      |
 | **[[B–Breathing]]**    | Atemarbeit, AF?<br>Zyanose?<br>Auskultation? | [[Hypoxie]]<br>[[Pneu\|Spannungspneu]]                                                                                | [[O2]]<br>[[Beatmung]]<br>Thoraxentlastung                                                   | [[SpO2]]<br>[[LUS]]                                                            |
 | **[[C–Circulation]]**  | [[Recap]]?<br>[[Puls]]?<br>Vorlast?          | [[Bradykardie\|Brady]]/[[Tachykardie\|Tachy]]<br>[[RV-Failure]]/[[LAE]]<br>[[Aorta]]<br>[[Perikarderguss\|Tamponade]] | Zugang, [[Volumentherapie\|VEL-Bolus]]<br>[[Push-Dose]], Ca2+<br>[[Pacing]]/[[eKV]], [[CPR]] | [[RR]], 4k-[[EKG]]<br>[[TTE]]<br>[[RUSH]]                                      |
-| **[[D–Disability]]**   | AVPU?<br>pDMS x4 Extr.?<br>Pupillen?         | [[Hirndruck\|Einklemmung]]                                                                                            | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Management]]                                       | [[Hypoglykämie\|BZ]]/[[BGA]]<br>[[Vigilanz↓\|GCS]]/RASS<br>[[Stroke\|BE-FAST]] |
+| **[[D–Disability]]**   | AVPU?<br>pDMS x4 Extr.?<br>Pupillen?         | [[Hypoglykämie]]<br>[[Krampfanfall]]<br>[[Hirndruck\|Einklemmung]]                                                    | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Management]]                                       | [[Hypoglykämie\|BZ]]/[[BGA]]<br>[[Vigilanz↓\|GCS]]/RASS<br>[[Stroke\|BE-FAST]] |
 | **[[E–Exposure]]**     | Haut/Log-Roll?<br>Bodycheck?                 | [[Fieber\|Hyperthermie]]                                                                                              | Wärme/Kühlung<br>[[Analgesie]]                                                               | [[Anamnese]]<br>Temp.                                                          |
 
 
