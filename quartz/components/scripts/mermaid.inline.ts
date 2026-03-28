@@ -1,9 +1,5 @@
 import { registerEscapeHandler, removeAllChildren } from "./util"
 
-//ELK
-import elkLayouts from '@mermaid-js/layout-elk';
-
-
 interface Position {
   x: number
   y: number
@@ -158,6 +154,9 @@ document.addEventListener("nav", async () => {
   )
   const mermaid = mermaidImport.default
 
+  //ELK
+  const elkLayouts = await import('https://cdn.jsdelivr.net/npm/@mermaid-js/layout-elk@0/dist/mermaid-layout-elk.esm.min.mjs');
+
   // Register ELK
   mermaid.registerExternalDiagrams([elkLayouts]);
   console.log(elkLayouts)
@@ -201,7 +200,12 @@ document.addEventListener("nav", async () => {
         clusterBkg: computedStyleMap["--light"],
         edgeLabelBackground: computedStyleMap["--highlight"],
       },
-      flowchart: { layout: 'elk.layered' }  // Default ELK
+      flowchart: { 
+        layout: 'elk.layered', // Default ELK
+        diagramPadding: 2,
+        nodeSpacing: 25,
+        rankSpacing: 50
+      }  
     })
 
     await mermaid.run({ nodes })
