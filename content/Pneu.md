@@ -23,9 +23,10 @@ flowchart TD
     Instabil -->|Ja| Dek("SOFORT **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
     Instabil -->|Nein| Rö("**Röntgen Thorax sitzend**<br>Verdacht bestätigt?")
     Rö -->|Ja| Indikation{{"**Indikation Entlastung?**"<br>Traumatisch, Apikal >3cm, Symptomatisch}}
-    Indikation -->|Ja| Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
-    Indikation -->|Nein| RöK("Monitoring + Röntgen-Kontrolle nach 6h")
-    Dek --> Tdx
+	Indikation -->|Ja| Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
+    Indikation -->|Nein| Monitor("Monitoring für 6h")
+    Monitor --> Rö2
+    Dek ---> Tdx
     Tdx --> Rö2(**Röntgen Thorax sitzend**)
     
     click Tdx "https://www.github.com" "Open this in a new tab" _blank
