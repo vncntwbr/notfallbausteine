@@ -11,7 +11,6 @@ aliases:
 title: Schädel-Hirn-Trauma (SHT)
 ICD: S06
 config:
-  theme: neutral
   layout: elk
   elk:
     mergeEdges: "true"
