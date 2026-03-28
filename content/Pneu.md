@@ -9,7 +9,18 @@ aliases:
   - Spannungspneu
 title: Pneumothorax inkl. Spannungspneumothorax
 ICD: J93
+config: 
+  theme: 'forest'
 ---
+```mermaid
+flowchart TD
+    A[Start] --> B{Decision?}
+    B -->|Yes| C[Action]
+    B -->|No| D[End]
+    C --> D
+```
+
+
 > [!danger]+ Spannungspneumothorax
 > 1. **Arbeitsdiagnose:** Einseitig fehlendes Atemgeräusch + Tubuslage richtig + B-Problem oder C-Problem
 > 2. **Nadel-Dekompression** in Bülau (4./5. ICR VAL-MAL) mit spez. Nadel alternativ PVK 14G orange

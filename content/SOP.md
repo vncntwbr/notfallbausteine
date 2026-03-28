@@ -7,3 +7,5 @@ tags:
 - Kommerzialisierung?
 - Kliniken durch GBA zu SOPs gezwungen, OA-Zeit ist kostbar
 - Standardisierte Abfrage (wen anrufen in Case XY? Wann MRT da? Was noch?)
+- Mermaid Diagramme!
+- Gemeinsa
