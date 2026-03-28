@@ -1,13 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-//Mermaid
-import elkLayouts from '@mermaid-js/layout-elk';
-mermaid.registerExternalDiagrams([elkLayouts]);
-mermaid.initialize({
-  flowchart: { layout: 'elk.layered' }  // Default ELK
-});
-
 /**
  * Quartz 4 Configuration
  *
