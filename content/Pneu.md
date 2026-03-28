@@ -11,6 +11,7 @@ title: Pneumothorax inkl. Spannungspneumothorax
 ICD: J93
 config: 
   theme: 'forest'
+  look: 'handDrawn'
 ---
 ```mermaid
 flowchart TD
