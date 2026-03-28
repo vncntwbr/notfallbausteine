@@ -160,6 +160,7 @@ document.addEventListener("nav", async () => {
 
   // Register ELK
   mermaid.registerExternalDiagrams([elkLayouts]);
+  console.log(elkLayouts)
 
   const textMapping: WeakMap<HTMLElement, string> = new WeakMap()
   for (const node of nodes) {
