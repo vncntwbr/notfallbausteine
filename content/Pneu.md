@@ -22,7 +22,9 @@ flowchart TD
     Start("**V.a. Pneumothorax**<br>(eFAST: kein Pleuragleiten, pos. Lungenpunkt)") --> Instabil{{"**ABC-Instabil**?<br>=Spannungspneu"}}
     Instabil -->|Ja| Dek("SOFORT **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
     Instabil -->|Nein| Rö("**Röntgen Thorax sitzend**<br>Verdacht bestätigt?")
-    Rö -->|Ja| Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
+    Rö -->|Ja| Indikation{{"**Indikation Entlastung?**"<br>Traumatisch, Apikal >3cm, Symptomatisch}}
+    Indikation -->|Ja| Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
+    Indikation -->|Nein| RöK("Monitoring + Röntgen-Kontrolle nach 6h")
     Dek --> Tdx
     Tdx --> Rö2(**Röntgen Thorax sitzend**)
     
