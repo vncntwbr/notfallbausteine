@@ -5,6 +5,43 @@ tags:
   - Basics/ABCDE
   - Favourites
 ---
+> [!Flowchart]- 
+> ```mermaid
+> flowchart TD
+> 	X --> A --> B --> C --> D --> E
+> 	subgraph X [**X–Exsanguination**]
+> 		direction LR
+> 		X1{{Kritische äußere Blutung?}} --> X2(Blutstillung)
+> 	end
+> 	subgraph A [**A–Airway**]
+> 		direction LR
+> 		A1{{Offen+sicher?<br>Gefährdet?<br>Verlegt?}}
+> 		A1 --> A2(AW-Manöver<br>Absaugung<br>Adrenalin inhalativ)
+> 	end
+> 	subgraph B [**B–Breathing**]
+> 		direction LR
+> 		B1{{Atemarbeit, AF?<br>Zyanose?<br>Auskultation?}}
+> 		B1 --> B2(O2<br>Beatmung<br>Thoraxentlastung)
+> 	end
+> 	subgraph C [**C–Circulation**]
+> 		direction LR
+> 		C1{{Recap?<br>Puls?<br>Vorlastzeichen?}}
+> 		C1 --> C2(VEL-Bolus<br>Push-Dose-Pressors<br>Pacing/eKV, CPR)
+> 	end
+> 	subgraph D [**D–Disability**]
+> 		direction LR
+> 		D1{{AVPU?<br>pDMS x4 Extr.?<br>Pupillen?}}
+> 		D1 --> D2(Glucose<br>Benzos<br>ICP-Management)
+> 	end
+> 	subgraph E [**E–Exposure**]
+> 		direction LR
+> 		E1{{Haut/Log-Roll?<br>Bodycheck?}}
+> 		E1 --> E2(Wärme/Kühlung<br>Analgesie)
+> 	end
+> ```
+
+
+
 - **Suche nach "Poisoned Arrows":** Zeitkritische Probleme/Muster, die auch ohne Kenntnis des "Bigger Picture" therapiert werden können und müssen
 - **Generisches ABCDE** unabhängig von Trauma / Non-Trauma, da nicht immer klar abgrenzbar
 
