@@ -12,6 +12,7 @@ ICD: J93
 config: 
   theme: 'neutral'
   layout: 'elk'
+  width: 200%
   elk:
     mergeEdges: 'true'
     nodePlacementStrategy: LINEAR_SEGMENTS
@@ -20,13 +21,13 @@ config:
 flowchart TD
     Start("**V.a. Pneumothorax**<br>(eFAST: kein Pleuragleiten, pos. Lungenpunkt)") --> Instabil{{"**ABC-Instabil**?<br>=Spannungspneu"}}
     Instabil -->|Ja| Dek("SOFORT **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
-    Instabil -->|Nein| Rö("**Röntgen Thorax sitzend**<br>Verdacht bestätigt")
-    Rö --> Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
+    Instabil -->|Nein| Rö("**Röntgen Thorax sitzend**<br>Verdacht bestätigt?")
+    Rö -->|Ja| Tdx(Anlage **Thoraxdrainage** unter Analgosedierung)
     Dek --> Tdx
     Tdx --> Rö2(**Röntgen Thorax sitzend**)
     
-    click C "https://www.github.com" "Open this in a new tab" _blank
-    click D "https://www.github.com" "Open this in a new tab" _blank
+    click Tdx "https://www.github.com" "Open this in a new tab" _blank
+    click Dek "https://www.github.com" "Open this in a new tab" _blank
     
     style Instabil fill:red,color:white,stroke:black
     style Start fill:grey,color:white
