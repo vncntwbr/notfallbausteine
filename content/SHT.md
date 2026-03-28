@@ -20,9 +20,12 @@ flowchart TD
     A("**V.a. Schädel-Hirn-Trauma**"):::mStart --> ABCDE
     ABCDE(**ABCDE**<br>Normokapnie, Normoxie, Normotonie, Normoglykämie, Normothermie) --> GCS{{**GCS**}}:::mCritical
     GCS -->|13-15| C{{"**Canadian CT-Head-Rule**<br>(<16 J.: PECARN)"}}
-    GCS -->|≤12| CT(**cCT nativ** ± CT-HWS)
-    C -->|pos| CT
-    C -->|neg| Discharge
+    GCS -->|≤12| RSI(ggf. **RSI**)
+    RSI --> CT(**cCT nativ** + CT-HWS)
+    C -->|pos| HWS{{**Canadian C-Spine-Rule**}}
+    HWS -->|pos| CT
+    HWS -->|neg| CT2(**cCT nativ**)
+    C -->|neg| Dispo(**Disposition**<br>ambulant möglich?)
     
     click C "https://www.mdcalc.com/calc/608/canadian-ct-head-injury-trauma-rule" _blank
 ```
