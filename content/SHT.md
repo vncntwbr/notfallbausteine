@@ -10,6 +10,19 @@ aliases:
 title: Schädel-Hirn-Trauma (SHT)
 ICD: S06
 ---
+```mermaid
+flowchart TD
+    A(**V.a. Schädel-Hirn-Trauma**) --> B{{**GCS**}}
+    B -->|13-15| C(**Canadian CT-Head-Rule**)
+    B -->|9-12| CT(**cCT nativ** ± CT-HWS)
+    B -->|3-8| AW(**RSI**)
+    AW --> CT
+    C -->|pos| CT
+    C -->|neg| Discharge
+```
+
+
+
 > [!danger]+ Schweres SHT
 > 1. **"Normo" [[ABCDE]]:** Normotonie RRsys >90, Normoxie, Normokapnie, Normothermie, Normoglykämie
 > 2. **[[RSI]]** bei [[GCS]] ≤8 / beeinträchtigten Schutzreflexen mit tiefer Narkose
