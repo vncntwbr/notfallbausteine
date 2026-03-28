@@ -20,7 +20,7 @@ config:
 ```mermaid
 flowchart TD
     A(**V.a. Schädel-Hirn-Trauma**) --> B{{**GCS**}}
-    B -->|13-15| C(**Canadian CT-Head-Rule**)
+    B -->|13-15| C{{**Canadian CT-Head-Rule**}}
     B -->|9-12| CT(**cCT nativ** ± CT-HWS)
     B -->|3-8| AW(**RSI**)
     AW --> CT
