@@ -15,9 +15,9 @@ config:
 ---
 ```mermaid
 flowchart TD
-    A("Arbeitsdiagnose **Pneumothorax**<br>(eFAST: Lungenpunkt)") --> B{{"**ABC-Instabil**?<br>=Spannungspneu"}}
-    B -->|Ja| C("Sofort **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
-    B -->|Nein| D(Anlage **Thoraxdrainage**)
+    A("**V.a. Pneumothorax**<br>(eFAST: kein Pleuragleiten, pos. Lungenpunkt)") --> B{{"**ABC-Instabil**?<br>=Spannungspneu"}}
+    B -->|Ja| C("SOFORT **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
+    B -->|Nein| D(Anlage **Thoraxdrainage** unter Analgosedierung)
     C --> D
     D --> E(Röntgen Thorax)
     click C "https://www.github.com" "Open this in a new tab" _blank
