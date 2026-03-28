@@ -14,10 +14,11 @@ config:
 ---
 ```mermaid
 flowchart TD
-    A[Start] --> B{Decision?}
+    A("Arbeitsdiagnose **Pneumothorax**") --> B{{Decision?}}
     B -->|Yes| C[Action]
-    B -->|No| D[End]
+    B -->|No| D[fa:fa-ban forbidden]
     C --> D
+    click C "https://www.github.com" "Open this in a new tab" _blank
 ```
 
 
