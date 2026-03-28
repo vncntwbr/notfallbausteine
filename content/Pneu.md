@@ -14,11 +14,13 @@ config:
 ---
 ```mermaid
 flowchart TD
-    A("Arbeitsdiagnose **Pneumothorax**") --> B{{Decision?}}
-    B -->|Yes| C[Action]
-    B -->|No| D[fa:fa-ban forbidden]
+    A("Arbeitsdiagnose **Pneumothorax**<br>(eFAST: Lungenpunkt)") --> B{{"**ABC-Instabil**?<br>=Spannungspneu"}}
+    B -->|Ja| C("Sofort **Nadel-Dekompression** 14G Bülau (4. ICR VAL)")
+    B -->|Nein| D(Anlage **Thoraxdrainage**)
     C --> D
+    D --> E(Röntgen Thorax)
     click C "https://www.github.com" "Open this in a new tab" _blank
+    click D "https://www.github.com" "Open this in a new tab" _blank
 ```
 
 
