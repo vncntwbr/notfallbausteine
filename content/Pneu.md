@@ -12,7 +12,6 @@ ICD: J93
 config: 
   theme: 'neutral'
   layout: 'elk'
-  width: 200%
   elk:
     mergeEdges: 'true'
     nodePlacementStrategy: LINEAR_SEGMENTS
