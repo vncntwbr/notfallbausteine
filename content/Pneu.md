@@ -3,17 +3,18 @@ tags:
   - Fach/Pneumologie
   - Status/Started
   - Diagnosen
+  - Flowchart
 aliases:
   - Pneumothorax
   - Spannungspneumothorax
   - Spannungspneu
 title: Pneumothorax inkl. Spannungspneumothorax
 ICD: J93
-config: 
-  theme: 'neutral'
-  layout: 'elk'
+config:
+  theme: neutral
+  layout: elk
   elk:
-    mergeEdges: 'true'
+    mergeEdges: "true"
     nodePlacementStrategy: LINEAR_SEGMENTS
 ---
 ```mermaid

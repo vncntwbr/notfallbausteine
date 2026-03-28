@@ -4,6 +4,7 @@ tags:
   - Fach/Notfallmedizin
   - Basics/ABCDE
   - Favourites
+  - Flowchart
 ---
 > [!Flowchart]- 
 > ```mermaid

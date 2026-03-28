@@ -5,10 +5,17 @@ tags:
   - Fach/Neurologie
   - Fach/OrthoTrauma
   - Diagnosen
+  - Flowchart
 aliases:
   - Schädel-Hirn-Trauma
 title: Schädel-Hirn-Trauma (SHT)
 ICD: S06
+config:
+  theme: neutral
+  layout: elk
+  elk:
+    mergeEdges: "true"
+    nodePlacementStrategy: LINEAR_SEGMENTS
 ---
 ```mermaid
 flowchart TD
