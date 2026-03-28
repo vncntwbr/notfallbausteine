@@ -18,7 +18,7 @@ config:
 ---
 ```mermaid
 flowchart TD
-    A(**V.a. Schädel-Hirn-Trauma**) --> ABCDE
+    A(**V.a. Schädel-Hirn-Trauma**):::mStart --> ABCDE
     ABCDE(**ABCDE**<br>Normokapnie, Normoxie, Normotonie, Normoglykämie, Normothermie) --> GCS{{**GCS**}}
     GCS -->|13-15| C{{**Canadian CT-Head-Rule**}}
     GCS -->|9-12| CT(**cCT nativ** ± CT-HWS)
