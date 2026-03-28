@@ -38,6 +38,15 @@ tags:
 > 		E1{{Haut/Log-Roll?<br>Bodycheck?}}
 > 		E1 --> E2(Wärme/Kühlung<br>Analgesie)
 > 	end
+> 	style X fill:red
+> 	style X1 fill:red
+> 	style X2 fill:red
+> 	style A fill:lightgreen
+> 	style A1 fill:lightgreen
+> 	style A2 fill:lightgreen
+> 	style B fill:lightblue
+> 	style C fill:lightcoral
+> 	style D fill: mediumpurple
 > ```
 
 
