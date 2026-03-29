@@ -12,7 +12,7 @@ ICD: I48
 > [!flowchart]+
 > ```mermaid
 > flowchart TD
->     Start(**Tachykardes VHF/VHFla**) --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
+>     Start(**Tachykardes VHF/VHFla**):::mStart --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
 >     ABCDE -->|Ja| Bedarf{{**Bedarfstachykardie?**}}:::mImportant
 >     Bedarf -->|Nein| eKV(**elektr. Kardioversion**<br>in Analgosedierung)
 >     eKV --> SR{{**Sinusrhythmus?**}}
