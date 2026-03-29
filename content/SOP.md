@@ -10,3 +10,10 @@ tags:
 - Standardisierte Abfrage (wen anrufen in Case XY? Wann MRT da? Was noch?)
 - [Mermaid](https://mermaid.js.org/intro/) Diagramme!
 - Gemeinsam mit Lars Mühlen
+
+## Konkurrenzprojekte
+- https://sop-notaufnahme.de/sop/
+## SOP Inspirationen
+- https://www.uniklinikum-jena.de/zna/SOPs.html
+- https://notfallguru.de
+- https://amboss.com

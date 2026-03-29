@@ -5,7 +5,7 @@ tags:
   - Fach/Neurologie
   - Fach/OrthoTrauma
   - Diagnosen
-  - Flowchart
+  - Flowchart/Done
 aliases:
   - Schädel-Hirn-Trauma
 title: Schädel-Hirn-Trauma (SHT)
@@ -19,22 +19,20 @@ config:
 > ```mermaid
 > flowchart TD
 >     A("**V.a. SHT**"):::mStart --> ABCDE
->     ABCDE("**ABCDE 'Normo'**<br>Normokapnie, Normoxie,<br>Normotonie,<br>Normoglykämie,<br>Normothermie") --> GCS{{**GCS**}}:::mCritical
+>     ABCDE("**ABCDE 'Normo'**<br>Normokapnie, Normoxie,<br>Normotonie,<br>Normoglykämie,<br>Normothermie"):::mCritical --> GCS{{**GCS**}}:::mImportant
 >     GCS -->|13-15| C{{"**Canadian CT-Head-Rule**<br>(<16 J.: PECARN)"}}
 >     GCS -->|≤12| RSI(**ggf. RSI**<br>insb. wenn GCS-M ≤4)
 >     RSI --> CT(**cCT nativ** + CT-HWS)
 >     C -->|pos| HWS{{**Canadian C-Spine-Rule**}}
 >     HWS -->|pos| CT
 >     HWS -->|neg| CT2(**cCT nativ**)
->     C -->|neg| Dispo(**Disposition**<br>+Aufklärung<br>ambulant möglich?)
+>     C -->|neg| Dispo(**Disposition<br>+Aufklärung**<br>ambulant möglich?)
 >     
 >     click C "https://www.mdcalc.com/calc/608/canadian-ct-head-injury-trauma-rule" _blank
 >     click HWS "https://www.mdcalc.com/calc/696/canadian-c-spine-rule" _blank
 >     click ABCDE "/ABCDE"
 >     click RSI "/RSI"
 > ```
-
-
 
 > [!danger]+ Schweres SHT
 > 1. **"Normo" [[ABCDE]]:** Normotonie RRsys >90, Normoxie, Normokapnie, Normothermie, Normoglykämie

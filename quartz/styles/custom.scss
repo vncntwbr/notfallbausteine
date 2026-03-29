@@ -22,7 +22,11 @@
     fill: var(--gray) !important;
     //stroke-width: 0px !important;
 }
-.mCritical > polygon {
+.mCritical > rect{
+	fill: lightcoral;
+}
+
+.mImportant > polygon {
     fill: var(--textHighlight) !important;
     //stroke-width: 3px !important;
 }

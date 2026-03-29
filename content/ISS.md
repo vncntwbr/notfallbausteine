@@ -316,5 +316,6 @@ title: Injurity Severity Scale (ISS)
 
 ## Literatur
 - AAST OIS Leber, Milz, Niere ist validiert und stark mit Mortalität, OP-Rate und Hospitalisierungskosten assoziiert[^1]
+- [LITFL: Trauma Scoring Systems](https://litfl.com/trauma-scoring-systems/)
 
 [^1]: Tinkoff G, Esposito T, Reed J et al. American Association for the Surgery of Trauma Organ Injury Scale I: Spleen, Liver, and Kidney, Validation Based on the National Trauma Data Bank. J Am Coll Surg. 2008;207(5):646-55. [doi:10.1016/j.jamcollsurg.2008.06.342](https://doi.org/10.1016/j.jamcollsurg.2008.06.342)
