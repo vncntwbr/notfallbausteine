@@ -1,5 +1,8 @@
 import { registerEscapeHandler, removeAllChildren } from "./util"
 
+//ELK
+import elkLayouts from '@mermaid-js/layout-elk';
+
 interface Position {
   x: number
   y: number
@@ -154,8 +157,6 @@ document.addEventListener("nav", async () => {
   )
   const mermaid = mermaidImport.default
 
-  //ELK
-  import elkLayouts from '@mermaid-js/layout-elk';
   // Register ELK
   mermaid.registerExternalDiagrams([elkLayouts]);
   console.log(elkLayouts)
