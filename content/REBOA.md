@@ -9,7 +9,7 @@ aliases:
 title: Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA)
 ---
 > [!danger]+ Rapid Reference
-> 1. **Parallel [[ABCDE]]-Resuscitation**, insb. Thoraxentlastung + [[TTE]]
+> 1. **Parallel [[ABCDE]]-Resuscitation**, insb. Thoraxentlastung + [[TTE]] ([[Perikarderguss|Tamponade]]?)
 > 2. **Punktion A. femoralis communis** 2 cm unter Leistenband
 > 3. **Dilatation bis 12 Fr Schleuse**
 > 4. **Guidewire** 60 cm → Röntgen-Kontrolle J-Tip @ T4
@@ -27,5 +27,8 @@ title: Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA)
 - **Zone 1:** Linke A. subclavia bis Truncus coeliacus (ca. 20 cm in jungem Mann) / extern ≈ Xiphoid
 - **Zone 2:** Truncus coeliacus bis kaudalste A. renalis (ca. 3 cm)
 - **Zone 3:** Kaudalste A. renalis bis Bifurkation (ca. 10 cm) / extern ≈ Umbillicus
+
+![[Pasted image 20260329171719.png]]
 ## Literatur
 - [LITFL: REBOA](https://litfl.com/reboa-in-resuscitation/)
+- [Deranged Physiology: REBOA](https://derangedphysiology.com/main/required-reading/trauma-intensive-care/Chapter-407/resuscitative-endovascular-balloon-occlusion-aorta)

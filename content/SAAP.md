@@ -2,6 +2,8 @@
 tags:
   - Fach/Kardiologie
   - Interventionen
+  - Status/Started
+  - Fach/Intensivmedizin
 aliases:
   - Selective Aortic Arch Perfusion
 title: Selective Aortic Arch Perfusion (SAAP)

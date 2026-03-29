@@ -6,7 +6,7 @@ tags:
   - Fach/Gynäkologie
 ---
 - **Indikation:** Unverhütet Sex vor <5d + Zyklustag <15
-- **KI:** Asthma↑, Leber, CYP3A4-Indukt.
+- **KI:** [[Asthma]]↑, Leber, CYP3A4-Indukt.
 - **Optionen (rezeptfrei)**
 	- EllaOne® (Ulipristalacetat 30 mg) bis 5d postkoital + Eisprungstag, 1 Wo Stillpause
 	- PiDaNa® (Levonorgestrel 1.5 mg) bis 3d postkoital, Sicherheit↓, 8 Wo Stillpause

@@ -69,8 +69,11 @@ aliases:
 > In akuter Notfallsituation erfolgte Transfusion von Rhesus-inkompatiblen Produkten. Immunhämatologische Nachuntersuchung und ###FRAUEN Anti-D-Prophylaxe indiziert.
 > ```
 ---
-- Restri[[Transfusion]] Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
-- [[TK]]
+
+## Autotransfusion
+- Catmull SP, Ashurst JV. Autotransfusion. [Updated 2023 May 29]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK541014/
+## Literatur
+- Restriktive Hb-Trigger <7.0 g/dl niedrigere Mortalität, Ausnahme ACS[^1]
 
 [^2]
 

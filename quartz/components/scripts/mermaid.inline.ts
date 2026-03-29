@@ -1,7 +1,7 @@
 import { registerEscapeHandler, removeAllChildren } from "./util"
 
 //ELK
-import elkLayouts from '@mermaid-js/layout-elk';
+import elkLayouts from 'https://cdn.jsdelivr.net/npm/@mermaid-js/layout-elk@0/dist/mermaid-layout-elk.esm.min.mjs';
 
 interface Position {
   x: number
