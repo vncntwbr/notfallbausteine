@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Diagnosen
+  - Flowchart
 title: |-
   Vorhofflimmern (VHF) &
   Vorhofflattern (VHFla)
@@ -11,13 +12,17 @@ ICD: I48
 > [!flowchart]+
 > ```mermaid
 > flowchart TD
->     Start(**TAA VHF**) --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
+>     Start(**Tachykardes VHF/VHFla**) --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
 >     ABCDE -->|Ja| Bedarf{{**Bedarfstachykardie?**}}:::mImportant
->     ABCDE -->|Nein| D[End]
->     Bedarf -->|Ja| U(**Ursache behandeln**<br>VHF/Bedarfstachykardie akzeptieren)
+>     Bedarf -->|Nein| eKV(**elektr. Kardioversion**<br>in Analgosedierung)
+>     eKV --> SR{{**Sinusrhythmus?**}}
+>     SR --> |Nein| Korrektur("Patches optimieren (AP),<br>Elyte hochnormal,<br>1x MgSO4 2g i.v.",<br>ggf. Amiodaron 150 mg KI)
+>     Korrektur --> |max. 3x wiederholen| eKV
+>     Bedarf -->|Ja| U(**Ursache behandeln**<br>Bedarfstachykardie<br>akzeptieren)
 >     C --> D
 >     
 >     click ABCDE "/ABCDE"
+>     click eKV "/eKV"
 > ```
 
 
