@@ -8,6 +8,19 @@ title: |-
   Vorhofflattern (VHFla)
 ICD: I48
 ---
+> [!flowchart]+
+> ```mermaid
+> flowchart TD
+>     Start(**TAA VHF**) --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
+>     ABCDE -->|Ja| Bedarf{{**Bedarfstachykardie?**}}:::mImportant
+>     ABCDE -->|Nein| D[End]
+>     Bedarf -->|Ja| U(**Ursache behandeln**<br>VHF/Bedarfstachykardie akzeptieren)
+>     C --> D
+>     
+>     click ABCDE "/ABCDE"
+> ```
+
+
 > [!danger]+ Rapid Reference
 > 1. **VHF Ursache der Instabilität?** → [[eKV]] (nicht bei kompensatorischem VHF z.B. [[Sepsis]])
 > 	- HF >>150[^4]
