@@ -19,7 +19,7 @@ config:
 > ```mermaid
 > flowchart TD
 >     A("**V.a. SHT**"):::mStart --> ABCDE
->     ABCDE("**ABCDE 'Normo'**<br>Normokapnie, Normoxie,<br>Normotonie,<br>Normoglykämie,<br>Normothermie"):::mCritical --> GCS{{**GCS**}}:::mImportant
+>     ABCDE("**ABCDE 'Normo'**<br>Normokapnie, Normoxie,<br>Normotonie,<br>Normoglykämie,<br>Normothermie"):::mCritical --> GCS{{**GCS**<br>Doku: A?/V?/M?}}:::mImportant
 >     GCS -->|13-15| C{{"**Canadian CT-Head-Rule**<br>(<16 J.: PECARN)"}}
 >     GCS -->|≤12| RSI(**ggf. RSI**<br>insb. wenn GCS-M ≤4)
 >     RSI --> CT(**cCT nativ** + CT-HWS)

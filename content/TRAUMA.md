@@ -5,7 +5,7 @@ tags:
 title: Traumatologie (TRAUMA)
 ---
 - **Allgemein**
-	- [[Polytrauma]] / [[Trauma-CPR]]
+	- [[Polytrauma]] / [[Trauma-CPR]] / [[Trauma Mortalität]]
 	- [[Penetrierend]]
 	- [[Verbrennung]]
 	- [[Verätzung]] / [[CBRN]]
