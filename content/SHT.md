@@ -29,6 +29,7 @@ config:
 >     C -->|neg| Dispo(**Disposition**<br>+Aufklärung<br>ambulant möglich?)
 >     
 >     click C "https://www.mdcalc.com/calc/608/canadian-ct-head-injury-trauma-rule" _blank
+>     click ABCDE "/ABCDE"
 > ```
 
 
