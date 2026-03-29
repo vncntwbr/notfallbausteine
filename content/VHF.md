@@ -17,9 +17,15 @@ ICD: I48
 >     Bedarf -->|Nein| eKV(**elektr. Kardioversion**<br>in Analgosedierung)
 >     eKV --> SR{{**Sinusrhythmus?**}}
 >     SR --> |Nein| Korrektur("Patches optimieren (AP),<br>Elyte hochnormal,<br>1x MgSO4 2g i.v.",<br>ggf. Amiodaron 150 mg KI)
->     Korrektur --> |max. 3x wiederholen| eKV
+>     Korrektur --> |max. 3x wiederholen<br>danach: RS Kardiologie| eKV
 >     Bedarf -->|Ja| U(**Ursache behandeln**<br>Bedarfstachykardie<br>akzeptieren)
->     C --> D
+>     
+>     ABCDE --> |Nein| Bedarf2{{**Bedarfstachykardie?**}}:::mImportant
+>     Bedarf2 -->|Ja| U
+>     Bedarf2 -->|Nein|HF{{**HF ≥110/min**}}
+>     HF --> |Ja| FK(**Frequenzkontrolle**<br>Betablocker titriert p.o.)
+>     HF --> |Nein| Dispo(**Disposition**<br>ambulant möglich?)
+>     FK --> HF
 >     
 >     click ABCDE "/ABCDE"
 >     click eKV "/eKV"
