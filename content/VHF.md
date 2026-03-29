@@ -8,6 +8,9 @@ title: |-
   Vorhofflimmern (VHF) &
   Vorhofflattern (VHFla)
 ICD: I48
+config:
+  flowchart:
+    defaultRenderer: 'elk'
 ---
 > [!flowchart]+
 > ```mermaid
