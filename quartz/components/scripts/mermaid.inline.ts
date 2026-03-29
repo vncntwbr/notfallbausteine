@@ -201,7 +201,7 @@ document.addEventListener("nav", async () => {
         edgeLabelBackground: computedStyleMap["--highlight"],
       },
       flowchart: { 
-        layout: 'elk.layered', // Default ELK
+        defaultRenderer: 'elk', // Default ELK
         diagramPadding: 2,
         nodeSpacing: 25,
         rankSpacing: 50
