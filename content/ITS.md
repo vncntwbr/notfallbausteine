@@ -8,7 +8,7 @@ tags:
 aliases:
   - Intensiv
   - Intensivstation
-title: Intensivmedizinisches Bridging (ITS)
+title: ITS-Checkliste
 ---
 
 - [ ] Name / Alter / Geschlecht / Zimmer / Liegetag
