@@ -19,7 +19,7 @@ ICD: R42, H81
 > - **A:** KM?
 > - **M:** [[AK]]? Schwindel als UAW (neue Meds, Änderungen)?
 > - **P:** Migräne? Z.n. Stroke?
-> - **E:** Lagerung/Umdrehen? Trauma? HWS-Manipulationen? [[Intox]]?
+> - **E:** Lagerung/Umdrehen? Trauma? [[Wirbelsäulentrauma|HWS]]-Manipulationen? [[Intox]]?
 > - **R:** CVRF?
 
 > [!workup]+

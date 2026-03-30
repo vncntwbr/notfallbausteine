@@ -24,7 +24,7 @@ ICD: R07.0
 > - **M:** Analgetika? [[AK]]? [[ABx]]? ACEi? Inhal. Steroide? Risiko Agranulozytose (u.a. Metamizol, Thyreostatika, Carbamazepin, Clozapin)?
 > - **P:** Tumor? Osteoporose? Rez. Tonsillitis? [[Immunsupp.]]? Zahnarzt?
 > - **L:** Mahlzeit?
-> - **E:** Trauma? Fremdkörper (Fischgräte o.ä.)? Manipulation HWS (Fitness, Heilpraktiker, Osteopath)?
+> - **E:** Trauma? Fremdkörper (Fischgräte o.ä.)? Manipulation [[Wirbelsäulentrauma|HWS]] (Fitness, Heilpraktiker, Osteopath)?
 > - **R:** Alkohol? Nikotin?
 > 	- *Hals:* Impfung HiB? Oralverkehr ([[STI]])?
 > 	- *Nacken:* Beruf?
