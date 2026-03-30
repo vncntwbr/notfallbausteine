@@ -4,6 +4,7 @@ tags:
   - Status/ToDo
   - Fach/OrthoTrauma
   - Fach/Neurologie
+  - Flowchart
 aliases:
   - Wirbelsäulenverletzung
   - HWS
@@ -11,9 +12,9 @@ aliases:
 > [!flowchart]-
 > ```mermaid
 > flowchart TD
->     Start(**Trauma**):::mStart --> B{{Hochrisiko-Mechanismus?<br>GCS ≤14?<br>DS/Fehlstellung WS?<br>Neuro-Defizit?}}:::mImportant
+>     Start(**Trauma**<br>Generalisiert, WS oder SHT):::mStart --> B{{Hochrisiko-Mechanismus?<br>GCS ≤14?<br>DS/Fehlstellung WS?<br>Neuro-Defizit?}}:::mImportant
 >     B -->|Alles Nein| Keine(Keine Immobilisation)
->     Keine --> C{{**Canadian C-Spine-Rule**}}
+>     Keine --> C{{**Canadian C-Spine-Rule**}}:::mImportant
 >     C -->|pos| CT(**CT HWS**<br>bzw. ±BWS/LWS)
 >     C -->|neg| KB(Keine Bildgebung)
 >     B -->|≥1x Ja| MILS(MILS HWS)
@@ -22,6 +23,7 @@ aliases:
 >     ABCDE -->|Nein| R(**Reguläre Immo**<br>Vakuummatratze + Headblocks) --> CT
 > 
 >     click ABCDE "/ABCDE"
+>     click C "https://www.mdcalc.com/calc/696/canadian-c-spine-rule"
 > ```
 
 
