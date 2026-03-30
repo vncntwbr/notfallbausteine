@@ -12,9 +12,12 @@ aliases:
 > ```mermaid
 > flowchart TD
 >     Start(**Trauma**):::mStart --> B{{Gefährlicher Mechanismus? *oder*<br>GCS ≤14? *oder*<br>DS/Fehlstellung WS? *oder*<br>Neuro-Defizit?}}:::mImportant
->     B -->|Yes| C[Action]
->     B -->|No| D[End]
->     C --> D
+>     B -->|Nein| Keine(Keine Immobilisation)
+>     B -->|Ja| MILS(MILS HWS)
+>     MILS --> ABCDE{{**ABCDE-Kritisch?**}}:::mCritical
+>     ABCDE -->|Ja| f
+>     
+>     click ABCDE "/ABCDE"
 > ```
 
 
