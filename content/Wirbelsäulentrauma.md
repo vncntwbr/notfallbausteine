@@ -11,12 +11,16 @@ aliases:
 > [!flowchart]-
 > ```mermaid
 > flowchart TD
->     Start(**Trauma**):::mStart --> B{{Gefährlicher Mechanismus? *oder*<br>GCS ≤14? *oder*<br>DS/Fehlstellung WS? *oder*<br>Neuro-Defizit?}}:::mImportant
->     B -->|Nein| Keine(Keine Immobilisation)
->     B -->|Ja| MILS(MILS HWS)
+>     Start(**Trauma**):::mStart --> B{{Hochrisiko-Mechanismus?<br>GCS ≤14?<br>DS/Fehlstellung WS?<br>Neuro-Defizit?}}:::mImportant
+>     B -->|Alles Nein| Keine(Keine Immobilisation)
+>     Keine --> C{{**Canadian C-Spine-Rule**}}
+>     C -->|pos| CT(**CT HWS**<br>bzw. ±BWS/LWS)
+>     C -->|neg| KB(Keine Bildgebung)
+>     B -->|≥1x Ja| MILS(MILS HWS)
 >     MILS --> ABCDE{{**ABCDE-Kritisch?**}}:::mCritical
->     ABCDE -->|Ja| f
->     
+>     ABCDE -->|Ja| Z(**Zeitkritische Immo**<br>Spineboard + Headblocks) --> CT
+>     ABCDE -->|Nein| R(**Reguläre Immo**<br>Vakuummatratze + Headblocks) --> CT
+> 
 >     click ABCDE "/ABCDE"
 > ```
 
