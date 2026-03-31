@@ -33,14 +33,18 @@ ICD: X49.9!, R78
 > - **[[Cholinerg]]:** Atropin 3 mg i.v., alle 5 min verdoppeln
 > - **[[Flusssäure HF]]:** Calciumgluconat 10-20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o. 
 
+> [!untersuchung]+ Klinische Zeichen der Toxidrome
+> | Toxidrom              | Vigilanz      | Pupillen | Haut/Temp.            | VP                                          | GI                               |
+| --------------------- | ------------- | -------- | --------------------- | ------------------------------------------- | -------------------------------- |
+| **[[Opioide]]**       | [[Vigilanz↓]] | ⊙[^1]    | =/❄︎                  | AF↓                                         | [[Obstipation]]                  |
+| **Sedativa**          | [[Vigilanz↓]] | =/◉      | =/❄︎                  | AF↓                                         | ±                                |
+| **Halluzinogen**      | [[Delir]]     | ◉        | =                     | [[Tachykardie\|Tachy]]                      | ±                                |
+| **Sympathomim.**      | [[Delir]]     | ◉        | ♨︎, schweißig         | [[Tachykardie\|Tachy]], [[Hypertonie\|HTN]] | ±                                |
+| **[[Cholinerg]]**     | [[Vigilanz↓]] | ⊙        | schweißig, Salivation | [[Lungenödem]], [[Bradykardie\|Brady]]      | [[Diarrhoe]], Inkontinenz        |
+| **[[Anticholinerg]]** | [[Delir]]     | ◉        | ♨︎, rot, trocken      | [[Tachykardie\|Tachy]]                      | [[Obstipation]], [[Harnverhalt]] |
+> |**[[Serotonin-Syndrom\|Serotonerg]]**|[[Delir]]|◉|♨︎, Cloni, schweißig|[[Tachykardie\|Tachy]]  |[[Diarrhoe]]
 
 
-
-| **Toxidrom**                | **VP**        | **Pupillen** | **Tremor** | **Clonus** | **Krampf** | **Temp** | **Haut** | **Aussehen** |
-| --------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | -------- | -------- | ------------ |
-| [[Serotonin-Syndrom]]       | AF↑, HF↑, [[RR]]↑ | 😳           | 🫨         | 🤖         | ⚡          | 🔥       | 💦       | 👿🤪😴       |
-| [[Anticholinerg]] | HF↑, [[RR]]↑      | 😳           |            | 🤖         | ⚡          | 🔥       | 🌵🔴     | 🤪😴         |
-| [[Cholinerg]]     | HF↓, [[RR]]↓      | 🐭           |            |            | ⚡          |          | 💦🤤🤮💩 | 😴           |
 
 
 ---
@@ -64,3 +68,5 @@ ICD: X49.9!, R78
 
 ## Literatur
 - [Toxinfo: Allgemeine Tipps & Tricks](https://www.toxinfo.de/kategorien/allgemeines/artikel/allgemeines-vorgehen-bei-vergiftungen)
+
+[^1]: bei neuen Opioiden auch Mydriasis möglich
