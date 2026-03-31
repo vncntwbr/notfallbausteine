@@ -11,7 +11,7 @@ ICD: J44
 ---
 **
 > [!danger]+ Resuscitation
-> 1. **[[O2]]-Gabe:** Ziel initial SpO2 >92%, nach Stabilisierung 88-92%[^4][^8]
+> 1. **[[O2]]-Gabe:** Ziel initial [[SpO2]] >92%, nach Stabilisierung 88-92%[^4][^8]
 > 2. **Inhalation:** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
 > 3. **[[Cortison|Prednisolon]]** 50 mg i.v. (Fortführung 50 mg 1-0-0 p.o. für 5d)
 > 4. **[[MgSO4]]** 2g als KI i.v.

@@ -18,7 +18,7 @@ title: Blutgasanalyse (BGA)
 > 4. **AG** = [Na+] – [Cl-] – [act. HCO3-], nw 8±4 mmol/l
 > 	- **∆AG** = AG – nw AG = patholog. Anionen
 > 	- **∆∆** = ∆AG + [HCO3-], nw 24±2 mmol/l (sonst zusätzliche met./resp. Störung/Kompensation)
-> 5. **Oxy:** 100% SpO2 ≈ 150 mmHg art. PaO2 | 95% ≈ 80 | 90% ≈ 60 | 85% ≈ 50
+> 5. **Oxy:** 100% [[SpO2]] ≈ 150 mmHg art. PaO2 | 95% ≈ 80 | 90% ≈ 60 | 85% ≈ 50
 > 6. **Hb/Hkt** Kontrollen aus EDTA, BGA schwankt stark
 > 7. **[[Elektrolyte]]**
 

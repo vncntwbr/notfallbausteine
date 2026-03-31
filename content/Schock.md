@@ -24,7 +24,7 @@ title: Schock & Hypotonie
 > 6. **Obstruktiv?**
 > 	1. *Klassiker/[[RUSH]]:* [[Pneu]], [[Perikarderguss]], [[LAE]]
 > 	2. *PEEP* reduzieren
-> 	3. *Abdominelles Kompartment:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
+> 	3. *Abdominelles [[Kompartment]]:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
 > 	4. *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
 > 7. **[[Kardiogener Schock]]:** [[TTE]] → Intropie (a.e. [[Adrenalin]])
 > 8. **Zweite Diagnose:** Premature Closure / "The patient can have as many diagnoses as they damn well please"

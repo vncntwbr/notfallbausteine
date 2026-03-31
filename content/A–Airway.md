@@ -26,6 +26,9 @@ title: A–Airway (Atemwegsmanagement)
 
 ![[Pasted image 20250722190319.png]][^3]
 
+## Material
+- Offene ETT können 48h auf einem Airway Cart liegen bleiben[^4]
+- Gyn OP Notfallspritzen nach 8 Tagen aufgezogen liegen geblieben keine Besiedelung[^5]
 ## Literatur
 - [S1-Leitlinie Atemwegsmanagement](https://register.awmf.org/de/leitlinien/detail/001-028)
 
@@ -35,3 +38,7 @@ title: A–Airway (Atemwegsmanagement)
 
 
 [^1]: Tanner Smida, A retrospective comparison of the King Laryngeal Tube and iGel supraglottic airway devices: A study for the CARES surveillance group, Resuscitation, Volume 188, 2023, 109812, ISSN 0300-9572, https://doi.org/10.1016/j.resuscitation.2023.109812.
+
+[^4]: Am J Emerg Med. 2005 Jul;23(4):548-51
+
+[^5]: Anesth Analg 1998;86:994‑7

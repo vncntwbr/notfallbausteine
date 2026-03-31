@@ -5,6 +5,9 @@ tags:
   - Basics/ABCDE
   - Favourites
   - Flowchart
+aliases:
+  - xABCDE
+  - cABCDE
 ---
 > [!Flowchart]- 
 > ```mermaid

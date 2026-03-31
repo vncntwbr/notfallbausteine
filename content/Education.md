@@ -6,6 +6,7 @@ aliases:
   - Lehre
 title: Education / Lehre
 ---
+- [[Bedside Teaching]]
 - EPA = trash[^3]
 - Presentations[^4]
 ### **Multimedia Learning Principles**[^1]

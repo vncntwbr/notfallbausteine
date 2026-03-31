@@ -15,7 +15,7 @@ aliases:
 > 2. **Info** Häma, ITS avisieren
 > 3. **Kreuzblut** abnehmen, in RS ggf. [[Transfusion]] bei Hb <7 g/dl bzw. Austauschtransfusion bei Hb >7 g/dl
 > 4. **Volumenrestriktion** (2 L/d, bevorzugt p.o.)
-> 5. **O2** ausnahmsweise SpO2 >95%, konsequent Atemtherapie
+> 5. **O2** ausnahmsweise [[SpO2]] >95%, konsequent Atemtherapie
 
 > [!DD]- Sichelzellanämie = Risiko für:
 > - **[[Sepsis]]/OPSI** (funktionelle Asplenie)
@@ -44,7 +44,7 @@ aliases:
 > - ggf. [[Rö Tx]] (ATS, Infiltrate), CT vermeiden
 
 > [!management]-
-> 1. **\*Zurückhaltend* O2** (nur bei SpO2 <95%)
+> 1. **\*Zurückhaltend* O2** (nur bei [[SpO2]] <95%)
 > 2. **\*Zurückhaltend* Volumen** (Überwässerung = Risiko ATS)
 > 3. **Atemtherapie konsequent** z.B. Triflo, jede auch nur milde Hypoventilation meiden (Risiko ATS)
 > 4. **Aggressive Analgesie:** [[PCM]], Metamizol, [[Opioide]] nach Bedarf, ggf. [[esKETAmin]] low-dose, für Verlauf z.B. Morphin-[[Perfusor]] oder PCIA

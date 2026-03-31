@@ -3,16 +3,19 @@ tags:
   - Basics
   - Status/Started
 ---
-- *Kurvenform:* Vasokonstriktion breit+niedrig, Vasodilatation schmal+hoch
-- Dunkle Hautfarbe SpO2 niedrigere Präzision und Bias +2% (unterdiagnostiziert [[Hypoxie]])[^1]
-- How Equipment Works[^3]
-
 > [!dd]+ DD SpO2 niedrig
 > - **[[Hypoxie|Hypoxämie]]**
 > - **Zentralisation**
 
----
-![[Pasted image 20250809143927.png]][^2]
+> [!dd]+ SpO2 Kurvenform
+> - **Breit/Niedrig:** Vasokonstriktion
+> - **Schmal/Hoch:** Vasodilatation
+> 
+> ![[Pasted image 20250809143927.png]][^2]
+
+## Literatur
+- Dunkle Hautfarbe SpO2 niedrigere Präzision und Bias +2% (unterdiagnostiziert [[Hypoxie]])[^1]
+- How Equipment Works[^3]
 
 [^1]: PMIDs [33326721](https://pubmed.ncbi.nlm.nih.gov/33326721/), [34592317](https://pubmed.ncbi.nlm.nih.gov/34592317/), [35100193](https://pubmed.ncbi.nlm.nih.gov/35100193/), [35231085](https://pubmed.ncbi.nlm.nih.gov/35231085/), [35639368](https://pubmed.ncbi.nlm.nih.gov/35639368/)
 

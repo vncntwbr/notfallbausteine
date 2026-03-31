@@ -37,7 +37,7 @@ title:
 > 3. **[[NLS]]-Versorgungsplatz:** auf "Stehhöhe", Wärmestrahler an, Handtücher vorwärmen
 > 4. **[[BVM]]:** Beutel "Kind" + Neo-Maske + PEEP-Ventil + ideal Manometer + an O2 anschließen, aber nicht aufdrehen
 > 5. **Absaugung:** Funktionstest, kleiner Absaugkatheter (blau, hellgrün, schwarz)
-> 6. **Monitoring:** SpO2-Klebesensor, Monitor auf Modus "Neo"
+> 6. **Monitoring:** [[SpO2]]-Klebesensor, Monitor auf Modus "Neo"
 > 7. **Oxytocin** 3 IE in KI vorbereiten
 > 8. ggf. Alarm Neo-Team via RD (Risikokonstellation, drohende Frühgeburt)
 

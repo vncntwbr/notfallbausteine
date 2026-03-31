@@ -26,7 +26,7 @@ ICD: I63
 	- [[Schwindel]] anderer Ursachen
 	- [[Porphyrie]]
 - **T Stroke**
-	- *Allg.:* Monitoring, SpO2 >95%, RRsys <180/105 vor Lyse/Thrombektomie (Urapidil 5 mg-weise i.v.), ggf. [[Arterie]] radialis li. nicht femoral
+	- *Allg.:* Monitoring, [[SpO2]] >95%, RRsys <180/105 vor Lyse/Thrombektomie (Urapidil 5 mg-weise i.v.), ggf. [[Arterie]] radialis li. nicht femoral
 	- *[[Lyse]]:* Immer <4.5h, <9h/wake-up nur bei Mismatch
 	- *[[Thrombektomie]]:* Immer bei prox. LVO <6h/wake-up, <24h nur bei Mismatch
 - **T TIA:** [ABCD2](https://www.mdcalc.com/calc/357/abcd2-score-tia) ≥4 [[DAPT]] RS Neuro, stationär SU, sonst evtl. ambulant/NST

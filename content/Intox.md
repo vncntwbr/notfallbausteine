@@ -4,9 +4,27 @@ tags:
   - Status/Started
   - Druck
   - Fach/Toxikologie
+  - Flowchart
 title: Intoxikation
 ICD: X49.9!, R78
 ---
+> [!flowchart]-
+> ```mermaid
+> flowchart TD
+>     A(**V.a. Intoxikation**):::mStart --> P{{**Pupillen**}}:::mImportant
+>     P --->|eng| DG{{**Darmgeräusche**}}
+>     DG --> |hyperaktiv| C(Cholinerg)
+>     DG --> |hypoaktiv| O(Opioide)
+>     P -->|normal/weit| KT{{**Temperatur**}}
+>     KT --> |hoch| DG2{{**Darmgeräusche**}}
+>     DG2 -->|hyperaktiv| AD(Antidepressiva)
+>     DG2 --> |hypoaktiv| SAC(Sympathomimetisch/<br>Parasympatholytisch)
+>     KT -->|normal/niedrig|DG3{{**Darmgeräusche**}}
+>     DG3 -->|hyperaktiv| H(Halluzinogene)
+>     DG3 --> |hypoaktiv| S(Sedativa)
+> ```
+
+
 > [!danger] Rapid Reference
 > - **[[Betablocker]]/[[Calciumantagonisten]]:** [[Adrenalin]], Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
 > - **[[TCA]]:** [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]

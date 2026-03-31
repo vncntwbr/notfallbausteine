@@ -5,9 +5,39 @@ tags:
   - Interventionen/Diagnostik
 OPS: 3-20 (nativ), 3-22 (KM)
 ---
-# CT Thorax
-## Fremdkörper
-> [!tip] Am besten via SCOUT
+
+- **Hounsfield Units (HU):**
+	- ==Luft -1.000 HU==
+	- Fett -100 HU
+	- ==Wasser ±0 HU==
+	- Eiter 0 bis 40 HU
+	- Frisches Blut 20 bis 40 HU
+	- Koaguliertes Blut 60 bis 80 HU
+	- ==Knochen +1.000 HU==
+- **Fensterung**
+	- *Lungenfenster:* um -600 HU 
+	- *Knochenfenster:* um +500 HU
+	- *Weichteilfenster:* um +50 HU, geringe Breite
+
+## CT Abdomen
+> [!management]- Trauma Herangehensweise ans CT Abdomen
+> 1. Lungen basal ([[Pneu]], Hämatothorax?)
+> 2. Pneumoperitoneum (kranial der Leber)?
+> 3. Freie Flüssigkeit um/unter Leber + im Becken?
+> 4. Untersuchen von:
+> 	1. Leber
+> 	2. Milz
+> 	3. Pankreas
+> 	4. Nieren
+> 	5. Harnblase
+> 	6. Retroperitoneum
+> 5. Umfahren von Harnblase + Mesenterium (Hämatom?)
+> 6. Große Blutgefäße
+> 7. Subcutanes Gewebe
+
+## CT Thorax
+### Fremdkörper
+> [!tip] Fremdkörper am einfachsten im SCOUT
 - **ETT**
 	- Höhe über der Karina in neutraler Kopfposition 5±2  cm über Karina
 	- Lageabhängig: ca. 2 cm kranial bei Kopfextension, 2 cm kaudal bei Kopfbeugung
@@ -20,7 +50,7 @@ OPS: 3-20 (nativ), 3-22 (KM)
 		- Lokalisation im Azygossystem (zurückziehen in V. cava superior)
 		- Intraarterielle Fehllage
 
-## Rechtes Herz
+### Rechtes Herz
 - **KM-Reflux in IVC?**
 	- *Ursachen:* Systolische RV-Dysfunktion ([[LAE]], [[Pulmonale Hypertonie]]), [[TI]], [[Perikarderguss]]
 	- Sens./Spez. abhängig von KM-Injektionsgeschwindigkeit[^1]
@@ -40,7 +70,7 @@ OPS: 3-20 (nativ), 3-22 (KM)
 	- Messung im Bifurkationswinkel
 	- Auftreten eher subakut bis chronisch
 - **[[LAE]]?**
-## Linkes Herz
+### Linkes Herz
 - **LA-Dilatation?**
 	- Max. AP Durchmesser 45 mm ♀︎ / 50 mm ♂︎ 
 	- *Ursachen:* [[VHF]], [[Herzinsuffizienz]], [[MI]]
@@ -54,16 +84,16 @@ OPS: 3-20 (nativ), 3-22 (KM)
 - **Mitralklappen-Kalzifikation?**
 - **Aortenklappen-Kalzifikation?**
 - **Koronarartieren-Kalzifikation?**
-## Atemwege
+### Atemwege
 - **Proximale AW**
 	- Inspiratorischer Effort (Posteriore Trachealmembran sollte konvex nach außen sein)
 	- Offensichtliche Pathologie?
 - **Distale AW**
 	- Bronchus > benachbarte Lungenarterie ≈ Bronchiektase
 	- Sekret/Mucus Plugs
-## Mediastinum & Hilus
+### Mediastinum & Hilus
 - **Lymphadenopathie?**
-## Lungen
+### Lungen
 
 [^1]: Kallianos KG, Hope MD, Henry TS. Approach to Abnormal Chest Computed Tomography Contrast Enhancement in the Hospitalized Patient. Radiol Clin North Am. 2020 Jan;58(1):93-103. doi: 10.1016/j.rcl.2019.08.010. PMID: 31731905.
 

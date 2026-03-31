@@ -47,7 +47,7 @@ ICD: I20-I25
 ## Management
 > [!Management]+ Allgemeines ACS-Management
 > 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
-> 2. **[[O2]]** Ziel SpO2 >90%[^4]
+> 2. **[[O2]]** Ziel [[SpO2]] >90%[^4]
 > 3. **[[Analgesie]]:** [[PCM]] 1 g i.v. ± Morphin 3 mg-weise i.v.
 > 4. **Metoprolol** 5 mg-weise i.v. bis 15 mg (wenn RR >120 + keine [[Herzinsuffizienz]]), verhindert VT/VF, reduziert Infarktgröße
 > 5. **ggf. CPAP** bei [[Herzinsuffizienz]]/[[Lungenödem]]
@@ -131,4 +131,4 @@ ICD: I20-I25
 
 [^3]: “Im geeigneten klinischen Kontext, wenn eine andere Erklärung für die erhöhten Troponin-Werte identifiziert wurde (z.B. TAA bei VHF, schwere [[Anämie]], hypertensiver Notfall), kann eine weiterführende Diagnostik (d.h. Koronarangiografie) nicht nötig sein.” ESC ACS 2023
 
-[^4]: Bei SpO2 >90% kein Benefit durch O2-Gabe aber auch kein Harm! ESC Empfehlung ist lediglich “keine Routine-Gabe” bei SpO2 >90%
+[^4]: Bei [[SpO2]] >90% kein Benefit durch O2-Gabe aber auch kein Harm! ESC Empfehlung ist lediglich “keine Routine-Gabe” bei [[SpO2]] >90%

@@ -28,7 +28,7 @@ ICD: J45-J46
 > - **R:** Drogen (Nikotin, THC, Shisha, Vapes)? Asthma-bedingt ZNA, Stationär, ITS, "near fatal"?
 
 > [!workup]-
-> - **[[Untersuchung|U]]:** VP (insb. validierte AF, SpO2, Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
+> - **[[Untersuchung|U]]:** VP (insb. validierte AF, [[SpO2]], Temp.)? Sprechdyspnoe? Auskultation (Silent Lung)? Atemhilfsmuskulatur? Tidalvolumen?
 > - **[[EKG]]**
 > - **[[POCUS]]:** [[Pneu]]? DD [[Herzinsuffizienz|Asthma cardiale]]
 > - **[[Labor]]:** [[BGA]], Profil "Pneumonie" (Eosinophilie?), ggf. [[BK]]
@@ -43,7 +43,7 @@ ICD: J45-J46
 > 	- Silent Lung
 > 	- Flache Atmung / frustrane Atemarbeit (Inhalation kommt nicht mehr an)
 > 	- [[Bradykardie]] (hypoxischer [[Periarrest]])
-> 	- SpO2 <92% / PaO2 <60 mmHg arteriell
+> 	- [[SpO2]] <92% / PaO2 <60 mmHg arteriell
 > 	- PaCO2 normal oder erhöht arteriell
 > 	- [[Vigilanz↓]] (inkl. Verwirrtheit, hypoxische Agitation)
 
@@ -78,7 +78,7 @@ ICD: J45-J46
 > - **Ambulant:**
 > 	- Anbindung Pneumologin/Hausarzt
 > 	- Häusliche Versorgung gesichert
-> 	- HF, SpO2, AF unter Raumluft >1h nach letzter Medikation stabil
+> 	- HF, [[SpO2]], AF unter Raumluft >1h nach letzter Medikation stabil
 > 	- Symptomatik gut kontrolliert
 > 	- [[BGA]]: PaCO2 normwertig/erniedrigt
 > 	- Stufengerechte Hausmedikation (bzw. neu rezeptiert) + korrekte Handhabung (vormachen lassen)

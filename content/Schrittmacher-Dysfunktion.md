@@ -2,8 +2,8 @@
 tags:
   - Probleme
   - Probleme/Herz-Thorax
-  - Status/Started
   - Fach/Kardiologie
+  - Status/Done
 title: Herzschrittmacher-Dysfunktion
 ---
 > [!dd]+ DD

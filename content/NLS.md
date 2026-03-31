@@ -24,7 +24,7 @@ title: Neugeborenen-Reanimation / Newborn-Life-Support (NLS)
 
 > [!workup] Reevaluation
 > 7. **HF <60/min:** CPR 3:1
-> 8. **HF <100/min oder SpO2 rechter Arm <80% nach 5 min:** Beatmung weiter, FiO2 100%
+> 8. **HF <100/min oder [[SpO2]] rechter Arm <80% nach 5 min:** Beatmung weiter, FiO2 100%
 
 > [!management] Prolongierte Reanimation
 > 9. **NABELVENENKATHETER:** 1 gr. Vene, 2 kl. Arterien

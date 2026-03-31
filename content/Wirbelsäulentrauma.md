@@ -8,6 +8,9 @@ tags:
 aliases:
   - Wirbelsäulenverletzung
   - HWS
+  - LWS
+  - BWS
+title: Wirbelsäulentrauma (HWS, LWS, BWS)
 ---
 > [!flowchart]-
 > ```mermaid
