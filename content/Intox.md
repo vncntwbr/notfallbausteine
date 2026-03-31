@@ -22,8 +22,13 @@ ICD: X49.9!, R78
 >     KT -->|normal/niedrig|DG3{{**Darmgeräusche**}}
 >     DG3 -->|hyperaktiv| H(Halluzinogene)
 >     DG3 --> |hypoaktiv| S(Sedativa)
+>     
+>     click C "/Cholinerg"
+>     click O "/Opioide"
+>     click AD "/Serotonerg"
+>     click SAC "/Anticholinerg"
+>     click S "/Benzos"
 > ```
-
 
 > [!danger] Rapid Reference
 > - **[[Betablocker]]/[[Calciumantagonisten]]:** [[Adrenalin]], Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
@@ -42,7 +47,7 @@ ICD: X49.9!, R78
 | **Sympathomim.**      | [[Delir]]     | ◉        | ♨︎, schweißig         | [[Tachykardie\|Tachy]], [[Hypertonie\|HTN]] | ±                                |
 | **[[Cholinerg]]**     | [[Vigilanz↓]] | ⊙        | schweißig, Salivation | [[Lungenödem]], [[Bradykardie\|Brady]]      | [[Diarrhoe]], Inkontinenz        |
 | **[[Anticholinerg]]** | [[Delir]]     | ◉        | ♨︎, rot, trocken      | [[Tachykardie\|Tachy]]                      | [[Obstipation]], [[Harnverhalt]] |
-> |**[[Serotonin-Syndrom\|Serotonerg]]**|[[Delir]]|◉|♨︎, Cloni, schweißig|[[Tachykardie\|Tachy]]  |[[Diarrhoe]]
+> |**[[Serotonerg\|Serotonerg]]**|[[Delir]]|◉|♨︎, Cloni, schweißig|[[Tachykardie\|Tachy]]  |[[Diarrhoe]]
 
 
 

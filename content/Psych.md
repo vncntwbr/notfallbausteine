@@ -26,7 +26,7 @@ aliases:
 	- [[Lithium]]
 	- [[MNS]]
 	- [[Anticholinerg]]
-	- [[Serotonin-Syndrom]]
+	- [[Serotonerg]]
 
 ## Literatur
 - [S2k-Leitlinie Notfallpsychiatrie](https://register.awmf.org/de/leitlinien/detail/038-023)

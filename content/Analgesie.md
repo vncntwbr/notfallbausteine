@@ -43,8 +43,8 @@ tags:
 > - **[[esKETAmin]]**
 
 > [!management]- [[Opioide]]
-> - **Tramadol (Tramal®):** Nein, Cave [[Serotonin-Syndrom]], UAW Übelkeit
-> - **Tilidin/Naloxon** 50 mg retard p.o. 1-0-1, max. 600 mg/d, unretardiert 50 mg b.B., kaum [[Obstipation]], Cave Abhängigkeit, [[Serotonin-Syndrom]]/WW
+> - **Tramadol (Tramal®):** Nein, Cave [[Serotonerg]], UAW Übelkeit
+> - **Tilidin/Naloxon** 50 mg retard p.o. 1-0-1, max. 600 mg/d, unretardiert 50 mg b.B., kaum [[Obstipation]], Cave Abhängigkeit, [[Serotonerg]]/WW
 > - **Piritramid (Dipidolor®)** 7.5 mg KI i.v., max. Wirkung in 20 min
 > - ==**Oxycodon/Naloxon (Targin)** 3-5 mg i.v., 10 mg retard p.o. 1-0-1, unretardiert 5 mg b.B. 4-6x/d==
 > - **Morphin** 2mg-weise i.v., 10 mg retard 1-0-1, unretardiert 10 mg b.B. 4-6x/d, Cave [[CKD]], Histaminerge UAW, nur mäßig potent

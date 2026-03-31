@@ -17,7 +17,7 @@ ICD: R50
 
 > [!dd]+ DD Hyperthermie
 >  - **FIEBER:** Infektion/[[Sepsis]]
->  - **[[Intox]]:** [[MNS|Maligne Neuroleptisch]], [[Serotonin-Syndrom|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Sympathomimetisch]], [[Maligne Hyperthermie|MH]]
+>  - **[[Intox]]:** [[MNS|Maligne Neuroleptisch]], [[Serotonerg|Serotonerg]], [[Anticholinerg|Anticholinerg]], [[Sympathomimetisch]], [[Maligne Hyperthermie|MH]]
 >  - **[[Hitzschlag]]**
 >  - **[[Hypothyreose|Thyreotoxische Krise]]**
 >  - Sympathikus-Erregung / körperliche Belastung

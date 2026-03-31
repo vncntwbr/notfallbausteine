@@ -41,7 +41,7 @@ title: Malignes Neuroleptisches Syndrom (MNS)
 > 	- Feucht (Hypersalivation, Diaphorese)
 > - **[[Fieber|Hyperthermie]] bis Hitzschlag**
 > - **Muskelrigidität:**
-> 	- Hyporeflexie (in DD zu [[Serotonin-Syndrom]])
+> 	- Hyporeflexie (in DD zu [[Serotonerg]])
 > 	- [[Rhabdomyolyse]] (85%)
 > 	- Tremor (30%)
 > 	- Dysarthrie, Dysphagie

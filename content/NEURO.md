@@ -22,7 +22,7 @@ title: Neurologie (NEURO)
 - **Inflammation**
 	- Demyelinisierung
 - **Bewegungsstörungen**
-	- [[Serotonin-Syndrom]]
+	- [[Serotonerg]]
 	- [[Maligne Hyperthermie]]
 	- [[MNS]]
 - **Schwäche**

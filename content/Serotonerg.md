@@ -4,7 +4,7 @@ tags:
   - Fach/Toxikologie
   - Status/Empty
 aliases:
-  - Serotonerg
+  - Serotonin-Syndrom
   - Serotonerges Syndrom
   - Serotonin
 ---
