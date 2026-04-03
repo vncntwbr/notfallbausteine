@@ -6,7 +6,7 @@ tags:
   - Fach/Intensivmedizin
 ICD: R57.2
 ---
-> "Sepsis kills! ... but it doesn't kill Patients who don't have Sepsis." – Cliff Reid
+![[Zitate#^26509f]]
 
 > [!workup]+
 > - **Fokussuche:**

@@ -11,6 +11,8 @@ title: Zitate / Quotes
 
 > "Gentlemen, we will chase perfection, and we will chase it relentlessly, knowing all the while we can never attain it. But along the way, we shall catch excellence." –Vince Lombardi
 
+^4833d6
+
 ## CRM & Making Things Happen
 > "Slow is smooth, smooth is fast" –Scott Weingart
   
@@ -28,6 +30,13 @@ title: Zitate / Quotes
 
 
 > "[[Sepsis]] kills! ... but it doesn't kill Patients who don't have Sepsis." –Cliff Reid
+
+^26509f
+
+> "The perfect resuscitation represents the BEST YOU interacting efficiently with an OPTIMAL TEAM in an IDEAL ENVIRONMENT to provide EXPERT RESUSCITATION to a patient with a REVERSIBLE LIFE-THREATENING presentation"
+> –Cliff Reid
+
+^73c3ac
 
 ## Medizin allgemein
 > “Medicine is a science of uncertainty and an art of probability.” –William Osler

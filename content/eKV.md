@@ -19,7 +19,7 @@ title: Elektrische Kardioversion (eKV)
 > 5. **[[Analgosedierung]]:** z.B. Midazolam 5 mg
 > 6. **==SYNC==**, R-Marker abwarten
 > 7. **Schock:** [[VT]] 120-150 J, [[VHF]] 200 J, [[SVT]] 120 J
-> 8. **Failure:** Elektrodenposition? [[Elektrolyte]]? [[Intox]]? ggf. Amiodaron 300 mg in G5 als KI
+> 8. **Failure:** Patch-Position? [[Elektrolyte]]? [[Intox]]? ggf. Amiodaron 300 mg in G5 als KI
 
 ^ebae57
 
@@ -28,6 +28,8 @@ title: Elektrische Kardioversion (eKV)
 > - HRST (Cave: SYNC)
 > - Hypoxie/Aspiration, Hypotonie durch [[Analgosedierung]]
 > - Lokales Hauterythem
+
+> [!workup] Siehe [[VT]] / [[VHF]] / [[SVT]]
 
 > [!note]- Textbaustein
 > ```

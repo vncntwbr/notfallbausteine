@@ -5,11 +5,9 @@ tags:
   - Literatur/Cliff-Reid
   - Meta
 ---
-> "The perfect resuscitation represents the BEST YOU interacting efficiently with an OPTIMAL TEAM in an IDEAL ENVIRONMENT to provide EXPERT RESUSCITATION to a patient with a REVERSIBLE LIFE-THREATENING presentation"
-> –Cliff Reid
+![[Zitate#^73c3ac]]
 
-> “We will chase perfection, and we will chase it relentlessly, knowing all the while we can never attain it. But along the way, we shall catch excellence.” 
-> –Vince Lombardi
+![[Zitate#^4833d6]]
 
 1. **Hintergrund ("Layer Cake"):** 
 	1. Individuum

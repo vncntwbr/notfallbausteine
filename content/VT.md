@@ -3,6 +3,7 @@ tags:
   - Fach/Kardiologie
   - Status/Started
   - Diagnosen
+  - Status/Done
 title: Ventrikuläre Tachykardie (VT)
 aliases:
   - Ventrikuläre Tachykardie
