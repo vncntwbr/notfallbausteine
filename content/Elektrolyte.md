@@ -4,6 +4,8 @@ tags:
   - Fach/Labormedizin
   - Status/Done
 ICD: E87
+aliases:
+  - Elektrolytstörungen
 ---
 
 - **Kalium**

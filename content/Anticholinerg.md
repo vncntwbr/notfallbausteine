@@ -25,7 +25,7 @@ aliases:
 > 	- Olanzapin
 > 	- Clozapin
 > 	- Quetiapin
-> - **[[TCA]]**
+> - **[[Na+ Kanal Blocker|TCA]]**
 > 	- Amitriptylin
 > 	- Doxepin
 > 	- Opipramol

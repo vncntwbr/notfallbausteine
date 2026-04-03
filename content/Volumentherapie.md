@@ -30,6 +30,7 @@ aliases:
 
 ## Literatur
 - [S3-Leitlinie Intravasale Volumentherapie beim Erwachsenen](https://register.awmf.org/de/leitlinien/detail/001-020)
+- [TBL 2025: A Crossover Trial of Hospital-Wide Lactated Ringer’s Solution versus Normal Saline](https://www.thebottomline.org.uk/summaries/icm/fluid-hospital-wide-lactated-ringers-versus-normal-saline/): Kein Unterschied zwischen NaCl vs. LR
 
 
 [^1]: Collins. Lancet 2023. [Balanced crystalloid solution versus saline in deceased donor kidney transplantation (BEST-Fluids): a pragmatic, double-blind, randomised, controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00642-6/abstract)

@@ -115,6 +115,7 @@ ICD: J44
 
 ## Literatur
 - [S3-Leitlinie NVL COPD](https://register.awmf.org/de/leitlinien/detail/nvl-003)
+- Extracorporeal Carbon Dioxide Removal no detectable benefit vs. Intubation[^9]
 
 [^1]: COPD-Pat. ohnehin 1x/J. Lungen-Ca-Screening mit CT-Thorax lowdose (GOLD 2025)
 
@@ -131,3 +132,5 @@ ICD: J44
 [^7]: [S2k-Leitlinie Management erwachsener Patientinnen und Patienten mit Bronchiektasen-Erkrankung 2024](https://register.awmf.org/de/leitlinien/detail/020-030)
 
 [^8]: [S3-Leitlinie Sauerstoff in der Akuttherapie beim Erwachsenen 2021](https://register.awmf.org/de/leitlinien/detail/020-021)
+
+[^9]: Extracorporeal Carbon Dioxide Removal to Avoid Invasive Ventilation During Exacerbations of Chronic Obstructive Pulmonary Disease: VENT-AVOID Trial – A Randomized Clinical Trial. Duggal et al. 2024; American Journal of Respiratory and Critical Care Medicine March 1, 2024 Pages xv-616

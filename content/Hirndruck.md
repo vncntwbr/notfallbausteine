@@ -3,6 +3,7 @@ tags:
   - Probleme
   - Fach/Neurologie
   - Status/Done
+  - Interventionen/EKG
 title: Hirndruck, IPC-Erhöhung & Einklemmung
 aliases:
   - ICP-Erhöhung
@@ -21,6 +22,13 @@ aliases:
 > 8. **ENTLASTUNG:** [[EVD]], Bohrloch o.a. (NCh)
 
 ^b44f14
+
+> [!ekg]- EKG Features (insb. [[Intrakranielle Blutung|SAB]])
+> - Gigantische T-Negativierungen ("cerebral T-Waves") + [[Long-QT]]
+> - STE/STD, Mimic zu [[ACS]] und [[Perimyokarditis|Perikarditis]]
+> - [[Bradykardie]] (Cushing-Reflex), ggf. Arrhythmien
+> 
+> ![[Pasted image 20260403102202.png]]
 
 > [!workup]-
 > - **[[POCUS]]:** [[Opticusdurchmesser]]

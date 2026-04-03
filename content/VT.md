@@ -26,7 +26,7 @@ ICD: I47.2
 > [!dd]+ DD bei Breitkomplextachykardie abseits VT, VT und VT (WIDER)
 > - W – WPW
 > - I – Intraventrikuläre Leitungsverzögerung (Blockbild, abberant, Pacemaker)
-> - Drugs ==([[Na+ Kanal Blocker|Natriumkanalblocker]], insb. [[TCA]])==
+> - Drugs ==([[Na+ Kanal Blocker|Natriumkanalblocker]], insb. [[Na+ Kanal Blocker|TCA]])==
 > - [[Elektrolyte]] ==([[HyperK+]])==
 > - Raised [[Ischämie-EKG|STE]] ([[Ischämie-EKG]] Tombstones)
 

@@ -38,6 +38,9 @@ title: Elektrokardiogramm (EKG)
 - [3D-Visualisierung Lagebeziehungen](https://www.3decgleads.com/3d-leads)
 - Ärzte sind schlecht in EKGs[^1]
 - Checkliste[^2]
+- [[EKG-Fehlpolung]]
+- [[Niedervoltage]]
+- [[AIVR]]
 
 
 [^1]: Cook DA, Oh S, Pusic MV. Accuracy of Physicians’ Electrocardiogram Interpretations: A Systematic Review and Meta-analysis. _JAMA Intern Med._ 2020;180(11):1461–1471. doi:10.1001/jamainternmed.2020.3989

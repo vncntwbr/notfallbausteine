@@ -22,6 +22,17 @@ title: Schwangerschaft
 > 	- [[PPH]]
 > 	- V.-cava-Kompressionssyndrom
 
+> [!dd]- DD [[CPR|Arrest]] in der Schwangerschaft (BEAUCHOPS)
+> - **B–Blutung:** [[PPH]], [[DIC]]
+> - **E–Embolie:** [[LAE]], Fruchtwasserembolie
+> - **A–Anästhesie:** Iatrogene Komplikationen
+> - **U–Uterusatonie**
+> - **C–Cor:** [[ACS]]/SCAD, [[Kardiomyopathie]], [[Aorta]]
+> - **H–HTN:** [[Hypertensive Schwangerschaftserkrankungen|Eklampsie]], [[Hypertensive Schwangerschaftserkrankungen|HELLP]]
+> - **O–Others**
+> - **P–Plazenta:** Vorzeitige Plazentalösung, Plazenta praevia
+> - **S–[[Sepsis]]**
+
 > [!workup]+
 > - **[[Anamnese|A]]:** Mutterpass, [P] G+P, akt. Verlauf, Geburtstermin, [L] Vorsorgeuntersuchungen, [[RR]], BZ, fetal
 > - **[[Untersuchung|U]]:** [[RR]](!)

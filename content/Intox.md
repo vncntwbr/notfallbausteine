@@ -12,7 +12,7 @@ ICD: X49.9!, R78
 > 1. **[[ABCDE]]-Resuscitation**
 > 2. **Spezifische Antidote**
 > 	- *[[Betablocker]]/[[Calciumantagonisten]]:* [[Adrenalin]], Insulin/Glucose ([[HDIT]]), ggf. Ca2+
-> 	- *[[TCA]]:* [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
+> 	- *[[Na+ Kanal Blocker|TCA]]:* [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
 > 	- *Cyanid/CO:* Hydroxycobalamin (Cyanokit®) 5 g KI
 > 	- *[[Anticholinerg]]:* [[Physostigmin]] 2 mg
 > 	- *[[Cholinerg]]:* [[Atropin]] 3 mg i.v., alle 5 min verdoppeln
@@ -36,15 +36,15 @@ ICD: X49.9!, R78
 
 
 ---
-- Flumazenil absolute KI chron. [[Benzos]]-Abusus oder Co-Intox mit Prokonvulsiva (z.B. [[TCA]]), weil Krampfanfall
+- Flumazenil absolute KI chron. [[Benzos]]-Abusus oder Co-Intox mit Prokonvulsiva (z.B. [[Na+ Kanal Blocker|TCA]]), weil Krampfanfall
 - **W**
 	- **[[Urin]]-Toxscreening**
-		- *Falsch-pos:* Amphetamine (Metformin, Promethazin), [[TCA]] (Quetiapin, Dimenhydrinat, Carbamazepin), [[Benzos]] (Sertralin), Cannabinoide (Ibu, Naproxen), [[Opioide]] (Naloxon, Quetiapin, Dimenhydrinat, Verapamil, Fluorchinolone)
+		- *Falsch-pos:* Amphetamine (Metformin, Promethazin), [[Na+ Kanal Blocker|TCA]] (Quetiapin, Dimenhydrinat, Carbamazepin), [[Benzos]] (Sertralin), Cannabinoide (Ibu, Naproxen), [[Opioide]] (Naloxon, Quetiapin, Dimenhydrinat, Verapamil, Fluorchinolone)
 		- *Falsch-neg* v.a. [[Benzos]], [[Opioide]]
 - **T Rescue**
 	- [[ECMO]]
 	- [[Dialyse]]
-	- [[Lipid-Rescue]] v.a. bei lipophilen Med (Lokalanästhetika, [[Calciumantagonisten]], [[TCA]], Quetiapin)
+	- [[Lipid-Rescue]] v.a. bei lipophilen Med (Lokalanästhetika, [[Calciumantagonisten]], [[Na+ Kanal Blocker|TCA]], Quetiapin)
 	- [[HDIT]] bei fulminant [[Calciumantagonisten]], evtl. Beta-Blocker
 
 

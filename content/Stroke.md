@@ -7,6 +7,9 @@ tags:
 title: Stroke / Ischämischer Schlaganfall
 ICD: I63
 ---
+
+![[FND#^6073a9]]
+
 > [!stadien] [RACE (Predict LVO)](https://www.mdcalc.com/calc/3941/rapid-arterial-occlusion-evaluation-race-scale-stroke)
 
 - **[[Anamnese|A]]:** [S] Exakt Onset? Schmerzen? Infekt? [A] Gentamicin (in Metalyse)? [M] [[AK]]/TAH? Letzte Einnahme? [P] Bek. Defizit? [[SHT]]/OP <3 Mo? VHF? Tumor? [L] Last seen well? [E] Trauma? Funktioneller Vorzustand? [R] CVRF
