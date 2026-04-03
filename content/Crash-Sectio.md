@@ -7,6 +7,8 @@ title: Crash-Sectio / Resuscitative Hysterotomy
 aliases:
   - Resuscitative Hysterotomy
 ---
+![[Zitate#^8be663]]
+
 > [!danger]+ Schwangere >20. SSW in Arrest >4 min
 > 1. **ALS** weiterführen
 > 2. **[[NLS]]-REA** vorbereiten

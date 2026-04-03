@@ -9,6 +9,8 @@ aliases:
   - Cricothyroidotomie
   - Front of Neck Access
 ---
+![[Zitate#^8be663]]
+
 >[!danger]+ Koniotomie
 > 1. **ApnoeOx**
 > 2. **Laryngeal-Handshake** fixieren mit linker Hand von kranial

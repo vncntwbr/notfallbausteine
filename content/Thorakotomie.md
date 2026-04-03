@@ -9,6 +9,8 @@ aliases:
   - Clamshell
   - ERT
 ---
+![[Zitate#^8be663]]
+
 > [!info]+ Voraussetzungen
 > - **Lebenszeichen:** 
 > 	- [[PEA]]
