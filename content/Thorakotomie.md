@@ -8,10 +8,30 @@ title: Resuscitative Thorakotomie (Clamshell, ERT)
 aliases:
   - Clamshell
   - ERT
+  - Resuscitative Thorakotomie
 ---
 ![[Zitate#^8be663]]
 
-> [!info]+ Voraussetzungen
+> [!danger]+ Clamshell-Thorakotomie
+> 1. **Indikation:** [[Periarrest]] / [[CPR]] <15 min bei [[Penetrierend|Penetrierendem Trauma]]
+> 2. **ABC zweites Team:** SGA/ITN, Beatmung, [[Defibrillation|Defib]], i.v.-Zugang, Volumen/Blut
+> 3. **Fingerthorakostomie** bds.
+> 4. **Clamshell-Thorakotomie** wenn kein [[ROSC]] (alternativ: Links-Anterolateral)
+> 	1. Löcher im 5. ICR verbinden (mit Schere durch Haut, Muskeln, Sternum)
+> 	2. Thorax öffnen (Rippenspreizer oder Helfer manuell von Kopfseite)
+> 	3. Perikard eröffnen (mit Pinzette abnehmen, umgekehrter T-Schnitt)
+> 	4. Herz-Wunden versorgen (Finger, Naht/Klammer oder DK)
+> 	5. Aortenkompression (DeBakey oder manuell durch Helfer)
+> 	6. Keine/kaum Herzaktion: Interne HDM (Fischmaul, nicht herausluxieren)
+> 	7. Sonstige Blutungen versorgen (Klemmen, ggf. Ultima ratio Hilus-Twist)
+> 5. **Post-Thorakotomie:** 
+> 	1. *Volumenbolus* ≥1 L bis ROSC oder Abbruch
+> 	2. *ggf. [[Adrenalin]] [[Push-Dose]]* bei langsamer/schwacher Herzaktion
+> 	3. *[[Blutungsmanagement]]:* [[TXA]], [[Transfusion]]/MTP, Calcium, Fibrinogen
+
+^1f564b
+
+> [!info]- Voraussetzungen
 > - **Lebenszeichen:** 
 > 	- [[PEA]]
 > 	- Beobachteter Arrest <5 min (Stumpf) / <15 min ([[Penetrierend]])
@@ -27,7 +47,8 @@ aliases:
 > 	- Keine Lebenszeichen >5 min (stumpf) / >15 min (penetrierend)
 > 	- V.a. Schweres [[SHT]]
 
-## Clamshell vs. Anterolateral
+## Verfahrensauswahl
+Clamshell vs. Anterolateral
 ## Indikation
 - Nach Lokalisation der penetrativen Verletzung
   ![[Pasted image 20260223145828.png]][^3]

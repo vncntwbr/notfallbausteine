@@ -10,7 +10,7 @@ aliases:
 > 1. **Bla:** Bla
 
 > [!dd]+ DD
-> - **Killer:** Arterieller Verschluss, [[LAE]], [[Sepsis]] z.B. bei septischer Arthritis, [[Nekrotisierende Fasziitis]], Kompartmentsyndrom
+> - **Killer:** [[Extremitätenischämie|Arterieller Verschluss]], [[LAE]], [[Sepsis]] z.B. bei septischer Arthritis, [[Nekrotisierende Fasziitis]], Kompartmentsyndrom
 > - **Häufig:** [[TVT]]
 > - **Selten:** 
 > - *Arm/Schulter:* [[ACS]]

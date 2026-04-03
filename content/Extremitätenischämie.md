@@ -7,20 +7,24 @@ aliases:
   - Arterieller Verschluss
 title: Extremitätenischämie / Arterieller Verschluss
 ---
-> [!dd]- DD
-> - [[Aorta]]
+> [!dd]+ DD
+> - **[[Aorta]]**
 > - Thromboembolie? Septische Embolien?
 
-> [!stadien]- Stadien nach Rutherford
+> [!stadien]+ Stadien nach Rutherford
 > - **I:** Motorik + Sensibilität erhalten, Perfusion im Doppler
 > - **IIa:** Milde Sensibilitätsstörung, Motorik unbeeinträchtigt
 > - **IIb:** Moderate Sensibilitätsstörung, Ruheschmerz, motorische Defizite
 > - **III:** Vollständiger Sensibilitätsveerlust, Paralyse
 
-> [!management]-
+> [!workup]+
+> - **[[Anamnese|A]]:** [[pAVK]] bekannt? Frühere Intervention/OP? H.a. [[Aorta]]?
+> - **[[Untersuchung|U]]:** Stadium?
+
+> [!management]+
 > 1. **[[Analgesie]]:** i.d.R. starkes Opioid (z.B. Fentanyl 50 μg-weise i.v.) + Metamizol
 > 2. **[[AK]]:** UFH 5000 IE i.v. + Heparin-[[Perfusor]] 750 IE/h
-> 3. **CT-A** N0
+> 3. **CT-A**
 > 4. **GCh:** [[Nüchtern]] lassen, Konsil / OP
 
 > [!note]- Textbaustein

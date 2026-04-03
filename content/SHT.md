@@ -48,7 +48,7 @@ config:
 > - **Offen**
 
 > [!bildgebung]+ cCT ja/nein?
-> - **Verfahren:** ==cCT nativ== +HWS (≥65 J.), ggf. +NNH, ggf. +cCTA
+> - **Verfahren:** ==cCT nativ== +HWS (≥65 J.), ggf. +NNH, ggf. +cCT-A
 > - **Harte Kriterien:**
 > 	- [[GCS]] ≤14 nach 2h
 > 	- [[Krampfanfall]]

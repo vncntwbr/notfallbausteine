@@ -9,10 +9,7 @@ title: Trauma-Reanimation
 > 1. **Kritische Blutung?** → Blutstillung
 > 2. **DD Internistische Ursache?** → Parallel [[CPR]]/Defib.
 > 3. **A/B** → [[A–Airway|Atemwegsmanagement]], [[Beatmung]] mit max. FiO2
-> 4. **C**
-> 	- Thoraxentlastung bds.
-> 	- [[Thorakotomie]] (Arrest <5 min stumpf / <15 min [[penetrierend]] + 4E-Regel)
-> 	- [[Volumentherapie]]
+> 4. **C:** Fingerthorakostomie bds., ggf. [[Thorakotomie]], [[Volumentherapie]]
 
 > [!dd]+ Reversible Ursachen bei traumatischem Arrest
 > - **[[Pneu|Spannungspneumothorax]]**
@@ -20,4 +17,4 @@ title: Trauma-Reanimation
 > - **Oxygenierung** ([[Hypoxie]])
 > - **[[Perikarderguss|Tamponade]]**
 
-![[Thorakotomie]]
+![[Thorakotomie#^1f564b]]
