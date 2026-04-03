@@ -57,6 +57,7 @@ title: Zitate / Quotes
 
 ^1fca2b
 
+> "First, do no harm."
 ## Science allgemein
 > "All models are wrong, but some are useful." –George Box
 
