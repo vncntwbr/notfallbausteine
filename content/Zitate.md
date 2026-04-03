@@ -15,6 +15,10 @@ title: Zitate / Quotes
 
 ## CRM & Making Things Happen
 > "Slow is smooth, smooth is fast" –Scott Weingart
+> (but sometimes, fast is fast)
+
+^e4d05e
+
   
 > “Don’t just do something, stand there” –Malcolm Fisher
 

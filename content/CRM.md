@@ -6,6 +6,7 @@ tags:
   - Status/Started
 title: Crew-Resource-Management (CRM) & Arbeitsbedingungen
 ---
+![[Zitate#^e4d05e]]
 
 > [!info]+ CRM-Leitsätze (nach Rall & Gaba)
 > 1. Kenne deine Arbeitsumgebung
