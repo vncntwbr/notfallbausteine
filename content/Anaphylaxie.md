@@ -33,6 +33,8 @@ aliases:
 
 ^21f3ac
 
+
+![[Schock#^5a5cb6]]
 ## Literatur
 - [S2k-Leitlinie Anaphylaxie](https://register.awmf.org/de/leitlinien/detail/061-025)
 

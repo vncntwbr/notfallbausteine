@@ -45,7 +45,7 @@ ICD: R57.2
 > - **E:** Reisen?
 > - **R:** Impfungen? MRE-Risikofaktoren (Pflegeheim, Dialyse etc.)?
 
-> [!workup]+
+> [!workup]-
 > - **[[Labor]]:** [[BGA]], 2-3 Paar [[BK]] (≥10 ml/Flasche), Profil "Sepsis"
 > 	- Bei [[Neutropenie]] oder [[NLS|Neugeborene]]: IL-6 nachfordern
 > 	- [[NLR]]
@@ -121,6 +121,8 @@ ICD: R57.2
 > - **[[Neutropenie|Neutropenes Fieber]]** wie Sepsis ohne Fokus, RS Häma/Onko
 > 	- *Cave:* "Wer keine Leukos im Blut hat, kann auch keine auspinkeln!" → unauffälliger [[U-Status]]/[[LP]] ≠ Ausschluss
 
+![[Anaphylaxie#^21f3ac]]
+
 > [!management]- Fokussanierung
 > - **V.a. Katheter-Infektion [[ZVK]]/PiCC:** [[BK]] hieraus, danach direkt entfernen, ggf. Spitze ad MiBi
 > - **V.a. Port-Infektion:** [[BK]], Explantation ACh (bei schwachem Verdacht ggf. erst bei pos. BK)
@@ -149,8 +151,7 @@ ICD: R57.2
 
 ^1a6b27
 
-
-![[Anaphylaxie#^21f3ac]]
+![[Schock#^5a5cb6]]
 
 ## Septischer Schock Definition
 ![[Pasted image 20260403135950.png]]

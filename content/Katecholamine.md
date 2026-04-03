@@ -31,6 +31,9 @@ tags:
 
 ![[Pasted image 20251227185946.png]]
 
+
+![[Schock#^5a5cb6]]
+
 ---
 
 - **Zugang:** Alles außer Vasopressin via PVK safe[^1], am sichersten [[Adrenalin]] od. Phenylephrin

@@ -55,6 +55,7 @@ title: Injurity Severity Scale (ISS)
 > 5. Stumpf/[[Penetrierend]] mit proximaler Koronarien-Okklusion<br>ODER LV-Perforation<br>ODER <50% Gewebeverlust von RV, RA oder LA
 > 6. Stumpfer Abriss des Herzens<br>ODER [[Penetrierend]] mit >50% Gewebsverlust einer Herzkammer
 
+
 > [!stadien]- OIS Lunge
 > 1. Kontusion unilateral, <1 Lobus
 > 2. Kontusion unilateral, 1 Lobus <br>ODER Einfacher [[Pneu]]
@@ -63,8 +64,7 @@ title: Injurity Severity Scale (ISS)
 > 5. A./V. pulmonalis Hauptstamm/hilär
 > 6. Totale Durchtrennung Lungenhilum
 > 
-> +1 für bilateral
-> [[Hämatothorax]] wird nach "Thorax Gefäße" graduiert
+> +1 für bilateral<br>[[Hämatothorax]] wird nach "Thorax Gefäße" graduiert
 
 ^1eb208
 
