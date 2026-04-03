@@ -6,6 +6,8 @@ tags:
   - Fach/Infektiologie
   - Status/Started
 ---
+
+![[Anaphylaxie#^21f3ac]]
 ## [[ABx]] Auswahl
 ### C. diff. Raten
 - **Grobe Kategorisierung nach C. diff. Risiko**[^2]

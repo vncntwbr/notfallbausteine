@@ -46,6 +46,8 @@ title: Harnwegsinfektion (HWI)
 > - **[[Sepsis|Urosepsis]]**
 > 	1. Piperacillin/Tazobactam 4.5g i.v. q8h (bei MiBi-Nachweis Pseudomonas intermediär sensibel: q6h)
 
+![[Anaphylaxie#^21f3ac]]
+
 > [!management]- Rezidivprävention (>3 HWI/Jahr)
 > - **Impfung:** StroVac® (E. coli, Proteus mirabilis, Klebsiella pneumoniae, E. faecalis, Morganella morganii), keine Kassenleistung, 3 Dosen à ca. 40€
 > - **Lokale Östrogenisierung:**[^1] Vaginalzäpfchen/-creme (1x/d für 21d, dann 2x/Wo, ca. 10€/Mo) oder Vaginalring (z.B. Estring®, 3 Mo belassen, ca. 25€/Mo), bei Postmenopausal oder Stillend empfehlen, hohe Wirksamkeit ohne relevante UAW, auch bei Z.n. HR+ Mamma-Ca, Kassenleistung

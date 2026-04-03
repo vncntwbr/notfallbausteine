@@ -22,7 +22,7 @@ title: Lyme-Borreliose (Erythema migrans)
 > - **[[Labor]]:** Borrelien-Serologie nicht zielführend (oft falsch-positiv und falsch-negativ, keine Aussagekraft)
 
 > [!management]-
-> - **ABx:** Doxicillin 200 mg p.o. 1x/d für 14-21d (Aufklärung: Photox., nicht mit Milch/Ca2+)
+> - **ABx:** Doxycyclin 200 mg p.o. 1x/d für 14-21d (Aufklärung: Photox., nicht mit Milch/Ca2+)
 > - **Kinder/[[Schwanger]]:** Amoxicillin
 > - **V.a. Neuroborreliose** siehe [[Facialisparese]]
 

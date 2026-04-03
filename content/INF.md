@@ -8,6 +8,8 @@ aliases:
   - Infektiologie
 title: Infektiologie (INF)
 ---
+
+![[Anaphylaxie#^21f3ac]]
 ## Basics
 - [[ABx]]
 - [[Antimykotika]]

@@ -40,6 +40,10 @@ ICD: J18
 > [!management]+
 > - ...
 
+![[Anaphylaxie#^21f3ac]]
+
+![[Sepsis#^1a6b27]]
+
 > [!disposition]+
 > - **Ambulant möglich:**
 > 	- [CRB-65](https://www.mdcalc.com/calc/10604/crb-65-score-for-pneumonia-severity-crb-65) 0 Pkt. (ggf. 1 Pkt. wenn nur >65 J. + gute Versorgungssicherheit)

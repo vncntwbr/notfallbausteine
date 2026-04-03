@@ -40,7 +40,7 @@ title: Anamnese
 > [!anamnese] [Fremdsprachige Anamnesebögen](https://medi-bild.de/materialien/)
 
 ## Schulung
-> [!anamnese]+ Allgemeine Anamnese (SAMPLER)
+> [!anamnese]- Allgemeine Anamnese (SAMPLER)
 > - **S – Symptome:** Leitsymptom, OPQRST+
 > - **A – Allergien** inkl. Reaktion
 > - **M – Medikation:** Dauermedikation inkl. Pille, Adhärenz, OTC-Präparate, akute Selbstmedikation
@@ -49,7 +49,7 @@ title: Anamnese
 > - **E – Ereignisse**, die den Beschwerden vorausgingen
 > - **R – Risikofaktoren:** (leitsymptomabhängig) z.B. Alkohol, Nikotin, Drogen, [[Schwanger]], Familienanamnese, CVRF
 
-> [!anamnese]+ Schmerzanamnese (OPQRST+)
+> [!anamnese]- Schmerzanamnese (OPQRST+)
 > - **O – Onset:** Seit wann? Maximale Intensität innerhalb Sekunden / Minuten / Stunden?
 > - **P – Provokation/Palliation:** Was macht es schlimmer oder besser, z.B. Einatmen, Bewegung, Druck?
 > - **Q – Qualität:** z.B. stechend, drückend, ziehend, reißend, krampfartig, brennend, …
@@ -57,3 +57,7 @@ title: Anamnese
 > - **S – Severity:** NRS 0-10
 > - **T – Time:** Konstant oder intermittierend? Kolikartig? Wiederholtes Auftreten? Seit Beginn zunehmend?
 > - **+:** Begleitsymptome?
+
+^d59173
+
+![[Anaphylaxie#^21f3ac]]
