@@ -2,6 +2,9 @@
 tags:
   - Meta
 ---
+![[Zitate#^1fca2b]]
+
+
 - Biases werden häufiger erkannt, wenn am Ende das Outcome schlecht war / es eine [[Fehldiagnose]] war[^1]
 ### Rassismus
 - PoC häufiger physischen Zwang bei [[Psych]][^2]

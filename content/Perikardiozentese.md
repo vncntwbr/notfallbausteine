@@ -7,4 +7,4 @@ OPS: 1-842
 aliases:
   - Perikardpunktion
 ---
-![[Zitate#^8be663]]
+![[Zitate#^81c472]]

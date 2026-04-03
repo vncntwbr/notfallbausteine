@@ -32,6 +32,8 @@ title: Zitate / Quotes
 
 > “There is no body cavity that cannot be reached with a 14G needle and a good strong arm.” –Unknown
 
+^81c472
+
 
 > "[[Sepsis]] kills! ... but it doesn't kill Patients who don't have Sepsis." –Cliff Reid
 
@@ -52,6 +54,8 @@ title: Zitate / Quotes
 > "Clarke’s first law: When a distinguished but elderly scientist or physician states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong." –Arthur C. Clarke (Hazards of Prophecy: The Failure of Imagination)
 
 > "The patient can have as many diagnoses as they damn well please"
+
+^1fca2b
 
 ## Science allgemein
 > "All models are wrong, but some are useful." –George Box

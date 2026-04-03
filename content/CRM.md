@@ -32,7 +32,6 @@ title: Crew-Resource-Management (CRM) & Arbeitsbedingungen
 
 <div style="page-break-after: always;"></div>
 ---
----
 ### Schreien
 - Laut schreien korreliert negativ mit Hodengröße in Affen[^1]
 ### Speak Up
