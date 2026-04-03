@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Kardiologie
-  - POCUS
+  - Interventionen/POCUS
   - Status/ZuRationalisieren
   - Diagnosen/Chronisch
 title: Aortenklappenstenose (AS)

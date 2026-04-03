@@ -4,15 +4,16 @@ tags:
   - Status/Started
   - Diagnosen
   - Flowchart
+  - Interventionen/EKG
 title: |-
   Vorhofflimmern (VHF) &
   Vorhofflattern (VHFla)
 ICD: I48
 config:
   flowchart:
-    defaultRenderer: 'elk'
+    defaultRenderer: elk
 ---
-> [!flowchart]+
+> [!flowchart]-
 > ```mermaid
 > flowchart TD
 >     Start(**Tachykardes VHF/VHFla**):::mStart --> ABCDE{{"**ABC-Instabil?**<br>Schock, Vigilanz↓, AP, Lungenödem"}}:::mCritical
@@ -45,7 +46,7 @@ config:
 > 	- bei oligosympt. Älteren eher nur Frequenzkontrolle
 > 3. **[[eKV]] bei stabilem VHF möglich?**
 > 	- [[AK]] >3 Wochen (Adhärenz? Bei VKA: INR >2.0) oder
-> 	- Onset <12h oder Onset <48h + CHADS65 ≤2 (HFrEF, HTN, ≥65 J., [[Diabetes]]) oder
+> 	- Onset <12h oder Onset <48h + CHADS65 ≤2 (HFrEF, [[HTN]], ≥65 J., [[Diabetes]]) oder
 > 	- [[TEE]] LAA-Thrombus negativ
 > 4. **[[Elektrolyte]]?**
 > 5. **[[Volumenstatus]]?**
@@ -60,7 +61,7 @@ config:
 > [!management]+ Antikoagulation bei VHF
 > - **Indikation [[AK]] bei CHA2DS2VA-Score ≥2 Pkt.**
 > 	- Chronische [[Herzinsuffizienz]]
-> 	- [[Hypertonie]]
+> 	- [[HTN]]
 > 	- Alter >75 J. (2 Pkt.)
 > 	- [[Diabetes]]
 > 	- [[Stroke]] / TIA / Thromboembolie (2 Pkt.)
@@ -95,7 +96,7 @@ config:
 
 [^1]: Stiell, I.G., de Wit, K., Scheuermeyer, F.X. _et al._ 2021 CAEP Acute Atrial Fibrillation/Flutter Best Practices Checklist. _Can J Emerg Med_ **23**, 604–610 (2021). https://doi.org/10.1007/s43678-021-00167-y
 
-[^2]: CHADS-65: Chron. HFrEF, [[Hypertonie]], Alter ≥65, Diabetes
+[^2]: CHADS-65: Chron. HFrEF, [[HTN]], Alter ≥65, Diabetes
 
 [^4]: HF 120-180 normalerweise maximal ohne [[AV-Block]] / neg. Dromotropie, bei >200/FBI DD VHF + WPW
 

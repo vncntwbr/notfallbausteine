@@ -1,6 +1,6 @@
 ---
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Fach/Urologie
 ---
 

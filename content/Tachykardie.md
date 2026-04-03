@@ -4,6 +4,7 @@ tags:
   - Probleme/Herz-Thorax
   - Status/Started
   - Fach/Kardiologie
+  - Interventionen/EKG
 title: Tachykardie & Palpitationen
 ICD: R00
 ---

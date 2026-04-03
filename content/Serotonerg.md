@@ -49,7 +49,7 @@ aliases:
 > 	- Methylenblau (wirkt auch als MAO-Inhibitor!)
 
 > [!stadien]-
-> - **Mild:** Induzierbare Cloni + Tachykardie, Hypertonie + Angst
+> - **Mild:** Induzierbare Cloni + Tachykardie, [[HTN]] + Angst
 > - **Moderat:** Okuläre Cloni, Tremor + Hyperthermie <38.5°C, Flush, Mydriasis + Agitation
 > - **Schwer:** Muskelrigidität + Hyperthermie >39-40°C + [[Vigilanz↓]], [[Krampfanfall]]
 ## Literatur

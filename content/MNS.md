@@ -37,7 +37,7 @@ title: Malignes Neuroleptisches Syndrom (MNS)
 > [!untersuchung]- Klinik
 > - **Vegetative Dysregulation:**
 > 	- Sinustachykardie
-> 	- Fluktuierend [[Hypertonie]]/[[Hypotonie]]
+> 	- Fluktuierend [[HTN]]/[[Hypotonie]]
 > 	- Feucht (Hypersalivation, Diaphorese)
 > - **[[Fieber|Hyperthermie]] bis Hitzschlag**
 > - **Muskelrigidität:**

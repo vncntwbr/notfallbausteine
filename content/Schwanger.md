@@ -28,7 +28,7 @@ title: Schwangerschaft
 > - **A–Anästhesie:** Iatrogene Komplikationen
 > - **U–Uterusatonie**
 > - **C–Cor:** [[ACS]]/SCAD, [[Kardiomyopathie]], [[Aorta]]
-> - **H–HTN:** [[Hypertensive Schwangerschaftserkrankungen|Eklampsie]], [[Hypertensive Schwangerschaftserkrankungen|HELLP]]
+> - **H–[[HTN]]:** [[Hypertensive Schwangerschaftserkrankungen|Eklampsie]], [[Hypertensive Schwangerschaftserkrankungen|HELLP]]
 > - **O–Others**
 > - **P–Plazenta:** Vorzeitige Plazentalösung, Plazenta praevia
 > - **S–[[Sepsis]]**

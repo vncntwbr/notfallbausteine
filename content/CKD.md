@@ -25,7 +25,7 @@ tags:
 ^5b5bc5
 > [!info]- Mechanismen
 > - **Hypervolämie**
-> 	- [[Hypertonie]]
+> 	- [[HTN]]
 > 	- [[Ödeme]]
 > 	- Interstitielles [[Lungenödem]]
 > - **[[Urämie]]**

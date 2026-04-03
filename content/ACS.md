@@ -31,7 +31,9 @@ ICD: I20-I25
 > - **P:** ==Bek. KHK, z.N. PCI/ACVB?== Diabetes? OPs thorakal? Tumor? [[Schwanger]]? [[Aorta]]?
 > - **L:** TTE? [[HKU]]?
 > - **E:** Auftreten aus Ruhe/Belastung? Immobilisation/OP?
-> - **R:** CVRF ([[Hypertonie]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
+> - **R:** CVRF ([[HTN]], Diabetes, Rauchen, Dyslipidämie, Familie)? Drogen? Marfan o.ä.?
+
+> [!ekg] [[Ischämie-EKG]]
 
 > [!workup]-
 > - **[[Untersuchung|U]]:** VP (insb. AF, HF)
@@ -46,10 +48,10 @@ ICD: I20-I25
 > - **ggf. Kardio-[[TTE]]** <div class="localInline" data-option="cbf" style="display:none">CBF: Werktags 2 Termine (10:00 und 13:00) in Kardio-Ambulanz für ZNA reserviert, nur bei stabilen, nicht Monitor-pflichtigen Pat., Anforderung via SAP+Telefonisch, Frage z.B. "EF? WBS? Vitien? RHB?"</div>
 ## Management
 > [!Management]+ Allgemeines ACS-Management
-> 1. **Kontinuierliches Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
+> 1. **Monitoring**, bei hohem Verdacht Defibrillationsbereitschaft (Gerät im Raum), bei STEMI/OMI Patches kleben
 > 2. **[[O2]]** Ziel [[SpO2]] >90%[^4]
 > 3. **[[Analgesie]]:** [[PCM]] 1 g i.v. ± Morphin 3 mg-weise i.v.
-> 4. **Metoprolol** 5 mg-weise i.v. bis 15 mg (wenn RR >120 + keine [[Herzinsuffizienz]]), verhindert VT/VF, reduziert Infarktgröße
+> 4. **Metoprolol** 5 mg-weise i.v. bis 15 mg (wenn RRsys >120 + keine [[Herzinsuffizienz]]), verhindert VT/VF, reduziert Infarktgröße
 > 5. **ggf. CPAP** bei [[Herzinsuffizienz]]/[[Lungenödem]]
 > 6. **ggf. Nitro** s.l. (wenn RR >120, symptomatisch, keine diagnostische Aussage)
 > 7. **Non-sustained [[VT]]** braucht i.d.R. keine Antiarrhythmika, nur Metoprolol

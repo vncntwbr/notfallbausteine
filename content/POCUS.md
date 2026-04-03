@@ -2,7 +2,7 @@
 tags:
   - Status/Started
   - Fach/Radiologie
-  - POCUS
+  - Interventionen/POCUS
 title: Point-of-Care Ultraschall / Sonografie (POCUS)
 OPS: 3-03
 ---
@@ -11,9 +11,13 @@ OPS: 3-03
 	- [[eFAST]]
 - **Herz + Gefäße**
 	- [[TTE]]
-		- [[RHB]]
+		- [[RHB]] / [[TAPSE]] / [[Pulmonale Hypertonie]]
+		- [[WBS]]
+		- [[Cardiac Output]] / [[VTI]] / [[EPSS]]
+		- [[Dynamic LVOTO]]
+		- Vitien: [[AS]], [[MI]]
 	- [[TEE]]
-	- [[Volumenstatus]]
+	- [[Volumenstatus]] / [[VExUS]]
 	- [[Kompressionssonografie]]
 - **Lunge**
 	- [[LUS]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Status/Started
   - Fach/Pneumologie
   - Fach/Kardiologie

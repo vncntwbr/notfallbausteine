@@ -2,7 +2,7 @@
 tags:
   - Status/Started
   - Fach/Kardiologie
-  - POCUS/TTE
+  - Interventionen/POCUS
 title: LVOT Velocity Time Integral (VTI)
 aliases:
   - LVOT VTI

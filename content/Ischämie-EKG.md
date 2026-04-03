@@ -21,7 +21,9 @@ aliases:
 > - **Nonsign. STE + Reziproke STD**
 > - **Hyperakutes T:** AUC-Fläche↑ in DD zu [[HyperK+]]
 > - **De Winter:** Prominentes T in V1-V6 + aszend. STD ≥1 mm = RIVA-Stenose
-> - **Wellens:** [Typ A] Biphas. T in V2/V3, [Typ B] tief invert. T = RIVA-Stenose, oft intermittierend / nach sistierter AP / ohne [[Troponin]](!)
+> - **Wellens:** oft nach sistierter AP + ohne [[Troponin]] = RIVA-Stenose
+> 	- *Typ A:* Biphasisches T in V2+V3
+> 	- *Typ B:* Tief invertiertes T in V2+V3
 > - **Shark Fin:** Verschmelzung QRS + massive STE, oft [[Periarrest]] DD [[HyperK+]]
 > - **LSB (neu/anders + Klinik) oder mod. Sgarbossa-Kriterien:**
 > 	- Konkordante STE ≥1 mm irgendwo
@@ -30,7 +32,7 @@ aliases:
 > - **RSB + STE** (normal bewerten, DD [[LAE]])
 > - **Aslanger-Sign:** isoliert STE III + STD in 1 von V4-V6 mit pos. T + ST V1>V2
 > - **South African Flag:** STE aVL, I, V2 = hochlateral
-> - **Hauptstamm-EKG:** STE aVR + STD ≥6 Abltg. = Typ-2-Infarkt/[[Schock]] ± 3G-KHK
+> - **Hauptstamm-EKG:** STE aVR + STD ≥6 Abltg. = [[ACS|Typ-2-Infarkt]]/[[Schock]] ± 3G-KHK
 
 > [!dd]+ DD STEMI-Mimics
 > - **Kritisch:**
@@ -41,11 +43,10 @@ aliases:
 > - **Dringlich:**
 > 	- [[HyperCa2+]]
 > 	- [[Brugada]]
-> 	- [[Kardiomyopathie]] (ARVD, HOCM)
+> 	- [[Kardiomyopathie]] (ARVD, HOCM, Tako-Tsubo)
 > 	- [[Hypothermie]]
 > 	- [[Perimyokarditis]]
-> 	- Tako-Tsubo
-> 	- [[Intox]] (z.B. [[Na+ Kanal Blocker|TCA]])
+> 	- [[Intox]] ([[Na+ Kanal Blocker]])
 > - **Sonstige:**
 > 	- [[Blockbild]]
 > 	- Schrittmacher-EKG

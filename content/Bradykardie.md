@@ -4,6 +4,7 @@ tags:
   - Probleme/Herz-Thorax
   - Status/Started
   - Fach/Kardiologie
+  - Interventionen/EKG
 ICD: R00
 ---
 > [!dd]+ Häufige DD Bradykardie (3M)

@@ -5,9 +5,9 @@ tags:
   - Literatur/NVL
   - Diagnosen/Chronisch
   - Fach/Kardiologie
-title: Hypertonie / Hypertensive Entgleisung
+title: Hypertonie (HTN) / Hypertensive Entgleisung
 aliases:
-  - HTN
+  - Hypertonie
 ICD: I10-I15
 ---
 

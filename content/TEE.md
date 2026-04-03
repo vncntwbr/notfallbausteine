@@ -5,8 +5,8 @@ aliases:
 title: Transösophageale Echokardiografie (TEE/TOE)
 tags:
   - Fach/Kardiologie
-  - POCUS/TEE
   - Status/Done
+  - Interventionen/POCUS
 ---
 > [!pocus]- Mid-Esophageal 4-Chamber (ME 4C)
 > - ME

@@ -1,6 +1,6 @@
 ---
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Fach/Kardiologie
   - Status/Started
 title: E-Point Septal Separation (EPSS)

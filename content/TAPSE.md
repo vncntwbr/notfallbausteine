@@ -2,7 +2,7 @@
 tags:
   - Status/Started
   - Fach/Kardiologie
-  - POCUS/TTE
+  - Interventionen/POCUS
 title: Tricuspid Anular Plane Systolic Excursion (TAPSE)
 ---
 

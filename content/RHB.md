@@ -6,7 +6,7 @@ tags:
   - Status/Started
   - Interventionen/EKG
   - Fach/Kardiologie
-  - POCUS/TTE
+  - Interventionen/POCUS
   - Favourites
   - Status/Done
 title: Rechtsherzbelastung (RHB)

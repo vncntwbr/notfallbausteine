@@ -12,7 +12,7 @@ ICD: I50
 ![[Lungenödem#^40f277]] ^633e65
 > [!dd]+ Ursachen akuter Herzinsuffizienz (CHAMPIT) – DD siehe [[Dyspnoe]]
 > - C – Coronar ([[ACS]])
-> - H – [[Hypertonie|Hypertensiver Notfall]] (SCAPE)
+> - H – [[HTN|Hypertensiver Notfall]] (SCAPE)
 > - A – Arrhythmie (oft [[VHF]])
 > - M – Mechanisch (z.B. iatrogene Komplikationen, Vitien)
 > - P – [[LAE|PE]]

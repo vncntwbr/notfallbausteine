@@ -37,7 +37,7 @@ aliases:
 > [!management]-
 > 1. **Akute Einklemmung:** s.o.
 > 2. **[[Intrakranielle Blutung]] unter [[AK]]:** [[Blutungsmanagement|Antagonisierung]]
-> 3. **[[Hypotonie]] aggressiv verhindern:** Ziel-RRsys >120, [[Hypertonie]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
+> 3. **[[Hypotonie]] aggressiv verhindern:** Ziel-RRsys >120, [[HTN]] bis 200 mmHg tolerieren, bei [[SAB]] ggf. langsam senken auf 160 mmHg
 > 4. **Frühzeitig [[RSI]]** mit tiefer Narkose (Normoxie, Normokapnie)
 > 5. **[[Krampfanfall]]** sofort durchbrechen
 > 6. **Normothermie:** Antipyrese ab 37.7°C mit [[PCM]], Metamizol, physikalisch

@@ -2,7 +2,7 @@
 aliases:
   - Transkranieller Doppler
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Status/Started
   - Fach/Intensivmedizin
   - Fach/Neurologie

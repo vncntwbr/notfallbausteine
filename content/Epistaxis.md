@@ -19,7 +19,7 @@ ICD: R04.0
 > - **Selten:** 
 
 > [!workup]+
-> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? [[Cortison]]? [P] [[Hypertonie|HTN]]? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
+> - **[[Anamnese|A]]:** [S] Beginn? Begleitsympt.? [A] Transfusionsreaktion? [M] AK/TAH? NSAR? [[Cortison]]? [P] [[HTN|HTN]]? Onko? [L] Letzte Epistaxis? [E] Trauma? Infekt? [R] Nasenspray-Abusus?
 > - **[[Untersuchung|U]]:** ± nasales Spekulum (Blutungsquelle? 90% Locus Kieselbachii)
 > - **[[EKG]]:**
 > - **[[POCUS]]:**
@@ -27,7 +27,7 @@ ICD: R04.0
 > - **Red Flags:**
 
 > [!management]+
-> - [[Hypertonie|HTN]] ≠ wirkliche Ursache, nicht wild senken[^3]
+> - [[HTN|HTN]] ≠ wirkliche Ursache, nicht wild senken[^3]
 > - **Disposition:** 
 
 > [!note]+ Textbaustein Epistaxis Ambulant

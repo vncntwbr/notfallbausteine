@@ -46,11 +46,12 @@ ICD: R07.4
 > - **S:** ==OPQRST+==[^2] (reißend, wandernd, stärkst → Aorta)? [[Dyspnoe]]? [[Husten]], [[Hämoptysen]]? [[Ü+E]]? [[Fieber]]?
 > - **A:** Analgetika-Asthma?
 > - **M:** ASS/[[DAPT]]? [[AK]]?
-> - **P:** CVRF ([[Hypertonie]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
+> - **P:** CVRF ([[HTN]], Dyslipidämie, Diabetes, KHK)? Aorta (OP, Marfan, Aneurysma)? [[Schwanger]]? Malignom?
 > - **L:** TTE? [[HKU]]?
 > - **E:** Auftreten in Ruhe/Belastung? Immobilisation ([[LAE]])?
 > - **R:** CVRF? Familienanamnese ([[MI]], Aorta)? Drogen (Kokain u.ä. → [[ACS]]; THC → [[Pneu]])?
 
+> [!ekg] [[Ischämie-EKG]]
 
 > [!workup]-
 > 1. **[[Untersuchung|U]]:** 
@@ -68,6 +69,8 @@ ICD: R07.4
 > 	- [[D-Dimer]] nur gezielt, siehe [[LAE]]
 > 	- #2 Trop 1h/2h siehe [[ACS]]
 > 5. **[[Radiologie]]:** [[Rö Tx]] oder CTPA je nach [[LAE]]-Risiko/[[D-Dimer]]
+
+> [!management] [[ACS]]
 
 > [!note]- Textbaustein Unklarer Brustschmerz Ambulant
 > ```
@@ -87,8 +90,6 @@ ICD: R07.4
 
 ^e34c74
 
-## Diagnosen
-![[ACS]]
 ## Literatur
 - [S3-Leitlinie Brustschmerz – DEGAM-Leitlinie für die primärärztliche Versorgung](https://register.awmf.org/de/leitlinien/detail/053-023)
 

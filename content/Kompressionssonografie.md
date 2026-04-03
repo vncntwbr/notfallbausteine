@@ -1,6 +1,6 @@
 ---
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Status/Done
   - Fach/Radiologie
   - Fach/Angiologie

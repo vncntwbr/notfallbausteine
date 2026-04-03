@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/OrthoTrauma
-  - POCUS
+  - Interventionen/POCUS
   - Status/Started
 aliases:
   - Schultersonografie

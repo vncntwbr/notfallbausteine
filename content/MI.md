@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Kardiologie
-  - POCUS
+  - Interventionen/POCUS
   - Diagnosen
   - Status/ZuRationalisieren
 title: Mitralklappeninsuffizienz (MI)

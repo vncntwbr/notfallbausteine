@@ -1,6 +1,6 @@
 ---
 tags:
-  - POCUS
+  - Interventionen/POCUS
   - Fach/Radiologie
   - Fach/OrthoTrauma
   - Fach/Chirurgie

@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Neurologie
-  - POCUS
+  - Interventionen/POCUS
   - Status/Done
 ---
 > [!management]+ Durchführung

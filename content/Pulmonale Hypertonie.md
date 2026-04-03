@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/Kardiologie
-  - POCUS
+  - Interventionen/POCUS
   - Diagnosen/Chronisch
 ICD: I27
 ---
