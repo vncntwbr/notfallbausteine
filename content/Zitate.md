@@ -38,6 +38,10 @@ title: Zitate / Quotes
 
 ^73c3ac
 
+> "Are my intentions honorable?" –John Hinds
+
+^8be663
+
 ## Medizin allgemein
 > “Medicine is a science of uncertainty and an art of probability.” –William Osler
 
