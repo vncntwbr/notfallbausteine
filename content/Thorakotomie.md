@@ -13,21 +13,23 @@ aliases:
 ![[Zitate#^8be663]]
 
 > [!danger]+ Clamshell-Thorakotomie
-> 1. **Indikation:** [[Periarrest]] / [[CPR]] <15 min bei [[Penetrierend|Penetrierendem Trauma]]
+> 1. **Indikation:** [[Periarrest]] / [[CPR]] <15 min bei [[Penetrierend]] / <5 min bei Stumpf
 > 2. **ABC zweites Team:** SGA/ITN, Beatmung, [[Defibrillation|Defib]], i.v.-Zugang, Volumen/Blut
 > 3. **Fingerthorakostomie** bds.
-> 4. **Clamshell-Thorakotomie** wenn kein [[ROSC]] (alternativ: Links-Anterolateral)
-> 	1. Löcher im 5. ICR verbinden (mit Schere durch Haut, Muskeln, Sternum)
-> 	2. Thorax öffnen (Rippenspreizer oder Helfer manuell von Kopfseite)
-> 	3. Perikard eröffnen (mit Pinzette abnehmen, umgekehrter T-Schnitt)
-> 	4. Herz-Wunden versorgen (Finger, Naht/Klammer oder DK)
-> 	5. Aortenkompression (DeBakey oder manuell durch Helfer)
-> 	6. Keine/kaum Herzaktion: Interne HDM (Fischmaul, nicht herausluxieren)
-> 	7. Sonstige Blutungen versorgen (Klemmen, ggf. Ultima ratio Hilus-Twist)
-> 5. **Post-Thorakotomie:** 
-> 	1. *Volumenbolus* ≥1 L bis ROSC oder Abbruch
-> 	2. *ggf. [[Adrenalin]] [[Push-Dose]]* bei langsamer/schwacher Herzaktion
-> 	3. *[[Blutungsmanagement]]:* [[TXA]], [[Transfusion]]/MTP, Calcium, Fibrinogen
+> 
+> **Clamshell-Thorakotomie** wenn kein [[ROSC]] (alternativ: Links-Anterolateral)
+> 1. Löcher im 5. ICR verbinden (mit Schere durch Haut, Muskeln, Sternum)
+> 2. Thorax öffnen (Rippenspreizer oder Helfer manuell von Kopfseite)
+> 3. Perikard eröffnen (mit Pinzette abnehmen, umgekehrter T-Schnitt)
+> 4. Herz-Wunden versorgen (Finger, Naht/Klammer oder DK)
+> 5. Aortenkompression (DeBakey oder manuell durch Helfer)
+> 6. Keine/kaum Herzaktion: Interne HDM (Fischmaul, nicht herausluxieren)
+> 7. Sonstige Blutungen versorgen (Klemmen, ggf. Ultima ratio Hilus-Twist)
+> 
+> **Post-Thorakotomie:** 
+> 1. *Volumenbolus* ≥1 L bis ROSC oder Abbruch
+> 2. *ggf. [[Adrenalin]] [[Push-Dose]]* bei langsamer/schwacher Herzaktion
+> 3. *[[Blutungsmanagement]]:* [[TXA]], [[Transfusion]]/MTP, Calcium, Fibrinogen
 
 ^1f564b
 

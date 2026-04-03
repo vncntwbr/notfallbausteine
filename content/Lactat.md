@@ -11,11 +11,11 @@ title: Lactatazidose / Laktatazidose
 ---
 > [!DD]- DD Lactatazidose
 > - **Gewebehypoxie / Anaerober Stoffwechsel:**
-> 	- [[Schock]], [[Hypoxie]], [[Anämie]], CO
+> 	- [[Schock]], [[Hypoxie]], [[Anämie]], [[CO]]
 > 	- Nekrose, Ischämie, Tumor
-> 	- Krampfanfall, [[Rhabdomyolyse]]
+> 	- [[Krampfanfall]], [[Rhabdomyolyse]]
 > - **Glykolyse↑:** 
-> 	- β2-Agonisten
+> 	- β2-Agonisten (Salbutamol, [[Adrenalin]])
 > 	- Hyperventilation
 > 	- Sympathikus↑
 > - **Atmungskette↓:**
@@ -23,7 +23,7 @@ title: Lactatazidose / Laktatazidose
 > 	- Thiaminmangel
 > - **Laktatmetabolismus↓:** 
 > 	- [[Alkohol]]
-> 	- Leberversagen, [[Sepsis]]
+> 	- [[Leberversagen]], [[Sepsis]]
 > - **Falsch-hoch:**
 > 	- [[Ethylenglykol]]
 

@@ -62,9 +62,9 @@ title: Schock & Hypotonie
 > [!stadien]- Stadien (SCAI)
 > 1. **A – At risk:** Hämodynamisch stabil ohne Schock aber mit Risiko dafür (z.B. dekompensierte [[Herzinsuffizienz]])
 > 2. **B – Beginning:** Hypotonie, [[Tachykardie]] jedoch ohne Endorgan-Hypoperfusion
-> 3. **C – Classic:** Endorgan-Hypoperfusion
+> 3. **C – Classic:** Endorgan-Hypoperfusion (z.B. [[Lactat]], Oligurie, [[Delir]], [[Recap]])
 > 4. **D – Deteriorating:** Ausbleibende Besserung trotz Therapieeskalation
-> 5. **E – Extremis:** [[Periarrest]] oder [[CPR]][^1]
+> 5. **E – Extremis:** [[Periarrest]] oder [[CPR]]/[[PEA]][^1]
 
 > [!workup]-
 > - **Organdysfunktionen**
