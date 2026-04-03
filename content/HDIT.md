@@ -6,7 +6,7 @@ tags:
   - Status/ZuRationalisieren
 title: High-Dose Insulin-Therapie (HIET)
 aliases:
-  - HDIT
+  - High-Dose Insulin-Therapie
   - HIET
 ---
 ## Literatur

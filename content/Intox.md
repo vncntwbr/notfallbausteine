@@ -8,35 +8,18 @@ tags:
 title: Intoxikation
 ICD: X49.9!, R78
 ---
-> [!flowchart]-
-> ```mermaid
-> flowchart TD
->     A(**V.a. Intoxikation**):::mStart --> P{{**Pupillen**}}:::mImportant
->     P --->|eng| DG{{**Darmgeräusche**}}
->     DG --> |hyperaktiv| C(Cholinerg)
->     DG --> |hypoaktiv| O(Opioide)
->     P -->|normal/weit| KT{{**Temperatur**}}
->     KT --> |hoch| DG2{{**Darmgeräusche**}}
->     DG2 -->|hyperaktiv| AD(Antidepressiva)
->     DG2 --> |hypoaktiv| SAC(Sympathomimetisch/<br>Parasympatholytisch)
->     KT -->|normal/niedrig|DG3{{**Darmgeräusche**}}
->     DG3 -->|hyperaktiv| H(Halluzinogene)
->     DG3 --> |hypoaktiv| S(Sedativa)
->     
->     click C "/Cholinerg"
->     click O "/Opioide"
->     click AD "/Serotonerg"
->     click SAC "/Anticholinerg"
->     click S "/Benzos"
-> ```
-
-> [!danger] Rapid Reference
-> - **[[Betablocker]]/[[Calciumantagonisten]]:** [[Adrenalin]], Insulin/Glucose ([[High-Dose Insulin-Therapie]]), ggf. Ca2+
-> - **[[TCA]]:** [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
-> - **Cyanid/CO:** Hydroxycobalamin (Cyanokit®) 5 g KI
-> - **[[Anticholinerg]]:** [[Physostigmin]] 2 mg
-> - **[[Cholinerg]]:** Atropin 3 mg i.v., alle 5 min verdoppeln
-> - **[[Flusssäure HF]]:** Calciumgluconat 10-20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o. 
+> [!danger]+ Rapid Reference
+> 1. **[[ABCDE]]-Resuscitation**
+> 2. **Spezifische Antidote**
+> 	- *[[Betablocker]]/[[Calciumantagonisten]]:* [[Adrenalin]], Insulin/Glucose ([[HDIT]]), ggf. Ca2+
+> 	- *[[TCA]]:* [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
+> 	- *Cyanid/CO:* Hydroxycobalamin (Cyanokit®) 5 g KI
+> 	- *[[Anticholinerg]]:* [[Physostigmin]] 2 mg
+> 	- *[[Cholinerg]]:* [[Atropin]] 3 mg i.v., alle 5 min verdoppeln
+> 	- *[[Flusssäure HF]]:* Ca2+Gluconat 20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o.
+> 	- *Rescue:* [[Dialyse]], [[Lipid-Rescue|Lipid]], [[ECMO]]
+> 3. **Diagnostik:** [[EKG]], [[BGA]], Labor inkl. BB, Niere, Leber, CK
+> 4. **Risikostratifizierung:** Cave bei Mischintox, Retard-Präparaten, extremen Dosierungen, Suizidaler Intention
 
 > [!untersuchung]+ Klinische Zeichen der Toxidrome
 > | Toxidrom              | Vigilanz      | Pupillen | Haut/Temp.            | VP                                          | GI                               |
@@ -62,7 +45,7 @@ ICD: X49.9!, R78
 	- [[ECMO]]
 	- [[Dialyse]]
 	- [[Lipid-Rescue]] v.a. bei lipophilen Med (Lokalanästhetika, [[Calciumantagonisten]], [[TCA]], Quetiapin)
-	- [[High-Dose Insulin-Therapie]] bei fulminant [[Calciumantagonisten]], evtl. Beta-Blocker
+	- [[HDIT]] bei fulminant [[Calciumantagonisten]], evtl. Beta-Blocker
 
 
 > [!danger]+ High-Dose-Insulin-Therapie
