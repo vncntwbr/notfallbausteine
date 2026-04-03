@@ -3,11 +3,11 @@ tags:
   - Basics
   - Status/Done
 ---
-> [!danger]+ Team-interne Übergabe
-> - **S:** Wer? Wie? Woher? Mit was (Hauptproblem)? Wo?
+> [!danger]+ SBAR
+> - **S:** Wer? Wie? Woher? Mit was (==Hauptproblem==)? Wo?
 > - **B:** [[Anamnese]], VE, Allergien, Sozial, Therapieziel
 > - **A:** Vitalparameter, [[Untersuchung]], [[EKG]], [[POCUS]], [[Labor]], [[Urin]], [[Radiologie]]
-> - **R:** Verdachtsdiagnose, DD, Maßnahmen, ToDo's, Procedere, Fragen?
+> - **R:** DD, Maßnahmen, ToDo's, Procedere, Fragen?
 
 ---
 - SBAR Systematic Review[^1]

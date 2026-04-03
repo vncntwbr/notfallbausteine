@@ -34,6 +34,7 @@ title: Zitate / Quotes
 
 > "Clarke’s first law: When a distinguished but elderly scientist or physician states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong." –Arthur C. Clarke (Hazards of Prophecy: The Failure of Imagination)
 
+> "The patient can have as many diagnoses as they damn well please"
 
 ## Science allgemein
 > "All models are wrong, but some are useful." –George Box

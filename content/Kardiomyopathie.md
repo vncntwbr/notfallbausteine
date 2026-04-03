@@ -6,6 +6,7 @@ tags:
 ICD: I42
 aliases:
   - HOCM
+  - HCM
   - DCM
   - ARVD
   - ARVC

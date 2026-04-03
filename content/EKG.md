@@ -17,7 +17,7 @@ title: Elektrokardiogramm (EKG)
 > 4. **P:** Pos. I/II + neg. aVR + biphas. V1 (SR)? Fehlend ([[VHF]], SA-Block)? P:QRS ([[AV-Block]], [[VHF|VHFla]])? Betont? Wandernd? Invert ([[WPW]])?
 > 5. **Achse:** I+, II+, III+ (IT/ST) / III neg. (LT) / I neg. (RT)
 > 6. **Q:** [[Pathologisches Q]] >40 ms / > 0.2 mV / >25% des QRS
-> 7. **R:** Groß V1/V2 (RVH) / V5/V6 (LVH)? Verzögerter Progress R/S >V3/V4 ([[KHK]])?
+> 7. **R:** Groß V1/V2 (RVH) / V5/V6 ([[LVH]])? Verzögerter Progress R/S >V3/V4 ([[KHK]])?
 > 8. **Block:** QRS 110-120 (inkompl.) / >120 ms (kompl.)? OUP V1 >30 ms (RSB) / V6 >60 ms (LSB)? üLT + S-Pers. V6 (LAHB)?
 > 9. **ST / [[Ischämie-EKG]]** 
 > 10. **T:** Pos. exkl. V1/aVR (norm.) / Neg. ([[KHK]])? Peaked ([[HyperK+]]) / Fläche↑ (Hyperakut)?

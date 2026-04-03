@@ -5,6 +5,11 @@ tags:
   - Fach/Anästhesiologie
 title: Intraossärer Zugang (i.o.)
 ---
+> [!warning]- KI
+> - V.a. Fraktur / Gefäßverletzung proximal des Punktionsorts (insb. für Tibia)
+> - Prothese in situ
+> - Punktion desselben Knochens <48 h
+
 
 > [!note]+ Textbaustein i.o.-Zugang
 > ```

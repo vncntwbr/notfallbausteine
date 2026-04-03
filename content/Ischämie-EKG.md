@@ -53,5 +53,7 @@ aliases:
 > 	- Ventrikel-Aneurysma, myokardialer Tumor
 > - **[[BER|Benign Early Repolarisation (BER)]]**
 
+## Poster
+![[Pasted image 20260403113558.png]]
 ## Literatur
 - [OMI Pocket Guide](https://omiguide.org)

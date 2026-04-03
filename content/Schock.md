@@ -27,7 +27,7 @@ title: Schock & Hypotonie
 > 	3. *Abdominelles [[Kompartment]]:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
 > 	4. *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
 > 7. **[[Kardiogener Schock]]:** [[TTE]] → Intropie (a.e. [[Adrenalin]])
-> 8. **Zweite Diagnose:** Premature Closure / "The patient can have as many diagnoses as they damn well please"
+> 8. **Zweite Diagnose:** Premature Closure?
 > 9. **Fancy Therapien?** [[ECMO]], IABP, LAVD, etc.
 
 ^5a5cb6
@@ -37,23 +37,23 @@ title: Schock & Hypotonie
 > 	- [[Anaphylaxie]]
 > 	- [[Sepsis]], SIRS
 > 	- [[NNR-Insuffizienz]]
-> 	- Neurogene Dysregulation ([[SHT]], [[Querschnitt]], [[Intox]])
+> 	- Neurogene Dysregulation ([[SHT|schwerstes SHT]], [[Querschnitt]], [[Intox]])
 > - **Hypovoläm:**
 > 	- Plasmaverlust ([[Verbrennung]], Diurese, [[Ü+E]]/Diarrhoe, [[Pankreatitis]] u.ä., Exsikkose, [[Fieber]], ...)
 > 	- Hämorrhagie/Blutung
 > - **Kardiogen:**
 > 	- [[ACS]], [[Kardiomyopathie]], [[Perimyokarditis]], [[Vitien]], [[Herzinsuffizienz]]
-> 	- Rhythmogen: [[Bradykardie]]/[[Tachykardie]]
+> 	- HRST: [[Bradykardie]]/[[Tachykardie]]
 > - **Obstruktiv:**
 > 	- [[LAE]]
 > 	- [[Perikarderguss]]
 > 	- [[Aorta]]
 > 	- [[Pneu]]
-> 	- Breath Stacking, Vena-cava-Kompression u.a.
+> 	- Breath Stacking, V.-cava-Kompression, Abdominelles Kompartment u.a.
 
 ^e10a61
 
-> [!dd]- When not to Worry about Hypotension
+> [!dd]- When not to Worry about Hypotension (4W)
 > - **Warm**
 > - **Wake** (keine [[Vigilanz↓|Vigilanzminderung]])
 > - **Weeing** (keine [[AKI]])
