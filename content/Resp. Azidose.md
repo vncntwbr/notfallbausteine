@@ -9,7 +9,7 @@ tags:
 ICD: E87
 title: Respiratorische Azidose (Hyperkapnie)
 ---
-> [!dd]+ DD Respiratorische Azidose (siehe auch [[Dyspnoe]])
+> [!dd]+ DD Respiratorische Azidose
 > - **Neurologisch:** 
 > 	- *ZNS:* z.B. [[Stroke]], [[Meningitis]], Drogen, [[ALS]]
 > 	- *PNS:* z.B. Phrenicus-Läsion, CIP/CIM, [[GBS]], [[Myasthenie]], Botulismus
@@ -22,3 +22,5 @@ title: Respiratorische Azidose (Hyperkapnie)
 > 	- *Alveolen:* z.B. [[Pneumonie]], [[Lungenödem]]
 > 	- *Vaskulär:* [[LAE]]
 > 	- *Pleura:* [[Pneu]], [[Pleuraerguss]]
+
+Siehe [[Dyspnoe]]

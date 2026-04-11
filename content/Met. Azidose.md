@@ -54,4 +54,6 @@ title: Metabolische Azidose (AGMA/NAGMA) ± Anionenlücke
 > - Multiples Myelom
 > - Pseudohyperchloridämie (Iodid, Bromid, Salicylate)
 
-> [!stadien] [Anionenlücke](https://www.mdcalc.com/calc/1669/anion-gap)
+> [!stadien] [Anionenlücke](https://www.mdcalc.com/calc/1669/anion-gap) = [Na+] – ([Cl-] + [HCO3-])
+> - ∆: Anionenlücke – 10-12 (Normwert), entspricht "Erklärungsbedarf"
+> - ∆∆: [HCO3-] + ∆ sollte 24±2 ergeben, sonst zusätzliche Metabolische Azidose/Alkalose

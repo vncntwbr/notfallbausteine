@@ -11,7 +11,7 @@ aliases:
 title: Beckentrauma inkl. Hüftgelenksnahe Frakturen
 ---
 > [!danger]+ V.a. Beckenringverletzung + hämorrhagischer Schock
-> 1. **Trochanterschlinge:** Fixierung Beine in Innenrotation + Anlage Höhe Trochanter major[^1]
+> 1. **Trochanterschlinge:** Fixierung Beine in Innenrotation + Anlage Höhe Trochanter major[^1] (KI: [[GERI|Geriatrisches Niedrigenergietrauma]], laterales Trauma)
 > 2. **[[Blutungsmanagement]]**, MTP antizipieren
 > 3. **Begleitverletzungen?** [[eFAST]], anogenitale Inspektion, CT-Polytrauma
 > 4. **OP:** [[Damage Control Surgery]] (stabile Typ A Frakturen ggf. konservativ)

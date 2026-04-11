@@ -7,7 +7,7 @@ aliases:
   - E-Problem
   - Environment
 ---
-> [!danger] "Lethal Triad" = Hypothermie + Azidose + Koagulopathie
+> [!danger] _Lethal Triad_ = Hypothermie + Azidose + Koagulopathie
 
 > [!workup]+ Assessment
 > - **Temperatur?**

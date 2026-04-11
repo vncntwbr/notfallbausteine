@@ -9,6 +9,10 @@ title: |-
   Vorhofflimmern (VHF) &
   Vorhofflattern (VHFla)
 ICD: I48
+aliases:
+  - Vorhofflimmern
+  - VHFla
+  - Vorhofflattern
 config:
   flowchart:
     defaultRenderer: elk

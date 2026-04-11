@@ -4,7 +4,7 @@ tags:
   - Probleme/Trauma
   - Status/Done
 ---
-> [!danger] Luxation mit/ohne pDMS-Defizit? → sofortige Reposition
+> [!danger] Luxation mit/ohne pDMS-Defizit? → sofort Reposition!
 
 > [!Untersuchung]+ 
 > - **[Ottawa Ankle Rule](https://www.mdcalc.com/calc/1670/ottawa-ankle-rule)** (neg. = kein Röntgen)

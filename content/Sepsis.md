@@ -34,8 +34,6 @@ ICD: R57.2
 > 	- [[Leberversagen]]
 > - **Sonstige:** z.B. [[HLH]] i.d.R. erst intensivmedizinisch relevant
 
-![[Lactat#^961d37]]
-
 > [!anamnese]-
 > - **S:** [[Anamnese|OPQRST+]]? Schmerzen? [[Fieber]]/Schüttelfrost? Husten/Auswurf? Dysurie? Wunden?
 > - **A:** insb. [[ABx]]?
@@ -103,7 +101,7 @@ ICD: R57.2
 > 	- Zähne
 > 	- Einliegende Fremdkörper (z.B. Spirale, Tampon, Shunt)
 
-> [!stadien] [KI Sepsis Score](https://sepsis-score.shinyapps.io/berechnen/) (nur Forschungszwecke)
+> [!stadien] [KI Sepsis Score (nur Forschungszwecke)](https://sepsis-score.shinyapps.io/berechnen/)
 
 > [!management]- Kalkulierte ABx schwere Infektion
 > - **[[Pneumonie]]** → Pip/Taz 4.5 g i.v. + Azithromycin 500 mg p.o. (HAP: stattdessen + Ciprofloxacin)

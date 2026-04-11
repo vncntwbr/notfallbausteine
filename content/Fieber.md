@@ -21,6 +21,7 @@ ICD: R50
 >  - **[[Hitzschlag]]**
 >  - **[[Hypothyreose|Thyreotoxische Krise]]**
 >  - Sympathikus-Erregung / körperliche Belastung
+>  - [[Stroke]]
 
 ^e41d98
 

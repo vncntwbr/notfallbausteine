@@ -21,10 +21,7 @@ title: Polytrauma (PYT)
 
 > [!stadien] [[ISS]]
 
-- R **Red Flags:** 1./2. Rippe#, Clavicula#, Sternum#, Beckenring#, Makrohämaturie
-- **W**
-	- 
----
+## Literatur
 - Stumpfes Trauma postmortem-CT letale Verletzung: 40% [[SHT]], 25% lange Röhrenknochen, 23% Hämatoperitoneum, 19% [[Pneu]], 5% ösophageale Fehlintubation[^1]
 - Kopf+Bauch Trauma GCS >8 erst Laparotomie dann cCT reasonable[^2]
 
