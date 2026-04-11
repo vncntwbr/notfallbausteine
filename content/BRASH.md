@@ -4,14 +4,15 @@ tags:
   - Diagnosen
   - Fach/Kardiologie
   - Status/Done
-title: Bradycardia, Renal failure, AV-Block, Shock, Hyperkalemia (BRASH-Syndrom)
+title: BRASH-Syndrom
 ---
+
 > [!danger]+ Resuscitation
 > 1. **[[Volumentherapie]]:** Isotones [[Bicarbonat]] (HCO3- <22 mM) oder VEL
 > 2. **[[Bradykardie]]:** Calciumgluconat 10% 30 ml, ggf. [[Adrenalin]]
 > 3. **[[HyperK+|Hyperkaliämie-Therapie]]**
 
-> [!info]- Pathophysiologie
+> [!info]+ BRASH = [[Bradykardie]] + [[AKI|Renal failure]] + [[AV-Block]] + [[Schock]] + [[HyperK+]]
 > - **Synergistische [[Bradykardie]]**
 > 	- Normalerweise symptomatische [[Bradykardie]] nur bei *schwerer* [[HyperK+]] oder *toxischer Dosis* AV-Blocker
 > 	- Jedoch bei Kombination auch *milde* [[HyperK+]] und *therapeutische Dosis* AV-Blocker ([[Betablocker]], [[Calciumantagonisten]]) ausreichend
