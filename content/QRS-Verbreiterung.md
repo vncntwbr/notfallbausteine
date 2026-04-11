@@ -20,10 +20,10 @@ aliases:
 > 	- [[AIVR]]
 > 	- Kammerersatzrhythmus bei [[AV-Block]] 3°
 > 	- Schrittmacher mit ventrikulärer Stimulation
-> 	- ==[[VT]]==
+> 	- ✞ [[VT]]
 > - **Block:** LSB oder RSB ± LAHB/LPHB, Ashman-Phänomen
 > - **Arrhythmogen:** [[Brugada]], AVRD (V1/V2 ± RVH)
 > - **Accessory:** [[WPW]]/AVRT
-> - **Metabolisch:** ==[[HyperK+]]==
-> - **Intox:** ==[[Na+ Kanal Blocker]]== (pos. R in aVR)
+> - ✞ **Metabolisch:** [[HyperK+]]
+> - ✞ **Intox:** [[Na+ Kanal Blocker]] (pos. R in aVR)
 > - **Unspezifische interventrikuläre Leitungsverzögerung** (Ausschlussdiagnose)

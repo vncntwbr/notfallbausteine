@@ -4,7 +4,7 @@ tags:
   - Status/ToDo
   - Fach/Neurologie
   - Fach/Intensivmedizin
-title: Vigilanzminderung (Somnolenz, Sopor & Koma)
+title: Vigilanzminderung (Somnolenz, Sopor, Koma, Wesensveränderung)
 ICD: R40
 aliases:
   - Koma
@@ -14,13 +14,28 @@ aliases:
   - FOUR
   - GCS
 ---
-> [!dd]+ DD
-> - **Metabolisch:** [[Hypoglykämie]], [[Hyperthyreose]]
-> - **Respiratorisch:** [[Hypoxie]], [[Resp. Alkalose|Hyperkapnie]]
-> - **[[Schock]]:** div. Genese, u.a. [[Sepsis]]
-> - **Hirneigen:** [[Hirndruck]], [[Intrakranielle Blutung]], [[Stroke]] (Basilaristhrombose), [[Meningitis]], [[Krampfanfall]] (non-konvulsiv), [[Parkinson|Akinetische Krise]]
-> - **[[Intox]]:** insb. [[Opioide]], [[Benzos]], [[Alkohol]]
-> - **Psychogen**
+
+> [!dd]+ DD Vigilanzminderung
+> - **[[Schock]]** jeder Genese
+> - **Vaskulär:**
+> 	- [[Stroke]] (insb. Basilaris)
+> 	- [[Sinusvenenthrombose]]
+> 	- [[Intrakranielle Blutung]]
+> - **[[Intox]]:** Insb. [[Alkohol]], [[Opioide]], [[Benzos]], [[Anticholinerg|Anticholinerge UAW]], Akkumulation bei [[AKI]]
+> - **Hirneigen:**
+> 	- [[Krampfanfall]] inkl. non-konvulsiv, postiktal
+> 	- [[Hirndruck]] (z.B. [[Intrakranielle Blutung]], Hirntumor, Hydrocephalus, VP-Shunt-Dysfunktion)
+> 	- Wenicke-Enzephalopathie (Thiamin-Mangel), B12-Mangel
+> 	- [[Meningitis]]
+> 	- [[Parkinson|Akinetische Krise]]
+> 	- [[Demenz]]
+> 	- Autoimmun (Lupus-Enzephalitis, Anti-NDMA-R-Enzephalitis)
+> 	- [[SHT]]
+> - **Metabolisch:** [[Hypoglykämie]], [[Hyperglykämie]], [[HypoNa+]], [[HyperCa2+]], [[Hyperthyreose]]
+> - **Psychogen:** Dissoziativer Anfall, Psychose
+
+> [!untersuchung]+
+> - Alter ≤50 J. + RRsys <150 mmHg + kein [[FND]] = hochsuggestiv für metabolische Ursache (Sens. 96%)
 
 > [!stadien]- FOUR (Full Outline of Unresponsiveness) 0-16 Pkt.
 > - **Augen:** Folgt Aufforderung (4) / Lider offen (3) / Öffnen auf Ansprache (2) / Öffnen auf Schmerzreiz (1) / Zu (0)
