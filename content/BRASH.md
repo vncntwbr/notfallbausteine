@@ -8,9 +8,10 @@ title: BRASH-Syndrom
 ---
 
 > [!danger]+ Resuscitation
-> 1. **[[Volumentherapie]]:** Isotones [[Bicarbonat]] (HCO3- <22 mM) oder VEL
-> 2. **[[Bradykardie]]:** Calciumgluconat 10% 30 ml, ggf. [[Adrenalin]]
-> 3. **[[HyperK+|Hyperkaliämie-Therapie]]**
+> 1. **Ätiologie:** [[AKI]] + [[HyperK+]] + Antihypertensiva
+> 2. **[[Volumentherapie]]:** Isotones [[Bicarbonat]] (HCO3- <22 mM) oder VEL
+> 3. **[[Bradykardie]]:** Calciumgluconat 10% 30 ml, ggf. [[Adrenalin]]
+> 4. **[[HyperK+|Hyperkaliämie-Therapie]]**
 
 > [!info]+ BRASH = [[Bradykardie]] + [[AKI|Renal failure]] + [[AV-Block]] + [[Schock]] + [[HyperK+]]
 > - **Synergistische [[Bradykardie]]**
