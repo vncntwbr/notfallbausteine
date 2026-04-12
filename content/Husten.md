@@ -11,13 +11,13 @@ ICD: R05
 > - **Klinisch:** Produktiv ([[Hämoptysen]]?) vs. Unproduktiv
 
 > [!dd] DD
-> - **Killer:** 
+> - ✞ **Killer:** 
 > 	- [[LAE]]
 > 	- [[Pneumonie]]
 > 	- [[Herzinsuffizienz]]/[[Lungenödem]]
 > 	- [[COPD]], [[Asthma]]
 > - **Häufig:** Infekt obere AW, Bronchitis, postinfektiös, UAW ([[ACE-Hemmer]]), chronischer Husten
-> - **Seltener:** Aspiration, GERD, Tbc, Tumor, [[Pneu]]
+> - **Seltener:** Aspiration, GERD, [[Tbc]], Tumor, [[Pneu]]
 
 > [!workup]
 > - **[[Anamnese|A]]:** [S] Auswurf? [M] ACEi? [P] Allergie? [E] Aspiration/plötzlich?

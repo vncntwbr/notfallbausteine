@@ -7,7 +7,7 @@ aliases:
 title: Schwangerschaft
 ---
 > [!dd]+ DD
-> - **Killer:** [[Hypertensive Schwangerschaftserkrankungen]], [[PPH]]
+> - ✞ **Killer:** [[Hypertensive Schwangerschaftserkrankungen]], [[PPH]]
 > - **Leitsymptombasiert zstzl. Ursachen:**
 > 	- *[[Brustschmerz]]:* Reflux, Peripartale [[Kardiomyopathie]], SCAD, [[LAE]], [[Aorta]]
 > 	- *[[Bauchschmerz]]:* Oft unspez., [[Obstipation]]/Ileus, [[Gallenerkrankungen]], [[Appendizitis]], [[HWI]], [[EUG]], [[Abort]], [[Hypertensive Schwangerschaftserkrankungen]]

@@ -4,5 +4,5 @@ tags:
   - Status/ToDo
   - Fach/HNO
 ---
-- K **Killer:** Otitis externa necrotica/maligna
+- K ✞ **Killer:** Otitis externa necrotica/maligna
 - 

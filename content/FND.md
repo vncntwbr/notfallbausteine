@@ -16,7 +16,7 @@ title: Fokalneurologisches Defizit (FND)
 ^6073a9
 
 
-- K **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aorta]]
+- K ✞ **Killer:** [[ICB]], [[Hypoglykämie]], [[Sepsis]], [[Aorta]]
 - **[[Anamnese|A]]**
 	- *S:* Zeitlicher Verlauf ("last seen well")
 	- *M:* [[AK]], insb. letzte Einnahme

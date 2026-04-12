@@ -11,8 +11,8 @@ title: Harnverhalt (Blase)
 > - **Harnverhalt:** Schmerzhafte Unfähigkeit zur Miktion trotz gefüllter Harnblase (>500 ml), oft mit veg. Begleitsymptomatik (Übelkeit, Schwitzen, Unruhe/[[Delir]])
 > - **Restharn:** ab >100 ml
 
-> [!dd]- DD
-> - **Killer:** [[Querschnitt]] / Cauda-Equina-Syndrom (siehe [[Rückenschmerz]])
+> [!dd]+ DD
+> - ✞ **Killer:** [[Querschnitt]] / Cauda-Equina-Syndrom (siehe [[Rückenschmerz]])
 > - [[Urolithiasis]] (einseitiger Harnstau)
 
 > [!anamnese]-

@@ -9,7 +9,7 @@ OPS: 1-10
 ---
 > [!note]- Textbaustein Untersuchung kompakt
 > ```
-> AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). Normotherm. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
+> AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). PERRL. Normotherm. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
 > Pulmo: Eupnoe AF [] in Ruhe, Normoxie SpO2 [] % unter RL. Sgl. VAG ohne RG/NG.
 > Cor: Haut warm + rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF [] bpm. Normoton RR [###/###] mmHg. Keine periph. Ödeme, VJI nicht gestaut. 
 > Abdomen: Weich, keine Resistenz, keine Druckdolenz. Keine Effloreszenzen.
@@ -80,7 +80,7 @@ OPS: 1-10
 
 > [!note]- Textbaustein Bodycheck
 > ```
-> AZ gut, GCS 15 (A4/V5/M6). A frei, Schleimhäute rosig, Zahnstatus unauffällig. Calotte und Gesichtsschädel stabil. Pupillen PERRLA. HWS indolent ohne Stufen. Mundöffnung unbehindert, Zungenmotorik symmetrisch, kein H.a. Zahnschäden.
+> AZ gut, GCS 15 (A4/V5/M6). A frei, Schleimhäute rosig, Zahnstatus unauffällig. Calotte und Gesichtsschädel stabil. Pupillen PERRL. HWS indolent ohne Stufen. Mundöffnung unbehindert, Zungenmotorik symmetrisch, kein H.a. Zahnschäden.
 > Thorax und Claviculae stabil, Atemexkursionen symmetrisch. Abdomen weich ohne AWS oder Druckdolenz. Becken stabil.
 > Obere und untere Extremitäten seitengleich in allen Gelenken frei indolent beweglich, KG 5/5 n. Janda proximal+distal, Sensibilität+Durchblutung intakt.
 > Keine äußeren Wunden oder Effloreszenzen ersichtlich.

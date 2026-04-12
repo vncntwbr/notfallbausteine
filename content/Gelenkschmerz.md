@@ -10,7 +10,7 @@ aliases:
 
 > [!dd]- DD
 > - *Schulterschmerz:* [[ACS]], [[Gallenerkrankungen]] (rechts)
-> - **Killer:** 
+> - ✞ **Killer:** 
 > - **Häufig:**
 > - **Selten:** 
 

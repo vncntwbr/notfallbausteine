@@ -10,7 +10,7 @@ aliases:
 ---
 > [!danger]+ Rapid Reference
 > - **Symptome:** Neuromuskuläre Übererregbarkeit (Hyperreflexie, Cloni) + Sympathomimetisch ([[Tachykardie]], Schwitzen, [[Diarrhoe]], Hyperthermie, Mydriasis) + Bewusstseinsstörung (Agitation, [[Delir]], [[Vigilanz↓]])
-> - **Killer:** Hyperthermie, Kombination mit MAO-Hemmern (inkl. Linezolid)
+> - ✞ **Killer:** Hyperthermie, Kombination mit MAO-Hemmern (inkl. Linezolid)
 > - **Therapie:**
 > 	- *Symptomatisch*
 > 	- *Hyperthermie >39-40°C:* Kühlung/[[TTM]]

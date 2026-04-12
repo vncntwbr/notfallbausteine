@@ -10,7 +10,7 @@ aliases:
 ---
 > [!danger]+ Rapid Reference
 > - **Symptome:** Mydriasis, Trocken, Hyperthermie, [[Delir]]/[[Vigilanz↓|Koma]]
-> - **Killer:** Andere Toxinwirkungen! (z.B. bei [[Na+ Kanal Blocker]])
+> - ✞ **Killer:** Andere Toxinwirkungen! (z.B. bei [[Na+ Kanal Blocker]])
 > - **Therapie:**
 > 	- *Supportiv:* [[Volumentherapie]], Kühlung, DK bei Harnverhalt, ggf. [[Benzos]]
 > 	- *[[Delir]]:* [[Physostigmin]] 0.5-2.0 mg langsam i.v., ggf. q30min (Cave KI: QRS-Verbreiterung, [[Bradykardie]], Krampfneigung, UAW [[Ü+E]])

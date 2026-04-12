@@ -4,6 +4,6 @@ tags:
 aliases:
 ---
 > [!dd]+ DD
-> - **Killer:** 
+> - ✞ **Killer:** 
 > - **Häufig:**
 > - **Selten:** 

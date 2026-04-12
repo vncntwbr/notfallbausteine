@@ -10,7 +10,7 @@ title: Malignes Neuroleptisches Syndrom (MNS)
 ---
 > [!danger]+ Rapid Reference
 > - **Symptome:** Schwere [[Fieber|Hyperthermie]] >40°C, Muskelrigidität, [[Delir]], Mutismus, [[Vigilanz↓]]
-> - **Killer:** Respiratorische Insuffizienz, [[Vigilanz↓]], [[Rhabdomyolyse]], Hitzschlag(!)
+> - ✞ **Killer:** Respiratorische Insuffizienz, [[Vigilanz↓]], [[Rhabdomyolyse]], Hitzschlag(!)
 > - **Therapie:**
 > 	- *[[Elektrolyte]]:* insb. [[Hypocalcämie]] therapieren
 > 	- *Dopaminerg:* Amantadin 200-400 mg/d, Dopamin-Blocker absetzen

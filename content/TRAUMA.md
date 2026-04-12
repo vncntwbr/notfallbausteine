@@ -4,6 +4,8 @@ tags:
   - Fach/OrthoTrauma
 title: Traumatologie (TRAUMA)
 ---
+![[Polytrauma#^21d263]]
+
 - **Allgemein**
 	- [[Polytrauma]] / [[Trauma-CPR]] / [[Trauma Mortalität]]
 	- [[Penetrierend]]

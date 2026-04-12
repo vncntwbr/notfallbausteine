@@ -14,7 +14,7 @@ aliases:
 ICD: R06.0, J96
 ---
 
-> [!danger]+ Killer-DD bei Kritisch Kranken (don't miss)
+> [!danger]+ Killer-DD bei Kritisch Kranken mit Dyspnoe
 > - **A:** [[Anaphylaxie]]
 > - **B:** [[Asthma]] / [[COPD]]
 > - **B:** [[Pneu]]

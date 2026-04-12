@@ -6,7 +6,11 @@ tags:
   - Probleme/Haut
   - Status/Done
 ---
-> [!danger] Ubi pus, ibi evacua!
+> [!danger]+ Abszess Checkliste
+> 1. **Ist das ein Abszess?** ggf. [[POCUS]] zur Diff. Cellulitis (Cobblestoning), weitere DD: AVM, HSV, Tinea, Hidradenitis, [[STI]] etc.
+> 2. **Entlastung in ZNA?** RS Chirurgie bei Perirektal, Hand, Fußsohle, Gefäß-/Nervenstraßen, groß/tief, multipel, post-OP
+
+> [!tip] Ubi pus, ibi evacua!
 ## Management
 ### Wundabstrich
 - **Indikationen**
