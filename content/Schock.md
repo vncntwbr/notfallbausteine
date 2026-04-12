@@ -13,21 +13,21 @@ title: Schock & Hypotonie
 > [!danger]- Therapierefraktärer Schock Checkliste
 > 1. **Ursache adressiert?** Source Control für [[Sepsis]], [[Thrombektomie]] für [[LAE]] etc.
 > 2. **Metabolisch?** 
-> 	1. *[[Met. Azidose|Azidose]]:* Isotones [[Bicarbonat|Bicarb]], ggf. +Vasopressin
-> 	2. *[[NNR-Insuffizienz|NNR]]:* Empirisch [[Cortison|Hydrocortison]] 200 mg i.v.
-> 	3. *[[Hypocalcämie]]:* Ca2+ Subst.
-> 	4. *[[Hypothyreose]]:* ggf. auch empirisch T4 400 μg i.v.
-> 	5. *[[Hypothermie]]:* Wärmen
+> 	- *[[Met. Azidose|Azidose]]:* Isotones [[Bicarbonat|Bicarb]], ggf. +Vasopressin
+> 	- *[[NNR-Insuffizienz|NNR]]:* Empirisch [[Cortison|Hydrocortison]] 200 mg i.v.
+> 	- *[[Hypocalcämie]]:* Ca2+ Subst.
+> 	- *[[Hypothyreose]]:* ggf. auch empirisch T4 400 μg i.v.
+> 	- *[[Hypothermie]]:* Wärmen
 > 3. **[[Anaphylaxie]]?** a) von Beginn an, b) auf ABx → empirisch [[Adrenalin]] i.m./i.v.
 > 4. **[[Intox|Toxine]]?** inkl. reguläre Dosis [[Calciumantagonisten]]/[[Betablocker]]/[[Digitalis]]
 > 5. **Blutung?** z.B. [[GI-Blutung]], retroperitoneal, [[SHT]]
 > 6. **Obstruktiv?**
-> 	1. *Klassiker/[[RUSH]]:* [[Pneu]], [[Perikarderguss]], [[LAE]]
-> 	2. *PEEP* reduzieren
-> 	3. *Abdominelles [[Kompartment]]:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
-> 	4. *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
+> 	- *Klassiker/[[RUSH]]:* [[Pneu]], [[Perikarderguss]], [[LAE]]
+> 	- *PEEP* reduzieren
+> 	- *Abdominelles [[Kompartment]]:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
+> 	- *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
 > 7. **[[Kardiogener Schock]]:** [[TTE]] → Intropie (a.e. [[Adrenalin]])
-> 8. **Zweite Diagnose:** Premature Closure?
+> 8. **Zweite Diagnose?** Premature Closure
 > 9. **Fancy Therapien?** [[ECMO]], IABP, LAVD, etc.
 
 ^5a5cb6
