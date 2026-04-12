@@ -3,6 +3,7 @@ tags:
   - Basics
   - Fach/Notfallmedizin
   - Favourites
+  - Checkliste
 ---
 > [!danger]+ Start of Shift Checkliste
 > 1. **Scene/Safety/Situation**

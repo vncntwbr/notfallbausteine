@@ -3,6 +3,7 @@ tags:
   - Probleme/Trauma
   - Status/Started
   - Fach/OrthoTrauma
+  - Checkliste
 aliases:
   - PYT
 title: Polytrauma (PYT)
