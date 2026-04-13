@@ -21,6 +21,15 @@ title: Kindernotfall
 > |Sgl 2-10 Mo||30-50|100-180|70-100|#1.5|
 > |1 J.|10 kg|
 
+> [!stadien]- Kindliche Unbehagen-/Schmerz-Skala (KUSS) äquivalent zu NRS
+> - **Weinen:** Nein (0), Stöhnen/Wimmern (1), Schreien (2)
+> - **Mimik:** Entspannt (0), Mund verzerrt (1), Grimassieren (2)
+> - **Beinhaltung:** Neutral (0), Strampeln (1), Flexion (2)
+> - **Rumpfhaltung:** Neutral (0), Unstet (1), Krümmen/Aufbäumen (2)
+> - **Motorische Unruhe:** Nein (0), Mäßig (1), Ruhelos (2)
+
+^d2e0d4
+
 
 [Kinderformularium](https://www.kinderformularium.de/)
 

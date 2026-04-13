@@ -19,6 +19,9 @@ ICD: F11
 	- *Voraussetzung:* [[Urin]] Opioide pos., andere Drogen neg., QTc, Substitutionsausweis od. Kontakt Praxis, nie nur Eigenanamnese, Sichtvergabe PFK
 	- *[[Analgesie]]:* ideal Opioid-frei (RA, NSAR, Keta), wenn möglichst Buprenorphin, Info Praxis
 	- *Stationär Neu:* Start 15 mg (3 ml) Polamidon Saft p.o. 1-0-0 (od. 2 ml weniger als zuletzt), Reevaluation q4h, Nachdosierung 5-15 mg, Konsil PSY, Sozialdienst
+
+![[Pasted image 20260413162909.png]]
+
 ---
 - Loperamid kann durch s.l. oder p.i. (Rauchen) Einnahme oder Kombi mit p-Glykoprotein-Inhibitoren (Verapamil, Chinin) zentral wirksam gemacht werden[^1]
 

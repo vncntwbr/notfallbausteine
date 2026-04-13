@@ -10,14 +10,6 @@ aliases:
   - Abdomenschmerz
 ICD: R10.4
 ---
-```mermaid
-flowchart TD
-A[Start] --> B{Decision?}
-B -->|Yes| C[Action]
-B -->|No| D[End]
-C --> D 
-```
-
 > [!dd]- DD
 > - **[[Schock]] + Bauchschmerz**
 > 	- [[Aorta]]
@@ -84,3 +76,4 @@ C --> D
 > - Falls sich Ihre Beschwerden verschlechtern oder neue Beschwerden hinzukommen (beispielsweise Fieber, Schüttelfrost, unkontrollierbares oder blutiges Erbrechen, Blut im Stuhl, schwarzer Stuhl, Brustschmerzen, Luftnot) stellen Sie sich bitte umgehend erneut in unserer Klinik für Notfallmedizin vor.
 > - Bei ausbleibender Besserung empfehlen wir eine hausärztliche Vorstellung.
 > ```
+

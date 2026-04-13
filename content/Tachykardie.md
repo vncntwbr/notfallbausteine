@@ -43,3 +43,5 @@ ICD: R00
 
 > [!management]
 > - Supportiv: [[MgSO4]] 10% 20 ml (8 mmol Mg2+) i.v. KI und K+ hochnormal
+> 
+> ![[Pasted image 20260413161600.png]]

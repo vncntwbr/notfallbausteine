@@ -17,7 +17,7 @@ title: Hypoxie / Hypoxämie
 > 	- **V/Q Totraum:** [[LAE]], pHTN, Emphysem 
 > 	- **V/Q Shunt:** [[Pneumonie]], [[Lungenödem]], Atelektasen, Hämopteu ("Crap in Alveoli", refraktär zu [[O2]]-Gabe)
 > 	- **Diffusionsstörung:** Lungenfibrose
-> - **Hb-Mangel:** [[Anämie]], CO-Hb, Met-Hb
+> - **Hb-Mangel:** [[Anämie]], [[CO]]-Hb, Met-Hb
 > - **Malperfusion:** [[Schock]] jeder Genese
 
 ^972e2c

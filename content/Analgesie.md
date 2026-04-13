@@ -35,6 +35,8 @@ tags:
 > [!stadien] [BPS für Intubierte](https://www.mdcalc.com/calc/3622/behavioral-pain-scale-bps-pain-assessment-intubated-patients)
 
 ![[Anamnese#^d59173]]
+
+![[Kinder#^d2e0d4]]
 ## Analgetika-Optionen
 
 > [!management]- Nicht-Opioid-Analgetika

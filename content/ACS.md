@@ -123,6 +123,8 @@ ICD: I20-I25
 
 ![[Brustschmerz#^e34c74]]
 
+## Aufziehhilfen
+![[Pasted image 20260413163710.png]]
 ## Literatur
 - STEMI(–)OMI(+) haben Delays bis [[HKU]][^2]
 - [^1]

@@ -35,6 +35,9 @@ aliases:
 
 
 ![[Schock#^5a5cb6]]
+
+## Aufziehhilfen
+![[Pasted image 20260413163653.png]]
 ## Literatur
 - [S2k-Leitlinie Anaphylaxie](https://register.awmf.org/de/leitlinien/detail/061-025)
 

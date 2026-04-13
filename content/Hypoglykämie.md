@@ -15,4 +15,7 @@ tags:
 	- *[[Alkohol]]/Katabol:* Thiamin 100 mg i.v.
 	- *Insulin-Überdos:* [[ZVK]], hochdos. kont. Glucose, K+ Subst. ab <4 mM
 
+## Aufziehhilfen
+![[Pasted image 20260413164205.png]]
+
 [^1]: bei kleinlumigen Zugang z.B. G10% 200 ml i.v.

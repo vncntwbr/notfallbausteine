@@ -13,7 +13,7 @@ aliases:
 > 3. **Rauchgas?** [[CO]]/[[Cyanide]]
 > 4. ggf. [[Escharotomie]]
 
-> [!stadien]+
+> [!stadien]-
 > - **1°:** Rötung, Schwellung, Schmerz
 > - **2a°**
 > - **2b°**
@@ -23,14 +23,14 @@ aliases:
 > - Verbrennung 1° nicht mitgezählt, nur ≥2a°
 > - **Handfläche des Pat. mit Finger:** 1%
 > - **Neuner-Regel (Erwachsene):**
-> 	- Kopf 9%
+> 	- Kopf, Arme je 9%
 > 	- Rumpf Vorder+Rückseite je 18%
-> 	- Arme je 9%
 > 	- Beine je 18%
 > 	- Intimbereich 1%
-> - **Modifikation für Kinder:**
-> 	- Kopf 18%
-> 	- Beine je 14%
+> - **Kinder:** Kopf 14%, Beine je 16%
+> - **Säuglinge:** Kopf 18%, Beine je 14%
+> 
+> ![[Pasted image 20260413161157.png]]
 
 > [!stadien] [Parkland-Formel](https://www.mdcalc.com/calc/83/parkland-formula-burns)
 

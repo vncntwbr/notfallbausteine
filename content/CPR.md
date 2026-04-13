@@ -86,9 +86,9 @@ OPS: 8-771
 > Die Angehörigen ###WER? wurden von uns persönlich/telefonisch über den Todesfall informiert.
 > ###NATÜRLICH: Bei ### nachvollziehbare Kausalkette und somit a.e. natürliche Todesart. Die Angehörigen stimmen einer Sektion zu / lehnen eine Sektion ab.
 > ###SONST: Bei nicht natürlicher / ungeklärter Todesart informierten wir die Kriminalpolizei (### Uhr), die den Leichnam beschlagnahmte.
-
-
----
+> ```
+## Aufziehhilfen
+![[Pasted image 20260413163416.png]]
 ## Literatur
 
 - Carotid Continuous Doppler[^1]

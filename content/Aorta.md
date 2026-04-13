@@ -25,6 +25,13 @@ ICD: I71
 > - **Penetrierendes Aortenulcus**
 > - **Intramurales Hämatom**
 > - **Rupturiertes / akut symptomatisches Aortenaneurysma**
+
+> [!stadien]+ [ADD-RS ± D-Dimer](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs)
+> 1 Pkt. je Kategorie; 0-1 → [[D-Dimer]] <500 ng/ml für rule-out; ≥2 direkt CTA
+> - **Hochrisiko Anamnese:** Marfan o.ä., Familienanamnese+ Aorta, Aortenklappenvitium, bek. Aortenaneurysma, Z.n. OP Herz/Aorta
+> - **Hochrisiko Schmerz:** Abrupter Beginn, hohe Intensität, reißende Qualität
+> - **Hochrisiko Untersuchung:** Pulsdefizit, RR-Seitendifferenz, [[FND]], neues Diastolikum, [[Schock]]
+
 ## Workup
 - **Ä:** 50-70 J., M, [[HTN]] (70%), Bindegewebserkrankung[^1][^2], Vaskulitis
 - **[[Anamnese|A]]:** [S] abrupt (LR+ 2.6)[^3], reißend (LR+ 10), wandernd (LR+ 7.6), stärkst (90%), evtl. schmerzlos[^4], "+1"/ischäm ([[Synkope]][^5], Stroke, periph. Paraplegie, Horner-Syndr., [[Mesenterialischämie]], [[Extremitätenischämie]], [[ACS]])
@@ -32,6 +39,9 @@ ICD: I71
 - **W:** [ADD-RS](https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs) + [[D-Dimer]]
 - **[[POCUS]]**
 	- *TTE:* [[AI]][^6], dilat. Aortenwurzel, Flap, Erguss/Tamponade, bikuspide AK
+
+## Aufziehhilfen
+![[Pasted image 20260413164054.png]]
 
 ## Literatur
 - [S2k-Leitlinie Typ B Aortendissektion](https://register.awmf.org/de/leitlinien/detail/004-034)

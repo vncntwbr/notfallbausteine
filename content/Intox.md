@@ -11,15 +11,18 @@ ICD: X49.9!, R78
 > [!danger]+ Rapid Reference
 > 1. **[[ABCDE]]-Resuscitation**
 > 2. **Spezifische Antidote**
+> 	- *[[Opioide]]:* Naloxon 0.4 mg i.m. / in 0.04 mg Schritten i.v.
 > 	- *[[Betablocker]]/[[Calciumantagonisten]]:* [[Adrenalin]], Insulin/Glucose ([[HDIT]]), ggf. Ca2+
 > 	- *[[Na+ Kanal Blocker|TCA]]:* [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
 > 	- *Cyanid/CO:* Hydroxycobalamin (Cyanokit®) 5 g KI
-> 	- *[[Anticholinerg]]:* [[Physostigmin]] 2 mg
+> 	- *[[Anticholinerg]]:* [[Physostigmin]] 2 mg i.v.
 > 	- *[[Cholinerg]]:* [[Atropin]] 3 mg i.v., alle 5 min verdoppeln
 > 	- *[[Flusssäure HF]]:* Ca2+Gluconat 20 ml i.v. + 1-2.5% Gel topisch, bei Ingestion Milch p.o.
+> 3. **Elimination**
+> 	- *Aktivkohle* 50-100 g p.o. in Wasser (bei p.o. Intox + Zeit <1-3h)
 > 	- *Rescue:* [[Dialyse]], [[Lipid-Rescue|Lipid]], [[ECMO]]
-> 3. **Diagnostik:** [[EKG]], [[BGA]], Labor inkl. BB, Niere, Leber, CK
-> 4. **Risikostratifizierung:** Cave bei Mischintox, Retard-Präparaten, extremen Dosierungen, Suizidaler Intention
+> 4. **Diagnostik:** [[EKG]], [[BGA]], Labor inkl. BB, Niere, Leber, CK
+> 5. **Risikostratifizierung:** Cave bei Mischintox, Retard-Präparaten, extremen Dosierungen, Suizidaler Intention
 
 > [!untersuchung]+ Klinische Zeichen der Toxidrome
 > | Toxidrom              | Vigilanz      | Pupillen | Haut/Temp.            | VP                                          | GI                               |

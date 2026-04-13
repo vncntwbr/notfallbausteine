@@ -113,6 +113,8 @@ ICD: J45-J46
 > - Lassen Sie sich von ihrer Hausärztin oder Lungenärztin bezüglich einer Desensibilisierungsbehandlung beraten.
 > ```
 
+![[Pasted image 20260413163510.png]]
+
 ## Literatur
 - [S3-Leitlinie NVL Asthma](https://register.awmf.org/de/leitlinien/detail/nvl-002)
 - Unter ASS-sensiblen Asthmatikern haben 20-50% Urtikaria allerg. Reaktion auf Tartrazin (gelbes Färbemittel für Lebensmittel)[^1]

@@ -24,7 +24,7 @@ tags:
 > 	- [ ] [[Defibrillation|Defibrillation]] + [[Pacing]] transcutan/transvenös + Magnet
 > 	- [ ] [[POCUS]] funktioniert
 > 	- [ ] [[ZVK|ZVKs]] + Schleusen
-> 	- [ ] Resus-Medikamente ([[Adrenalin]], Glucose, Calcium, [[Bicarbonat|NaBic]], NaCl 3%, [[esKETAmin|Ketamin]])
+> 	- [ ] Resus-Medikamente ([[Adrenalin]], Calcium, [[esKETAmin|Ketamin]], Glucose, [[Bicarbonat|NaBic]], NaCl 3%)
 > 	- [ ] Antidote (Naloxon, [[Lipid-Rescue]], Hydroxocobalamin, Digibind, Atropin)
 > 	- [ ] [[Blutungsmanagement]] (TQ, Epistaxisballon, DK, [[Transfusion]])
 > 	- [ ] [[TDx]] + [[Thorakotomie]] Set

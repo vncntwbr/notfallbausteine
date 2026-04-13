@@ -9,3 +9,5 @@ ICD: Y09.9!
 	- *Cave:* Vernachlässigung?
 	- *Verletzungen:* Ohren, Wangen, Genital, Unterarme, geformt (z.B. Doppelstriemen bei Stock), oberhalb "Hutkrempe"
 - [SIGNAL e.V. Dokumentationsbögen](https://signal-intervention.de/materialien-fuer-fachkraefte)
+
+![[Pasted image 20260413163013.png]]

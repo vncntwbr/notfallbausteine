@@ -13,3 +13,5 @@ title: Noradrenalin (NA)
 > - **Dosis:** 
 > 	- 20 μg [[Push-Dose]]
 > - **[[Perfusor]]:** 1 mg = 20 μg/ml → Start 5 μg/min = 0.05-0.1 μg/kg/min = 0.3 mg/h = 15 ml/h
+
+![[Pasted image 20260413164239.png]]

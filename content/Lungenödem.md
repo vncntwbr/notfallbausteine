@@ -34,7 +34,8 @@ ICD: J81
 | 140-160 | 400 μg             | 50 μg/min        |
 | 120-140 | kein Bolus         | 25 μg/min        |
 | <120    | kein Bolus         | Stop             |
-
+## Aufziehhilfen
+![[Pasted image 20260413163620.png]]
 
 ## Literatur
 - Nitro beneficial, Morphin+Furosemid kein Benefit, n=57[^1]

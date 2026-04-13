@@ -15,3 +15,5 @@ tags:
 > - **[[COPD]]**
 > - **[[Asthma]]**
 > - **[[Herzinsuffizienz]]** ("Asthma cardiale")
+## Aufziehhilfen
+![[Pasted image 20260413163503.png]]

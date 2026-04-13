@@ -72,6 +72,8 @@ ICD: I26
 > Bei klinisch und sonografisch obstruktivem Schock V.a. LAE. Therapie mit Hochdosis-O2 zur Senkung des pulmonalarteriellen Widerstands und therapeutischer AK mit UFH. Bestätigt durch CTPA-Nachweis in # GEFÄSSEN. High-Risk Kategorie (nach ESC-LL 2019, PESI ####). Mechanische Thrombektomie ###REASONING. Nach Ausschluss von KI durch uns Initiierung systemische Thrombolyse mit Alteplase (Actilyse, Gesamtdosis ### mg). Supportiv Katecholamintherapie mit Noradrenalin bis ### μg/kg/min. ITS-Aufnahme.
 > ```
 
+## Aufziehhilfen
+![[Pasted image 20260413164113.png]]
 ## Literatur
 - [S2k-Leitlinie Diagnostik und Therapie der Venenthrombose und Lungenembolie](https://register.awmf.org/de/leitlinien/detail/065-002)
 - [Thrombosis Canada: Diagnosis of DVT and PE in Pregnancy](https://thrombosiscanada.ca/hcp/practice/clinical_guides?language=en-ca&guideID=83)

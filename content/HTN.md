@@ -8,6 +8,8 @@ tags:
 title: Hypertonie (HTN) / Hypertensive Entgleisung
 aliases:
   - Hypertonie
+  - Hypertensive Entgleisung
+  - Hypertensiver Notfall
 ICD: I10-I15
 ---
 
@@ -81,11 +83,12 @@ ICD: I10-I15
 > - Bei Auftreten von Brustschmerzen, starken Rückenschmerzen, Luftnot, Sehstörungen oder Lähmungserscheinungen wählen Sie stets umgehend den Notruf 112.
 > ```
 
----
-- aHTN >140 mmHg intrahospital tolerieren[^1]
-- Epistaxis ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. [[Analgesie]] (insb. bei Nasentamponade)
+## Aufziehhilfen
+![[Pasted image 20260413163916.png]]
 
 ## Literatur
+- aHTN >140 mmHg intrahospital tolerieren[^1]
+- Epistaxis ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. [[Analgesie]] (insb. bei Nasentamponade)
 - [S3-Leitlinie NVL Hypertonie](https://register.awmf.org/de/leitlinien/detail/nvl-009)
 
 [^1]: Canales MT, Yang S, Westanmo A, et al. As-Needed Blood Pressure Medication and Adverse Outcomes in VA Hospitals. _JAMA Intern Med._ 2025;185(1):52–60. doi:10.1001/jamainternmed.2024.6213

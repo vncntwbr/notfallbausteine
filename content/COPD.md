@@ -9,7 +9,6 @@ aliases:
   - aeCOPD
 ICD: J44
 ---
-**
 > [!danger]+ Resuscitation
 > 1. **[[O2]]-Gabe:** Ziel initial [[SpO2]] >92%, nach Stabilisierung 88-92%[^4][^8]
 > 2. **Inhalation:** Salbutamol 2.5-5.0 mg + Ipratropium 0.5 mg
@@ -112,6 +111,8 @@ ICD: J44
 > Bei V.a. bakteriell bedingte Infektexazerbation leiteten wir eine kalkulierte Therapie mit Ampicillin/Sulbactam i.v. und Azithromycin p.o. [ODER] Piperacillin/Tazobactam i.v. und Azithromycin p.o. ein.
 > Intensivstationäre Aufnahme.
 > ```
+## Aufziehhilfen
+![[Pasted image 20260413163515.png]]
 
 ## Literatur
 - [S3-Leitlinie NVL COPD](https://register.awmf.org/de/leitlinien/detail/nvl-003)

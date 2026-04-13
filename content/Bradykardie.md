@@ -16,3 +16,6 @@ ICD: R00
 > 	- [[Hirndruck]] (Cushing-Reflex), Neurogener Schock, Vagustonus↑
 > 	- [[Hypoxie]] ([[Periarrest]])
 > 	- Metabolisch: [[Hypothermie]], [[Hypothyreose]], [[Hypoglykämie]]
+
+## Aufziehhilfen
+![[Pasted image 20260413163957.png]]
