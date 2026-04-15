@@ -21,3 +21,6 @@ cssclasses:
 > 	- *Atemwegsschwellung:* 5 mg pur inhalativ
 > 	- *[[Bradykardie]]:* 10 μg i.v. q2min 
 > - **[[Perfusor]]:** 1 mg = 20 μg/ml → Start 5 μg/min = 0.05-0.1 μg/kg/min = 0.3 mg/h = 15ml/h
+
+## Literatur
+- Manning, J.E., Barnard, E.B.G., Barratt, J. _et al._ Intra-aortic adrenaline titration during cardiac arrest. _Scand J Trauma Resusc Emerg Med_ **34**, 71 (2026). https://doi.org/10.1186/s13049-026-01609-1
