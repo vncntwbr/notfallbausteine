@@ -7,8 +7,15 @@ tags:
   - Fach/Hämatologie
   - Fach/Anästhesiologie
   - Favourites
+  - Basics/ABCDE
+  - Interventionen/HALO
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 zbb: Test ZBB hier anrufen
+aliases:
+  - X – Exsanguination
+  - Exsanguination
+  - Blutung
+  - X
 ---
 > [!danger]+ Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
@@ -33,29 +40,48 @@ zbb: Test ZBB hier anrufen
 > 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
 <div style="page-break-after: always;"></div>
 
-> [!danger]+ Blutungskontrolle spezifisch
-> - **Kopf/Hals**
-> 	- *Skalpierung:* Tacker, Naht, Lidocain+[[Adrenalin]], Druckverband
-> 	- *[[Epistaxis]]:*
-> 	- *Post-Tonsillektomie:* Magill-Zange Tupfer+[[Adrenalin]], [[TXA]] p.i.
-> - **Trauma**
-> 	- *Penetr. Junktional:* DK blocken+klemmen, Naht
-> 	- *Becken/Extremitäten Fx:* Beckenschlinge, Traction Splint
-> 	- *Arteriell Extremitäten:* Druck, hoch, TQ
-> 	- *MaxFax Fx:* Reponieren, [[RSI]] [[SALAD]], Epistats, Bite Blocks, Collar
-> - **Medizinisch**
-> 	- *[[Hämoptysen]]:* [[TXA]] 1 g p.i., [[BSK]], [[RSI]] zurückhaltend
-> 	- *[[GI-Blutung]]:* Terlipressin 1-2 mg i.v., ÖGD, alternativ Ballontamponade
-> 	- *[[Intrakranielle Blutung]]:* RRsys <140 ([[SAB]]), <160 ([[ICB]])
-> - **Gyn/Geburt** siehe [[PPH]]
-> - **Päd**
-> 	- EK, FFP, TK, Cryo je 10-20 ml/kg
-> 	- [[TXA]] 15 mg/kg
-> 	- Calciumgluconat 10% 0.3 ml/kg
+> [!danger]- Blutungskontrolle Kopf/Hals
+> - **Skalpierung:** 
+> 	- Lokale Kompression / Druckverband
+> 	- Tacker / Hämostatische Naht
+> 	- Lidocain+Adrenalin (venöse Blutung)
+> - **[[Epistaxis]]:** TODO
+> - **Post-Tonsillektomie:** 
+> 	- Magill-Zange mit Tupfer+[[Adrenalin]]
+> 	- [[TXA]] inhalativ
+
+> [!danger]- Blutungskontrolle Trauma
+> - **Extremitäten:** Lokale Kompression, Druckverband, Hochlagerung, TQ
+> - **Penetrierend Junktional:** DK blocken+klemmen, Annaht
+> - **[[Beckentrauma]]:** Beckenschlinge
+> - **Frakturen Röhrenknochen:** [[Reposition]], Traction Splint
+> - **MaxFax:** [[Reposition]], [[RSI]] mit [[SALAD]], Epistats, Biteblocks, Stifneck
+> - Generell [[TXA]] 1-2g i.v. wenn <3h
+
+> [!danger]- Blutungskontrolle Medizin/Neuro/Gyn
+> - **[[Hämoptysen]]:** 
+> 	- [[TXA]] 1g inhalativ
+> 	- [[BSK]]
+> 	- [[RSI]] zurückhaltend
+> - **[[GI-Blutung]]:**
+> 	- Terlipressin 1-2 mg i.v.
+> 	- ÖGD, alternativ Ballontamponade
+> - **[[Intrakranielle Blutung]]:** 
+> 	- RRsys <140 ([[SAB]]), <160 ([[ICB]])
+> - **[[PPH]]:** 
+> 	- Bimanuelle Uterus-Kompression
+> 	- Oxytocin 20 IE
+> 	- [[TXA]] 2g
+> 	- DK (Blase leeren)
+
+> [!peds]- Pädiatrische Dosierungen
+> - EK, FFP, TK, Cryo je 10-20 ml/kg
+> - [[TXA]] 15 mg/kg
+> - Calciumgluconat 10% 0.3 ml/kg
 
 
 
----
+## Literatur
 - PPSB und Andexanet-alfa gleichwertig[^1]
 - Fibrinogen+PPSB vs. FFP gleichwertig in Blutprodukte-Verbrauch[^2]
 

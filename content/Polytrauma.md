@@ -9,7 +9,7 @@ aliases:
 title: Polytrauma (PYT)
 ---
 > [!danger]+ Prioritäten im Trauma-Resus
-> 1. **[[X – Exsanguination|X]]:** Kompression, DK-Tamponade, TQ
+> 1. **[[Blutungsmanagement|X]]:** Kompression, DK-Tamponade, TQ
 > 2. **[[Gefäßzugänge]]:** 14G PVK / Schleuse zentral, [[BGA]]
 > 3. **[[eFAST]]:** [[Pneu]]? [[Perikarderguss|Tamponade]]? Freie Flüssigkeit?
 > 4. **[[TDx]]** im Zweifel empirisch bilateral Fingerthorakostomie

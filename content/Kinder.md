@@ -14,6 +14,8 @@ title: Kindernotfall
 > - **[[Defibrillation]]:** 4 J/kg
 > - **ETT cuffed:** Alter/4 + 3.5 = ID
 
+> [!tip] Erwachsenendosis / 100 ≈ konservative Dosis/kg
+
 > [!stadien] Normwerte
 > |Alter|Gewicht|AF|HF|RRsys|LMA|
 > |-|-|-|-|-|-|
