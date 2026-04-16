@@ -11,6 +11,7 @@ tags:
   - Interventionen/HALO
 cbf: "OA ZNA: 552 880 / Blutbank: 578 380 / Gerinnungsdienst: 525 000 / OA ANÄ: 651 700"
 zbb: Test ZBB hier anrufen
+title: Blutungsmanagement (X – Exsanguination)
 aliases:
   - X – Exsanguination
   - Exsanguination
@@ -35,7 +36,7 @@ aliases:
 > 	- **[[TXA]]** 1-2 g
 > 	- **Fibrinogen** 1 g je –5 BE und 1 g je 2 g/dl Hb <12, Ziel ≥2.0-2.5 g/l
 > 7. **MTP** (ab 5. EK + fortges. Blutverlust) → Info Blutbank + Hilfe holen
-> 	-  **Startpaket:** 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 2 FFP + PPSB 25 IE/kg
+> 	-  **Startpaket:** 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 2 FFP + PPSB 2.500 IE
 > 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 4 FFP
 > 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
 <div style="page-break-after: always;"></div>
