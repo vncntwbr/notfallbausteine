@@ -24,19 +24,21 @@ aliases:
 > 	end
 > 	subgraph B [**B–Breathing**]
 > 		direction LR
-> 		B1{{Atemarbeit, AF?<br>Zyanose?<br>Auskultation?}}
-> 		B1 --> BK(Hypoxie<br>Spannungspneu)
+> 		B1{{Zyanose?<br>Atemarbeit, AF?<br>Auskultation?}}
+> 		B1 --> BK(✞ Hypoxie<br>✞ Apnoe<br>✞ Spannungspneu)
 > 		BK --> B2(O2-Gabe<br>Beatmung<br>Thoraxentlastung)
 > 	end
 > 	subgraph C [**C–Circulation**]
 > 		direction LR
 > 		C1{{Recap?<br>Puls?<br>Vorlastzeichen?}}
-> 		C1 --> C2(VEL-Bolus<br>Push-Dose-Pressors<br>Pacing/eKV, CPR)
+> 		C1 --> CK(✞ Brady/Tachy<br>✞ LV-/RV-Failure<br>✞ Tamponade)
+> 		CK --> C2(VEL-Bolus<br>Push-Dose-Pressors<br>Pacing/eKV, CPR)
 > 	end
 > 	subgraph D [**D–Disability**]
 > 		direction LR
 > 		D1{{AVPU?<br>pDMS x4 Extr.?<br>Pupillen?}}
-> 		D1 --> D2(Glucose<br>Benzos<br>ICP-Management)
+> 		D1 --> DK(✞ Hypoglykämie<br>✞ Krampfanfall<br>✞ Einklemmung)
+> 		DK --> D2(Glucose<br>Benzos<br>ICP-Management)
 > 	end
 > 	subgraph E [**E–Exposure**]
 > 		direction LR
@@ -49,6 +51,9 @@ aliases:
 > 	style C fill:lightcoral
 > 	style D fill: lavender
 > 	style E fill: lightgrey
+> 	click B1 "/B–Breathing"
+> 	click B2 "/B–Breathing"
+> 	click BK "/B–Breathing"
 > ```
 
 
@@ -56,14 +61,14 @@ aliases:
 - **Suche nach "Poisoned Arrows":** Zeitkritische Probleme/Muster, die auch ohne Kenntnis des "Bigger Picture" therapiert werden können und müssen
 - **Generisches ABCDE** unabhängig von Trauma / Non-Trauma, da nicht immer klar abgrenzbar
 
-|                                                | Primary Survey                               | ✞ Akute Killer                                                                                                        | Interventionen                                                                               | Secondary Survey                                                               |
-| ---------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **[[Blutungsmanagement\|X – Exsanguination]]** | Kritische äußere Blutung?                    | Exsanguination                                                                                                        | [[Blutungsmanagement\|Blutstillung]]                                                         | Steht?                                                                         |
-| **[[A–Airway]]**                               | Offen+sicher?<br>Gefährdet?<br>Verlegt?      | [[A–Airway\|AW-Verlegung]]                                                                                            | [[A–Airway\|AW-Management]]<br>Absaugung<br>[[Adrenalin]] inhalativ                          | [[etCO2]]                                                                      |
-| **[[B–Breathing]]**                            | Atemarbeit, AF?<br>Zyanose?<br>Auskultation? | [[Hypoxie]]<br>[[Pneu\|Spannungspneu]]                                                                                | [[O2]]<br>[[Beatmung]]<br>Thoraxentlastung                                                   | [[SpO2]]<br>[[LUS]]                                                            |
-| **[[C–Circulation]]**                          | [[Recap]]?<br>[[Puls]]?<br>Vorlast?          | [[Bradykardie\|Brady]]/[[Tachykardie\|Tachy]]<br>[[RV-Failure]]/[[LAE]]<br>[[Aorta]]<br>[[Perikarderguss\|Tamponade]] | Zugang, [[Volumentherapie\|VEL-Bolus]]<br>[[Push-Dose]], Ca2+<br>[[Pacing]]/[[eKV]], [[CPR]] | [[RR]], 4k-[[EKG]]<br>[[TTE]]<br>[[RUSH]]                                      |
-| **[[D–Disability]]**                           | AVPU?<br>pDMS x4 Extr.?<br>Pupillen?         | [[Hypoglykämie]]<br>[[Krampfanfall]]<br>[[Hirndruck\|Einklemmung]]                                                    | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Management]]                                       | [[Hypoglykämie\|BZ]]/[[BGA]]<br>[[Vigilanz↓\|GCS]]/RASS<br>[[Stroke\|BE-FAST]] |
-| **[[E–Exposure]]**                             | Haut/Log-Roll?<br>Bodycheck?                 | [[Fieber\|Hyperthermie]]                                                                                              | Wärme/Kühlung<br>[[Analgesie]]                                                               | [[Anamnese]]<br>Temp.                                                          |
+|                                                | Primary Survey                               | ✞ Akute Killer                                                                                       | Interventionen                                                                               | Secondary Survey                                                               |
+| ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **[[Blutungsmanagement\|X – Exsanguination]]** | Kritische äußere Blutung?                    | [[Blutungsmanagement\|Exsanguination]]                                                               | [[Blutungsmanagement\|Blutstillung]]                                                         | Steht?                                                                         |
+| **[[A–Airway]]**                               | Offen+sicher?<br>Gefährdet?<br>Verlegt?      | [[A–Airway\|AW-Verlegung]]                                                                           | [[A–Airway\|AW-Management]]<br>Absaugung<br>[[Adrenalin]] inhalativ                          | [[etCO2]]<br>ggf. [[RSI]]                                                      |
+| **[[B–Breathing]]**                            | Atemarbeit, AF?<br>Zyanose?<br>Auskultation? | [[Hypoxie]]<br>Apnoe<br>[[Pneu\|Spannungspneu]]                                                      | [[O2]]<br>[[Beatmung]]<br>Thoraxentlastung                                                   | [[SpO2]]<br>[[LUS]]                                                            |
+| **[[C–Circulation]]**                          | [[Recap]]?<br>[[Puls]]?<br>Vorlast?          | [[Bradykardie\|Brady]]/[[Tachykardie\|Tachy]]<br>LV-/[[RV-Failure]]<br>[[Perikarderguss\|Tamponade]] | Zugang, [[Volumentherapie\|VEL-Bolus]]<br>[[Push-Dose]], Ca2+<br>[[Pacing]]/[[eKV]], [[CPR]] | [[RR]], 4k-[[EKG]]<br>[[TTE]]<br>[[RUSH]]                                      |
+| **[[D–Disability]]**                           | AVPU?<br>pDMS x4 Extr.?<br>Pupillen?         | [[Hypoglykämie]]<br>[[Krampfanfall]]<br>[[Hirndruck\|Einklemmung]]                                   | Glucose<br>[[Benzos]]<br>[[Hirndruck\|ICP-Management]]                                       | [[Hypoglykämie\|BZ]]/[[BGA]]<br>[[Vigilanz↓\|GCS]]/RASS<br>[[Stroke\|BE-FAST]] |
+| **[[E–Exposure]]**                             | Haut/Log-Roll?<br>Bodycheck?                 | [[Fieber\|Hyperthermie]]                                                                             | Wärme/Kühlung<br>[[Analgesie]]                                                               | [[Anamnese]]<br>Temp.                                                          |
 
 
 

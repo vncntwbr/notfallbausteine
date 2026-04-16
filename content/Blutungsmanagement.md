@@ -17,6 +17,7 @@ aliases:
   - Exsanguination
   - Blutung
   - X
+  - Blutstillung
 ---
 > [!danger]+ Blutungsmanagement allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
