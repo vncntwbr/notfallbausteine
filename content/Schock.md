@@ -25,7 +25,7 @@ title: Schock & Hypotonie
 > 	- *Klassiker/[[RUSH]]:* [[Pneu]], [[Perikarderguss]], [[LAE]]
 > 	- *PEEP* reduzieren
 > 	- *Abdominelles [[Kompartment]]:* Blasendruck > 20 mmHg → Parazentese, Magensonde, Chirurgie
-> 	- *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, Tachykardie kontrollieren
+> 	- *[[Dynamic LVOTO]]:* Vorlast↑, Nachlast↑, keine Inotropie, [[Tachy]] kontrollieren
 > 7. **[[Kardiogener Schock]]:** [[TTE]] → Intropie (a.e. [[Adrenalin]])
 > 8. **Zweite Diagnose?** Premature Closure
 > 9. **Fancy Therapien?** [[ECMO]], IABP, LAVD, etc.
@@ -43,7 +43,7 @@ title: Schock & Hypotonie
 > 	- Hämorrhagie/Blutung
 > - **Kardiogen:**
 > 	- [[ACS]], [[Kardiomyopathie]], [[Perimyokarditis]], [[Vitien]], [[Herzinsuffizienz]]
-> 	- HRST: [[Bradykardie]]/[[Tachykardie]]
+> 	- HRST: [[Brady]]/[[Tachy]]
 > - **Obstruktiv:**
 > 	- [[LAE]]
 > 	- [[Perikarderguss]]
@@ -61,14 +61,14 @@ title: Schock & Hypotonie
 
 > [!stadien]- Stadien (SCAI)
 > 1. **A – At risk:** Hämodynamisch stabil ohne Schock aber mit Risiko dafür (z.B. dekompensierte [[Herzinsuffizienz]])
-> 2. **B – Beginning:** Hypotonie, [[Tachykardie]] jedoch ohne Endorgan-Hypoperfusion
+> 2. **B – Beginning:** Hypotonie, [[Tachy]] jedoch ohne Endorgan-Hypoperfusion
 > 3. **C – Classic:** Endorgan-Hypoperfusion (z.B. [[Lactat]], Oligurie, [[Delir]], [[Recap]])
 > 4. **D – Deteriorating:** Ausbleibende Besserung trotz Therapieeskalation
 > 5. **E – Extremis:** [[Periarrest]] oder [[CPR]]/[[PEA]][^1]
 
 > [!workup]-
 > - **Organdysfunktionen**
-> 	- *Hämodynamik:* [[Hypotonie]], Shock-Index >0.8, [[Bradykardie]]
+> 	- *Hämodynamik:* [[Hypotonie]], Shock-Index >0.8, [[Brady]]
 > 	- *Niere:* Oligurie
 > 	- *Hautperfusion:* Kalte Extremitäten, [[Mottling]], [[Recap]]-Zeit
 > 	- *Gehirn:* [[Delir]]

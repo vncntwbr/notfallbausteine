@@ -7,6 +7,11 @@ tags:
   - Interventionen/EKG
 title: Tachykardie & Palpitationen
 ICD: R00
+aliases:
+  - Tachykarde HRST
+  - Palpitationen
+  - Herzrasen
+  - Tachykardie
 ---
 ![[eKV#^ebae57]]
 

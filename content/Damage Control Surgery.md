@@ -24,7 +24,7 @@ title: Damage Control Surgery (DCS)
 > 	- [[Schock]] RRsys <90 mmHg
 > 	- [[Thorakotomie|Resuscitative Thorakotomie]] durchgeführt
 > 	- [[Hypothermie]] <33°C
-> 	- Inappropriate [[Bradykardie]]
+> 	- Inappropriate [[Brady]]
 > 	- [[Met. Azidose]] pH <7.2
 > 	- [[Transfusion]] >10 EK / [[Volumentherapie|Volumen]] >12 L / geschätzter Blutverlust >5 L
 

@@ -15,7 +15,7 @@ ICD: H81.1
 > 3. **Anteriorer Bogengang (selten)?** [Dix-Hallpike semi-positiv](https://www.youtube.com/watch?v=2TAYDp3vVTU) (vertikaler downbeat Nystagmus, oft beidseitig) = bei stärker symptomatischer Seite oben liegendes Ohr
 > 4. **Cave:** DD zentrale Ursache für horizontalen oder vertikalen Nystagmus
 
-> [!management]-
+> [!management]- Management BPLS
 > 1. **Posteriorer Bogengang:** [Epley-Manöver](https://www.youtube.com/watch?v=kvVnEsGVLUY)
 > 2. **Horizontaler Bogengang:** [Gufoni-, Barbecue-Roll-, Head-Shake-Manöver](https://www.youtube.com/watch?v=VRjRTnIw9YE)
 > 3. **Anteriorer Bogengang:** [Dead-Head-Hanging-Manöver](https://www.youtube.com/watch?v=2TAYDp3vVTU)

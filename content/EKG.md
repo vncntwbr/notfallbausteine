@@ -11,7 +11,7 @@ title: Elektrokardiogramm (EKG)
 > 1. **Kontext:** [[ABCDE]]-Kritisch? Alter, Vorerkrankungen, Pacer? Klinik?
 > 2. **Technik:** 25 mm/s (1K = 200 ms) vs. 50 mm/s (1K = 100 ms)
 > 3. **Rhythmus**
-> 	1. [[Bradykardie]] < nf < [[Tachykardie]] (300 / RR = HF bei 25 mm/s)
+> 	1. [[Brady]] < nf < [[Tachy]] (300 / RR = HF bei 25 mm/s)
 > 	2. Rhythmisch / Arrhythmisch (SR, [[VHF|VHF/VHFla]])
 > 	3. QRS Schmal < 110 ms < [[QRS-Verbreiterung|Breitkomplex]] ([[VT]], [[Blockbild]])
 > 4. **P:** Pos. I/II + neg. aVR + biphas. V1 (SR)? Fehlend ([[VHF]], SA-Block)? P:QRS ([[AV-Block]], [[VHF|VHFla]])? Betont? Wandernd? Invert ([[WPW]])?

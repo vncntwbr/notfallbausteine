@@ -13,7 +13,7 @@ aliases:
 > - ✞ **Killer:** Andere Toxinwirkungen! (z.B. bei [[Na+ Kanal Blocker]])
 > - **Therapie:**
 > 	- *Supportiv:* [[Volumentherapie]], Kühlung, DK bei Harnverhalt, ggf. [[Benzos]]
-> 	- *[[Delir]]:* [[Physostigmin]] 0.5-2.0 mg langsam i.v., ggf. q30min (Cave KI: QRS-Verbreiterung, [[Bradykardie]], Krampfneigung, UAW [[Ü+E]])
+> 	- *[[Delir]]:* [[Physostigmin]] 0.5-2.0 mg langsam i.v., ggf. q30min (Cave KI: QRS-Verbreiterung, [[Brady]], Krampfneigung, UAW [[Ü+E]])
 
 > [!dd]- Auslöser
 > - **Antihistaminika der 1. Generation** (oft bei Kindern überdosiert)

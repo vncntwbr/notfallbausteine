@@ -39,7 +39,7 @@ aliases:
 > 	- [[Intrakranielle Blutung]]/[[Hirndruck]] insb. [[SAB]] (ausgeprägt T-Neg.)
 > 	- [[Aorta]]
 > 	- [[HyperK+]] (peaked T, [[QRS-Verbreiterung]])
-> 	- [[LAE]] ([[Tachykardie]], ==T-Neg. V1-V4 + III==, ohne III eher [[ACS]])
+> 	- [[LAE]] ([[Tachy]], ==T-Neg. V1-V4 + III==, ohne III eher [[ACS]])
 > - **Dringlich:**
 > 	- [[HyperCa2+]]
 > 	- [[Brugada]]

@@ -14,7 +14,7 @@ title: Stromunfall
 > 3. **Sekundärtrauma** (z.B. Sturz von Leiter)
 
 > [!anamnese]-
-> - **S:** AP? Palpitationen? Schmerzen/OPQRST+? [[Dyspnoe]]? [[Verbrennung]]/Trauma? [[TLOC]]? 
+> - **S:** AP? [[Tachy|Palpitationen]]? Schmerzen/OPQRST+? [[Dyspnoe]]? [[Verbrennung]]/Trauma? [[TLOC]]? 
 > - **P:** Herz (insb. Schrittmacher/ICD)? [[Schwanger]]?
 > - **E:** Stromquelle Niederspannung / Hochspannung (>1000 Volt)? "Festkleben" an Stromquelle? Stromfluss durch Thorax?
 
@@ -22,7 +22,7 @@ title: Stromunfall
 > "Standard" Haushaltsstromunfall (<1000 Volt) ohne Risikofaktoren → nur A+U und [[EKG]]
 > - **[[Untersuchung|U]]:** VP? Haut (Strommarken)? Neuro-Screen?
 > - **[[EKG]]:** HRST? [[AV-Block]]? RSB/LSB? [[Ischämie-EKG|STE]]? QTc?
-> - **[[Labor]]:** ggf. [[BGA]], ggf. Profil "Brustschmerz" (bei AP, Palpitationen, Hochspannung, [[TLOC]], [[EKG]]-Veränderungen)
+> - **[[Labor]]:** ggf. [[BGA]], ggf. Profil "Brustschmerz" (bei AP, [[Tachy|Palpitationen]], Hochspannung, [[TLOC]], [[EKG]]-Veränderungen)
 > - **[[Urin]]:** ggf. [[U-Status]] (Myoglobinurie Erys+)?
 
 > [!disposition]-

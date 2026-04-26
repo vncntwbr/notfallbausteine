@@ -61,7 +61,7 @@ ICD: R06.0, J96
 > 	- Angst, Schmerz, Hyperventilation
 
 > [!workup]-
-> - **[[EKG]]:** [[Ischämie-EKG]]? HRST? [[Tachykardie]]+[[RHB]]? [[Niedervoltage]]/Alternans?
+> - **[[EKG]]:** [[Ischämie-EKG]]? HRST? [[Tachy]]+[[RHB]]? [[Niedervoltage]]/Alternans?
 > - **[[POCUS]]:** [[RUSH]] oder min. [[TTE]] + [[LUS]]
 > - **[[Labor]]:** [[BGA]] (Säure-Basen), Profil "Pneumonie" ± [[D-Dimer]] (s. [[LAE]]) ± [[Troponin]] (ohne [[Brustschmerz]] nur wenn ACS plausible DD + [[EKG]]-Veränderungen)
 > - ggf. [A-a-Gradient](https://www.mdcalc.com/calc/243/a-a-o2-gradient) (erniedrigt=intrapulmonal, normal=Hypoventilation)

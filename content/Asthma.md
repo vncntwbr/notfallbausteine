@@ -42,7 +42,7 @@ ICD: J45-J46
 > - **Lebensbedrohlich:**
 > 	- Silent Lung
 > 	- Flache Atmung / frustrane Atemarbeit (Inhalation kommt nicht mehr an)
-> 	- [[Bradykardie]] (hypoxischer [[Periarrest]])
+> 	- [[Brady]] (hypoxischer [[Periarrest]])
 > 	- [[SpO2]] <92% / PaO2 <60 mmHg arteriell
 > 	- PaCO2 normal oder erhöht arteriell
 > 	- [[Vigilanz↓]] (inkl. Verwirrtheit, hypoxische Agitation)

@@ -33,7 +33,7 @@ ICD: E80
 > 3. **Symptomatisch:**
 > 	- *Schmerzen:* [[PCM]], [[Opioide]], Gabapentin, ggf. PCIA/[[Regionalanästhesie]] (Cave: kein Metamizol)
 > 	- *Übelkeit:* Ondansetron, ggf. low-dose Haloperidol (0,5 mg i.v./s.c.) 
-> 	- *Tachykardie:* Metoprolol 
+> 	- *[[Tachy]]:* Metoprolol 
 > 	- *[[HTN]]:* Nitroglycerin, Clonidin 
 > 	- *[[Obstipation]]:* MCP
 > 4. **Echte [[HypoNa+]]** mit NaCl 3% Boli therapieren

@@ -1,0 +1,15 @@
+---
+tags:
+  - Medikamente
+  - Fach/Endokrinologie
+---
+- Metformin 
+	- 2x 1g Höchstdosis, darüber nur mehr UAW
+	- Starten mit 0-0-1 mit dem Essen
+	- Senkt HbA1C um 1.2%
+- SGLT2-Inhibitor (Empaglifozin, Dapaglifozin)
+	- bei kardiovaskulär vorerkrankten
+- Sulfonylharnstoffe (Glibenclamid)
+- GLP1-Agonisten
+- DPP4-Hemmer (→GLP1↑)
+	- Kein Benefit EBM

@@ -17,7 +17,7 @@ aliases:
 
 ## Diagnosen
 - **HRST**
-	- [[Bradykardie]]
+	- [[Brady]]
 		- [[BRASH]]
 	- [[VHF]]
 	- [[SVT]]

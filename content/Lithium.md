@@ -11,7 +11,7 @@ aliases:
 > [!anamnese]- Symptome
 > - **ZNS:** [[Vigilanz↓]], Ataxie, Tremor, Faszikulationen
 > - **GI:** [[Ü+E]], [[Diarrhoe]], Mundtrockenheit
-> - **Kardial:** [[Bradykardie]], [[Long-QT]], [[QRS-Verbreiterung]], selten HRST
+> - **Kardial:** [[Brady]], [[Long-QT]], [[QRS-Verbreiterung]], selten HRST
 
 > [!management]-
 > - **\*Keine* Aktivkohle** (wirkungslos)

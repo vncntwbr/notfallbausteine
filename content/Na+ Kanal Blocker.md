@@ -28,7 +28,7 @@ tags:
 
 > [!Workup]-
 > - **Symptome:** [1-3h] Müdigkeit, [[Hypotonie]], Sinustachykardie, [schwerer Verlauf] ==[[Anticholinerg]]==, [[Delir]], [[Vigilanz↓|Koma]], ==[[QRS-Verbreiterung]]/[[VT]]==, [[HypoK+]], [[HypoNa+]]
-> - **Überwachung:** [[Tachykardie]] +12h, [[EKG]]-Veränderungen +24h, beschwerdefrei (und kein Retard) +6h
+> - **Überwachung:** [[Tachy]] +12h, [[EKG]]-Veränderungen +24h, beschwerdefrei (und kein Retard) +6h
 
 
 ## Beispiel

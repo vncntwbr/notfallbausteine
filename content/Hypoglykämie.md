@@ -6,7 +6,7 @@ tags:
 ---
 - **Ä**
 	- *Insulin-Überdos:* Suizidal? Inadhärenz? Langwirksam stationär, kurzwirksam Ü 6h
-	- *Orale Antidiabetika:* Sulfonylharnstoffe, Glinide
+	- *Orale [[Antidiabetika]]:* Sulfonylharnstoffe, Glinide
 	- *[[Intox]]:* Alkohol?
 	- *MOV:* [[Schock]], Sepsis, Palliativ?
 - **T**

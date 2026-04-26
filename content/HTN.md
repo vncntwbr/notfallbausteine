@@ -27,7 +27,7 @@ ICD: I10-I15
 
 > [!anamnese]-
 > - **S:** Schmerzen/OPQRST+? [[Dyspnoe]]? [[FND]]? Sehstörung? Angst/Stress? [[Ödeme]]? Infekt? [[TLOC]]? [[Ü+E]] ([[nüchtern]])?
-> 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Bradykardie]] (Cushing-Reflex)
+> 	- *Red Flags HTN + [[Kopfschmerz]]:* Neuartig, stärkst ("Vernichtung"), plötzlicher Beginn ("apoplektiform"), [[Brady]] (Cushing-Reflex)
 > - **M:** Antihypertensiva? Adhärenz? Neue Meds (z.B. NSAR → [[AKI]])?
 > - **P:** aHTN (RR-Einstellung)? [[Aorta]] (OP)? KHK? Vitien? [[Schwanger]]/Wochenbett?
 > - **L:** Miktion (reduziert, Farbe, H.a. [[AKI]])? 

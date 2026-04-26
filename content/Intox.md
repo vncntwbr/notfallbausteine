@@ -29,11 +29,11 @@ ICD: X49.9!, R78
 | --------------------- | ------------- | -------- | --------------------- | ------------------------------------------- | -------------------------------- |
 | **[[Opioide]]**       | [[Vigilanz↓]] | ⊙[^1]    | =/❄︎                  | AF↓                                         | [[Obstipation]]                  |
 | **Sedativa**          | [[Vigilanz↓]] | =/◉      | =/❄︎                  | AF↓                                         | ±                                |
-| **Halluzinogen**      | [[Delir]]     | ◉        | =                     | [[Tachykardie\|Tachy]]                      | ±                                |
-| **Sympathomim.**      | [[Delir]]     | ◉        | ♨︎, schweißig         | [[Tachykardie\|Tachy]], [[HTN\|HTN]] | ±                                |
-| **[[Cholinerg]]**     | [[Vigilanz↓]] | ⊙        | schweißig, Salivation | [[Lungenödem]], [[Bradykardie\|Brady]]      | [[Diarrhoe]], Inkontinenz        |
-| **[[Anticholinerg]]** | [[Delir]]     | ◉        | ♨︎, rot, trocken      | [[Tachykardie\|Tachy]]                      | [[Obstipation]], [[Harnverhalt]] |
-> |**[[Serotonerg\|Serotonerg]]**|[[Delir]]|◉|♨︎, Cloni, schweißig|[[Tachykardie\|Tachy]]  |[[Diarrhoe]]
+| **Halluzinogen**      | [[Delir]]     | ◉        | =                     | [[Tachy\|Tachy]]                      | ±                                |
+| **Sympathomim.**      | [[Delir]]     | ◉        | ♨︎, schweißig         | [[Tachy\|Tachy]], [[HTN\|HTN]] | ±                                |
+| **[[Cholinerg]]**     | [[Vigilanz↓]] | ⊙        | schweißig, Salivation | [[Lungenödem]], [[Brady\|Brady]]      | [[Diarrhoe]], Inkontinenz        |
+| **[[Anticholinerg]]** | [[Delir]]     | ◉        | ♨︎, rot, trocken      | [[Tachy\|Tachy]]                      | [[Obstipation]], [[Harnverhalt]] |
+> |**[[Serotonerg\|Serotonerg]]**|[[Delir]]|◉|♨︎, Cloni, schweißig|[[Tachy\|Tachy]]  |[[Diarrhoe]]
 
 
 

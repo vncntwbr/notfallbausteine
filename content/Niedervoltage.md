@@ -15,7 +15,7 @@ title: Niedervoltage / Low Voltage
 > - QRS <10 mm in allen Brustwandableitungen[^1]
 
 > [!dd]+ DD
-> - ✞ **Killer:** [[Perikarderguss|Perikardtamponade]] (Niedervoltage + Tachykardie + elektr. Alternans)
+> - ✞ **Killer:** [[Perikarderguss|Perikardtamponade]] (Niedervoltage + [[Tachy]] + elektr. Alternans)
 > - **Weitere**
 > 	- *Flüssigkeit:* [[Perikarderguss]], [[Pleuraerguss]]
 > 	- *Luft:* [[Pneu]], Emphysem

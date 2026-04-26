@@ -5,7 +5,7 @@ tags:
   - Basics
 ---
 - **In geringer Dos gefährliche Substanzen**
-	- *⍺2-Agonisten (Clonidin):* [[Hypotonie]]/[[Bradykardie]], [[Vigilanz↓]]
+	- *⍺2-Agonisten (Clonidin):* [[Hypotonie]]/[[Brady]], [[Vigilanz↓]]
 	- *[[Antipsychotika]]:* ≥1 Tbl. [[Vigilanz↓]], oft Retard
 	- *Babypuder Aspiration:* "Austrocknen" AW, symptomfreies Intervall 24h → [[Cortison|Prednisolon]] i.v., BAL, Surfactant p.i.
 	- *Backofen-/Rohrreiniger:* Massive Verätzungen → Notfall-ÖGD

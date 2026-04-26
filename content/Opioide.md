@@ -13,7 +13,7 @@ ICD: F11
 - **T Sympt.**
 	- *Übelkeit:* Ondansetron 4 mg s.l./i.v. bis 6x/d, Promethazin 25 mg p.o. bis 6x/d
 	- *Unruhe/Restless-Legs:* Ceterizin p.o.
-	- *Autonom (Schwitzen, Tachykardie, Angst, ...):* Clonidin 100 μg p.o. bis 4x/d
+	- *Autonom (Schwitzen, [[Tachy]], Angst, ...):* Clonidin 100 μg p.o. bis 4x/d
 	- *Diarrhoe:* Loperamid 4 mg p.o. 1-1-1
 - **T Substitution**
 	- *Voraussetzung:* [[Urin]] Opioide pos., andere Drogen neg., QTc, Substitutionsausweis od. Kontakt Praxis, nie nur Eigenanamnese, Sichtvergabe PFK

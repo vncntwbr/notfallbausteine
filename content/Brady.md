@@ -6,6 +6,9 @@ tags:
   - Fach/Kardiologie
   - Interventionen/EKG
 ICD: R00
+aliases:
+  - Bradykarde HRST
+  - Bradykardie
 ---
 > [!dd]+ DD Bradykardie 
 > - **Klassiker (3M):**

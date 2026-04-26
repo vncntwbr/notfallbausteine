@@ -12,5 +12,5 @@ tags:
 > - [ ] **Larson‘s point** bds. Schmerzreiz (direkt hinter Ohrläppchen)
 > - [ ] **Muskelrelaxans** + [[RSI]]
 
-- Laryngospasmus bricht spontan mit Zeit/[[Hypoxie]] (jedoch vorher [[Bradykardie]]/Arrest möglich)
+- Laryngospasmus bricht spontan mit Zeit/[[Hypoxie]] (jedoch vorher [[Brady]]/Arrest möglich)
 - Propofol protektiv, ggf. 20% Induktionsdosis additiv geben

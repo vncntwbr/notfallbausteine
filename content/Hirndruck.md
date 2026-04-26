@@ -26,7 +26,7 @@ aliases:
 > [!ekg]- EKG Features (insb. [[Intrakranielle Blutung|SAB]])
 > - Gigantische T-Negativierungen ("cerebral T-Waves") + [[Long-QT]]
 > - STE/STD, Mimic zu [[ACS]] und [[Perimyokarditis|Perikarditis]]
-> - [[Bradykardie]] (Cushing-Reflex), ggf. Arrhythmien
+> - [[Brady]] (Cushing-Reflex), ggf. Arrhythmien
 > 
 > ![[Pasted image 20260403102202.png]]
 

@@ -13,7 +13,7 @@ tags:
 ## Workup
 - **S**
 	- *ZNS:* Agitation, [[Delir]], Mydriasis, [[Krampfanfall]]
-	- *Cor:* [[HTN]], [[Tachykardie]], [[ACS]]/SCAD/Aneurysma
+	- *Cor:* [[HTN]], [[Tachy]], [[ACS]]/SCAD/Aneurysma
 	- [[Fieber]], [[HypoNa+|Hyponatriämie]], [[Rhabdomyolyse]], ALV, [[AKI]], DIC
 ## Management
 - *[[Aktivkohle]]:* <1h bei großen Mengen

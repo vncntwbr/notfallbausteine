@@ -20,7 +20,7 @@ ICD: I20-I25
 > - **NSTEMI:** unspezifische [[EKG]]-Veränderungen, [[Troponin]]↑/-Dynamik
 > - **Instabile AP:** klinischer Verdacht, [[Troponin]] normal
 > - **Typ-2-Myokardinfarkt:** Keine Plaqueruptur, sondern relativer O2-Mangel
-> 	- [[Schock]], [[Tachykardie]], [[Anämie]], [[Hypoxie]]
+> 	- [[Schock]], [[Tachy]], [[Anämie]], [[Hypoxie]]
 > 	- Vasospasmus (Kokain/[[Amphetamine]], Kounis-Syndrom bei [[Anaphylaxie]])
 > 	- SCAD
 ## Workup

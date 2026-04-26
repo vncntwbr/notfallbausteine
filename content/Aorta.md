@@ -14,9 +14,9 @@ ICD: I71
 > [!danger]+ Resuscitation
 > 1. **Kontakt GCh / HCh:** DHZC Tel. 030-4593-2007, [Anfahrtskizze](https://www.dhzc.charite.de/fileadmin/user-upload/pdf/notfall/dhzc-aortentelefon-anfahrt.pdf)
 > 2. **[[Analgesie]]:** Morphin/Fentanyl, Antiemese (Ondansetron 8 mg, [[Cortison|Dexamethason]] 4 mg)
-> 3. **C:** RRsys 100-120 ([[Analgesie]], Urapidil/[[NA]]), HF ≈60 (Esmolol 10 mg / Metoprolol 1-5 mg Boli i.v.)
+> 3. **C:** RRsys 100-120 (primär [[Analgesie]]), HF ≈60 (Esmolol 10 mg / Metoprolol 1-5 mg Boli i.v.)
 > 4. **[[Blutungsmanagement]]:** [[TXA]] 1-2 g i.v., Kreuzblut, 4 EK + 4 FFP auf Abruf
-> 5. **[[Gefäßzugänge]]:** 2x PVK, [[Arterie]] radialis rechts (kein [[ZVK]], keine A. femoralis)
+> 5. **[[Gefäßzugänge]]:** 2x PVK, [[Arterie]] radialis i.d.R. rechts (kein [[ZVK]], keine A. femoralis)
 > 6. **[[Periarrest|Peri-Arrest]]:** bei Tamponade [[Perikardiozentese]] 10-20 ml
 
 > [!info] Definition
@@ -45,6 +45,7 @@ ICD: I71
 
 ## Literatur
 - [S2k-Leitlinie Typ B Aortendissektion](https://register.awmf.org/de/leitlinien/detail/004-034)
+- [DHZC Checkliste](https://www.dhzc.charite.de/fileadmin/user-upload/pdf/notfall/dhzc-aortentelefon-notfall-management.pdf)
 
 
 [^1]: Marfan-Syndrom 5% Risiko A-Diss., von A-Diss. <40 J. haben 50% Marfan

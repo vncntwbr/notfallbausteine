@@ -19,7 +19,7 @@ cssclasses:
 > 	- *[[Anaphylaxie]]/[[AMAX4]]:* 0.5 mg pur i.m.
 > 	- *Kinder:* 0.01 mg/kg ([[CPR]] i.v., [[Anaphylaxie]] i.m.)
 > 	- *Atemwegsschwellung:* 5 mg pur inhalativ
-> 	- *[[Bradykardie]]:* 10 μg i.v. q2min 
+> 	- *[[Brady]]:* 10 μg i.v. q2min 
 > - **[[Perfusor]]:** 1 mg = 20 μg/ml → Start 5 μg/min = 0.05-0.1 μg/kg/min = 0.3 mg/h = 15ml/h
 
 ## Literatur

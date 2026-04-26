@@ -9,7 +9,7 @@ aliases:
   - Serotonin
 ---
 > [!danger]+ Rapid Reference
-> - **Symptome:** Neuromuskuläre Übererregbarkeit (Hyperreflexie, Cloni) + Sympathomimetisch ([[Tachykardie]], Schwitzen, [[Diarrhoe]], Hyperthermie, Mydriasis) + Bewusstseinsstörung (Agitation, [[Delir]], [[Vigilanz↓]])
+> - **Symptome:** Neuromuskuläre Übererregbarkeit (Hyperreflexie, Cloni) + Sympathomimetisch ([[Tachy]], Schwitzen, [[Diarrhoe]], Hyperthermie, Mydriasis) + Bewusstseinsstörung (Agitation, [[Delir]], [[Vigilanz↓]])
 > - ✞ **Killer:** Hyperthermie, Kombination mit MAO-Hemmern (inkl. Linezolid)
 > - **Therapie:**
 > 	- *Symptomatisch*
@@ -49,7 +49,7 @@ aliases:
 > 	- Methylenblau (wirkt auch als MAO-Inhibitor!)
 
 > [!stadien]-
-> - **Mild:** Induzierbare Cloni + Tachykardie, [[HTN]] + Angst
+> - **Mild:** Induzierbare Cloni + [[Tachy]], [[HTN]] + Angst
 > - **Moderat:** Okuläre Cloni, Tremor + Hyperthermie <38.5°C, Flush, Mydriasis + Agitation
 > - **Schwer:** Muskelrigidität + Hyperthermie >39-40°C + [[Vigilanz↓]], [[Krampfanfall]]
 ## Literatur

@@ -12,7 +12,7 @@ tags:
 |                   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation                                               |
 | ----------------- | -------- | ------------- | --- | -------- | -------------------------------------------------------- |
 | **Noradrenalin**  | ⍺⍺⍺>β    | ↑             | ↑↑↑ | =        | Undifferenzierter [[Schock]], [[Sepsis]]                 |
-| **[[Adrenalin]]** | ⍺<βββ    | ↑↑↑           | ↑   | =        | [[Bradykardie]], [[Kardiogener Schock]], [[Anaphylaxie]] |
+| **[[Adrenalin]]** | ⍺<βββ    | ↑↑↑           | ↑   | =        | [[Brady]], [[Kardiogener Schock]], [[Anaphylaxie]] |
 | **Dopamin**       | ?        | ?             | ?   | ?        | Zombieapokalypse                                         |
 
 
@@ -21,7 +21,7 @@ tags:
 | ------------- | -------- | ------------- | --- | -------- | ---------------------- |
 | **[[Dobutamin]]**     | ⍺<βββ    | ↑↑↑           | ↓   | ↓        | [[Kardiogener Schock]] |
 | **Milrinon**      | cAMP     | ↑↑↑           | ↓↓  | ↓↓       | [[RV-Failure]]        |
-| **Isoproterenol** | βββ      | ↑↑↑↑↑         | ↓   |          | [[Bradykardie]]        |
+| **Isoproterenol** | βββ      | ↑↑↑↑↑         | ↓   |          | [[Brady]]        |
 
 ### Reine Vasopressoren
 |   | Rezeptor | HF, Inotropie | SVR | Pulm. VR | Indikation             |

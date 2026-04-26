@@ -30,7 +30,7 @@ ICD: R55
 |---|---|---|
 |Position|Aus Liegen oder Sitzen|Längeres Stehen oder beim Aufstehen|
 |Provokation|Keine oder \*während\* Belastung|Angst, Schmerz, Defäkation, postprandial, Sex o.ä. oder \*nach\* Belastung|
-|Prodromi|Keine oder [[Dyspnoe]], AP, Palpitationen|[[Schwindel]], “Schwarz vor Augen”, Schwitzen, Übelkeit, Hitzegefühl, Einengung Gesichtsfeld|
+|Prodromi|Keine oder [[Dyspnoe]], AP, [[Tachy\|Palpitationen]]|[[Schwindel]], “Schwarz vor Augen”, Schwitzen, Übelkeit, Hitzegefühl, Einengung Gesichtsfeld|
 |Persistierend|Persistierende Beschwerden|Vollständige Resolution|
 |Vorgeschichte|Kardial?|Rezidiv (wenn auch low-risk)? Autonome Dysregulation (z.B. Parkinson)? Epilepsie?|
 |Vegetativ|[[AZ↓]], [[Dyspnoe]], AP? H.a. [[GI-Blutung]]?|Negativ|
@@ -39,7 +39,7 @@ ICD: R55
 
 > [!workup]-
 > - **[[Untersuchung|U]]:** VP? Sturzfolgen? Vitien? Volumenmangel? Infektzeichen? [[FND]]?
-> 	- Persistierende [[Hypotonie]]/Tachykardie?
+> 	- Persistierende [[Hypotonie]]/[[Tachy]]?
 > 	- Kein Schellong-Test (nicht sinnvoll)
 > - **[[EKG]]** (s.u.)
 > - **[[Labor]]:** [[BGA]] ([[Anämie]]? [[Elektrolyte]]? BZ? Lactat?), ggf. Standard-Profil (insb. Ältere)
@@ -47,7 +47,7 @@ ICD: R55
 > - ggf. weiteres Workup nach DD
 
 > [!ekg]- [[EKG]] bei Synkope (WOBBLERR)
-> - Allgemein: [[Tachykardie]]/[[Bradykardie]]? [[Ischämie-EKG]]?
+> - Allgemein: [[Tachy]]/[[Brady]]? [[Ischämie-EKG]]?
 > - W – WPW-Syndrom?
 > - O – Obstruktion ([[AV-Block]])?
 > - B – Blockbild?
@@ -111,4 +111,4 @@ ICD: R55
 
 [^1]: [Carotid Sinus Massage in Syncope Evaluation: A Nonspecific and Dubious Diagnostic Method](https://www.scielo.br/j/abc/a/zWkKJ5fSYmvrWNmCYQ3hRND/?lang=en)
 
-[^2]:  Tachykardie ohne [[Hypotonie]]
+[^2]:  [[Tachy]] ohne [[Hypotonie]]
