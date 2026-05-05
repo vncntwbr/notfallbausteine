@@ -3,9 +3,19 @@ tags:
   - Fach/HNO
   - Diagnosen
   - Status/Started
+aliases:
+  - Tonsillitis
+  - Pharyngitis
+  - Angina tonsillaris
+title: Tonsillopharyngitis (Tonsillitis, Angina tonsillaris)
 ---
+> [!dd]+ DD
+> - Angina bei [[Neutropenie|Agranulozytose]]
+> - [[STI]]
+> - [[EBV]]
+> - siehe [[Halsschmerz]]
 
-> [!stadien] [Centor](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis)
+> [!stadien] [McIsaac / mod. Centor-Score ≥3 Jahre](https://www.mdcalc.com/calc/104/centor-score-modified-mcisaac-strep-pharyngitis)
 
 - **E:** Häufigste Ursache in ZNA, 90% viral
 - **W:** Klinik rules, kein Strep-A, kein E+R, bei [[STI]]-Risiko DD Gonokokken-Abstrich

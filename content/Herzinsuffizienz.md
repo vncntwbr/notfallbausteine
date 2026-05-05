@@ -9,7 +9,7 @@ aliases:
 title: Herzinsuffizienz & Kardiale Dekompensation
 ICD: I50
 ---
-![[Lungenödem#^40f277]] ^633e65
+![[Lungenödem#^7092f3]] ^633e65
 > [!dd]+ Ursachen akuter Herzinsuffizienz (CHAMPIT) – DD siehe [[Dyspnoe]]
 > - C – Coronar ([[ACS]])
 > - H – [[HTN|Hypertensiver Notfall]] (SCAPE)
@@ -63,7 +63,7 @@ ICD: I50
 > 	- **Aldosteronantagonist:** Spironolacton/Eplerenon 25-50 mg/d (Cave: [[HyperK+]])
 > - **Medikamentöse Symptomkontrolle:**
 > 	- **Schleifendiuretika:** Torasemid 10-20 mg q24h / Furosemid q6h oder 
-> 	  **Thiazide:** Xipamid 10-40 mg/d / Chlortalidon 25 mg/d / HCT meiden (Cave: [[HypoNa+]], [[HypoK+]], [[AKI]])
+> 	- **Thiazide:** Xipamid 10-40 mg/d / Chlortalidon 25 mg/d / HCT meiden (Cave: [[HypoNa+]], [[HypoK+]], [[AKI]])
 > 	- Eisen i.v.
 > 	- [[Digitalis]] (Reservemittel)
 

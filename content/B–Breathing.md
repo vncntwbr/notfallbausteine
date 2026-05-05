@@ -25,3 +25,4 @@ aliases:
 > - **Thoraxentlastung/[[TDx]]**
 
 ![[Hypoxie#^972e2c]]
+![[Auskultation#^186aa0]]

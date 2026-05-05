@@ -9,15 +9,16 @@ aliases:
 ICD: R56.8, G41
 ---
 > [!danger]+ Resuscitation –  Status epilepticus (≥5 min, fokal ≥10 min oder Anfallsserie)
-> 1. **ABCD:** Kopf abpolstern, O2 15L, BZ/[[BGA]], kurze [[Anamnese]]
+> 1. **ABCD:** Kopf abpolstern, O2 15L, kurze [[Anamnese]]
 > 2. **Stufentherapie ab 5 min:** 
 > 	1. ==**[[Benzos|Midazolam]]** 10 mg i.m.== (1x wiederholen)
 > 	   oder [[Benzos|Midazolam]] 5-10 mg i.v.[^7] (max. 2x10 mg = ∑20 mg) 
 > 	   oder [[Benzos|Lorazepam]] (Tavor®) 2-4 mg i.v. (max. 2x4 mg = ∑8 mg)
 > 	2. **[[Antikonvulsiva|Levetiracetam]]** 4.5 g i.v. als KI (<15 min)
 > 	3. **[[RSI]]** mit Propofol 100-200 mg ± [[esKETAmin]] 100-200 mg (<60 min)
-> 3. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
-> 4. **[[Alkohol]]?** Thiamin 100 mg i.v.
+> 3. **i.v.-Zugang** mit BZ/[[BGA]]
+> 4. **[[Schwanger]]/Wochenbett?** DD Eklampsie → +[[MgSO4]] 5g (5 Amp. 10% 10 ml) i.v. als KI, sofort ad Gynäkologie/Notsectio[^3]
+> 5. **[[Alkohol]]?** Thiamin 100 mg i.v.
 
 > [!dd]- DD zum Epileptischen Anfall bei struktureller Epilepsie
 > - **Konvulsive [[Synkope]]** / Adam-Stokes, [[VT]], [[CPR]]
@@ -27,6 +28,7 @@ ICD: R56.8, G41
 > - **[[Meningitis]]**
 > - **[[Tumorlyse]]** (unter onkologischer Therapie)
 > - **PNEA/PNES** (Dissoziativer/Psychogener nicht-epileptischer Anfall)
+> - [[Fieberkrampf]] bei Kindern
 
 > [!anamnese]- Anamnese
 > - **S:** Semiologie (falls beobachtet)? Infekt? [[Fieber]]? [[Kopfschmerz]]? [[Tachy|Palpitationen]]? AP? [[FND]]? [[TLOC]]? Enuresis/Enkopresis? Schmerzen?

@@ -39,7 +39,7 @@ ICD: I10-I15
 > - **[[Untersuchung|U]]:** VP (kein Monitor), Status, ggf. Ophthalmoskopie (Sehstörung)
 > - **[[EKG]]**
 > - ggf. [[POCUS]] (Harnverhalt?)
-> - **[[Urin]]:** ggf. [[U-Status]] (V.a. [[AKI]] / Maligne HTN), [W] β-HCG 
+> - **[[Urin]]:** ggf. [[U-Status]] (V.a. [[AKI]] / Maligne HTN), [W] β-HCG
 
 > [!management]- Akutes Management
 > 1. **Nur bei H.a. Endorganschäden:** spezifische Therapie, ggf. RR-Senkung z.B. Urapidil 5-mg-weise i.v., max -20%
@@ -58,7 +58,7 @@ ICD: I10-I15
 > 	- ACEi (Ramipril 2.5-5 mg/d) oder AT1RB (Candesartan 8-16 mg/d)
 > 	- *+* Thiazid (Chlortalidon 12.5-25 mg/d) oder Calciumantagonist (Amlodipin 5-10 mg/d)
 > 	- [[Betablocker]] (Bisoprolol[^2] 2.5-5 mg 1-0-1) nur bei KHK/[[Herzinsuffizienz]]/[[VHF]]
-> - **Medikamentöse Eskalation** (Cave: Sekundäre Hypertonie?)
+> - **Medikamentöse Eskalation** (Cave: [[Sekundäre Hypertonie]]?)
 > 	1. 3er-Komibination (ACEi/AT1RB + Thiazid + Calciumantagonist)
 > 	2. +Aldosteronantagonist (Spironolacton 25 mg/d)
 > 	3. Alternativen:
@@ -67,6 +67,12 @@ ICD: I10-I15
 > 	- Ramipril 5 mg/d
 > 	- Valsartan 160 mg/d
 > 	- Amlodipin 10 mg/d
+> - **Chronische Komplikationen**
+> 	- *Herz:* [[KHK]], Hypertensive [[Kardiomyopathie]], LV-Hypertrophie, [[Herzinsuffizienz]] → ==[[TTE]]==
+> 	- *Gefäße:* [[Aorta]], [[Carotisstenose]]
+> 	- *ZNS:* Mikroangiopathie, [[Stroke]], [[Intrakranielle Blutung|ICB]], [[Demenz|Vaskuläre Demenz]]
+> 	- *Niere:* [[Proteinurie]], [[CKD]] → ==[[U-Status]]==
+> 	- *Auge:* Retinopathie
 
 > [!note]- Textbaustein Hypertensive Entgleisung
 > ```
@@ -83,12 +89,22 @@ ICD: I10-I15
 > - Bei Auftreten von Brustschmerzen, starken Rückenschmerzen, Luftnot, Sehstörungen oder Lähmungserscheinungen wählen Sie stets umgehend den Notruf 112.
 > ```
 
+## Sekundäre Hypertonie
+
+- *Ätiologie*
+	- [[OSAS]]
+	- **Renale Hypertonie** ([[CKD]], [[NAST]])
+	- [[Aortenisthmusstenose]]
+	- Endokrin ([[Hyperaldosteronismus]], [[Hypercortisolismus]], [[Hyperthyreose]], [[Phäochromozytom]], [[Akromegalie]])
+
 ## Aufziehhilfen
-![[Pasted image 20260413163916.png]]
+![[Urapidil]]
 
 ## Literatur
 - aHTN >140 mmHg intrahospital tolerieren[^1]
-- Epistaxis ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. [[Analgesie]] (insb. bei Nasentamponade)
+- [[Epistaxis]] ist unabhängig von HTN, dieser eher Stress-getriggert → vordere Nase ununterbrochen 3 min komprimieren, Beruhigung, ggf. [[Analgesie]] (insb. bei Nasentamponade)
+- Bei PoC RAAS-Inhibitoren nicht so wirksam, stattdessen initial hochdosiertes Thiazid
+- Bei ≥3 Medikamenten nach [[Sekundäre Hypertonie]] suchen
 - [S3-Leitlinie NVL Hypertonie](https://register.awmf.org/de/leitlinien/detail/nvl-009)
 
 [^1]: Canales MT, Yang S, Westanmo A, et al. As-Needed Blood Pressure Medication and Adverse Outcomes in VA Hospitals. _JAMA Intern Med._ 2025;185(1):52–60. doi:10.1001/jamainternmed.2024.6213

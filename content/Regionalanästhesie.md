@@ -11,7 +11,7 @@ tags:
 	- *Obere Extremität*
 		- Hals, Carotis → oberfl. Plexus cervicalis Block
 		- Schulter, Humeruskopf, laterale Clavicula → Interscalenärer Plexus Block
-		- Ellenbogen → Supraclaviculärer Plexus Block
+		- Ellenbogen → [[Supraclaviculäre Plexusblockade]]
 		- Unterarm → Axillärer Plexus Block
 	- *Untere Extremität*
 		- Hüftgelenksnahe Frakturen → Fascia iliaca Block
@@ -23,5 +23,6 @@ tags:
 		- Laparotomie, Sectio wenn PDK KI → Transversus Abdominis Plane Block
 		- Rippen, [[TDx]] Bülau → Erector spinae
 		- Mamma, Port, [[TDx]] Monaldi → Pectoralis Block 1
+- [[Rückenmarksnahe Leitungsanästhesie]]
 
 [^1]: Metaanalyse nach Desai et al. aus 2021

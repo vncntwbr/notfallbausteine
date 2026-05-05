@@ -10,7 +10,7 @@ aliases:
   - Bradykarde HRST
   - Bradykardie
 ---
-> [!dd]+ DD Bradykardie 
+> [!dd]+ Ätiologie Bradykardie 
 > - **Klassiker (3M):**
 > 	- Myokardinfarkt (insb. [[AV-Block]] 3°)
 > 	- Medikamenten-[[Intox]] (z.B. [[Betablocker]], [[Digitalis]])
@@ -19,6 +19,14 @@ aliases:
 > 	- [[Hirndruck]] (Cushing-Reflex), Neurogener Schock, Vagustonus↑
 > 	- [[Hypoxie]] ([[Periarrest]])
 > 	- Metabolisch: [[Hypothermie]], [[Hypothyreose]], [[Hypoglykämie]]
+
+> [!ekg]+ Bradykarde EKG-Rhythmen
+> - **Sinusbradykardie**
+> - **Sick-Sinus-Syndrom**
+> 	- **SA-Block**
+> 	- **Sinusarrest mit Kammerersatzrhythmus**
+> - **[[AV-Block]]**
+> - **BAA bei [[VHF]]**
 
 ## Aufziehhilfen
 ![[Pasted image 20260413163957.png]]

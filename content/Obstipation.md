@@ -1,7 +1,6 @@
 ---
 tags:
   - Probleme/Abdomen
-  - Lernen
   - Fach/Gastroenterologie
   - Diagnosen/Chronisch
 ICD: K59

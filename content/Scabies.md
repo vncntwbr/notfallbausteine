@@ -16,7 +16,7 @@ aliases:
 > - ggf. parallel Loratadin gegen Juckreiz empfehlen
 > - [Informationsflyer](http://www.setzer-verlag.com/epages/79584208.sf/de_DE/?ObjectPath=/Shops/79584208/Products/12) ausdrucken und mitgeben
 
-> [!note]+ Textbaustein Scabies
+> [!note]- Textbaustein Scabies
 > ```
 > Zusammenfassend klinisch und anamnestischV.a. Scabies.
 > 

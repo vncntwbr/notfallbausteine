@@ -60,6 +60,15 @@ config:
 > [!stadien] [CHA2DS2VA](https://www.mdcalc.com/calc/10583/cha2ds2-va-score-atrial-fibrillation-stroke-risk)
 
 > [!workup]+
+> - *Ätiologie:* 
+> 	- [[Herzinsuffizienz]]
+> 	- Ischämisch ([[KHK]])
+> 	- [[Kardiomyopathie]]
+> 	- [[Elektrolyte]] (insb. [[HypoK+]])
+> 	- [[RHB]] ([[LAE]], [[COPD]], [[Pulmonale Hypertonie]])
+> 	- [[Perimyokarditis|Myokarditis]]
+> 	- **Valvuläres VHF:** insb. [[Mitralklappenstenose]]
+> 	- **Holiday-Heart-Syndrom:** Paroxysmales VHF nach Alkoholexzess
 > - **[[Labor]]:** [[HypoK+]]? [[HypoMg2+]]? [[Hyperthyreose]]? ggf. [[Digitalis]]-Spiegel?
 
 > [!management]+ Antikoagulation bei VHF

@@ -19,6 +19,8 @@ ICD: J81
 > 5. **[[Arterie]]**, bei [[Schock]] ggf. [[ECMO]]/Impella
 > 6. **Volumenoptimierung:** bei Phänotyp "warm" Furosemid i.v.
 
+^7092f3
+
 ^40f277
 ## Management
 ### Hochdosis Nitrate

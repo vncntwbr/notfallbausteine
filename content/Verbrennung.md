@@ -32,6 +32,8 @@ aliases:
 > 
 > ![[Pasted image 20260413161157.png]]
 
+^2e9d64
+
 > [!stadien] [Parkland-Formel](https://www.mdcalc.com/calc/83/parkland-formula-burns)
 
 > [!disposition]+ Verlegung in Schwerbrandverletzten-Zentrum

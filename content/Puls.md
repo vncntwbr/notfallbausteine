@@ -7,9 +7,9 @@ tags:
 
 - Manueller Pulscheck ungenau, Studien unter HLM bei Bypass 15-75% von Fachpersonal[^1][^2], 10s oft überschritten initial und bei pulse checks
 - *Besser zur Entscheidung [[CPR]] j/n:* 
-	- *[[SpO2]]-Kurve:* hilft nur wenn pos.
-	- *[[etCO2]]:* >10 mmHg Chance auf [[ROSC]] 
-	- *[[Arterie]]:* DBP >30-40 mmHg + Kurve
+	- [[SpO2]]-Kurve hilft nur wenn pos.
+	- [[etCO2]] >10 mmHg Chance auf [[ROSC]] 
+	- [[Arterie]] DBP >30-40 mmHg + Kurve
 	- [[POCUS]]
 
 [^1]: Tibballs. Resuscitation 2010. [The influence of time on the accuracy of healthcare personnel to diagnose paediatric cardiac arrest by pulse palpation](https://pubmed.ncbi.nlm.nih.gov/20227813/)

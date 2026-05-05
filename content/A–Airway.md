@@ -20,6 +20,13 @@ title: A–Airway (Atemwegsmanagement)
 - iGEL > King LT (Mortalität)[^1]
 - [Sydney HEMS Airway Registry Video Database](https://sydneyhems.com/airway-registry/cmac-videos/) (PW: AiRblogVideos)
 
+> [!stadien]- Cormack-Lehane
+> - I° Glottis sichtbar
+> - II° Aryknorpel sichtbar
+> - III° Nur Epiglottis sichtbar
+> - IV° Kein Larynx-Anteil sichtbar
+
+
 ## Atemwegstaxonomie
 
 - Critical airways, critical language[^2]

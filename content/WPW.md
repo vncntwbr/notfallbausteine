@@ -10,3 +10,12 @@ aliases:
   - Atrioventrikuläre-Reentry-Tachykardie
 title: Wolff-Parkinson-White-Syndrom (WPW, AVRT)
 ---
+> [!danger]+ Rapid Reference
+> - **Therapie:** [[Ajmalin]]
+> - **KI bei gleichzeitigem [[VHF]] (=FBI):** Negative Dromotropie (Adenosin, [[Betablocker]], [[Digitalis]], [[Calciumantagonisten|Verapamil-Typ]])
+
+> [!ekg]+ EKG
+> - P-Welle nach QRS-Komplex (Orthodrome Form)
+> - Short-PQ
+> - **Deltawelle:** träger QRS-Anstieg
+> - STD

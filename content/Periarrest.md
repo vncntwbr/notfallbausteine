@@ -17,7 +17,7 @@ title: Periarrest / Impending Doom
 > 	- LLS – Looks Like Shit
 > 	- Blass, Kalt
 > 	- Schweißig +/-
-> 	- Psychomotorische Unruhe
+> 	- Psychomotorische Unruhe / Positional Restlessness
 > 	- Air Hunger ([[O2]]-Maske abreißen)
 > 	- Stuhlabgang
 > - **Sagen**

@@ -34,7 +34,12 @@ ICD: R10.4
 > 	- [[Divertikulitis]]
 > 	- [[Hernie]]
 > 	- [[Hodentorsion]], [[STI]]
-> - **Ileus, [[Obstipation]]**
+> - **[[Ileus]], [[Obstipation]]**
+> - **Kinder**
+> 	- Projektion extraabdomineller Beschwerden als "Bauchweh"
+> 	- *Neugeborene:* z.B. Mekoniumileus, NEC (insb. Frühgeborene)
+> 	- *Säuglinge:* z.B. Darminvagination, inkarzerierte Hernie
+> 	- *Ältere K/J:* z.B. [[Hodentorsion]], [[Appendizitis]], [[Gastroenteritis]], [[Obstipation]]
 
 > [!anamnese]-
 > - **S:** OPQRST+? [[Ü+E]]? [[Diarrhoe]]/[[Obstipation]]? Miktion? Ausfluss?

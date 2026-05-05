@@ -1,0 +1,12 @@
+---
+tags:
+  - Fach/Chirurgie
+  - M3
+---
+- **Aneurysma verum:** Aussackung aller 3 Schichten der Gefäßwand
+- **Aneurysma dissecans:** Auseinanderreißen der Media → zweites "falsches" Lumen
+- **Aneurysma spurium:** Hämatom im umliegenden Gewebe (durch Perforation, z.B. nach [[Arterie|Arterienpunktion]]) → bindegewebige Organisation, Ausbildung falscher Gefäßwand
+- **Lokalisationen**
+	- Aorta ([[Aorta|Aortenaneurysma]])
+	- Arterien der Hirnbasis ([[Intrakranielle Blutung|Aneurysmatische SAB]])
+	- A. poplitea (Stent/Bypass ab >2 cm Durchmesser)

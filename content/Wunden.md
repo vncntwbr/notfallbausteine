@@ -56,6 +56,13 @@ title: Wunden & Wundversorgung
 
 ^1d8711
 
+## Hintergrund
+- **Phasen der Wundheilung**
+	- Exsudativ
+	- Resorptiv
+	- Proliferativ
+	- Reparativ
+
 ## Literatur
 - [S3-Leitlinie Lokaltherapie schwerheilender und/oder chronischer Wunden aufgrund von peripherer arterieller Verschlusskrankheit, Diabetes Mellitus oder chronischer venöser Insuffizienz](https://register.awmf.org/de/leitlinien/detail/091-001)
 

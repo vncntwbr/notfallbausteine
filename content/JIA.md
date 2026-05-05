@@ -1,0 +1,25 @@
+---
+tags:
+  - Fach/Rheumatologie
+  - Fach/Pädiatrie
+---
+- **Oligoarthritis**
+- **Polyarthritis**
+	- **Seronegative Polyarthritis**
+	- **Seropositive Polyarthritis**
+	- **Systemische Arthritis (Morbus Still)**
+		- *Symptome:*
+			- Polyarthritis
+			- Generalisierte Lymphadenopathie
+			- Flüchtiges lachsfarbenes Exanthem
+			- Hepatosplenomegalie
+			- Serositis (Peritonitis, Pleuritis, Perikarditis)
+		- *Komplikationen:* [[HLH]] (10%)
+- **Juvenile Psoriasis-Arthritis**
+- **Enthesitis-assoziierte Arthritis**
+- *Symptome außer MSK:*
+	- Uveitis anterior in 50%
+- *Therapie:*
+	- NSAR
+	- MTX
+	- Glucocorticoide intraartikulär (systemisch nur bei schwerem Verlauf, Cave Entwicklungsverzögerung)

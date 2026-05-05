@@ -1,0 +1,20 @@
+---
+tags:
+  - Fach/Pädiatrie
+  - Fach/HNO
+  - Diagnosen
+  - M3
+---
+- **Erreger:** 
+	- Mischinfektion 75%
+	- Pneumokokken 25%
+- **Therapie:**
+	- Symptomatisch: Flüssigkeit, [[NSAR]], abschwellende Nasentropfen
+	- *Indikation Amoxicillin:*
+		- Alter <6 Monate
+		- [[AZ↓]]
+		- bilateral
+		- ausbleibende Besserung <48 h
+- **Komplikationen:**
+	- Mastoiditis / Labyrinthitis
+	- [[Facialisparese]]
