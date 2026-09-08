@@ -1,9 +1,9 @@
 ---
 tags:
   - Probleme/Allgemein
-  - Status/Started
   - Fach/Intensivmedizin
   - Fach/Dermatologie
+  - Status/Done
 title: Anaphylaxie / Allergische Reaktion
 aliases:
   - Allergie
