@@ -11,6 +11,8 @@ ICD: I26
 ---
 ![[RV-Failure#^957508]]
 
+![[Lyse#^a17f57]]
+
 > [!workup]-
 > - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? [[Fieber]]? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
 > - **[[Untersuchung|U]]:** VP, Halsvenenstauung? TVT?
@@ -18,7 +20,7 @@ ICD: I26
 > - **[[POCUS]]:** RHB (D-Sign, TAPSE <16 mm)? Periph. Lungeninfarkte? TVT [[Kompressionssonografie]]?
 > - **[[Labor]]:** BGA ([[Resp. Alkalose]]), Basis-Labor ± [[D-Dimer]], [W] β-HCG
 
-> [!stadien]-
+> [!stadien]- Risikostratifizierung
 > - **High-Risk:** [[Schock]]
 > - **Intermediate-High-Risk:** sPESI ≥1, RHB+, Troponin+
 > - **Intermediate-Low-Risk:** sPESI ≥1, RHB–, Troponin–
@@ -28,7 +30,7 @@ ICD: I26
 > - **High-Risk:** [[Lyse]], RS [[Thrombektomie]], überbrückend UFH [[Perfusor]], ITS
 > - **Intermediate:** NMH, [high] ITS [low] NST
 > - **Low:** DOAK, bei [Hestia-Kriterien](https://www.mdcalc.com/calc/3918/hestia-criteria-outpatient-pulmonary-embolism-treatment) 0 Pkt. ggf. ambulant
-> 	- *Einzelne Subsegementale LAE:* AK nur bei TVT-Nachweis, sonst a.e. falsch-positiv[^1]
+> 	- *Einzelne Subsegementale LAE:* [[AK]] nur bei [[TVT]]-Nachweis, sonst a.e. falsch-positiv[^1]
 
 > [!note]- Textbaustein LAE Ausschluss
 > ```

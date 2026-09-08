@@ -19,6 +19,11 @@ title: esKETAmin / KETAmin
 ---
 - Ketamin i.v. gleich effektiv wie p.i.[^2]
 - Kurzinfusion weniger UAW als Bolus[^1]
+## Inhalativ
+- Drapkin J, Masoudi A, Butt M, Hossain R, Likourezos A, Motov S. Administration of Nebulized Ketamine for Managing Acute Pain in the Emergency Department: A Case Series. Clin Pract Cases Emerg Med. 2020 Jan 2;4(1):16-20. doi: 10.5811/cpcem.2019.10.44582. PMID: 32064416; PMCID: PMC7012556.
+- Kirk, D., Whiles, E., Jones, A. _et al._ Breathing new life into pain management: a systematic review of nebulised ketamine for analgesia. _Scand J Trauma Resusc Emerg Med_ **33**, 196 (2025). https://doi.org/10.1186/s13049-025-01501-4
+
+
 ---
 ![[Pasted image 20250815111751.png]][^3]
 

@@ -18,7 +18,7 @@ tags:
 > 	- *Prävention:* [[Impfung]] (insb. Schwangere), [[Meldepflicht]]
 > - **Ringelröteln:**
 > 	- Guter AZ, Erkältung, girlandenförmig, Slapped Cheek
-> 	- *Komplikationen:* Arthritis, Anämie
+> 	- *Komplikationen:* Arthritis, [[Anämie]]
 > - **Dreitagefieber / Exanthema subitum (HHV):**
 > 	- Guter AZ, plötzlich hohes Fieber, stammbetontes Exanthem
 > 	- Oft [[Fieberkrampf]]

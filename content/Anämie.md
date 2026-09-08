@@ -102,6 +102,9 @@ ICD: D50-D64
 > - Bei Auftreten von Kreislaufbeschwerden, Ohnmacht, Brustschmerzen, Schwindel insb. beim Aufstehen, deutlicher Blässe, Luftnot, blutigem oder schwarz verfärbten Stuhlgang umgehende Wiedervorstellung über eine Klinik für Notfallmedizin.
 > ```
 
+## Learning
+
+
 ## Literatur
 - [Querschnitts-Leitlinien zur Therapie mit Blutkomponenten der Bundesärztekammer 2020](https://www.bundesaerztekammer.de/fileadmin/user_upload/_old-files/downloads/pdf-Ordner/MuE/Querschnitts-Leitlinien_BAEK_zur_Therapie_mit_Blutkomponenten_und_Plasmaderivaten-Gesamtnovelle_2020.pdf)
 

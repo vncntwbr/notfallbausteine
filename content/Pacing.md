@@ -6,6 +6,8 @@ tags:
 title: Schrittmacher-Therapie (Pacing)
 aliases:
   - Schrittmacher
+  - ICD
+  - CRT
 ---
 
 - Percussion Pacing, Transcutanes Pacing und Transvenöses Pacing erzielen identischen [[Cardiac Output]] – Case Report mit PAK in situ auf ITS während alle 3 Modalitäten nacheinander gemacht wurden[^1]
@@ -23,10 +25,19 @@ aliases:
 > 	- *AAI:* Sinusbradykardie
 > 	- *VAT:* [[AV-Block]]
 > 	- *DDD:* Standard heutzutage
+## ICD
 
-![[ICD]]
-![[CRT]]
+- **Indikationen**
+	- Primärprophylaxe ischämische HFrEF <35%
+	- Primärprophylaxe [[Kardiomyopathie|ARVD]], [[Kardiomyopathie|HOCM]], [[Brugada]], [[Long-QT]]
+	- Sekundärprophylaxe Z.n. VF/[[VT]]
+## CRT
 
+- Elektroden in RV + LV triggern gleichzeitig auf Sensor im RA
+- **Indikation**
+	- ==HFrEF <35% mit LSB==
+
+## Überblick
 ![](https://media-de.amboss.com/media/thumbs/big_59ad232cb626b.jpg)
 
 [^1]: Chan, Cliff Reid, Bruce Taylor. Resuscitation 2002. [Effect of three emergency pacing modalities on cardiac output in cardiac arrest due to ventricular asystole](https://www.resuscitationjournal.com/article/S0300-9572(01)00431-2/fulltext)

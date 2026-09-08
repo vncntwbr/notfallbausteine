@@ -8,7 +8,7 @@ title: Kindernotfall
 ---
 > [!danger]+ Rapid Reference
 > - **Gewicht:** 1 J. 10 kg, 3 J. 15 kg, 5 J. 20 kg, 7 J. 25 kg, 9 J. 30 kg
-> - **Volumen:** 10 ml/kg, 1x wdh.
+> - **Volumen:** 10-20 ml/kg, 1x wdh.
 > - **[[Adrenalin]]:** 10 μg/kg i.v. ([[CPR]]) / i.m. ([[Anaphylaxie]])
 > - **Glucose:** G10% 3 ml/kg
 > - **[[Defibrillation]]:** 4 J/kg

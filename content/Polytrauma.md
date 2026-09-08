@@ -19,8 +19,7 @@ title: Polytrauma (PYT)
 > 8. **[[RSI]]:** ggf. ROC-only
 > 9. **[[Hirndruck]]:** OK-Hoch, NaCl 3%, Target RRsys 110
 > 10. **Extremitäten:** Reposition bei pDMS↓
-> 
-> **Disposition:** [[CT]] vs. [[OP]] vs. IR vs. [[Thorakotomie]] / [[REBOA]] – im Zweifel [[CT]], kein stay&play
+> 11. **Disposition:** [[CT]] vs. [[OP]] vs. IR vs. [[Thorakotomie]] / [[REBOA]] – im Zweifel [[CT]], kein stay&play
 
 ^21d263
 

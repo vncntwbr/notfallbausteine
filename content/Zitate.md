@@ -58,6 +58,9 @@ title: Zitate / Quotes
 ^1fca2b
 
 > "First, do no harm."
+
+> "Listen to your patient. He is telling you the diagnosis." –Sir William Osler
+
 ## Science allgemein
 > "All models are wrong, but some are useful." –George Box
 

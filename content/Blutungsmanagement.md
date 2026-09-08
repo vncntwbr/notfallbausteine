@@ -19,7 +19,7 @@ aliases:
   - X
   - Blutstillung
 ---
-> [!danger]+ Blutungsmanagement allgemein
+> [!danger]+ Blutungsmanagement Allgemein
 > 1. **BLUTUNGskontrolle:** ==Turn off the Tap!==
 > 2. **BASICS:** Hilfe, Monitor, Wärme, O2, Zugänge (14G, [[i.o.]], Shaldon)
 > 3. **LABOR:** Blutgruppe, gekreuzte Blutprodukte anfordern, BB, INR, PTT, Fibrinogen, [[ROTEM]], alle 15 min [[BGA]]
@@ -40,21 +40,31 @@ aliases:
 > 	-  **Startpaket:** 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 2 FFP + PPSB 2.500 IE
 > 	-  **Weitere Pakete:** Fibrinogen 2 g + 1 [[Transfusion|TK]] + 4 [[Transfusion|EK]] + 4 FFP
 > 	- **Ultima Ratio:** ggf. F.XIII 1250-2500 IE, rF.IIa 90 μg/kg
+
+> [!peds]- Pädiatrische Dosierungen
+> - EK, FFP, TK, Cryo je 10-20 ml/kg
+> - [[TXA]] 15 mg/kg
+> - Calciumgluconat 10% 0.3 ml/kg
+
+
 <div style="page-break-after: always;"></div>
+
 
 > [!danger]- Blutungskontrolle Kopf/Hals
 > - **Skalpierung:** 
 > 	- Lokale Kompression / Druckverband
 > 	- Tacker / Hämostatische Naht
 > 	- Lidocain+Adrenalin (venöse Blutung)
-> - **[[Epistaxis]]:** TODO
+> - **[[Epistaxis]]:**
+> 	- Manuelle Kompression, Tupfer+Adrenalin
+> 	- ggf. Rapid-Rhino
 > - **Post-Tonsillektomie:** 
-> 	- Magill-Zange mit Tupfer+[[Adrenalin]]
+> 	- Magill-Zange mit Tupfer+[[Adrenalin]] (ggf. zuvor DSI mit [[esKETAmin]])
 > 	- [[TXA]] inhalativ
 
 > [!danger]- Blutungskontrolle Trauma
 > - **Extremitäten:** Lokale Kompression, Druckverband, Hochlagerung, TQ
-> - **Penetrierend Junktional:** DK blocken+klemmen, Annaht
+> - **Penetrierend Junktional:** DK blocken+klemmen, annähen
 > - **[[Beckentrauma]]:** Beckenschlinge
 > - **Frakturen Röhrenknochen:** [[Reposition]], Traction Splint
 > - **MaxFax:** [[Reposition]], [[RSI]] mit [[SALAD]], Epistats, Biteblocks, Stifneck
@@ -66,20 +76,16 @@ aliases:
 > 	- [[BSK]]
 > 	- [[RSI]] zurückhaltend
 > - **[[GI-Blutung]]:**
-> 	- Terlipressin 1-2 mg i.v.
+> 	- PPI 80 mg i.v. + Terlipressin 1-2 mg i.v.
 > 	- ÖGD, alternativ Ballontamponade
 > - **[[Intrakranielle Blutung]]:** 
 > 	- RRsys <140 ([[SAB]]), <160 ([[ICB]])
 > - **[[PPH]]:** 
 > 	- Bimanuelle Uterus-Kompression
 > 	- Oxytocin 20 IE
-> 	- [[TXA]] 2g
+> 	- [[TXA]] 2g i.v.
 > 	- DK (Blase leeren)
-
-> [!peds]- Pädiatrische Dosierungen
-> - EK, FFP, TK, Cryo je 10-20 ml/kg
-> - [[TXA]] 15 mg/kg
-> - Calciumgluconat 10% 0.3 ml/kg
+<div style="page-break-after: always;"></div>
 
 
 

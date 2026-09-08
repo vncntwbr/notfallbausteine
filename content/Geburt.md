@@ -29,7 +29,8 @@ title:
 > - ggf. CTG-Monitoring
 > - **[[Labor]]:** [[BGA]], Profil "Synkope", Blutgruppe
 
-> [!stadien] [APGAR](https://www.mdcalc.com/calc/23/apgar-score)
+> [!stadien]- [APGAR](https://www.mdcalc.com/calc/23/apgar-score)
+> ![[Pasted image 20260505114127.png]]
 
 > [!management]- Vorbereitung
 > 1. **PSA:** Handschuhe, Kittel, Schutzbrille

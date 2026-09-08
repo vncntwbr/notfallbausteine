@@ -85,6 +85,13 @@ config:
 ## Literatur
 - [S2e-Leitlinie Schädel-Hirn-Trauma im Erwachsenenalter](https://register.awmf.org/de/leitlinien/detail/008-001)
 - Post-[[RSI]] Hypotonie tötet (30d-Mortalität 43% vs. 27%)[^1]
+- Shah SN, Chizuk HM, Fong H, Hannon M, Mannix RC. Does This Child Have a Concussion? The Rational Clinical Examination Systematic Review. _JAMA._ 2026;335(17):1515–1524. doi:10.1001/jama.2026.1233
+	- „Mental fog“ als Red Flag: Stark erhöhter diagnostischer Wert (LR ~12) → eines der spezifischsten Symptome
+	- Licht/Lärmempfindlichkeit: Hohe Spezifität (~0,93–0,94) → klinisch sehr hilfreich zur Bestätigung  
+	- Übelkeit:Ebenfalls mit hoher diagnostischer Aussagekraft (LR ~6,7)  
+	- Okulomotorische Auffälligkeiten: gestörte Nahpunktkonvergenz, auffällige Sakkaden, unruhige Smooth-Pursuits → hohe Spezifität, aber geringe Sensitivität → selten, aber wenn vorhanden, sehr aussagekräftig  
+	- Kein Kopfschmerz? Senkt die Wahrscheinlichkeit deutlich (LR ~0,20)  
+	- Wichtig: Kein einzelnes Symptom reicht zur sicheren Diagnose oder zum Ausschluss → Kombination entscheidend
 
 [^1]: Price J, Lachowycz K, Major R, McLachlan S, Keeliher C, Finbow B, et al. Prehospital postintubation hypotension and survival in severe traumatic brain injury. JAMA Netw Open. 2025;8(11):e2544057. doi:10.1001/jamanetworkopen.2025.44057.
 	

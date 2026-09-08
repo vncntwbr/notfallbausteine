@@ -11,3 +11,6 @@ tags:
 	- ==A. thoracica interna LIMA/RIMA== (nur 1 Anastomose nötig)
 	- A. radialis
 	- V. saphena magna (nur bei Älteren, schlechtere Offenheitsrate)
+
+## Post-OP Anatomie
+![[Pasted image 20260505121038.png]]

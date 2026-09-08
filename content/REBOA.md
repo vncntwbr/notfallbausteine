@@ -32,3 +32,6 @@ title: Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA)
 ## Literatur
 - [LITFL: REBOA](https://litfl.com/reboa-in-resuscitation/)
 - [Deranged Physiology: REBOA](https://derangedphysiology.com/main/required-reading/trauma-intensive-care/Chapter-407/resuscitative-endovascular-balloon-occlusion-aorta)
+- Kein Benefit in OHCA medical arrest[^1]
+
+[^1]: Brede, J.R., Farbu, B.H., Gamberini, L. _et al._ Prehospital resuscitative endovascular balloon occlusion of the aorta in non-traumatic out-of-hospital cardiac arrest (REBOARREST): an international, multicentre, open label, pragmatic, randomised, controlled trial. _Crit Care_ (2026). https://doi.org/10.1186/s13054-026-06057-y
