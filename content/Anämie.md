@@ -11,7 +11,7 @@ ICD: D50-D64
 > -  **Hämorrhagischer Schock?** → [[Blutungsmanagement]]
 > - **Def:** [W] Hb <12 g/dl ≈ <7.5 mM, [M] Hb <13 g/dl ≈ <8.0 mM
 > - **Klassifikation:** mikro/hypo MCV↓ MCH↓ vs. makro/hyper MCV↑ MCH↑
-> - ==**Anämische [[Hypoxie]]?**== Unter Euvolämie 1 von: Tachypnoe, [[Dyspnoe]], [[Tachy]], [[Hypotonie]], [[Ischämie-EKG]], [[Lactat]]
+> - **==Anämische [[Hypoxie]]?==** Unter Euvolämie 1 von: Tachypnoe, [[Dyspnoe]], [[Tachy]], [[Hypotonie]], [[Ischämie-EKG]], [[Lactat]]
 
 > [!dd]- DD
 > - **Bildung↓**
