@@ -15,6 +15,7 @@ tags:
 > 5. **[[Pneu]]** ausschließen, repetitiv [[POCUS]]
 > 6. **Xtra Medis:** [[Adrenalin]] p.i., [[MgSO4]] 2 g KI, VEL 1-2 L, [[Cortison|Prednisolon]] 250 mg, [[Adrenalin]]-[[Perfusor]], ggf. vvECMO
 > 7. **<4 min Oxygenierung**, sonst direkt [[eFONA]]
+^1c6c10
 
 ## Literatur
 - [AMAX4](https://www.amax4.org/)
