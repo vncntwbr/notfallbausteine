@@ -12,7 +12,7 @@ ICD: X49.9!, R78
 > 1. **[[ABCDE]]-Resuscitation**
 > 2. **Spezifische Antidote**
 > 	- *[[Opioide]]:* Naloxon 0.4 mg i.m. / in 0.04 mg Schritten i.v.
-> 	- *[[Betablocker]]/[[Calciumantagonisten]]:* [[Adrenalin]], Insulin/Glucose ([[HDIT]]), ggf. Ca2+
+> 	- *[[Betablocker]]/[[Calciumantagonisten]]:* [[Adrenalin]]↑↑, Insulin/Glucose ([[HDIT]]), Ca2+
 > 	- *[[Na+ Kanal Blocker|TCA]]:* [[Bicarbonat|NaBic]] 8.4% 100 ml, Kohle, [[EKG]]
 > 	- *Cyanid/CO:* Hydroxycobalamin (Cyanokit®) 5 g KI
 > 	- *[[Anticholinerg]]:* [[Physostigmin]] 2 mg i.v.

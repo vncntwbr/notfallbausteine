@@ -9,11 +9,13 @@ tags:
 >[!danger]+ Crashing RV
 > 1. **FiO2 100%** (pulmonale Vasodilatation), a.e. HFNC, minimal PEEP
 > 2. **[[Adrenalin]]** oder **Vasopressin** 1 IE Boli primär, alt. [[NA]], minimal VEL
-> 3. **Nitroglycerin** 5 mg vernebeln
-> 4. **[[Lyse]] bei [[LAE]]** + Heparin 5.000 IE
-> 	-  *Normal:* Gesamtdosis Alteplase (Actilyse) 1.5 mg/kg max. 100 mg, davon 10 mg in 2 min, Rest über 2h, Reevaluation nach 1h ob Rest nötig
+> 3. **Nitroglycerin** i.v.-Lösung 5 mg vernebeln
+> 4. **[[Lyse]] bei [[LAE]]** 
+> 	- +Heparin 5.000 IE
+> 	-  *Normal:* Gesamtdosis Alteplase (Actilyse®) 1.5 mg/kg max. 100 mg, davon 10 mg in 2 min, Rest über 2h, Reevaluation nach 1h ob Rest nötig
 > 	-  *Akzeleriert (Peri-)Arrest:* 50 mg Bolus + 50 mg über 15 min
-> 5. **[[ECMO]]?**
+> 	- [[CPR]] nach Lyse 90 min fortführen
+> 5. **[[ECMO]]?** (Lyse ist keine KI)
 
 ^957508
 

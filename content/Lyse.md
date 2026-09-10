@@ -12,25 +12,7 @@ title: Medikamentöse Thrombolyse/Lyse
 > 3. **VP:** Monitoring, RRsys <180 (Urapidil 5 mg-weise i.v.)
 > 4. **Tenecteplase (Metalyse®)** 0.25 mg/kg bis max. 25 mg Bolus i.v.
 
-> [!workup]- Checkliste KI vor Lyse bei [[LAE]]
-> - **Absolute KI** (außer unter CPR Einzelfallentscheidung)
-> 	- Z.n. [[Intrakranielle Blutung]]
-> 	- Z.n. [[Stroke]] <6 Monate
-> 	- ZNS-Tumor
-> 	- Relevantes Trauma/OP oder [[SHT]] <3 Wochen
-> 	- Blutungsneigung oder aktive Blutung
-> - **Relative KI** (Einzelfallentscheidung)
-> 	- [[Stroke|TIA]] <6 Monate
-> 	- Bestehende [[AK|Antikoagulation]]
-> 	- [[Schwanger|Schwangerschaft]] bis 1 Woche postpartum
-> 	- Punktionen an nicht komprimierbaren Stellen (z.B. [[LP]], Subclavia)
-> 	- [[Trauma-CPR]]
-> 	- Therapierefraktäre [[HTN]] RRsys >180 mmHg
-> 	- Schwere Lebererkrankung
-> 	- [[Endokarditis]]
-> 	- GI-Ulcera
 
-^a17f57
 
 > [!workup]- Checkliste KI vor Lyse bei [[Stroke]] (alles "nein")
 > - [ ] Onset sicher >4.5h (ggf. bis 9h indiv. Heilversuch bei Mismatch)

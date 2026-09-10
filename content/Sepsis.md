@@ -130,7 +130,7 @@ ICD: R57.2
 > - **Infizierte Harnstauungsniere:** Notfall-OP Uro
 > - **Fournier-Gangrän:** Notfall-OP Uro
 > - **Nekrotisierende Fasziitis:** Notfall-OP ACh
-> - **Orbitaphlegmone:** MKG
+> - **[[Orbitaphlegmone]]:** MKG
 > - **Zahn-Abszess:** MKG
 > - **VP-Shunt-Infektion:** NCh
 > - **Prothesen-Infekt:** Implantierende Fachrichtung

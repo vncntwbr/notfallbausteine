@@ -7,7 +7,7 @@ title: Point-of-Care Ultraschall / Sonografie (POCUS)
 OPS: 3-03
 ---
 - **Undifferenziert**
-	- [[RUSH]]
+	- [[RUSH]] ^609519
 	- [[eFAST]]
 - **Herz + Gefäße**
 	- [[TTE]]

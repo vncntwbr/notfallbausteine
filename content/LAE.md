@@ -11,7 +11,24 @@ ICD: I26
 ---
 ![[RV-Failure#^957508]]
 
-![[Lyse#^a17f57]]
+> [!danger]- Checkliste KI vor Lyse bei LAE
+> - **Absolute KI** (außer unter CPR Einzelfallentscheidung)
+> 	- Z.n. [[Intrakranielle Blutung]]
+> 	- Z.n. [[Stroke]] <6 Monate
+> 	- ZNS-Tumor
+> 	- Relevantes Trauma/OP oder [[SHT]] <3 Wochen
+> 	- Blutungsneigung oder aktive Blutung
+> - **Relative KI** (Einzelfallentscheidung)
+> 	- [[Stroke|TIA]] <6 Monate
+> 	- Bestehende [[AK|Antikoagulation]]
+> 	- [[Schwanger|Schwangerschaft]] bis 1 Woche postpartum
+> 	- Punktionen an nicht komprimierbaren Stellen (z.B. [[LP]], Subclavia)
+> 	- [[Trauma-CPR]]
+> 	- Therapierefraktäre [[HTN]] RRsys >180 mmHg
+> 	- Schwere Lebererkrankung
+> 	- [[Endokarditis]]
+> 	- GI-Ulcera
+
 
 > [!workup]-
 > - **[[Anamnese|A]]:** [S] OPQRST+, atemabh./pleuritisch? [[Dyspnoe]]? [[Synkope]]? [[Fieber]]? Beine? [M] Hormone? AK? Adhärenz? [P] Onko? TVT/LAE? Thrombophilie? Schwanger/Wochenbett? [E] Immobilisation/OP? [R] Familie?
@@ -31,6 +48,8 @@ ICD: I26
 > - **Intermediate:** NMH, [high] ITS [low] NST
 > - **Low:** DOAK, bei [Hestia-Kriterien](https://www.mdcalc.com/calc/3918/hestia-criteria-outpatient-pulmonary-embolism-treatment) 0 Pkt. ggf. ambulant
 > 	- *Einzelne Subsegementale LAE:* [[AK]] nur bei [[TVT]]-Nachweis, sonst a.e. falsch-positiv[^1]
+
+## Textbausteine
 
 > [!note]- Textbaustein LAE Ausschluss
 > ```

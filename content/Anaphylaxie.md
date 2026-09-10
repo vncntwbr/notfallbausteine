@@ -41,6 +41,7 @@ aliases:
 > - [PEN-FAST](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast?uuid=401c81cd-26bc-4646-b32b-5c564580c2b7&utm_source=mdcalc) 0 Pkt. → Allergie de-labeln, Beta-Laktam verabreichen
 > - [PEN-FAST](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast?uuid=401c81cd-26bc-4646-b32b-5c564580c2b7&utm_source=mdcalc) ≥1 Pkt. + anamnestisch schwere [[Anaphylaxie]] → Pencilline meiden + Cephalosporine möglichst auch
 > - [PEN-FAST](https://www.mdcalc.com/calc/10422/penicillin-allergy-decision-rule-pen-fast?uuid=401c81cd-26bc-4646-b32b-5c564580c2b7&utm_source=mdcalc) ≥1 Pkt. + anamnestisch leichte/mittlere Reaktion → Pencilline meiden + Cephalosporine Gen. 3/4/5 bei klarem Benefit / first choice trotzdem verabreichen[^1]
+
 ^21f3ac
 
 ![[Schock#^5a5cb6]]

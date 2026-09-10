@@ -29,7 +29,7 @@ title: Antikoagulation (AK) & Thromboseprophylaxe inkl. Heparin (UFH/NMH), DOAK 
 > 	- *KI:* GFR <15
 > 	- *Cave:* HIV-Meds, Carbamazepin, Verapamil, Clarithromycin, Dronedaron
 > - **VKA:** Initial UFH-Bridging, d1: 9 mg, d2: 6 mg, d3: 3 mg, INR-Kontr. Ziel 2-3
-> 	- *Indikation:* Valv. VHF, [[Antiphospholipid]], Mech. Herzklappe (Ak INR 2.5, Mk 3.0)
+> 	- *Indikation:* Valv. [[VHF]], [[Antiphospholipid]], Mech. Klappe (Ak INR 2.5, Mk 3.0)
 
 > [!danger] Antagonisierung siehe [[Blutungsmanagement]]
 ## Literatur

@@ -12,11 +12,12 @@ tags:
   - Fach/Toxikologie
   - Interventionen/EKG
   - Diagnosen/Killer
+  - Status/Done
 ---
 > [!danger]+ Rapid Reference
 > - **Antidot:** [[Bicarbonat|NaBic]] 8.4% 100 ml Bolus i.v.
 
-> [!dd]- DD Na+ Kanal Blocker
+> [!dd]+ DD Na+ Kanal Blocker
 > - ==Trizyklische Antidepressiva (TCA)==
 > - [[Antiarrhythmika]] Ia/Ic, [[Lokalanästhetika]], Chloroquine, Propranolol, Carbamazepin
 
@@ -26,7 +27,7 @@ tags:
 > - Sinustachykardie (aufgr. [[Anticholinerg|anticholinerge]] M1-Blockade)
 > - [[Long-QT]]
 
-> [!Workup]-
+> [!Workup]+
 > - **Symptome:** [1-3h] Müdigkeit, [[Hypotonie]], Sinustachykardie, [schwerer Verlauf] ==[[Anticholinerg]]==, [[Delir]], [[Vigilanz↓|Koma]], ==[[QRS-Verbreiterung]]/[[VT]]==, [[HypoK+]], [[HypoNa+]]
 > - **Überwachung:** [[Tachy]] +12h, [[EKG]]-Veränderungen +24h, beschwerdefrei (und kein Retard) +6h
 

@@ -10,7 +10,7 @@ aliases:
 > [!dd]+ Kritische DD bei Pain out of Proportion
 > - **Kopf/Hals**
 > 	- [[SAB]]
-> 	- Orbitaphlegmone
+> 	- [[Orbitaphlegmone]]
 > 	- Maligne Otitis externa
 > 	- Mundbodenabszess (Ludwig's Angina)
 > - **Thorax**
