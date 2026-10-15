@@ -5,6 +5,7 @@ tags:
   - Status/Done
   - Fach/Labormedizin
   - Favourites
+  - Karteikarten
 title: Blutgasanalyse (BGA)
 ---
 > [!danger]+ BGA Rapid Reference
@@ -27,7 +28,13 @@ title: Blutgasanalyse (BGA)
 <div style="page-break-after: always;"></div>
 ---
 
-![[Met. Azidose]]
-![[Met. Alkalose]]
-![[Resp. Azidose]]
-![[Resp. Alkalose]]
+- [[Met. Azidose]]
+- [[Met. Alkalose]]
+- [[Resp. Azidose]]
+- [[Resp. Alkalose]]
+## Lernen
+Umrechnen V→A:: pH +0.03, pCO2 –5 mmHg
+Adäquate Kompensation [[Met. Azidose]]:: ∆pCO2 = SBE, max. bis 10 mmHg
+Adäquate Kompensation [[Met. Alkalose]]:: ∆pCO2 = SBE x 0.5
+Adäquate Kompensation Akut Respiratorisch (<2-5 d):: SBE = 0
+Adäquate Kompensation Chronisch Respiratorisch:: SBE = ∆pCO2 x 0.33

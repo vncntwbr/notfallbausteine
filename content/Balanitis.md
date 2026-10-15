@@ -3,7 +3,6 @@ tags:
   - Diagnosen
   - Fach/Urologie
   - Status/Done
-  - Lernen
 title: Balanitis / Eichelentzündung
 aliases:
   - Eichelentzündung

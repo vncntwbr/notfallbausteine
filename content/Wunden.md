@@ -51,7 +51,6 @@ title: Wunden & Wundversorgung
 > Empfehlungen:
 > - Wunde sauber und trocken halten, Spannung/Belastung auf dem Hautareal vermeiden. Möglichst für 3 Tage nicht mit Wasser in Kontakt bringen (Stelle beim Duschen z.B. mit Duschverband abdecken)
 > - Fadenzug frühestens in 5 Tagen, z.B. beim Hausarzt.
-> - Bei lokalen Entzündungszeichen (Rötung, Schwellung, zunehmende Schmerzen, eitriger Ausfluss) umgehende ärztliche Vorstellung.
 > ```
 
 ^1d8711

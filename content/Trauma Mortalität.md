@@ -1,7 +1,7 @@
 ---
 tags:
   - Fach/OrthoTrauma
-  - Konzept
+  - Meta
 aliases:
   - Golden Hour
 title: Trauma Mortalität & Golden Hour

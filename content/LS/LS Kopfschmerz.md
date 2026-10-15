@@ -1,0 +1,19 @@
+---
+tags: LS
+---
+- **Vaskulär**
+	- ! [[Intrakranielle Blutung|SAB]] / [[Intrakranielle Blutung]] / [[Stroke]]
+	- ! [[Sinusvenenthrombose]]
+	- ! [[Riesenzellarteriitis]]
+	- [[HTN|Hypertensive Entgleisung]]
+- **Infektiös**
+	- ! [[Meningitis]]
+	- Enzepahlitis
+- **Sonstige Genese**
+	- ! [[Glaukom]]
+	- [[SHT]]
+	- Hirntumor
+- **Primäre Kopfschmerzen**
+	- Migräne (über Stunden, Phono-/Photophobie, Ruhe)
+	- Spannungskopfschmerz ("normal")
+	- Clusterkopfschmerz (streng einseitig, stechend, +vegatativ)

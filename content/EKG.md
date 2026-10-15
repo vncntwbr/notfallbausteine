@@ -25,7 +25,7 @@ title: Elektrokardiogramm (EKG)
 
 > [!note]- Textbaustein EKG
 > ```
-> EKG: nfSR. PQ nw. QRS schmal. Achse [IT/ST]. R/S in V3/V4. ST isoelektrisch. T konkordant. QTc visuell nw.
+> nfSR [] bpm. PQ nw. QRS schmal. Normale Achse. R/S in V3/V4. ST isoelektrisch. T konkordant. QTc visuell nw.
 > ```
 
 ^1b04ab

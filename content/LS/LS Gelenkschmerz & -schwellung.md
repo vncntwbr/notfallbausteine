@@ -1,0 +1,20 @@
+---
+tags: LS
+---
+- **Monoartikulär:**
+	- [[Gicht]] (20%)
+	- ! Septische Arthritis
+	- Osteoarthritis
+	- Rheumatoide Arthritis
+	- Lupus
+	- CPPD / Pseudogicht
+	- Spontanes Hämarthros
+	- Charcot-Fuß
+- **Polyartikulär:**
+	- Reaktive Arthritis
+	- Virale Arthritis
+	- Rheumatoide Arthritis
+	- [[Borreliose]]
+	- Seroneg. Spondylarthritiden
+	- Lupus
+	- Rheumatisches Fieber

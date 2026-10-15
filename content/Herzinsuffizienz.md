@@ -4,6 +4,7 @@ tags:
   - Status/Started
   - Diagnosen
   - Literatur/NVL
+  - Karteikarten
 aliases:
   - Kardiale Dekompensation
 title: Herzinsuffizienz & Kardiale Dekompensation
@@ -93,7 +94,8 @@ ICD: I50
 	- Wärme[^3]
 - To Read[^1]
 	- Nitroglycerin is the first line medication in patients with acute heart failure who are not in cardiogenic shock as it reduced afterload and preload and redistributes fluid from the pulmonary system rapidly. Start Nitro  50-100 μg/min
-
+## Lernen
+CHAMPIT:: Coronarsyndrom/ACS, [[HTN|Hypertensiver Notfall]], Arrhythmie, Mechanisch (z.B. Vitien, Komplikationen bei Intervention), [[LAE|PE]], [[Sepsis|Infektion]], [[Perikarderguss|Tamponade]]
 ## Literatur
 - [S3-Leitlinie NVL Chronische Herzinsuffizienz](https://register.awmf.org/de/leitlinien/detail/nvl-006)
 

@@ -1,0 +1,26 @@
+---
+tags: LS
+---
+- **Kardiovaskulär:**
+	- ! ACS
+	- ! [[Aorta]]
+	- ! [[LAE]]
+	- [[AS|Aortenklappenstenose]]
+	- [[Perikarderguss]]
+	- [[Perimyokarditis]]
+	- [[VHF]]
+	- [[HTN|Hypertensive Entgleisung]]
+- **Pulmonal:**
+	- ! [[Pneu]]
+	- [[Pneumonie]]
+	- Pleuritis (sicca)
+- **Gastrointestinal:**
+	- ! [[Ösophagusruptur]]
+	- GERD, [[Gastritis]], GI-Ulcus
+	- [[Pankreatitis]]
+- **Sonstiges:**
+	- [[Anämie]]
+	- Muskuloskelettal
+	- Funktionelle/psychogene Beschwerden
+	- [[Zoster]] (Schmerzen oft vor Exanthem)
+	- BWS-Syndrom

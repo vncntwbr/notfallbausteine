@@ -19,6 +19,8 @@ tags:
 > Das ASS ("Aspirin") aus der Dauermedikation muss mindestens 30 min vor den Schmerzmitteln eingenommen werden, ansonsten wird seine Wirkung abgeschwächt.
 > ```
 
+^3ae076
+
 > [!management]- Grundsätzliches Schmerzmanagement
 > - **Nach [[Anamnese|Schmerzanamnese]] OPQRST+:**
 > 	- *Nozizeptiv (dumpf, stechend, etc.):* Standard

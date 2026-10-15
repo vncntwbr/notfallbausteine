@@ -4,6 +4,7 @@ tags:
   - Fach/Infektiologie
   - Diagnosen
   - Status/Started
+  - Karteikarten
 aliases:
 title: Pneumonie (CAP, HAP, VAP)
 ICD: J18
@@ -83,7 +84,13 @@ ICD: J18
 > ```
 
 - Steroide bei schwerer CAP ([[NIV]]/ITN/ITS, exkl. Influenza, Aspiration)[^1][^2]
-
+## Lernen
+[[ABx]] leichte CAP:: Amoxicillin 1 g p.o.
+[[ABx]] mittlere CAP:: Ampicillin+Sulbactam 3 g i.v. + Azithromycin 500 mg p.o.
+[[ABx]] schwere CAP:: Piperacillin+Tazobactam 4.5 g i.v. + Azithromycin 500 mg p.o./i.v.
+[[ABx]] V.a. MRSA:: +Linezolid 600 mg i.v.
+PJP Hinweise:: HIV/AIDS oder schwere Immunsuppression, "schmetterlingsförmige" Infiltrate, LDH↑↑
+PJP Therapie:: Cotrimoxazol hochdosiert
 ## Literatur
 - [S3-Leitlinie Nosokomiale Pneumonie](https://register.awmf.org/de/leitlinien/detail/020-013)
 - [S3-Leitlinie Ambulant erworbene Pneumonie](https://register.awmf.org/de/leitlinien/detail/020-020)

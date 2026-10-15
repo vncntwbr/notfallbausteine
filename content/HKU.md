@@ -2,7 +2,6 @@
 tags:
   - Fach/Kardiologie
   - Interventionen
-  - Lernen
 aliases:
   - Herzkatheter
   - PCI

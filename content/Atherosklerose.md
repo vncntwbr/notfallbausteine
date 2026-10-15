@@ -2,7 +2,7 @@
 tags:
   - Diagnosen/Chronisch
   - Fach/Kardiologie
-  - Lernen
+  - Karteikarten
 ---
 *Beeinflussbare Hauptrisikofaktoren* (5)
 ?

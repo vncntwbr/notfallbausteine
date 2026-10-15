@@ -9,7 +9,7 @@ OPS: 1-10
 ---
 > [!note]- Textbaustein Untersuchung kompakt
 > ```
-> AZ [gut], EZ [normosom]. Wach, freundlich zugewandt (GCS A4/V5/M6=15). PERRL. Normotherm. Orientiert zu ZOSP, Sprache opB, Stand+Gang sicher. 
+> AZ gut, EZ normosom. Wach, freundlich zugewandt. GCS 15 (A4/V5/M6). Orientiert zu ZOSP, PERRL, kein Meningismus, Sprache opB, Stand+Gang sicher. Normotherm. 
 > Pulmo: Eupnoe AF [] in Ruhe, Normoxie SpO2 [] % unter RL. Sgl. VAG ohne RG/NG.
 > Cor: Haut warm + rosig, MSH feucht, Recap prompt. Puls radial kräftig, normofrequent, rhythmisch, HF [] bpm. Normoton RR [###/###] mmHg. Keine periph. Ödeme, VJI nicht gestaut. 
 > Abdomen: Weich, keine Resistenz, keine Druckdolenz. Keine Effloreszenzen.

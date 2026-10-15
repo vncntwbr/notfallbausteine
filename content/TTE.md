@@ -16,7 +16,7 @@ title: Transthorakale Echokardiografie (TTE)
 
 > [!note]- Textbaustein TTE kompakt
 > ```
-> Fokussierte TTE n. FATE-Protokoll: Kein Perikarderguss, EF orientierend a.e. [normodynam] (EPSS [≤7] mm, entspricht geschätzter LVEF [75.5 – (2.5 x EPSS in mm)]), kein H.a. RHB (TAPSE [≥18] mm), kein H.a. regionale WBS in 4AC+PSAX. Ak ohne höhergradiges Vitium (Vmax [] mm). Keine Pleuraergüsse. Pulmo bds. Pleuragleiten, [≤3] B-Lines/Fenster. IVC [schlank], [atemmoduliert].
+> fTTE: Kein Perikarderguss, EF orientierend a.e. normodynam (EPSS [≤7] mm), kein H.a. RHB (TAPSE [≥18] mm), kein H.a. regionale WBS in 4AC+PSAX. Ak ohne höhergradiges Vitium (Vmax [] mm), keine MI. Keine Pleuraergüsse. Pulmo bds. Pleuragleiten, [≤3] B-Lines/Fenster. IVC atemmoduliert.
 
 ^1fb4f0
 

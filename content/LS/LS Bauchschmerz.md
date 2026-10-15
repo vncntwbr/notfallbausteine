@@ -1,0 +1,39 @@
+---
+tags:
+  - LS
+  - Status/Done
+---
+- **Schock + Bauchschmerz**
+	- ! Aorta
+	- ! Perforation (Hohlorgane/EUG)
+	- ! Sepsis
+	- ! GI-Blutung
+- **Peritonitisch**
+	- ! Mesenterialischämie
+	- ! DKA
+	- Seltenes (Abd. Angioödem, FMF, Porphyrie, Addison, Endometriose, Malaria u.a.)
+- **Oberbauch**
+	- ! ACS, Rechtsherzinsuffizienz (Leberkapselschmerz)
+	- ! Ösophagusruptur
+	- Gallenerkrankungen
+	- Pankreatitis
+	- Hepatitis
+	- Gastritis, GERD, GI-Ulcus
+	- Gastroenteritis
+	- Flanken: Urolithiasis
+	- Milzruptur
+	- Pneumonie, Pleuritis u.ä.
+- **Mittel-/Unterbauch**
+	- ! Appendizitis vs. ♀︎ Salpingitis/PID (bds. Druckschmerz LR+ 17)
+	- ! ♀︎ Ovarialtorsion / ♂︎ Hodentorsion
+	- Harnverhalt
+	- Divertikulitis
+	- Leistenhernie
+	- ♀︎ Schwangerschaft
+- **Stuhlauffälligkeiten**
+	- ! Ileus
+	- Obstipation
+	- CED
+- **Kinder** (DD Projektion extraabdomineller Beschwerden als "Bauchweh")
+	- *Säuglinge:* z.B. Darminvagination, inkarzerierte Hernie
+	- *Ältere K/J:* z.B. Hodentorsion, Appendizitis, Gastroenteritis, Obstipation

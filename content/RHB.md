@@ -9,6 +9,7 @@ tags:
   - Interventionen/POCUS
   - Favourites
   - Status/Done
+  - Karteikarten
 title: Rechtsherzbelastung (RHB)
 ---
 > [!ekg]+ Rechtsherzbelastunsgzeichen im [[EKG]]
@@ -33,3 +34,13 @@ title: Rechtsherzbelastung (RHB)
 ---
 ![[Pasted image 20251124193301.png]]
 ![[Pasted image 20251124193320.png]]
+
+## Lernen
+RHB im EKG (6)
+?
+==Sinustachykardie bzw. TAA [[VHF]]==
+==T-Neg V1-V4 + III== (ohne III eher DD [[ACS]])
+SIQIIITIII-Typ, ST, RT
+(inkompl.) RSB
+hohes R in V1/V2, III, aVF
+tiefes S in I, aVL, V5/V6

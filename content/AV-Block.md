@@ -4,7 +4,6 @@ tags:
   - Fach/Kardiologie
   - Status/Empty
   - Interventionen/EKG
-  - Lernen
 ICD: I44
 ---
 > [!ekg]+ Einteilung

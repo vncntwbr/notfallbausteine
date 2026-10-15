@@ -1,0 +1,21 @@
+---
+tags: QRH
+---
+- **Albumin:** SBP/HRS initial 1 g/kg, Post-Aszitespunktion min. 8 g / L drainiert ab 5 L
+- **Angioödem:** Anaphylaxietherapie, TXA 1g, 2 FFP (bei ACEi), Berinert® 1.500 IE
+- **Antikoagulation prophylaktisch:** Enoxaparin 40 mg/d s.c., DANI 20 mg/d, GFR <15 Heparin 7.500 IE s.c. 1-0-1 + aPTT q6h
+- **Antikoagulation therapeutisch:** Enoxaparin 1 mg/kg s.c. 1-0-1 + Anti-Xa n. 4d // Heparin 80 IE/kg Bolus + 18 IE/kg/h Perfusor + aPTT q6h // Apixaban 5 mg 1-0-1 (TVT/LAE initial 10 mg 1-0-1 für 7d), 2.5 mg 1-0-1 bei 2/3 (Ü80, <60 kg GFR <30)
+- **HIET:** Bolus Insulin 1 IE/kg + Glucose 0.5 g/kg; Perfusor 1 IE/kg/h + 0.5 g/kg/h
+- **Hirndruck:** NaCl 3% 300 ml // Mannitol 15% 250-500 ml // NaBic 8.4% 150 ml
+- **Isotones NaBic anmischen:** 1 L = NaBic 8.4% 150 ml + G5% 850 ml
+- **KM vital bei manifester Hyperthyreose:** Thiamazol 40 mg vor KM + Irenat® 60° vor+nach + Irenat 20° 1-1-1 für 7d
+- **Lipid Rescue:** 20% Lipidlösung 100 ml bis 3x, dann 15 ml/kg/h via PVK ≥18G
+- **Lyse LAE akzeleriert/CPR:** Heparin 5.000 IE + Alteplase (Actilyse®) 50 mg / 50 ml Perfusor, über 15 min (<80 kg: 0.6 mg/kg), CPR 90 min fortführen, Lyse ≠ KI ECPR
+- **Lyse LAE instabil:** Heparin 5.000 IE + Alteplase (Actilyse®) 100 mg (<65 kg: 1.5 mg/kg), davon 10 mg Bolus, Rest über 2 h, Reevaluation nach 1 h (Fortführung?)
+- **Nephron-Bomb:** Furosemid 80-250 mg + HCT 500-1000 mg + Acetazolamid 250-1000 mg + Fludrocortison 0.2 mg
+- **Opioide:** Tilidin/Naloxon 50 mg retard 1-0-1 bis 600 mg/d + 50 mg b.B. // Oxycodon/Naloxon 5 mg i.v. + 10 mg retard 1-0-1 + 5 mg b.B. // Morphin 10 mg retard 1-0-1 + 10 mg b.B. // Hydromorphon 4 mg retard 1-0-1 + 1.3-2.6 mg b.B.
+- **Parkinson-Krise:** Amantadin 200 mg in 500 ml i.v. über 3h 1-1-1 DANI + L-Dopa
+- **Thiamin:** 300 mg i.v., Prophylaxe 100 mg p.o. 1-1-1
+- **Thyreotox.:** O2, VEL, PCM, Thiamazol 80 mg, Predni 250 mg, Metoprolol titriert
+- **Tokolyse:** Fenoterol 12.5 μg + 5 μg q3min; +Dexamethason 6 mg i.m. (Lungenreife)
+- **Varizenblutung:** Terlipressin 2 mg KI, Ceftriaxon 2g

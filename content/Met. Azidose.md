@@ -5,6 +5,7 @@ tags:
   - Fach/Nephrologie
   - Fach/Labormedizin
   - Fach/Intensivmedizin
+  - Karteikarten
 aliases:
   - Metabolische Azidose
   - AGMA
@@ -57,3 +58,13 @@ title: Metabolische Azidose (AGMA/NAGMA) ± Anionenlücke
 > [!stadien] [Anionenlücke](https://www.mdcalc.com/calc/1669/anion-gap) = [Na+] – ([Cl-] + [HCO3-])
 > - ∆: Anionenlücke – 10-12 (Normwert), entspricht "Erklärungsbedarf"
 > - ∆∆: [HCO3-] + ∆ sollte 24±2 ergeben, sonst zusätzliche Metabolische Azidose/Alkalose
+
+## Lernen
+Kalium bei Azidose:: falsch-hoch +0.5 mM je –0.1 pH
+
+Top-DD AGMA
+?
+Ketoazidose (DKA, Alkohol, katabol)
+Urämie
+Lactat
+Tox

@@ -15,7 +15,7 @@ tags:
 
 > [!note]- Textbaustein POCUS RUSH
 > ```
-> POCUS nach RUSH-Protokoll: Pulmo bds. Pleuragleiten, [<3] B-Lines/Fenster, keine Pleuraergüsse. Cor kein Perikarderguss, EF orientierend a.e. normodynam, kein H.a. RHB, kein H.a. regionale WBS in 4AC+PSAX. IVC [schlank], [atemmoduliert]. Aorta abd. [durchweg] einsehbar schlank ohne Kalibersprung/Dissekat. FAST ohne freie Flüssigkeit intraperitoneal, Nieren bds. nicht gestaut. 
+> Pulmo bds. Pleuragleiten, keine vermehrten B-Lines, keine Pleuraergüsse. Cor kein Perikarderguss, EF orientierend a.e. normodynam, kein H.a. RHB, kein H.a. regionale WBS in 4AC+PSAX. IVC atemmoduliert. Aorta abd. durchweg einsehbar schlank ohne Kalibersprung/Dissekat. FAST ohne freie Flüssigkeit intraperitoneal, Nieren bds. nicht gestaut. 
 > ```
 
 ^4ce91d

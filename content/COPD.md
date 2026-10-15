@@ -4,6 +4,7 @@ tags:
   - Diagnosen
   - Status/Done
   - Literatur/NVL
+  - Karteikarten
 title: Chronisch-obstruktive Lungenerkrankung (COPD)
 aliases:
   - aeCOPD
@@ -114,6 +115,9 @@ ICD: J44
 ## Aufziehhilfen
 ![[Pasted image 20260413163515.png]]
 
+## Lernen
+Inhalation:: Salbutamol 2.5 mg + Ipratropiumbromid 0.5 mg
+Medikamentöse Eskalation:: Reproterol 0.09 mg i.v. KI *oder* Terbutalin 0.25 mg s.c.
 ## Literatur
 - [S3-Leitlinie NVL COPD](https://register.awmf.org/de/leitlinien/detail/nvl-003)
 - Extracorporeal Carbon Dioxide Removal no detectable benefit vs. Intubation[^9]
